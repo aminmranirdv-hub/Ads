@@ -60,3 +60,10 @@ STRICT REALISM REQUIREMENTS:
 FINAL RESULT:
 A luxury real estate commercial that looks like a professional architectural film commissioned by an international property agency.
 Ultra-realistic, 4K, cinematic, elegant, immersive and visually stunning.
+
+## Result (Magnific, 2026-11-07)
+- Model: Seedance 2.5, 1080p, 9:16, 7 clips × 5 s, start frame = real photo per scene
+- Scenes: lane (10) → dining corner (07) → living room (02) → kitchen (06) → bedroom (05) → bathroom details (03) → hero pull-back (09)
+- Music: ElevenLabs v2 instrumental, felt piano + strings, 36 s
+- Final film (with music): https://www.magnific.com/app/creation/UPI20BPwny
+- Cost: 7 × 3,950 + 720 = 28,370 Magnific credits
