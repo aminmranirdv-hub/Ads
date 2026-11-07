@@ -1,6 +1,6 @@
 # Apartment cinematic ad — ViewMax brief
 
-Status: **waiting for more photos and the user's "go"**. No generation started.
+Status: user said **go**. Blocked: ViewMax account has 5 credits.
 
 ## Photos (in `photos/`)
 | File | Shows |
@@ -15,8 +15,10 @@ Status: **waiting for more photos and the user's "go"**. No generation started.
 | 08-wardrobe-open.avif | White built-in wardrobe, open, on the raised platform with steps |
 | 09-living-room-wide.avif | Living room wide: three tall black windows with greenery, teal sofa, rug, globe pendant (hero shot candidate) |
 | 10-street-cobbled-lane.avif | Exterior: quiet cobbled lane with white buildings, plants and a big tree (entrance approach) |
+| 11-street-lane-greenery.avif | Exterior: same lane, lush plants and trees on both sides |
+| 12-bathroom-toilet.avif | Bathroom: toilet, grey tiles |
 
-Still missing: the apartment front door itself (3 more photos announced by the user).
+No photo of the apartment front door. `jpg/` holds JPEG copies for upload.
 
 ## User's brief (verbatim)
 
