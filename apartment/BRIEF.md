@@ -10,8 +10,13 @@ Status: **waiting for more photos and the user's "go"**. No generation started.
 | 03-bathroom-vanity.avif | Bathroom: oak vanity, mirror cabinet with light, tall oak cabinet |
 | 04-entry-steps-wardrobe-kitchen.avif | Raised platform with steps, white built-in wardrobe, white door, edge of wood kitchen + sink |
 | 05-bedroom.avif | Bedroom: double bed with leaf-print duvet, linen curtains, globe pendant |
+| 06-kitchen.avif | Kitchenette: oak cabinets, white worktop, hob, sink, microwave, kettle, mini fridge |
+| 07-dining-corner-window.avif | Dining corner: grey table, two white chairs, window with greenery, sunset photo print |
+| 08-wardrobe-open.avif | White built-in wardrobe, open, on the raised platform with steps |
+| 09-living-room-wide.avif | Living room wide: three tall black windows with greenery, teal sofa, rug, globe pendant (hero shot candidate) |
+| 10-street-cobbled-lane.avif | Exterior: quiet cobbled lane with white buildings, plants and a big tree (entrance approach) |
 
-Still missing for the requested sequence: entrance/front door, full kitchen, more detail shots.
+Still missing: the apartment front door itself (3 more photos announced by the user).
 
 ## User's brief (verbatim)
 
