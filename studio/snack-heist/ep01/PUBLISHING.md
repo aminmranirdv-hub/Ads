@@ -1,6 +1,6 @@
 # Snack Squad Ep.1: Publishing Kit (Phase 10)
 
-**Files:** `output/snack-squad-ep01-the-cookie-mission.mp4` (6:25, 1920×1080, 24 fps, loudness-normalized to −14 LUFS) · `output/snack-squad-ep01-thumbnail.jpg` (1280×720) · `output/snack-squad-ep01.en.srt` (captions)
+**Files:** `output/snack-squad-ep01-the-cookie-mission.mp4` (6:25, 1920×1080, 24 fps, loudness about −17 LUFS (YouTube plays it at full volume; it only turns down louder videos)) · `output/snack-squad-ep01-thumbnail.jpg` (1280×720) · `output/snack-squad-ep01.en.srt` (captions)
 
 ## YouTube (main platform for 6-minute kids episodes)
 - **Audience setting:** **"Yes, it's made for kids"** (required by COPPA). Comments and personalized ads are turned off automatically.
@@ -27,6 +27,6 @@ Caption: *"Full episode on our channel! 🍪 #kidscartoon #preschool #learningis
 - [x] Characters look the same in every shot (one shared drawing function per character)
 - [x] No missing characters (fixed: a drawing bug had hidden Nibs and Lily)
 - [x] Lip sync driven by each speaker's audio track
-- [x] Silence beat at the twist; audio normalized to −14 LUFS
+- [x] Silence beat at the twist; audio normalized (measured −17 LUFS)
 - [x] Original story, characters, music and sound effects (no copyrighted material)
 - [ ] **Human check:** watch once with sound, especially the voice on "Snack?" and the group chant lines.
