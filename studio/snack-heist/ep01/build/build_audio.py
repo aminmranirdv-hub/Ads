@@ -5,7 +5,19 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); from script impo
 OUT, KD = sys.argv[1], sys.argv[2]; os.makedirs(OUT, exist_ok=True)
 from kokoro_onnx import Kokoro
 K = Kokoro(f"{KD}/model.onnx", f"{KD}/voices.npz"); SR, FPS = 48000, 24; rng = np.random.default_rng(9)
+VO = os.environ.get("VO_DIR")  # folder of pre-recorded lines named <key>_<SPK>.wav (e.g. Magnific/ElevenLabs takes)
+def load_vo(key, spk):
+    d, sr = sf.read(f"{VO}/{key}_{spk}.wav", dtype="float32")
+    if sr != SR: d = np.interp(np.linspace(0, len(d) - 1, int(len(d) * SR / sr)), np.arange(len(d)), d).astype(np.float32)
+    return d / (np.max(np.abs(d)) + 1e-6) * 0.7
 def tts(key, spk, text):
+    if VO:
+        if spk == "ALL":   # blend the three friends, slightly staggered like a real group
+            parts = [load_vo(key, s) for s in ("NIB", "BUB", "MOC")]; offs = [0, int(.05 * SR), int(.11 * SR)]
+            n = max(len(p) + o for p, o in zip(parts, offs)); mix = np.zeros(n, np.float32)
+            for p, o in zip(parts, offs): mix[o:o + len(p)] += p
+            return mix / np.max(np.abs(mix)) * 0.75
+        return load_vo(key, spk)
     if spk == "ALL":
         parts = [tts(f"{key}_{s}", s, text) for s in ("NIB", "BUB", "MOC")]
         n = max(len(p) for p in parts); mix = np.zeros(n, np.float32)
