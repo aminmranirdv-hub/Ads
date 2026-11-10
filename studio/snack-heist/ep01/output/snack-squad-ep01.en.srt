@@ -1,0 +1,300 @@
+1
+00:00:01,199 --> 00:00:02,091
+Nibs: Tonight.
+
+2
+00:00:02,591 --> 00:00:03,847
+Nibs: We get. The cookie.
+
+3
+00:00:12,446 --> 00:00:15,297
+Bubbles: Blub-tastic! I'm here! Um, why am I here?
+
+4
+00:00:15,196 --> 00:00:16,446
+Nibs: The mission, Bubbles!
+
+5
+00:00:16,347 --> 00:00:17,730
+Bubbles: Ooooh, the mission!
+
+6
+00:00:18,030 --> 00:00:19,280
+Bubbles: What mission?
+
+7
+00:00:23,280 --> 00:00:25,040
+Nibs: Mochi! Wake up! Mission time!
+
+8
+00:00:25,640 --> 00:00:27,225
+Mochi: Hm?
+
+9
+00:00:28,025 --> 00:00:29,171
+Nibs: There's a cookie.
+
+10
+00:00:29,371 --> 00:00:30,605
+Mochi: Snack?
+
+11
+00:00:35,206 --> 00:00:36,969
+Nibs: Okay, team. Here's the plan.
+
+12
+00:00:36,969 --> 00:00:41,067
+Nibs: The last honey oat cookie is in the jar, way up on the kitchen counter.
+
+13
+00:00:41,167 --> 00:00:47,207
+Nibs: Step one, cross the slippery floor. Step two, sneak past the moonbeams. Step three, climb to the top!
+
+14
+00:00:47,307 --> 00:00:49,024
+Bubbles: Can I be the climber?
+
+15
+00:00:49,024 --> 00:00:50,034
+Nibs: You're a fish.
+
+16
+00:00:49,935 --> 00:00:51,451
+Bubbles: A climbing fish!
+
+17
+00:00:51,651 --> 00:00:53,975
+Mochi: Can I be the sleeper?
+
+18
+00:00:54,176 --> 00:00:56,198
+Nibs: Everybody ready? Mission time!
+
+19
+00:00:58,999 --> 00:01:01,603
+Everyone: Sneak, sneak, quiet feet!
+
+20
+00:01:01,704 --> 00:01:04,693
+Everyone: We're the Snack Squad, can't be beat!
+
+21
+00:01:05,093 --> 00:01:07,710
+Everyone: Tip, tip, tiptoe slow!
+
+22
+00:01:07,810 --> 00:01:10,452
+Everyone: Off to the cookie, here we go!
+
+23
+00:01:15,052 --> 00:01:16,675
+Nibs: Careful. Tiptoe. Tiptoe.
+
+24
+00:01:16,875 --> 00:01:18,091
+Nibs: Whoa, whoa, whoaaa!
+
+25
+00:01:28,191 --> 00:01:29,660
+Bubbles: Wheeeee! Look at me!
+
+26
+00:01:40,760 --> 00:01:42,243
+Nibs: Step one. Complete.
+
+27
+00:01:43,942 --> 00:01:45,391
+Bubbles: Again! Again!
+
+28
+00:01:45,790 --> 00:01:46,757
+Nibs: No again!
+
+29
+00:01:49,356 --> 00:01:52,806
+Nibs: Stop! Don't touch the moonbeams. They're super secret lasers!
+
+30
+00:01:53,206 --> 00:01:55,503
+Nibs: Can you help us count the moonbeams? Ready?
+
+31
+00:01:56,102 --> 00:01:57,276
+Everyone: One!
+
+32
+00:01:57,775 --> 00:01:58,946
+Everyone: Two!
+
+33
+00:01:59,445 --> 00:02:00,618
+Everyone: Three!
+
+34
+00:02:01,118 --> 00:02:02,257
+Everyone: Four!
+
+35
+00:02:02,757 --> 00:02:03,984
+Everyone: Five!
+
+36
+00:02:04,384 --> 00:02:06,233
+Nibs: Five moonbeams! Thank you, friend!
+
+37
+00:02:12,332 --> 00:02:14,195
+Bubbles: Limbo, limbo, blub!
+
+38
+00:02:25,795 --> 00:02:27,554
+Mochi: Ooh. Warm.
+
+39
+00:02:28,653 --> 00:02:31,036
+Nibs: Mochi, no napping! Push, Bubbles, push!
+
+40
+00:02:31,036 --> 00:02:33,231
+Bubbles: Pushing! Wait, what are we pushing?
+
+41
+00:02:40,331 --> 00:02:41,867
+Bubbles: What's that noise?
+
+42
+00:02:41,967 --> 00:02:43,818
+Nibs: The robot vacuum! It's awake!
+
+43
+00:02:45,018 --> 00:02:47,629
+Bubbles: It wants to eat us! Roll, roll, roll!
+
+44
+00:02:48,229 --> 00:02:50,258
+Nibs: Which way should we go? Left? Or right?
+
+45
+00:02:52,858 --> 00:02:54,091
+Nibs: Right! Good thinking!
+
+46
+00:03:07,191 --> 00:03:08,292
+Nibs: Mochi, run!
+
+47
+00:03:08,491 --> 00:03:10,099
+Mochi: I'm running!
+
+48
+00:03:27,699 --> 00:03:29,010
+Nibs: Phew. That was close.
+
+49
+00:03:33,811 --> 00:03:35,272
+Nibs: Step three. The tower!
+
+50
+00:03:35,472 --> 00:03:41,683
+Nibs: Mochi at the bottom, because she's the biggest. Bubbles in the middle. And me on the top, because I'm the smallest!
+
+51
+00:03:41,783 --> 00:03:43,651
+Bubbles: Biggest, middle, smallest!
+
+52
+00:03:49,751 --> 00:03:51,570
+Mochi: Mmmf.
+
+53
+00:03:59,670 --> 00:04:01,114
+Bubbles: Blub! Splishy!
+
+54
+00:04:11,213 --> 00:04:12,474
+Nibs: Almost. Almost.
+
+55
+00:04:23,074 --> 00:04:24,108
+Nibs: We. Did it.
+
+56
+00:04:28,509 --> 00:04:30,182
+Bubbles: Look how big it is!
+
+57
+00:04:34,783 --> 00:04:36,877
+Mochi: Ah. Ahh. ACHOO!
+
+58
+00:04:44,978 --> 00:04:46,362
+Mochi: Oops.
+
+59
+00:04:46,762 --> 00:04:47,914
+Bubbles: The cookie.
+
+60
+00:04:48,314 --> 00:04:49,723
+Nibs: I planned. Everything.
+
+61
+00:04:52,524 --> 00:04:55,339
+Mochi: I'm sorry. It just. Fell in.
+
+62
+00:05:00,139 --> 00:05:01,544
+Lily: What's all this noise?
+
+63
+00:05:02,144 --> 00:05:03,699
+Lily: Were you three hungry?
+
+64
+00:05:05,500 --> 00:05:08,036
+Lily: Silly friends! You could have just asked me!
+
+65
+00:05:08,637 --> 00:05:14,112
+Lily: Sunflower seeds for Nibs. Fish flakes for Bubbles. And a fishy biscuit for Mochi.
+
+66
+00:05:18,213 --> 00:05:20,098
+Lily: Sharing is better than sneaking.
+
+67
+00:05:20,699 --> 00:05:23,128
+Lily: And when you want something, what do you say?
+
+68
+00:05:23,728 --> 00:05:25,000
+Everyone: Please!
+
+69
+00:05:25,600 --> 00:05:27,372
+Lily: And when someone shares with you?
+
+70
+00:05:27,973 --> 00:05:29,371
+Everyone: Thank you!
+
+71
+00:05:32,471 --> 00:05:34,007
+Nibs: Next time, we just ask!
+
+72
+00:05:34,208 --> 00:05:35,378
+Bubbles: Ask what?
+
+73
+00:05:39,978 --> 00:05:42,564
+Everyone: Snack Squad! Snack Squad!
+
+74
+00:05:42,964 --> 00:05:46,245
+Everyone: We ask, we share, we're the best team ever!
+
+75
+00:06:05,846 --> 00:06:08,918
+Everyone: Bye bye, friends! See you next time!
+
