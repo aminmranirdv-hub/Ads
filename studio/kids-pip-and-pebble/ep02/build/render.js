@@ -14,6 +14,7 @@ const fs = require('fs'), path = require('path');
   const out = path.join(dir, stills ? 'stills' : 'frames'); fs.mkdirSync(out, { recursive: true });
   const times = stills || Array.from({ length: Math.ceil(T.end * T.fps) }, (_, i) => i / T.fps);
   for (let i = 0; i < times.length; i++) {
+    if (!stills && process.env.RESUME && fs.existsSync(path.join(out, `f${String(i).padStart(5, '0')}.jpg`))) continue;
     const url = await page.evaluate((t) => { window.renderFrame(t); return document.getElementById('c').toDataURL('image/jpeg', 0.92); }, times[i]);
     fs.writeFileSync(path.join(out, stills ? `t${times[i].toFixed(2)}.jpg` : `f${String(i).padStart(5, '0')}.jpg`), Buffer.from(url.split(',')[1], 'base64'));
     if (!stills && i % 150 === 0) console.log('frame', i, '/', times.length);
