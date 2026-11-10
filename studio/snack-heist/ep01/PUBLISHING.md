@@ -1,6 +1,6 @@
 # Snack Squad Ep.1: Publishing Kit (Phase 10)
 
-**Files:** `output/snack-squad-ep01-the-cookie-mission.mp4` (6:25, 1920×1080, 24 fps, loudness about −17 LUFS (YouTube plays it at full volume; it only turns down louder videos)) · `output/snack-squad-ep01-thumbnail.jpg` (1280×720) · `output/snack-squad-ep01.en.srt` (captions)
+**Files:** `output/snack-squad-ep01-the-cookie-mission.mp4` (6:56, 1920×1080, 24 fps, loudness about −16.6 LUFS (YouTube plays it at full volume; it only turns down louder videos)) · `output/snack-squad-ep01-thumbnail.jpg` (1280×720) · `output/snack-squad-ep01.en.srt` (captions)
 
 ## YouTube (main platform for 6-minute kids episodes)
 - **Audience setting:** **"Yes, it's made for kids"** (required by COPPA). Comments and personalized ads are turned off automatically.
@@ -12,7 +12,7 @@
   > 👧 Best for ages 3–7.
 - **Tags:** kids cartoon, cartoon for kids, preschool, counting for kids, manners for kids, sharing, hamster cartoon, funny animals, bedtime cartoon, snack squad
 - **Captions:** upload `snack-squad-ep01.en.srt` (English).
-- **Chapters:** 0:00 The Mission · 0:35 The Plan · 1:15 Slippery Floor · 1:49 Count the Moonbeams · 2:40 Robot Vacuum Chase · 3:33 The Tower · 4:34 Oops! · 5:00 Sharing Is Better · 5:40 Snack Squad Dance
+- **Chapters:** 0:00 The Mission · 0:39 The Plan · 1:22 Slippery Floor · 2:07 Count the Moonbeams · 2:58 Robot Vacuum Chase · 3:55 The Tower · 5:00 Oops! · 5:28 Sharing Is Better · 6:10 Snack Squad Dance
 - **Playlist:** "The Snack Squad (Full Episodes)". Upload a new episode every week, same day and time.
 
 ## Shorts / Reels / TikTok (to bring viewers to the full episode)
@@ -29,4 +29,5 @@ Caption: *"Full episode on our channel! 🍪 #kidscartoon #preschool #learningis
 - [x] Lip sync driven by each speaker's audio track
 - [x] Silence beat at the twist; audio normalized (measured −17 LUFS)
 - [x] Original story, characters, music and sound effects (no copyrighted material)
-- [ ] **Human check:** watch once with sound, especially the voice on "Snack?" and the group chant lines.
+- [x] Voices: Magnific (ElevenLabs v4) cartoon voices: Nibs = Mike Rodent, Bubbles = Tessa Morgan, Lily = Isla Kensington, Mochi = Sophia Morgan. No pitch-shifting.
+- [ ] **Human check:** watch once with sound.
