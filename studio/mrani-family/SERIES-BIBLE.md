@@ -46,12 +46,14 @@ Full character bibles live in `characters/<name>/character-sheet.md` with model 
 9. **"Grandma's Visit"**: the house must be perfect in one hour. Total chaos, then teamwork. *Lesson: family first.*
 10. **"The Mystery of the Missing Cookies"**: a detective episode where each sibling suspects another. *Lesson: don't judge too fast.*
 
-## Channel branding (in `channel-art/`)
-- `logo.png`: colorful **M'RANI** (each letter in a sibling's color) plus a white **FAMILY** pill.
-- `youtube-banner-2560x1440.jpg`: logo and team picture inside YouTube's safe area (visible on phone, TV and desktop).
-- `youtube-profile-800.jpg`: round logo badge, readable even when tiny.
+## Channel branding (in `channel-art/`): official style "C"
+- **Look:** sky-blue sunburst, confetti in the siblings' colors, chunky **Lilita One** letters (SIL Open Font License, free for commercial use) with a navy outline and a white **FAMILY** pill.
+- `logo.png`: official logo (transparent).
+- `youtube-profile-800.jpg`: the four siblings' faces in an arc with the logo below; readable even at comment size.
+- `youtube-banner-2560x1440.jpg`: logo plus team picture inside YouTube's safe area.
 - `title-card-1920x1080.jpg`: opening title for every episode.
-- Rebuild any of them with `python3 channel-art/make_art.py`.
+- Earlier options are archived as `*-A.*` (dark purple) and `*-B.*` (sunny yellow); `profile-variants-compare.jpg` shows all three.
+- Rebuild with `python3 channel-art/make_variants.py && python3 channel-art/finalize_c.py`.
 
 ## Copyright and safety notes
 - Characters, names, stories, music and voices are original or licensed for the channel.
