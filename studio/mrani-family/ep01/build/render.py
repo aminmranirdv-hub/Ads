@@ -16,6 +16,48 @@ def still(name):
     return _img[name]
 def ease(x): x = min(1, max(0, x)); return x * x * (3 - 2 * x)
 
+# ---- animated clips (Kling 2.5 image-to-video). Set STILLS_ONLY=1 to render the old still-image version ----
+CLIPS = f"{HERE}/../anim/clips"
+USE_CLIPS = not os.environ.get("STILLS_ONLY") and os.path.isdir(CLIPS)
+CLIPMAP = {"scuffle": ["scuffle_dive"], "hicham_hack": ["hicham_hack_type"], "aziza_stern": ["aziza_stern_talk", "aziza_stern_talk2"],
+           "abd_chips": ["abd_chips_talk", "abd_chips_talk2"], "amir_goal": ["amir_goal_kick", "amir_arms_talk"],
+           "hicham_phone": ["hicham_phone_talk"], "wide_living": ["wide_aziza_walk"], "amir_arms": ["amir_arms_talk"],
+           "aziza_forget": ["aziza_forget"], "alert": ["alert_lights"], "aziza_panic": ["aziza_panic"], "abd_sigh": ["abd_sigh"],
+           "amir_bounce": ["amir_bounce"], "lego_crash": ["lego_crash"], "aziza_sorry": ["aziza_sorry"], "amir_sad": ["amir_sad"],
+           "rebuild": ["rebuild"], "abd_fix": ["abd_fix"], "lego_done": ["lego_done"], "innocent": ["innocent"], "hicham_false": ["hicham_false"]}
+MAXLEN = {"aziza_panic": 3.6}          # use only the clean part of a clip
+ONEWAY = {"lego_crash", "scuffle_dive", "amir_goal_kick"}   # action clips never play in reverse
+_clip = {}
+def clip_frames(name):
+    if name not in _clip:
+        if len(_clip) >= 3: _clip.pop(next(iter(_clip)))
+        p = f"{CLIPS}/{name}.mp4"
+        w, h = [int(v) for v in subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height",
+                                               "-of", "csv=p=0", p], capture_output=True, text=True).stdout.strip().split(",")]
+        raw = subprocess.run(["ffmpeg", "-v", "error", "-i", p, "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], capture_output=True).stdout
+        a = np.frombuffer(raw, np.uint8).reshape(-1, h, w, 3)
+        n = int(MAXLEN.get(name, 99) * 24); _clip[name] = a[:n]
+    return _clip[name]
+# continuous clip time across consecutive segments of the same picture (e.g. the 4-part slow-motion dive)
+_prev = None
+for s in TL["segs"]:
+    rate = .5 if "slowmo" in s["fx"] else (1.5 if "fast" in s["fx"] else 1.0); s["rate"] = rate
+    s["coff"] = (_prev["coff"] + (_prev["t1"] - _prev["t0"]) * _prev["rate"]) if _prev and _prev["img"] == s["img"] else 0.0
+    _prev = s
+def clip_image(sg, lt):
+    names = CLIPMAP.get(sg["img"])
+    if not (USE_CLIPS and names): return None
+    names = [n for n in names if os.path.exists(f"{CLIPS}/{n}.mp4")]
+    if not names: return None
+    tc = sg["coff"] + lt * sg["rate"]
+    a0 = clip_frames(names[0]); L = len(a0) / 24
+    k = int(tc // L); within = tc - k * L
+    name = names[k % len(names)]; a = clip_frames(name); L2 = len(a) / 24
+    within = min(within, L2 - 1 / 24)
+    if len(names) == 1 and k % 2 == 1:
+        within = (L2 - 1 / 24 - within) if name not in ONEWAY else within   # ping-pong talking clips; restart action clips
+    return Image.fromarray(a[min(len(a) - 1, int(within * 24))])
+
 def label(txt, size, fill, stroke=NAVY, sw=8, font=FONT):
     f = ImageFont.truetype(font, size); b = f.getbbox(txt, stroke_width=sw)
     im = Image.new("RGBA", (b[2] - b[0] + 20, b[3] - b[1] + 20), (0, 0, 0, 0))
@@ -49,16 +91,20 @@ def frame(f):
     t = f / FPS
     sg = next((s for s in TL["segs"] if s["t0"] <= t < s["t1"]), TL["segs"][-1])
     d = sg["t1"] - sg["t0"]; p = ease((t - sg["t0"]) / d); lt = t - sg["t0"]
-    im = still(sg["img"]); iw, ih = im.size
+    ci = clip_image(sg, lt)
+    im = ci if ci is not None else still(sg["img"]); iw, ih = im.size
     lvl = TL["level"][f] if f < len(TL["level"]) else 0
-    z = (sg["z0"] + (sg["z1"] - sg["z0"]) * p) * (1 + .006 * lvl)
+    z0, z1 = sg["z0"], sg["z1"]
+    if ci is not None:   # the clip already moves: keep camera moves gentle and avoid blurry over-zoom of 720p footage
+        z0, z1 = min(1.35, 1 + (z0 - 1) * .4), min(1.35, 1 + (z1 - 1) * .4)
+    z = (z0 + (z1 - z0) * p) * (1 + .004 * lvl)
     cx = sg["cx0"] + (sg["cx1"] - sg["cx0"]) * p; cy = sg["cy0"] + (sg["cy1"] - sg["cy0"]) * p
     bw = min(iw, ih * 16 / 9); cw = bw / z; ch = cw * 9 / 16
     x0 = min(max(cx * iw - cw / 2, 0), iw - cw); y0 = min(max(cy * ih - ch / 2, 0), ih - ch)
     fx = sg["fx"]
     if "shake" in fx and lt < 1.2:
         a = 18 * (1 - lt / 1.2) * cw / W; x0 = min(max(x0 + math.sin(f * 2.7) * a, 0), iw - cw); y0 = min(max(y0 + math.cos(f * 3.1) * a, 0), ih - ch)
-    fr = im.resize((W, H), Image.BILINEAR, box=(x0, y0, x0 + cw, y0 + ch))
+    fr = im.resize((W, H), Image.BICUBIC if ci is not None else Image.BILINEAR, box=(x0, y0, x0 + cw, y0 + ch))
     a = np.asarray(fr, dtype=np.float32)
     if "redpulse" in fx: a = a * (1 - .06) + np.array([255, 40, 30]) * .06 * (0.5 + 0.5 * math.sin(t * 5))
     if "slowmo" in fx:
