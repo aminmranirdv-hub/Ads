@@ -11,7 +11,7 @@ NAVY = (27, 58, 143)
 _img = {}
 def still(name):
     if name not in _img:
-        p = f"{STILLS}/title_ep01.jpg" if name == "TITLE" else f"{STILLS}/{name}.png"
+        p = f"{STILLS}/title_ep01.jpg" if name == "TITLE" else f"{STILLS}/{name}.jpg"
         _img[name] = Image.open(p).convert("RGB")
     return _img[name]
 def ease(x): x = min(1, max(0, x)); return x * x * (3 - 2 * x)
