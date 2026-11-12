@@ -36,8 +36,8 @@ POSITIONS = {
     "top_right": ("W-w-160", "300"),
     "center": ("(W-w)/2", "(H-h)/2"),
     "upper_center": ("(W-w)/2", "430"),
-    "lower_left": ("80", "H-h-700"),
-    "lower_right": ("W-w-160", "H-h-700"),
+    "lower_left": ("80", "H-h-920"),
+    "lower_right": ("W-w-160", "H-h-920"),
 }
 
 

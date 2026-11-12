@@ -1,0 +1,86 @@
+{
+  "id": "2026-11-12_redouane_bougheraba_controleurs",
+  "comedian": "Redouane Bougheraba",
+  "language": "fr",
+  "source": {
+    "file": "source.mp4",
+    "title": "REDOUANE BOUGHERABA - J'AI CONTRÔLÉ LES CONTRÔLEURS (impro, « On m'appelle Marseille », Théâtre de Dix Heures)",
+    "url": "https://www.youtube.com/watch?v=Ge_II14MW8A",
+    "channel": "Redouane Bougheraba TV (official)"
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Requested by the channel owner (2026-11-12). Credit Redouane Bougheraba and link the original."
+  },
+  "context_note": "Opening of the improv: he learns the front rows are SNCF/RATP ticket inspectors, the 'lapsus', the strikes, inspectors who wait until you fall asleep, the TV ad with plain-clothes inspectors. Stops BEFORE the 2:42–3:21 exchange about racism, which needs the full context.",
+  "segments": [
+    {
+      "in": "00:00:12.0",
+      "out": "00:02:58.0"
+    }
+  ],
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 120
+  },
+  "subtitles": "subs.srt",
+  "subtitles_timing": "source",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "contrôleurs",
+    "lapsus",
+    "grève",
+    "vacances",
+    "civil"
+  ],
+  "zooms": [
+    {
+      "at": "__on the 'lapsus' line__",
+      "dur": 2.2,
+      "scale": 1.15
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Il découvre que le premier rang, c'est des contrôleurs",
+      "start": 0.0,
+      "end": 3.4
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": "__on 'des contrôleurs'__",
+      "end": "__+1.4s__",
+      "position": "lower_right",
+      "width": 460
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": "__right after 'j'ai fait un lapsus'__",
+      "gain_db": -10
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Le premier rang ? Que des contrôleurs.",
+      "Il a contrôlé les contrôleurs 😂",
+      "Le lapsus le plus marseillais de l'histoire"
+    ],
+    "tiktok_caption": "Le jour où Redouane a contrôlé les contrôleurs 🚆😂 Impro « On m'appelle Marseille » #redouanebougheraba #humour #sncf",
+    "youtube_title": "Redouane Bougheraba contrôle les contrôleurs 😂 (English subtitles)",
+    "youtube_description": "Redouane Bougheraba, improv from « On m'appelle Marseille » (Théâtre de Dix Heures). Original: https://www.youtube.com/watch?v=Ge_II14MW8A. English subtitles: translation by the channel.",
+    "hashtags": [
+      "#redouanebougheraba",
+      "#humour",
+      "#standup",
+      "#marseille",
+      "#shorts"
+    ]
+  }
+}
