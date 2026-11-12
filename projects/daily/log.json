@@ -3,13 +3,13 @@
     "date": "2026-11-12",
     "comedian": "Gad Elmaleh",
     "clip": "01_gad_elmaleh_merci_la_vie",
-    "status": "awaiting footage"
+    "status": "rendered 1:36, sent"
   },
   {
     "date": "2026-11-12",
     "comedian": "Gabriel Iglesias",
     "clip": "02_gabriel_iglesias_black_siri",
-    "status": "awaiting footage"
+    "status": "rendered 2:49, sent"
   },
   {
     "date": "2026-11-12",
@@ -21,12 +21,12 @@
     "date": "2026-11-12",
     "comedian": "Redouane Bougheraba",
     "clip": "04_redouane_bougheraba_controleurs",
-    "status": "awaiting footage (requested by owner)"
+    "status": "rendered 2:21, sent"
   },
   {
     "date": "2026-11-12",
     "comedian": "Jamel Debbouze",
     "clip": "03_jamel_debbouze_ninjas",
-    "status": "in production"
+    "status": "rendered 1:32, sent"
   }
 ]

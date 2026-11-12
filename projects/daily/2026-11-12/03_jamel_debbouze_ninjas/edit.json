@@ -14,10 +14,38 @@
     "notes": "Channel owner chose to publish without a licence. Credit Jamel Debbouze / CANAL+ and link the original."
   },
   "context_note": "Self-contained: his 'concrete solutions' for French cinema, part 2 (box office loves action, so add ninjas to auteur films). The names (Vincent Lindon, Juliette Binoche) are actors in the room; the jokes are affectionate.",
-  "segments": [],
+  "segments": [
+    {
+      "in": 15.65,
+      "out": 24.84
+    },
+    {
+      "in": 25.34,
+      "out": 28.46
+    },
+    {
+      "in": 32.44,
+      "out": 57.4
+    },
+    {
+      "in": 57.74,
+      "out": 107.79,
+      "freeze": 0.6
+    },
+    {
+      "in": 125.88,
+      "out": 130.38
+    }
+  ],
   "framing": {
     "mode": "blur_fill",
-    "raise_px": 140
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 1.0
+    }
   },
   "subtitles": "subs.fixed.srt",
   "subtitles_timing": "source",
@@ -41,5 +69,70 @@
       "#cinema",
       "#shorts"
     ]
-  }
+  },
+  "highlight_words": [
+    "cascade",
+    "effet spécial",
+    "entrées",
+    "Tom Cruise",
+    "retraite",
+    "ninjas",
+    "langoureusement",
+    "vidé la salle"
+  ],
+  "zooms": [
+    {
+      "at": 68.37,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 79.69,
+      "dur": 2.4,
+      "scale": 1.12
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Jamel a LA solution pour sauver le cinéma français",
+      "start": 0.0,
+      "end": 3.4
+    },
+    {
+      "text": "Le plan est parfait",
+      "start": 86.17,
+      "end": 88.77
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/dramatic_realization/plot_twist.png",
+      "start": 55.35,
+      "end": 56.75,
+      "position": "upper_center",
+      "width": 520
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 41.32,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/crickets.wav",
+      "at": 69.82,
+      "gain_db": -15
+    },
+    {
+      "file": "../../../../assets/sfx/whoosh.wav",
+      "at": 79.99,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 86.02,
+      "gain_db": -11
+    }
+  ]
 }
