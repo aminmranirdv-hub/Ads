@@ -1,0 +1,434 @@
+{
+  "project": "Gad Elmaleh – discovery round 1 (official / rights-holder uploads only)",
+  "candidates": [
+    {
+      "id": "gad_lavie",
+      "comedian": "Gad Elmaleh",
+      "language": "fr",
+      "source": {
+        "title": "Gad Elmaleh – Les petits mensonges du quotidien (Montreux Comedy Festival 2023)",
+        "url": "https://www.youtube.com/watch?v=kal9aFfyWOs",
+        "channel": "Montreux Comedy (official festival channel)",
+        "official": true,
+        "timestamp_in": "3:37",
+        "timestamp_out": "4:28",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "social media / dating at 50",
+      "context": "He's 50, scrolls Instagram, and sees half-naked girls quoting philosophers. One poses next to a private jet with a Vuitton bag and writes « Merci, la vie. »",
+      "punchline": "« La vie… C'est la vie qui a payé tout ça, oui ! Jean-Jacques Lavie, 78 ans. »",
+      "why_funny": "Wordplay misdirection: 'la vie' (life) turns into a sugar daddy's surname, and the specific age makes the picture land. The tag (he can't even move on the plane) extends it.",
+      "meme_idea": "Mock Instagram post (original graphic) for « Merci, la vie. »; freeze + impact on « Jean-Jacques Lavie »; editorial caption « Merci qui ? »",
+      "recommended_duration": "35-60s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence."
+      },
+      "scores": {
+        "attention": 17,
+        "comedy": 23,
+        "relatability": 13,
+        "surprise": 14,
+        "meme": 14,
+        "shortform": 8
+      }
+    },
+    {
+      "id": "gad_naaan",
+      "comedian": "Gad Elmaleh",
+      "language": "fr",
+      "source": {
+        "title": "Gad Elmaleh – Les petits mensonges du quotidien (Montreux Comedy Festival 2023)",
+        "url": "https://www.youtube.com/watch?v=kal9aFfyWOs",
+        "channel": "Montreux Comedy (official festival channel)",
+        "official": true,
+        "timestamp_in": "0:52",
+        "timestamp_out": "2:00",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "celebrity encounter / texting",
+      "context": "On a train, the woman next to him texts « Devine à côté de qui je suis assise : Gad Elmaleh » (misspelled) and her friend replies « Naaaan ! ». He reads it all over her shoulder.",
+      "punchline": "Ten minutes later: « Oh, mais vous n'êtes pas… ? » — « T'es sérieuse ? J'ai les preuves. J'ai le ‹ Naaaan › ! »",
+      "why_funny": "Dramatic irony: the audience saw the texts with him, so her fake 'aren't you…?' is a lie we can prove. Plus the act-out of 'Naaaan'.",
+      "meme_idea": "Animated chat bubbles recreating the texts he quotes (original graphic); 'WAIT… WHAT?!' sticker on her question.",
+      "recommended_duration": "35-60s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence."
+      },
+      "scores": {
+        "attention": 17,
+        "comedy": 22,
+        "relatability": 13,
+        "surprise": 13,
+        "meme": 15,
+        "shortform": 7
+      }
+    },
+    {
+      "id": "gad_askip",
+      "comedian": "Gad Elmaleh",
+      "language": "fr",
+      "source": {
+        "title": "Gad Elmaleh – Les petits mensonges du quotidien (Montreux Comedy Festival 2023)",
+        "url": "https://www.youtube.com/watch?v=kal9aFfyWOs",
+        "channel": "Montreux Comedy (official festival channel)",
+        "official": true,
+        "timestamp_in": "4:28",
+        "timestamp_out": "5:00",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "generation gap / dating",
+      "context": "Dating much younger women: at a restaurant he asks if she likes it, and she answers « J'avoue. »",
+      "punchline": "« J'ai attendu qu'elle avoue un truc toute la soirée… ‹ Askip ›, je vois de la lessive. Arrête ! »",
+      "why_funny": "A 50-year-old taking youth slang literally ('j'avoue' = I confess; 'askip' sounds like a detergent ad). Two quick hits, very shareable across generations.",
+      "meme_idea": "Slang 'dictionary card' overlay (j'avoue = carrément, askip = à ce qu'il paraît); boing on « lessive ».",
+      "recommended_duration": "20-35s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence."
+      },
+      "scores": {
+        "attention": 16,
+        "comedy": 21,
+        "relatability": 15,
+        "surprise": 12,
+        "meme": 13,
+        "shortform": 10
+      }
+    },
+    {
+      "id": "gad_marie",
+      "comedian": "Gad Elmaleh",
+      "language": "fr",
+      "source": {
+        "title": "Gad Elmaleh – Les petits mensonges du quotidien (Montreux Comedy Festival 2023)",
+        "url": "https://www.youtube.com/watch?v=kal9aFfyWOs",
+        "channel": "Montreux Comedy (official festival channel)",
+        "official": true,
+        "timestamp_in": "5:00",
+        "timestamp_out": "5:40",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "flirting / reversal",
+      "context": "In Morocco, a woman comes up to him at the hotel: « Gad, dommage que vous soyez marié. » He says: « Ben moi, je ne suis pas marié. »",
+      "punchline": "« Elle me dit : ‹ Ah ! Moi oui. › »",
+      "why_funny": "A clean three-line reversal; the pause before « Moi oui » is the joke. An ideal 15–20s one-liner.",
+      "meme_idea": "Crickets SFX + 'AWKWARD.' sticker after the reveal; caption « Elle avait un plan ».",
+      "recommended_duration": "15-20s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence."
+      },
+      "scores": {
+        "attention": 15,
+        "comedy": 21,
+        "relatability": 12,
+        "surprise": 16,
+        "meme": 11,
+        "shortform": 10
+      }
+    },
+    {
+      "id": "gad_laisse",
+      "comedian": "Gad Elmaleh",
+      "language": "fr",
+      "source": {
+        "title": "Gad Elmaleh – Les petits mensonges du quotidien (Montreux Comedy Festival 2023)",
+        "url": "https://www.youtube.com/watch?v=kal9aFfyWOs",
+        "channel": "Montreux Comedy (official festival channel)",
+        "official": true,
+        "timestamp_in": "2:30",
+        "timestamp_out": "3:19",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "observational / parenting",
+      "context": "In Paris, a man walks his child on a retractable leash. 200 m later, another man is pushing a stroller with a dog inside.",
+      "punchline": "« J'ai craqué. Je lui ai dit : ‹ Monsieur, il y a un monsieur là-bas avec son fils. Il faut parler. › »",
+      "why_funny": "Escalation into a role swap (child as dog, dog as child) and an absurd matchmaking solution; strong act-out of the leash.",
+      "meme_idea": "Split-screen icons child/dog; record scratch on the stroller reveal.",
+      "recommended_duration": "35-60s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence."
+      },
+      "scores": {
+        "attention": 16,
+        "comedy": 19,
+        "relatability": 13,
+        "surprise": 14,
+        "meme": 14,
+        "shortform": 8
+      }
+    },
+    {
+      "id": "gad_tattoo",
+      "comedian": "Gad Elmaleh",
+      "language": "fr",
+      "source": {
+        "title": "Gad Elmaleh – Les petits mensonges du quotidien (Montreux Comedy Festival 2023)",
+        "url": "https://www.youtube.com/watch?v=kal9aFfyWOs",
+        "channel": "Montreux Comedy (official festival channel)",
+        "official": true,
+        "timestamp_in": "7:37",
+        "timestamp_out": "8:15",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "self-deprecation / regional",
+      "context": "He wants Sophie Marceau's name tattooed. The advice he gets: do your first tattoo somewhere you don't care about.",
+      "punchline": "« Du coup, je vais le faire… à Annemasse. »",
+      "why_funny": "The body-part expectation flips into a place name. It lands hardest with a Swiss/Geneva audience (Annemasse is a French border town), and it needs the Marceau setup.",
+      "meme_idea": "Map-pin graphic on Annemasse for viewers who aren't local.",
+      "recommended_duration": "20-35s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence. Regional reference: needs an on-screen explainer outside Switzerland/eastern France."
+      },
+      "scores": {
+        "attention": 14,
+        "comedy": 19,
+        "relatability": 8,
+        "surprise": 14,
+        "meme": 9,
+        "shortform": 9
+      }
+    },
+    {
+      "id": "gad_down",
+      "comedian": "Gad Elmaleh",
+      "language": "en",
+      "source": {
+        "title": "Gad Elmaleh Performs Stand-up (The Late Show with Stephen Colbert, Dec 2016)",
+        "url": "https://www.youtube.com/watch?v=jLOKSJq4tRA",
+        "channel": "The Late Show with Stephen Colbert (CBS official channel)",
+        "official": true,
+        "timestamp_in": "4:23",
+        "timestamp_out": "5:26",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "dating / language barrier",
+      "context": "Single in New York, texting American girls. She says 'I'm down', and he thinks she's depressed. Then 'I'm in'.",
+      "punchline": "« She said ‹ would be dope ›… my American friend said: it means she's too young. »",
+      "why_funny": "A non-native taking slang literally, then a twist where the explanation itself is the punchline (the age gap).",
+      "meme_idea": "Text-message bubbles; 'RED FLAG' sticker on the final line; EN original + FR / Darija subtitle editions.",
+      "recommended_duration": "35-60s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence."
+      },
+      "scores": {
+        "attention": 17,
+        "comedy": 22,
+        "relatability": 14,
+        "surprise": 14,
+        "meme": 14,
+        "shortform": 8
+      }
+    },
+    {
+      "id": "gad_encore",
+      "comedian": "Gad Elmaleh",
+      "language": "en",
+      "source": {
+        "title": "Gad Elmaleh Performs Stand-up (The Late Show with Stephen Colbert, Dec 2016)",
+        "url": "https://www.youtube.com/watch?v=jLOKSJq4tRA",
+        "channel": "The Late Show with Stephen Colbert (CBS official channel)",
+        "official": true,
+        "timestamp_in": "3:16",
+        "timestamp_out": "4:23",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "culture clash / show business",
+      "context": "He explains the encore ritual: everyone pretends. The comedian hides, and the crowd pretends to want him back.",
+      "punchline": "« Finished my show, walked off the stage. I came back, they were gone. »",
+      "why_funny": "A long build on mutual hypocrisy pays off with a four-word picture of an empty room. A great freeze-frame point.",
+      "meme_idea": "Freeze on his face + crickets; caption 'New York doesn't do encores'.",
+      "recommended_duration": "35-60s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence."
+      },
+      "scores": {
+        "attention": 15,
+        "comedy": 22,
+        "relatability": 11,
+        "surprise": 15,
+        "meme": 13,
+        "shortform": 7
+      }
+    },
+    {
+      "id": "gad_jfk",
+      "comedian": "Gad Elmaleh",
+      "language": "en",
+      "source": {
+        "title": "Gad Elmaleh Performs Stand-up (The Late Show with Stephen Colbert, Dec 2016)",
+        "url": "https://www.youtube.com/watch?v=jLOKSJq4tRA",
+        "channel": "The Late Show with Stephen Colbert (CBS official channel)",
+        "official": true,
+        "timestamp_in": "0:32",
+        "timestamp_out": "2:21",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "accent / immigrant life",
+      "context": "A NYC cab driver can't understand 'JFK' in his accent; the 'meet me halfway' riff; the driver keeps correcting him.",
+      "punchline": "« Sir, we are both immigrants… you maybe got the J right, but you said ‹ airpoot ›. Touché. »",
+      "why_funny": "A relatable accent struggle with a status reversal at the end. Long (~110s), so it needs tightening without cutting the KFC / iPhone-tower builds.",
+      "meme_idea": "Captions showing the mispronunciations and corrections; highlight 'touché'.",
+      "recommended_duration": "35-60s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence. Accent humour about another immigrant: keep the full 'we are both immigrants' framing; never cut it down to the accent alone."
+      },
+      "scores": {
+        "attention": 15,
+        "comedy": 19,
+        "relatability": 14,
+        "surprise": 11,
+        "meme": 12,
+        "shortform": 5
+      }
+    },
+    {
+      "id": "gad_essence",
+      "comedian": "Gad Elmaleh",
+      "language": "fr",
+      "source": {
+        "title": "Gad Elmaleh - Gala ComediHa! (Québec, 2018)",
+        "url": "https://www.youtube.com/watch?v=Dyy-KRkdE2c",
+        "channel": "ComediHa! (official festival channel)",
+        "official": true,
+        "timestamp_in": "0:47",
+        "timestamp_out": "1:53",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "observational / everyday obsession",
+      "context": "'We're all the same': at the gas station, you absolutely have to round off the amount on the pump.",
+      "punchline": "Tiny trigger taps, overshooting to 20,02, then going all the way to the next round number (auto-captions garbled; transcribe from the audio).",
+      "why_funny": "A universal micro-obsession plus a physical act-out of the pump nozzle; suspense built out of numbers.",
+      "meme_idea": "Digital pump-counter overlay synced to his numbers; tension_tick + impact on the overshoot.",
+      "recommended_duration": "35-60s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence. Auto-captions are garbled: transcribe the punchline wording from the audio before the score is final."
+      },
+      "scores": {
+        "attention": 18,
+        "comedy": 20,
+        "relatability": 15,
+        "surprise": 11,
+        "meme": 14,
+        "shortform": 8
+      }
+    },
+    {
+      "id": "gad_bruits",
+      "comedian": "Gad Elmaleh",
+      "language": "fr",
+      "source": {
+        "title": "Gad Elmaleh - Gala ComediHa! (Québec, 2018)",
+        "url": "https://www.youtube.com/watch?v=Dyy-KRkdE2c",
+        "channel": "ComediHa! (official festival channel)",
+        "official": true,
+        "timestamp_in": "3:01",
+        "timestamp_out": "3:48",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "couples / gender",
+      "context": "The 'féminin ou masculin ?' game with the audience: hearing noises at night.",
+      "punchline": "« Il y a aucun homme au monde qui a déjà dit à sa femme à 4 heures du matin : ‹ Chérie, je crois qu'il y a des gens dans la salle de bain. › »",
+      "why_funny": "The interactive format ('feminine or masculine?') invites comments and gets couples tagging each other.",
+      "meme_idea": "Poll-style caption « Féminin ou masculin ? », with the answer revealed on his line.",
+      "recommended_duration": "20-35s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence. Wording from auto-captions; verify on the audio."
+      },
+      "scores": {
+        "attention": 16,
+        "comedy": 19,
+        "relatability": 15,
+        "surprise": 11,
+        "meme": 13,
+        "shortform": 9
+      }
+    },
+    {
+      "id": "gad_petition",
+      "comedian": "Gad Elmaleh",
+      "language": "fr",
+      "source": {
+        "title": "Gad Elmaleh - Gala ComediHa! (Québec, 2018)",
+        "url": "https://www.youtube.com/watch?v=Dyy-KRkdE2c",
+        "channel": "ComediHa! (official festival channel)",
+        "official": true,
+        "timestamp_in": "5:09",
+        "timestamp_out": "6:14",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "provocation / misunderstanding",
+      "context": "He says he doesn't like animals, and a woman in Montreal got angry. That afternoon in Québec, a girl with a petition asks: « Avez-vous deux minutes pour la défense des animaux ? »",
+      "punchline": "« J'ai dit : ouais, ils sont où ? »",
+      "why_funny": "He hears 'defending against animals' and gets ready to fight. Short and sharp once it's set up.",
+      "meme_idea": "Freeze + 'HUH?' sticker; caption « Il a mal compris… ou pas ».",
+      "recommended_duration": "20-35s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence. Wording from garbled auto-captions; verify on the audio."
+      },
+      "scores": {
+        "attention": 15,
+        "comedy": 20,
+        "relatability": 11,
+        "surprise": 14,
+        "meme": 12,
+        "shortform": 8
+      }
+    },
+    {
+      "id": "gad_protestants",
+      "comedian": "Gad Elmaleh",
+      "language": "fr",
+      "source": {
+        "title": "Paul Mirabel & Gad Elmaleh – Conseils d'ami (Montreux Comedy Festival 2021)",
+        "url": "https://www.youtube.com/watch?v=OR-1TUobxk8",
+        "channel": "La Relève Montreux Comedy (official secondary channel)",
+        "official": true,
+        "timestamp_in": "5:43",
+        "timestamp_out": "6:20",
+        "timestamp_precision": "caption-block start from the transcript; refine +/-3s on footage"
+      },
+      "category": "religion / wordplay",
+      "context": "Duo set with Paul Mirabel; a riff on Switzerland as protestant land.",
+      "punchline": "« Les protestants, c'est des catholiques qui se sont mis à leur compte… et ont fait un vrai succès en tant qu'auto-entrepreneurs. »",
+      "why_funny": "Business framing of a religious schism. Sharp, but it needs the duo context and it's religion-adjacent.",
+      "meme_idea": "Keep it minimal: caption « Cours d'histoire express ».",
+      "recommended_duration": "20-35s",
+      "context_preserved": true,
+      "rights": {
+        "status": "unknown",
+        "notes": "Uploaded by the rights holder's channel. Publicly viewable does not mean reusable: request a licence. Religion topic: high context sensitivity; the duo dynamic with Paul Mirabel needs explaining. A second performer's rights are also involved."
+      },
+      "scores": {
+        "attention": 13,
+        "comedy": 20,
+        "relatability": 8,
+        "surprise": 14,
+        "meme": 9,
+        "shortform": 8
+      }
+    }
+  ]
+}
