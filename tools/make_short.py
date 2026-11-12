@@ -104,7 +104,9 @@ def highlight_words(text: str, words: list[str], hl_color: str, base_color: str)
 
 
 def build_ass(spec: dict, brand: dict, cues: list[dict], path: Path, draft: bool) -> None:
-    colors, sub, ed = brand["colors"], brand["subtitle"], brand["editorial"]
+    colors, sub, ed = brand["colors"], dict(brand["subtitle"]), brand["editorial"]
+    if spec.get("subtitle_margin_bottom"):
+        sub["margin_bottom"] = int(spec["subtitle_margin_bottom"])
     lang = spec.get("language", "fr")
     font = brand["fonts"].get(lang, brand["fonts"]["default"])
     ed_font = brand["fonts"].get(lang, brand["fonts"]["default"])
@@ -162,6 +164,15 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 # ---------------------------------------------------------------- video
 def framing_filter(spec: dict) -> str:
+    pre = ""
+    pc = spec.get("framing", {}).get("pre_crop")
+    if pc:  # keep only this region of the source (fractions), e.g. to drop burned-in captions
+        x0, x1, y0, y1 = (float(pc[k]) for k in ("x0", "x1", "y0", "y1"))
+        pre = f"crop=trunc(iw*{x1 - x0:.4f}/2)*2:trunc(ih*{y1 - y0:.4f}/2)*2:iw*{x0:.4f}:ih*{y0:.4f},"
+    return pre + _framing_core(spec)
+
+
+def _framing_core(spec: dict) -> str:
     mode = spec.get("framing", {}).get("mode", "blur_fill")
     if mode == "blur_fill":
         return (f"split[bgsrc][fgsrc];"
@@ -269,7 +280,14 @@ def main() -> None:
         inputs = ["-i", str(joined)]
         fc = ["[0:v]setpts=PTS-STARTPTS[vc]", "[0:a]asetpts=PTS-STARTPTS[ac]"]
         # 2. framing
-        fc.append(f"[vc]{framing_filter(spec)}[vf]")
+        mask = spec.get("mask_burned_subs")
+        if mask:  # blur a strip of the source frame that carries burned-in captions
+            x0, x1, y0, y1 = (float(mask.get(k)) for k in ("x0", "x1", "y0", "y1"))
+            fc.append(f"[vc]split[vm0][vm1];[vm1]crop=iw*{x1 - x0:.4f}:ih*{y1 - y0:.4f}:iw*{x0:.4f}:ih*{y0:.4f},"
+                      f"boxblur=luma_radius=28:luma_power=3[vmb];[vm0][vmb]overlay=W*{x0:.4f}:H*{y0:.4f}[vcm]")
+            fc.append(f"[vcm]{framing_filter(spec)}[vf]")
+        else:
+            fc.append(f"[vc]{framing_filter(spec)}[vf]")
         last = "vf"
         # 3. zooms
         zf = zoom_filter(spec.get("zooms", []))
