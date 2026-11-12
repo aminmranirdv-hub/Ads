@@ -3,13 +3,15 @@
     "date": "2026-11-12",
     "comedian": "Gad Elmaleh",
     "clip": "01_gad_elmaleh_merci_la_vie",
-    "status": "rendered 1:36, sent"
+    "status": "rendered 1:36, sent; IG+FB draft awaiting approval",
+    "vidiq_post_id": "b3ae0043-4e55-4e06-8f03-ad502c19da4b"
   },
   {
     "date": "2026-11-12",
     "comedian": "Gabriel Iglesias",
     "clip": "02_gabriel_iglesias_black_siri",
-    "status": "rendered 2:49, sent"
+    "status": "rendered 2:49, sent; IG+FB draft awaiting approval",
+    "vidiq_post_id": "8d127380-6249-46d5-a95a-7d7f3da4ad0d"
   },
   {
     "date": "2026-11-12",
@@ -21,12 +23,14 @@
     "date": "2026-11-12",
     "comedian": "Redouane Bougheraba",
     "clip": "04_redouane_bougheraba_controleurs",
-    "status": "rendered 2:21, sent"
+    "status": "rendered 2:21, sent; IG+FB draft awaiting approval",
+    "vidiq_post_id": "f4fc9dd0-906f-4306-8959-6d3d2d087bf1"
   },
   {
     "date": "2026-11-12",
     "comedian": "Jamel Debbouze",
     "clip": "03_jamel_debbouze_ninjas",
-    "status": "rendered 1:32, sent"
+    "status": "rendered 1:32, sent; IG+FB draft awaiting approval",
+    "vidiq_post_id": "c2fd682d-1a05-43d4-85b4-1eb7b5ccdb1b"
   }
 ]
