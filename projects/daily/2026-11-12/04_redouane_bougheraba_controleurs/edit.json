@@ -15,15 +15,78 @@
   "context_note": "Opening of the improv: he learns the front rows are SNCF/RATP ticket inspectors, the 'lapsus', the strikes, inspectors who wait until you fall asleep, the TV ad with plain-clothes inspectors. Stops BEFORE the 2:42–3:21 exchange about racism, which needs the full context.",
   "segments": [
     {
-      "in": "00:00:12.0",
-      "out": "00:02:58.0"
+      "in": 0.0,
+      "out": 5.21
+    },
+    {
+      "in": 5.89,
+      "out": 8.89
+    },
+    {
+      "in": 10.54,
+      "out": 12.78
+    },
+    {
+      "in": 13.88,
+      "out": 23.74
+    },
+    {
+      "in": 25.27,
+      "out": 32.59,
+      "freeze": 0.7
+    },
+    {
+      "in": 45.27,
+      "out": 52.33
+    },
+    {
+      "in": 57.63,
+      "out": 94.95
+    },
+    {
+      "in": 99.16,
+      "out": 102.2
+    },
+    {
+      "in": 103.47,
+      "out": 107.03
+    },
+    {
+      "in": 109.93,
+      "out": 112.91
+    },
+    {
+      "in": 114.13,
+      "out": 117.43
+    },
+    {
+      "in": 121.17,
+      "out": 124.59
+    },
+    {
+      "in": 125.89,
+      "out": 128.09
+    },
+    {
+      "in": 128.78,
+      "out": 144.72
+    },
+    {
+      "in": 147.73,
+      "out": 174.09
     }
   ],
   "framing": {
     "mode": "blur_fill",
-    "raise_px": 120
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.17,
+      "x1": 0.83,
+      "y0": 0.02,
+      "y1": 0.7
+    }
   },
-  "subtitles": "subs.srt",
+  "subtitles": "subs.fixed.srt",
   "subtitles_timing": "source",
   "translation": {
     "file": "subs.en.srt",
@@ -32,38 +95,77 @@
   "highlight_words": [
     "contrôleurs",
     "lapsus",
-    "grève",
     "vacances",
-    "civil"
+    "grève",
+    "endorme",
+    "Avengers",
+    "flics",
+    "plastique",
+    "fou rire",
+    "primes"
   ],
   "zooms": [
     {
-      "at": "__on the 'lapsus' line__",
-      "dur": 2.2,
+      "at": 25.32,
+      "dur": 2.6,
       "scale": 1.15
+    },
+    {
+      "at": 77.96000000000001,
+      "dur": 2.0,
+      "scale": 1.12
     }
   ],
   "editorial_captions": [
     {
-      "text": "Il découvre que le premier rang, c'est des contrôleurs",
+      "text": "Il découvre que le 2e rang, c'est des contrôleurs",
       "start": 0.0,
       "end": 3.4
+    },
+    {
+      "text": "Le contrôleur contrôlé",
+      "start": 131.42000000000002,
+      "end": 133.51000000000005
     }
   ],
   "overlays": [
     {
       "file": "../../../../assets/stickers/shock/wait_what.png",
-      "start": "__on 'des contrôleurs'__",
-      "end": "__+1.4s__",
+      "start": 25.42,
+      "end": 26.92,
+      "position": "upper_center",
+      "width": 520
+    },
+    {
+      "file": "../../../../assets/stickers/sarcasm/sure_buddy.png",
+      "start": 75.0,
+      "end": 76.4,
+      "position": "upper_center",
+      "width": 500
+    },
+    {
+      "file": "../../../../assets/stickers/awkward_silence/awkward.png",
+      "start": 131.32,
+      "end": 132.72,
       "position": "lower_right",
-      "width": 460
+      "width": 420
     }
   ],
   "sfx": [
     {
       "file": "../../../../assets/sfx/record_scratch.wav",
-      "at": "__right after 'j'ai fait un lapsus'__",
-      "gain_db": -10
+      "at": 27.13,
+      "gain_db": -11
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 84.92999999999999,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 78.81,
+      "gain_db": -11
     }
   ],
   "publishing": {
