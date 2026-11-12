@@ -1,0 +1,54 @@
+{
+  "source": {
+    "file": "source.mp4",
+    "title": "StandUp - Rachid El Baz Tarek Badir - Sketch 2 Finale",
+    "url": "https://www.youtube.com/watch?v=LFHFFHoXamo",
+    "channel": "StandUp AlAoula TV (official)"
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner chose to publish without a licence (2026-11-12). Credit the comedian and the original upload in the description."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 120
+  },
+  "subtitles": "subs.srt",
+  "subtitles_timing": "source",
+  "id": "2026-11-12_alaoula_el_baz_badir",
+  "comedian": "Rachid El Baz & Tarek Badir",
+  "language": "ar",
+  "context_note": "PROVISIONAL: duo sketch about an old soldier ('al-hajj') and a recruit. The auto-transcript is too garbled to pick the best 60-180s from text alone, so the segment is chosen on the audio after transcription. The first applause break is at ~2:02.",
+  "segments": [
+    {
+      "in": "00:00:10.0",
+      "out": "00:02:05.0"
+    }
+  ],
+  "translation": {
+    "file": "subs.fr.srt",
+    "language": "fr"
+  },
+  "highlight_words": [],
+  "zooms": [],
+  "editorial_captions": [],
+  "overlays": [],
+  "sfx": [],
+  "publishing": {
+    "hooks": [
+      "Le vieux soldat contre la recrue 😂",
+      "Quand le hajj raconte « sa » guerre",
+      "Darija : cours militaire express"
+    ],
+    "tiktok_caption": "Le hajj et sa guerre 😂🇲🇦 Rachid El Baz & Tarek Badir, StandUp Al Aoula #darija #maroc #humour",
+    "youtube_title": "Rachid El Baz & Tarek Badir : le hajj raconte sa guerre 😂 (sous-titres FR)",
+    "youtube_description": "Rachid El Baz & Tarek Badir, StandUp Al Aoula (finale). Original : https://www.youtube.com/watch?v=LFHFFHoXamo. Sous-titres français : traduction/adaptation de la chaîne depuis la darija.",
+    "hashtags": [
+      "#darija",
+      "#maroc",
+      "#standupalaoula",
+      "#humourmarocain",
+      "#shorts"
+    ]
+  }
+}

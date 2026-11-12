@@ -1,0 +1,101 @@
+{
+  "source": {
+    "file": "source.mp4",
+    "title": "Black Siri | Gabriel Iglesias (Stand-Up Revolution, 2012)",
+    "url": "https://www.youtube.com/watch?v=CNgOqNNWLQ4",
+    "channel": "Gabriel Iglesias (official)"
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner chose to publish without a licence (2026-11-12). Credit the comedian and the original upload in the description."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 120
+  },
+  "subtitles": "subs.srt",
+  "subtitles_timing": "source",
+  "id": "2026-11-12_gabriel_iglesias_black_siri",
+  "comedian": "Gabriel Iglesias",
+  "language": "en",
+  "context_note": "Story kept in order: gift iPhones + Siri setup → Martin's accident drowns the phone → Apple Store → 'does the black iPhone have Siri?' → punchline. The middle is trimmed to fit 3 minutes.",
+  "segments": [
+    {
+      "in": "00:00:55.0",
+      "out": "00:01:28.0"
+    },
+    {
+      "in": "00:01:57.0",
+      "out": "00:02:46.0"
+    },
+    {
+      "in": "00:03:17.0",
+      "out": "00:04:50.0",
+      "freeze": 0.8
+    }
+  ],
+  "translation": {
+    "file": "subs.fr.srt",
+    "language": "fr"
+  },
+  "highlight_words": [
+    "Siri",
+    "car wash",
+    "peed",
+    "toilet",
+    "black iPhone",
+    "window"
+  ],
+  "zooms": [
+    {
+      "at": "__on 'stick your head out the window'__",
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Never give your friend a new iPhone",
+      "start": 0.0,
+      "end": 3.0
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": "__on 'does the black iPhone have Siri'__",
+      "end": "__+1.5s__",
+      "position": "lower_right",
+      "width": 460
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": "__after 'I peed on myself'__",
+      "gain_db": -10
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": "__after 'window'__",
+      "gain_db": -8
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Never ask Siri to talk dirty",
+      "What happened to his iPhone is a crime",
+      "Wait for the black iPhone…"
+    ],
+    "tiktok_caption": "La question qui a tout changé à l'Apple Store 😂 🎤 Gabriel « Fluffy » Iglesias #gabrieliglesias #fluffy",
+    "youtube_title": "Gabriel Iglesias : le Siri de l'iPhone noir 😂 (sous-titres FR)",
+    "youtube_description": "Gabriel Iglesias, « Black Siri » (Stand-Up Revolution, 2012). Original : https://www.youtube.com/watch?v=CNgOqNNWLQ4. Sous-titres français : traduction de la chaîne.",
+    "hashtags": [
+      "#gabrieliglesias",
+      "#fluffy",
+      "#standup",
+      "#humour",
+      "#shorts"
+    ]
+  }
+}

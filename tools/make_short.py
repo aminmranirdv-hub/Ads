@@ -26,7 +26,7 @@ import re
 import tempfile
 from pathlib import Path
 
-from common import (APPROVED_RIGHTS, DRAFT_ONLY_RIGHTS, OUT_FPS, OUT_H, OUT_W, die, filter_escape,
+from common import (APPROVED_RIGHTS, DRAFT_ONLY_RIGHTS, USER_ASSUMED_RIGHTS, OUT_FPS, OUT_H, OUT_W, die, filter_escape,
                     fmt_ass_time, hex_to_ass, load_brand, load_json, parse_srt, parse_time,
                     require_ffmpeg, run)
 
@@ -71,8 +71,23 @@ def remap_cues(cues: list[dict], tl: list[dict]) -> list[dict]:
             o_e = seg["out_start"] + (e - seg["src_in"])
             if cue["end"] >= seg["src_out"] - 0.01 and seg["freeze"]:
                 o_e += seg["freeze"]  # keep the line on screen during the freeze-frame
-            out.append({"start": o_s, "end": o_e, "text": cue["text"]})
+            out.append({"start": o_s, "end": o_e, "text": cue["text"], "trans": cue.get("trans", "")})
     return out
+
+
+def attach_translations(cues: list[dict], trans: list[dict]) -> list[dict]:
+    """Give each original cue the translated cue it overlaps most (same source timing)."""
+    for c in cues:
+        best, best_ov = None, 0.0
+        for t in trans:
+            ov = min(c["end"], t["end"]) - max(c["start"], t["start"])
+            if ov > best_ov:
+                best, best_ov = t, ov
+        c["trans"] = best["text"] if best else ""
+    return cues
+
+
+TRANSLATION_LABELS = {"fr": "Sous-titres FR : traduction", "en": "English subtitles: translation"}
 
 
 # ---------------------------------------------------------------- subtitles
@@ -109,6 +124,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sub,{font},{sub['size']},{white},{white},{black},&H96000000,-1,0,0,0,100,100,0,0,1,{sub['outline']},{sub['shadow']},2,{sub['margin_left']},{sub['margin_right']},{sub['margin_bottom']},1
+Style: Trans,{brand['fonts'].get('translation', brand['fonts']['default'])},{brand['subtitle'].get('translation_size', 54)},{hl},{hl},{black},&H96000000,-1,0,0,0,100,100,0,0,1,5,2,2,{sub['margin_left']},{sub['margin_right']},{sub['margin_bottom']},1
 Style: Editorial,{ed_font},{ed['size']},{box_text},{box_text},{box},{box},-1,0,0,0,100,100,0,0,3,14,0,8,90,150,{ed['margin_top']},1
 Style: Mark,{brand['fonts']['fallback']},34,&H60FFFFFF,&H60FFFFFF,&H80000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,{brand['safe_zone_px']['left'] + 30},0,{brand['safe_zone_px']['bottom'] - 10},1
 Style: Draft,{brand['fonts']['fallback']},120,&HA00000FF,&HA00000FF,&H80000000,&H00000000,-1,0,0,0,100,100,0,-30,1,3,0,5,0,0,0,1
@@ -122,6 +138,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         text = ass_escape(c["text"].upper() if uppercase else c["text"])
         text = highlight_words(text, [w.upper() if uppercase else w for w in words], hl, white)
         anim = f"{{\\fscx82\\fscy82\\t(0,{pop},\\fscx100\\fscy100)}}"
+        if c.get("trans"):
+            text += "\\N{\\rTrans}" + ass_escape(c["trans"])
         lines.append(f"Dialogue: 1,{fmt_ass_time(c['start'])},{fmt_ass_time(c['end'])},Sub,,0,0,0,,{anim}{text}")
 
     for cap in spec.get("editorial_captions", []):
@@ -131,8 +149,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                      f"Editorial,,0,0,0,,{anim}{txt}")
 
     end = fmt_ass_time(spec["_duration"])
-    if brand.get("watermark"):
-        lines.append(f"Dialogue: 0,0:00:00.00,{end},Mark,,0,0,0,,{ass_escape(brand['watermark'])}")
+    mark = brand.get("watermark", "")
+    tl = spec.get("translation", {}).get("language")
+    if tl in TRANSLATION_LABELS:
+        mark = (mark + "  ·  " if mark else "") + TRANSLATION_LABELS[tl]
+    if mark:
+        lines.append(f"Dialogue: 0,0:00:00.00,{end},Mark,,0,0,0,,{ass_escape(mark)}")
     if draft:
         lines.append(f"Dialogue: 3,0:00:00.00,{end},Draft,,0,0,0,,DRAFT - NOT FOR PUBLICATION")
     path.write_text(header + "\n".join(lines) + "\n", encoding="utf-8")
@@ -186,9 +208,13 @@ def main() -> None:
     base = spec_path.parent
     spec = load_json(spec_path)
     brand = load_brand()
+    if "\"__" in open(spec_path, encoding="utf-8").read():
+        die("edit.json still has __placeholder__ values (zoom/sticker/SFX times). Set them from the transcript first.")
 
     status = spec.get("rights", {}).get("status", "unknown")
-    if status not in APPROVED_RIGHTS:
+    if status in USER_ASSUMED_RIGHTS:
+        print("NOTE: rights status 'user_assumed': no licence on file; the channel owner accepts the copyright risk.")
+    elif status not in APPROVED_RIGHTS:
         if args.draft and status in DRAFT_ONLY_RIGHTS | APPROVED_RIGHTS:
             print(f"NOTE: rights status '{status}' -> rendering watermarked internal DRAFT only.")
         elif args.draft:
@@ -196,7 +222,7 @@ def main() -> None:
         else:
             die(f"rights status '{status}' is not approved for publication ({sorted(APPROVED_RIGHTS)}). "
                 f"Use --draft for an internal preview.")
-    draft = args.draft or status not in APPROVED_RIGHTS
+    draft = args.draft or status not in APPROVED_RIGHTS | USER_ASSUMED_RIGHTS
 
     src = (base / spec["source"]["file"]).resolve()
     if not src.exists():
@@ -212,6 +238,8 @@ def main() -> None:
         cues = []
         if spec.get("subtitles"):
             raw = parse_srt(base / spec["subtitles"])
+            if spec.get("translation", {}).get("file"):
+                raw = attach_translations(raw, parse_srt(base / spec["translation"]["file"]))
             cues = raw if spec.get("subtitles_timing", "source") == "output" else remap_cues(raw, tl)
         ass_path = td / "subs.ass"
         build_ass(spec, brand, cues, ass_path, draft)

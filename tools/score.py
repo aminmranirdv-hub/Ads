@@ -18,7 +18,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from common import APPROVED_RIGHTS, DRAFT_ONLY_RIGHTS, load_json
+from common import APPROVED_RIGHTS, DRAFT_ONLY_RIGHTS, USER_ASSUMED_RIGHTS, load_json
 
 WEIGHTS = {"attention": 20, "comedy": 25, "relatability": 15, "surprise": 15, "meme": 15, "shortform": 10}
 TIERS = [(85, "A - produce first"), (75, "B - produce"), (65, "C - backlog"), (0, "D - skip")]
@@ -48,7 +48,7 @@ def gates(c: dict) -> list[str]:
     if not c.get("context_preserved"):
         fails.append("context not confirmed preserved")
     st = c.get("rights", {}).get("status", "unknown")
-    if st not in APPROVED_RIGHTS:
+    if st not in APPROVED_RIGHTS | USER_ASSUMED_RIGHTS:
         fails.append(f"rights '{st}'" + (" (draft only)" if st in DRAFT_ONLY_RIGHTS else ""))
     return fails
 

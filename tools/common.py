@@ -15,6 +15,8 @@ OUT_W, OUT_H, OUT_FPS = 1080, 1920, 30
 
 # Rights statuses that allow a clip to be rendered for publication.
 APPROVED_RIGHTS = {"owned", "licensed", "written_permission", "platform_licensed", "public_domain", "creative_commons_ok"}
+# No licence on file: the channel owner has chosen to publish at their own copyright risk.
+USER_ASSUMED_RIGHTS = {"user_assumed"}
 # Statuses that allow internal drafts only (never publish).
 DRAFT_ONLY_RIGHTS = {"pending", "fair_use_review"}
 

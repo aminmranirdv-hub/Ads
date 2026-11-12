@@ -1,0 +1,104 @@
+{
+  "source": {
+    "file": "source.mp4",
+    "title": "Gad Elmaleh – Les petits mensonges du quotidien (Montreux Comedy Festival 2023)",
+    "url": "https://www.youtube.com/watch?v=kal9aFfyWOs",
+    "channel": "Montreux Comedy"
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner chose to publish without a licence (2026-11-12). Credit the comedian and the original upload in the description."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 120
+  },
+  "subtitles": "subs.srt",
+  "subtitles_timing": "source",
+  "id": "2026-11-12_gad_elmaleh_merci_la_vie",
+  "comedian": "Gad Elmaleh",
+  "language": "fr",
+  "context_note": "Self-contained run: being 50 → Instagram captions → 'Merci la vie' → dating younger women → 'j'avoue / askip'. Cuts only remove dead air.",
+  "segments": [
+    {
+      "in": "00:03:19.0",
+      "out": "00:03:52.0"
+    },
+    {
+      "in": "00:03:52.0",
+      "out": "00:04:28.0",
+      "freeze": 0.6
+    },
+    {
+      "in": "00:04:28.0",
+      "out": "00:05:02.0",
+      "freeze": 0.5
+    }
+  ],
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "50 balais",
+    "Insta",
+    "Merci, la vie",
+    "Lavie",
+    "78 ans",
+    "j'avoue",
+    "Askip",
+    "lessive"
+  ],
+  "zooms": [
+    {
+      "at": "__set after transcription: on 'Jean-Jacques Lavie'__",
+      "dur": 2.2,
+      "scale": 1.15
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "POV : tu lis les légendes Insta à 50 ans",
+      "start": 0.0,
+      "end": 3.0
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/dramatic_realization/il_a_compris.png",
+      "start": "__after 'Lavie'__",
+      "end": "__+1.4s__",
+      "position": "upper_center",
+      "width": 520
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": "__right after 'Lavie'__",
+      "gain_db": -8
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": "__right after 'lessive'__",
+      "gain_db": -10
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Les légendes Instagram ne seront plus jamais pareilles",
+      "Il a enfin découvert qui est « la vie »",
+      "Attends de voir qui a payé le jet…"
+    ],
+    "tiktok_caption": "« Merci la vie » 😭 Qui a payé le jet ? 🎤 Gad Elmaleh, Montreux Comedy Festival 2023 #gadelmaleh #humour",
+    "youtube_title": "Gad Elmaleh découvre qui est « la vie » sur Instagram 😂",
+    "youtube_description": "Gad Elmaleh au Montreux Comedy Festival 2023 (« Les petits mensonges du quotidien »). Original : https://www.youtube.com/watch?v=kal9aFfyWOs. English subtitles: translation by the channel.",
+    "hashtags": [
+      "#gadelmaleh",
+      "#humour",
+      "#standup",
+      "#montreuxcomedy",
+      "#shorts"
+    ]
+  }
+}

@@ -15,7 +15,7 @@ import re
 import subprocess
 import sys
 
-from common import APPROVED_RIGHTS, OUT_FPS, OUT_H, OUT_W, ffprobe, load_json
+from common import APPROVED_RIGHTS, USER_ASSUMED_RIGHTS, OUT_FPS, OUT_H, OUT_W, ffprobe, load_json
 
 MANUAL = [
     "The joke is understandable without the surrounding set",
@@ -63,13 +63,16 @@ def main() -> None:
         check("H.264 / yuv420p", v["codec_name"] == "h264" and v.get("pix_fmt") == "yuv420p",
               f"{v['codec_name']} {v.get('pix_fmt')}")
     check("audio stream AAC", a is not None and a["codec_name"] == "aac", a["codec_name"] if a else "missing")
-    check("duration <= 60s", dur <= 60.5, f"{dur:.2f}s")
+    check("duration <= 180s", dur <= 180.5, f"{dur:.2f}s")
     check("duration >= 10s", dur >= 10, f"{dur:.2f}s", warn=True)
     lufs, peak = loudness(args.video)
     check("loudness -14 LUFS (+/-2)", lufs is not None and abs(lufs + 14) <= 2, f"{lufs} LUFS", warn=True)
     check("true peak <= -1 dBFS", peak is not None and peak <= -0.9, f"{peak} dBFS", warn=True)
     st = spec.get("rights", {}).get("status", "unknown")
-    check("rights approved for publication", st in APPROVED_RIGHTS, st)
+    if st in USER_ASSUMED_RIGHTS:
+        check("rights", False, "user_assumed: no licence; copyright claims/strikes possible", warn=True)
+    else:
+        check("rights approved for publication", st in APPROVED_RIGHTS, st)
     check("context note present", bool(spec.get("context_note", "").strip()), "context_note")
     check("source reference present", bool(spec.get("source", {}).get("url", "").strip()), spec.get("source", {}).get("url", ""))
 

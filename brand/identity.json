@@ -13,7 +13,8 @@
   "fonts": {
     "default": "Inter Black",
     "ar": "DejaVu Sans",
-    "fallback": "DejaVu Sans"
+    "fallback": "DejaVu Sans",
+    "translation": "Inter ExtraBold"
   },
   "subtitle": {
     "size": 84,
@@ -23,7 +24,8 @@
     "margin_left": 90,
     "margin_right": 150,
     "uppercase": true,
-    "pop_in_ms": 90
+    "pop_in_ms": 90,
+    "translation_size": 54
   },
   "editorial": {
     "size": 64,

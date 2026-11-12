@@ -10,7 +10,7 @@ the joke, and a look people recognise as ours.
 ## 0. Hard rules (these can't be overridden)
 
 1. **Never invent** source URLs, timestamps, view counts, quotes or audience reactions. If something hasn't been verified, the field stays empty and the scorer blocks the clip.
-2. **No publication without rights.** `make_short.py` refuses to export unless `rights.status` is approved. While a request is pending, `--draft` renders a watermarked internal preview.
+2. **Rights are recorded on every clip.** `make_short.py` exports when `rights.status` is approved, or when it's `user_assumed` (the channel owner has chosen to publish without a licence and accepts the copyright risk; see `docs/DAILY.md`). Anything else renders only as a watermarked `--draft`.
 3. **The comedian's words are sacred.** No reordering of lines that changes meaning, no re-captioning that puts words in their mouth, no cutting a setup so a punchline means something else.
 4. **Commentary looks like commentary.** Editorial captions use the boxed yellow `Editorial` style, never the subtitle style, so viewers can't mistake our jokes for the comedian's.
 5. **No implied endorsement.** Comedian names and faces don't go in channel branding, avatars, banners or "official"-sounding titles.
