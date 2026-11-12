@@ -244,21 +244,30 @@ def main() -> None:
         ass_path = td / "subs.ass"
         build_ass(spec, brand, cues, ass_path, draft)
 
-        inputs = ["-i", str(src)]
-        fc = []
-        # 1. segments
+        # 1. segments: cut each one to a near-lossless intermediate, then join them.
+        #    (A single trim/concat graph buffers every branch and runs out of memory
+        #    with dozens of jump cuts.)
+        listing = []
         for i, seg in enumerate(tl):
-            v = (f"[0:v]trim=start={seg['src_in']:.3f}:end={seg['src_out']:.3f},setpts=PTS-STARTPTS,"
-                 f"fps={OUT_FPS},setsar=1")
-            a = (f"[0:a]atrim=start={seg['src_in']:.3f}:end={seg['src_out']:.3f},asetpts=PTS-STARTPTS,"
-                 f"aresample=48000,aformat=channel_layouts=stereo")
+            part = td / f"seg{i:03d}.mkv"
+            vf = f"fps={OUT_FPS},setsar=1"
+            af = "aresample=48000,aformat=channel_layouts=stereo"
             if seg["freeze"]:
-                v += f",tpad=stop_mode=clone:stop_duration={seg['freeze']:.3f}"
-                a += f",apad=pad_dur={seg['freeze']:.3f}"
-            fc.append(f"{v}[v{i}]")
-            fc.append(f"{a}[a{i}]")
-        n = len(tl)
-        fc.append("".join(f"[v{i}][a{i}]" for i in range(n)) + f"concat=n={n}:v=1:a=1[vc][ac]")
+                vf += f",tpad=stop_mode=clone:stop_duration={seg['freeze']:.3f}"
+                af += f",apad=pad_dur={seg['freeze']:.3f}"
+            run(["ffmpeg", "-y", "-hide_banner", "-loglevel", "error",
+                 "-ss", f"{seg['src_in']:.3f}", "-to", f"{seg['src_out']:.3f}", "-i", str(src),
+                 "-vf", vf, "-af", af, "-t", f"{seg['src_out'] - seg['src_in'] + seg['freeze']:.3f}",
+                 "-c:v", "libx264", "-preset", "ultrafast", "-crf", "10", "-pix_fmt", "yuv420p",
+                 "-c:a", "pcm_s16le", str(part)])
+            listing.append(f"file '{part}'")
+        (td / "parts.txt").write_text("\n".join(listing) + "\n")
+        joined = td / "joined.mkv"
+        run(["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-f", "concat", "-safe", "0",
+             "-i", str(td / "parts.txt"), "-c", "copy", str(joined)])
+
+        inputs = ["-i", str(joined)]
+        fc = ["[0:v]setpts=PTS-STARTPTS[vc]", "[0:a]asetpts=PTS-STARTPTS[ac]"]
         # 2. framing
         fc.append(f"[vc]{framing_filter(spec)}[vf]")
         last = "vf"
