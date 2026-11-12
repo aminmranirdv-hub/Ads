@@ -1,5 +1,9 @@
-projects/*/source.*
-projects/*/export/
-projects/*/footage/
+# footage and renders never go in git (third-party video, large binaries)
+**/source.*
+**/export/
+**/footage/
+*.mp4
+*.mkv
+*.mov
 __pycache__/
 *.pyc
