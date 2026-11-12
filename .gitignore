@@ -1,0 +1,5 @@
+projects/*/source.*
+projects/*/export/
+projects/*/footage/
+__pycache__/
+*.pyc

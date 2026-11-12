@@ -1,0 +1,194 @@
+{
+  "confusion": [
+    {
+      "file": "confusion/huh.png",
+      "text": "HUH?",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "confusion/quoi.png",
+      "text": "QUOI ?!",
+      "language": "fr",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "confusion/ach_hada.png",
+      "text": "ACH HADA?!",
+      "language": "darija",
+      "license": "original - channel owned"
+    }
+  ],
+  "shock": [
+    {
+      "file": "shock/wait_what.png",
+      "text": "WAIT... WHAT?!",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "shock/nooon.png",
+      "text": "NOOON !",
+      "language": "fr",
+      "license": "original - channel owned"
+    }
+  ],
+  "disbelief": [
+    {
+      "file": "disbelief/no_way.png",
+      "text": "NO WAY.",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "disbelief/serieux.png",
+      "text": "SÉRIEUX ?",
+      "language": "fr",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "disbelief/wach_bsah.png",
+      "text": "WACH BSSAH?",
+      "language": "darija",
+      "license": "original - channel owned"
+    }
+  ],
+  "sarcasm": [
+    {
+      "file": "sarcasm/sure_buddy.png",
+      "text": "SURE, BUDDY.",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "sarcasm/bien_sur.png",
+      "text": "MAIS BIEN SÛR.",
+      "language": "fr",
+      "license": "original - channel owned"
+    }
+  ],
+  "embarrassment": [
+    {
+      "file": "embarrassment/oof.png",
+      "text": "OOF.",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "embarrassment/la_honte.png",
+      "text": "LA HONTE.",
+      "language": "fr",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "embarrassment/hchouma.png",
+      "text": "HCHOUMA!",
+      "language": "darija",
+      "license": "original - channel owned"
+    }
+  ],
+  "unexpected_success": [
+    {
+      "file": "unexpected_success/he_did_it.png",
+      "text": "HE ACTUALLY DID IT",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "unexpected_success/valide.png",
+      "text": "VALIDÉ ✓",
+      "language": "fr",
+      "license": "original - channel owned"
+    }
+  ],
+  "failure": [
+    {
+      "file": "failure/it_failed.png",
+      "text": "IT DID NOT WORK.",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "failure/rate.png",
+      "text": "RATÉ.",
+      "language": "fr",
+      "license": "original - channel owned"
+    }
+  ],
+  "anger": [
+    {
+      "file": "anger/calm_down.png",
+      "text": "CALM DOWN!",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "anger/doucement.png",
+      "text": "DOUCEMENT !",
+      "language": "fr",
+      "license": "original - channel owned"
+    }
+  ],
+  "awkward_silence": [
+    {
+      "file": "awkward_silence/silence.png",
+      "text": "...",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "awkward_silence/awkward.png",
+      "text": "AWKWARD.",
+      "language": "en",
+      "license": "original - channel owned"
+    }
+  ],
+  "dramatic_realization": [
+    {
+      "file": "dramatic_realization/plot_twist.png",
+      "text": "PLOT TWIST",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "dramatic_realization/il_a_compris.png",
+      "text": "IL A COMPRIS.",
+      "language": "fr",
+      "license": "original - channel owned"
+    }
+  ],
+  "relationship": [
+    {
+      "file": "relationship/red_flag.png",
+      "text": "RED FLAG",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "relationship/couple_goals.png",
+      "text": "COUPLE GOALS?",
+      "language": "en",
+      "license": "original - channel owned"
+    }
+  ],
+  "family": [
+    {
+      "file": "family/every_mom.png",
+      "text": "EVERY MOM EVER",
+      "language": "en",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "family/les_darons.png",
+      "text": "LES DARONS",
+      "language": "fr",
+      "license": "original - channel owned"
+    },
+    {
+      "file": "family/mama_mghribiya.png",
+      "text": "MAMA MGHRIBIYA",
+      "language": "darija",
+      "license": "original - channel owned"
+    }
+  ]
+}

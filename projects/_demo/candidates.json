@@ -1,0 +1,15 @@
+{
+  "project": "Demo - scorer self-test (fictional entries, no real sources)",
+  "candidates": [
+    {"id": "demo_mama_6am", "comedian": "DEMO", "source": {"title": "Synthetic test footage", "url": "local://projects/_demo/source.mp4", "timestamp_in": "00:00:00.8", "timestamp_out": "00:00:18.2"},
+     "category": "family", "context": "Mother calls at 6 a.m.", "punchline": "My aunt was asleep. Obviously.", "why_funny": "Escalation + status reversal: the narrator becomes the one waking someone up.",
+     "meme_idea": "EVERY MOM EVER sticker on the mission; impact + sting on the aunt reveal", "recommended_duration": "15-20s", "context_preserved": true,
+     "rights": {"status": "owned", "notes": "synthetic"}, "scores": {"attention": 17, "comedy": 21, "relatability": 14, "surprise": 11, "meme": 13, "shortform": 9}},
+    {"id": "demo_unverified", "comedian": "DEMO", "source": {"title": "A clip someone mentioned", "url": "", "timestamp_in": "", "timestamp_out": ""},
+     "category": "crowd work", "context": "Unwatched", "punchline": "", "why_funny": "", "meme_idea": "", "recommended_duration": "20-35s", "context_preserved": false,
+     "rights": {"status": "unknown", "notes": "Shows the gate: nothing here is verified."}, "scores": {"attention": 18, "comedy": 24, "relatability": 12, "surprise": 14, "meme": 14, "shortform": 9}},
+    {"id": "demo_pending", "comedian": "DEMO", "source": {"title": "Licensed-request clip", "url": "local://example", "timestamp_in": "00:01:00", "timestamp_out": "00:01:25"},
+     "category": "travel", "context": "Airport security", "punchline": "(transcribed)", "why_funny": "Act-out", "meme_idea": "freeze-frame + crickets", "recommended_duration": "20-35s", "context_preserved": true,
+     "rights": {"status": "pending", "notes": "Licence request sent; draft renders only"}, "scores": {"attention": 15, "comedy": 19, "relatability": 12, "surprise": 9, "meme": 12, "shortform": 8}}
+  ]
+}

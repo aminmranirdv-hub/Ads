@@ -1,0 +1,39 @@
+{
+  "channel_name": "PUNCHLINE LAB",
+  "tagline": "The funniest 30 seconds of your day.",
+  "note": "Original channel identity. Never use comedians' names, photos or likenesses in branding in a way that implies endorsement.",
+  "colors": {
+    "text": "#FFFFFF",
+    "outline": "#000000",
+    "highlight": "#FFD400",
+    "accent": "#FF3B6B",
+    "editorial_box": "#FFD400",
+    "editorial_text": "#111111"
+  },
+  "fonts": {
+    "default": "Inter Black",
+    "ar": "DejaVu Sans",
+    "fallback": "DejaVu Sans"
+  },
+  "subtitle": {
+    "size": 84,
+    "outline": 7,
+    "shadow": 3,
+    "margin_bottom": 560,
+    "margin_left": 90,
+    "margin_right": 150,
+    "uppercase": true,
+    "pop_in_ms": 90
+  },
+  "editorial": {
+    "size": 64,
+    "margin_top": 250
+  },
+  "safe_zone_px": {
+    "top": 220,
+    "bottom": 480,
+    "right": 140,
+    "left": 60
+  },
+  "watermark": "@punchlinelab"
+}

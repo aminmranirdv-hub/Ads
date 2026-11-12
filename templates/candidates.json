@@ -1,0 +1,20 @@
+{
+  "project": "TEMPLATE - copy to projects/<comedian>/candidates.json",
+  "_instructions": "One entry per candidate moment. Fill source fields ONLY from a video you actually watched. Leave url/timestamps empty until verified - the scorer blocks unverified entries. Scores: attention 0-20, comedy 0-25, relatability 0-15, surprise 0-15, meme 0-15, shortform 0-10.",
+  "candidates": [
+    {
+      "id": "c01",
+      "comedian": "",
+      "source": {"title": "", "url": "", "channel": "", "official": false, "timestamp_in": "", "timestamp_out": ""},
+      "category": "family | relationships | observational | crowd work | travel | culture clash | self-deprecation | act-out | callback",
+      "context": "What the audience knows before the punchline.",
+      "punchline": "Exact words, transcribed from the video.",
+      "why_funny": "Mechanism: misdirection, escalation, act-out, rule of three, callback, status reversal...",
+      "meme_idea": "Editorial caption / sticker / SFX that comments without replacing the joke.",
+      "recommended_duration": "15-20s | 20-35s | 35-60s",
+      "context_preserved": false,
+      "rights": {"status": "unknown", "notes": "unknown | pending | fair_use_review | licensed | written_permission | platform_licensed | owned | public_domain | creative_commons_ok"},
+      "scores": {"attention": 0, "comedy": 0, "relatability": 0, "surprise": 0, "meme": 0, "shortform": 0}
+    }
+  ]
+}
