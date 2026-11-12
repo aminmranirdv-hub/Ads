@@ -11,9 +11,15 @@
   },
   "framing": {
     "mode": "blur_fill",
-    "raise_px": 120
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.2,
+      "x1": 0.8,
+      "y0": 0.0,
+      "y1": 0.94
+    }
   },
-  "subtitles": "subs.srt",
+  "subtitles": "subs.fixed.srt",
   "subtitles_timing": "source",
   "id": "2026-11-12_gad_elmaleh_merci_la_vie",
   "comedian": "Gad Elmaleh",
@@ -21,18 +27,49 @@
   "context_note": "Self-contained run: being 50 → Instagram captions → 'Merci la vie' → dating younger women → 'j'avoue / askip'. Cuts only remove dead air.",
   "segments": [
     {
-      "in": "00:03:19.0",
-      "out": "00:03:52.0"
+      "in": 14.12,
+      "out": 30.8
     },
     {
-      "in": "00:03:52.0",
-      "out": "00:04:28.0",
+      "in": 31.66,
+      "out": 44.48
+    },
+    {
+      "in": 44.86,
+      "out": 50.88
+    },
+    {
+      "in": 59.3,
+      "out": 72.68
+    },
+    {
+      "in": 73.83,
+      "out": 76.47
+    },
+    {
+      "in": 77.03,
+      "out": 87.6,
       "freeze": 0.6
     },
     {
-      "in": "00:04:28.0",
-      "out": "00:05:02.0",
-      "freeze": 0.5
+      "in": 87.89,
+      "out": 103.81
+    },
+    {
+      "in": 104.5,
+      "out": 109.16
+    },
+    {
+      "in": 109.52,
+      "out": 116.52
+    },
+    {
+      "in": 121.88,
+      "out": 124.94
+    },
+    {
+      "in": 126.58,
+      "out": 129.63
     }
   ],
   "translation": {
@@ -42,46 +79,70 @@
   "highlight_words": [
     "50 balais",
     "Insta",
-    "Merci, la vie",
+    "philosophes",
+    "Merci",
     "Lavie",
     "78 ans",
-    "j'avoue",
+    "J'avoue",
+    "avoue",
     "Askip",
     "lessive"
   ],
   "zooms": [
     {
-      "at": "__set after transcription: on 'Jean-Jacques Lavie'__",
-      "dur": 2.2,
-      "scale": 1.15
+      "at": 54.64,
+      "dur": 2.6,
+      "scale": 1.18
+    },
+    {
+      "at": 87.59,
+      "dur": 2.0,
+      "scale": 1.12
     }
   ],
   "editorial_captions": [
     {
       "text": "POV : tu lis les légendes Insta à 50 ans",
       "start": 0.0,
-      "end": 3.0
+      "end": 3.2
+    },
+    {
+      "text": "Merci qui ?",
+      "start": 55.940000000000005,
+      "end": 58.34
     }
   ],
   "overlays": [
     {
       "file": "../../../../assets/stickers/dramatic_realization/il_a_compris.png",
-      "start": "__after 'Lavie'__",
-      "end": "__+1.4s__",
+      "start": 55.84,
+      "end": 57.34,
       "position": "upper_center",
       "width": 520
+    },
+    {
+      "file": "../../../../assets/stickers/confusion/quoi.png",
+      "start": 77.92999999999999,
+      "end": 79.23,
+      "position": "lower_right",
+      "width": 380
     }
   ],
   "sfx": [
     {
       "file": "../../../../assets/sfx/impact.wav",
-      "at": "__right after 'Lavie'__",
-      "gain_db": -8
+      "at": 55.79,
+      "gain_db": -10
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 77.88,
+      "gain_db": -12
     },
     {
       "file": "../../../../assets/sfx/boing.wav",
-      "at": "__right after 'lessive'__",
-      "gain_db": -10
+      "at": 88.84,
+      "gain_db": -13
     }
   ],
   "publishing": {
