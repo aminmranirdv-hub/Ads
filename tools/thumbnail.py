@@ -29,15 +29,21 @@ def main() -> None:
     ap.add_argument("--at", type=float, required=True)
     ap.add_argument("--text", required=True)
     ap.add_argument("--out")
+    ap.add_argument("--spec", help="edit.json: reuse its framing.pre_crop (e.g. to drop burned-in captions)")
     args = ap.parse_args()
     require_ffmpeg()
     brand = load_brand()
+    pre = {}
+    if args.spec:
+        import json
+        pc = json.load(open(args.spec, encoding="utf-8")).get("framing", {}).get("pre_crop")
+        pre = {"pre_crop": pc} if pc else {}
     out = Path(args.out) if args.out else Path(args.video).with_suffix(".thumb.jpg")
     with tempfile.TemporaryDirectory() as td:
         frame = Path(td) / "f.png"
         run(["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-ss", str(args.at), "-i", args.video,
              "-frames:v", "1", "-filter_complex",
-             f"[0:v]{framing_filter({'framing': {'mode': 'blur_fill', 'raise_px': 0}})}[o]", "-map", "[o]",
+             f"[0:v]{framing_filter({'framing': {'mode': 'blur_fill', 'raise_px': 0, **pre}})}[o]", "-map", "[o]",
              str(frame)])
         img = Image.open(frame).convert("RGB")
     # darken the top for legibility

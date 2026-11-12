@@ -16,63 +16,55 @@
   "segments": [
     {
       "in": 0.0,
-      "out": 5.21
+      "out": 9.14
     },
     {
-      "in": 5.89,
-      "out": 8.89
+      "in": 10.29,
+      "out": 13.03
     },
     {
-      "in": 10.54,
-      "out": 12.78
+      "in": 13.63,
+      "out": 23.99
     },
     {
-      "in": 13.88,
-      "out": 23.74
-    },
-    {
-      "in": 25.27,
-      "out": 32.59,
+      "in": 25.02,
+      "out": 32.84,
       "freeze": 0.7
     },
     {
-      "in": 45.27,
-      "out": 52.33
+      "in": 45.02,
+      "out": 52.58
     },
     {
-      "in": 57.63,
-      "out": 94.95
+      "in": 57.38,
+      "out": 95.2
     },
     {
-      "in": 99.16,
-      "out": 102.2
+      "in": 98.91,
+      "out": 102.45
     },
     {
-      "in": 103.47,
-      "out": 107.03
+      "in": 103.22,
+      "out": 107.28
     },
     {
-      "in": 109.93,
-      "out": 112.91
+      "in": 109.68,
+      "out": 113.16
     },
     {
-      "in": 114.13,
-      "out": 117.43
+      "in": 113.88,
+      "out": 117.68
     },
     {
-      "in": 121.17,
-      "out": 124.59
+      "in": 120.92,
+      "out": 124.84
     },
     {
-      "in": 125.89,
-      "out": 128.09
+      "in": 125.64,
+      "out": 144.97
     },
     {
-      "in": 128.78,
-      "out": 144.72
-    },
-    {
-      "in": 147.73,
+      "in": 147.48,
       "out": 174.09
     }
   ],
@@ -106,12 +98,12 @@
   ],
   "zooms": [
     {
-      "at": 25.32,
+      "at": 27.5,
       "dur": 2.6,
       "scale": 1.15
     },
     {
-      "at": 77.96000000000001,
+      "at": 82.14,
       "dur": 2.0,
       "scale": 1.12
     }
@@ -124,29 +116,29 @@
     },
     {
       "text": "Le contrôleur contrôlé",
-      "start": 131.42000000000002,
-      "end": 133.51000000000005
+      "start": 138.79000000000002,
+      "end": 140.88
     }
   ],
   "overlays": [
     {
       "file": "../../../../assets/stickers/shock/wait_what.png",
-      "start": 25.42,
-      "end": 26.92,
+      "start": 27.6,
+      "end": 29.1,
       "position": "upper_center",
       "width": 520
     },
     {
       "file": "../../../../assets/stickers/sarcasm/sure_buddy.png",
-      "start": 75.0,
-      "end": 76.4,
+      "start": 78.67999999999999,
+      "end": 80.08,
       "position": "upper_center",
       "width": 500
     },
     {
       "file": "../../../../assets/stickers/awkward_silence/awkward.png",
-      "start": 131.32,
-      "end": 132.72,
+      "start": 138.69,
+      "end": 140.09,
       "position": "lower_right",
       "width": 420
     }
@@ -154,17 +146,17 @@
   "sfx": [
     {
       "file": "../../../../assets/sfx/record_scratch.wav",
-      "at": 27.13,
+      "at": 29.310000000000002,
       "gain_db": -11
     },
     {
       "file": "../../../../assets/sfx/boing.wav",
-      "at": 84.92999999999999,
+      "at": 90.11,
       "gain_db": -13
     },
     {
       "file": "../../../../assets/sfx/impact.wav",
-      "at": 78.81,
+      "at": 82.99,
       "gain_db": -11
     }
   ],

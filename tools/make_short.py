@@ -92,7 +92,10 @@ TRANSLATION_LABELS = {"fr": "Sous-titres FR : traduction", "en": "English subtit
 
 # ---------------------------------------------------------------- subtitles
 def ass_escape(text: str) -> str:
-    return text.replace("\\", "\\\\").replace("{", "(").replace("}", ")").replace("\n", "\\N")
+    t = text.replace("\\", "\\\\").replace("{", "(").replace("}", ")").replace("\n", "\\N")
+    # French typography: keep « » ! ? : ; glued to their word (hard space) so a line never starts with them
+    t = re.sub(r" ([!?:;»])", r"\\h\1", t)
+    return re.sub(r"« ", r"«\\h", t)
 
 
 def highlight_words(text: str, words: list[str], hl_color: str, base_color: str) -> str:
