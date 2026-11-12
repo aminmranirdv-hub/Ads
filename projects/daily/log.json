@@ -15,12 +15,18 @@
     "date": "2026-11-12",
     "comedian": "Rachid El Baz & Tarek Badir",
     "clip": "03_standup_alaoula_rachid_el_baz_tarek_badir",
-    "status": "awaiting footage (provisional pick)"
+    "status": "skipped: Darija audio not transcribable reliably (drill shouting); replaced by Jamel Debbouze"
   },
   {
     "date": "2026-11-12",
     "comedian": "Redouane Bougheraba",
     "clip": "04_redouane_bougheraba_controleurs",
     "status": "awaiting footage (requested by owner)"
+  },
+  {
+    "date": "2026-11-12",
+    "comedian": "Jamel Debbouze",
+    "clip": "03_jamel_debbouze_ninjas",
+    "status": "in production"
   }
 ]

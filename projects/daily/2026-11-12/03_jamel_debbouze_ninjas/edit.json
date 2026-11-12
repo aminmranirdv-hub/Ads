@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-12_jamel_debbouze_ninjas",
+  "comedian": "Jamel Debbouze",
+  "language": "fr",
+  "source": {
+    "file": "source.mp4",
+    "title": "Jamel Debbouze lance les César 2023 - CANAL+",
+    "url": "https://www.youtube.com/watch?v=363RgMenp1g",
+    "channel": "CANAL+ (official)",
+    "window": "8:45-11:05"
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner chose to publish without a licence. Credit Jamel Debbouze / CANAL+ and link the original."
+  },
+  "context_note": "Self-contained: his 'concrete solutions' for French cinema, part 2 (box office loves action, so add ninjas to auteur films). The names (Vincent Lindon, Juliette Binoche) are actors in the room; the jokes are affectionate.",
+  "segments": [],
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140
+  },
+  "subtitles": "subs.fixed.srt",
+  "subtitles_timing": "source",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "publishing": {
+    "hooks": [
+      "Jamel a LA solution pour sauver le cinéma français",
+      "Il manque juste des ninjas",
+      "Vincent Lindon n'était pas prêt"
+    ],
+    "tiktok_caption": "La solution de Jamel pour sauver le cinéma français : des ninjas 🥷😂 César 2023 #jameldebbouze #cesar #humour",
+    "youtube_title": "Jamel Debbouze veut des ninjas dans les films d'auteur 😂 (English subtitles)",
+    "youtube_description": "Jamel Debbouze ouvre les César 2023 (CANAL+). Original : https://www.youtube.com/watch?v=363RgMenp1g. English subtitles: translation by the channel.",
+    "hashtags": [
+      "#jameldebbouze",
+      "#cesar2023",
+      "#humour",
+      "#cinema",
+      "#shorts"
+    ]
+  }
+}

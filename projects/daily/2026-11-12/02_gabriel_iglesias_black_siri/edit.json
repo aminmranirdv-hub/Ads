@@ -11,9 +11,15 @@
   },
   "framing": {
     "mode": "blur_fill",
-    "raise_px": 120
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.0,
+      "y1": 0.76
+    }
   },
-  "subtitles": "subs.srt",
+  "subtitles": "subs.fixed.srt",
   "subtitles_timing": "source",
   "id": "2026-11-12_gabriel_iglesias_black_siri",
   "comedian": "Gabriel Iglesias",
@@ -21,17 +27,49 @@
   "context_note": "Story kept in order: gift iPhones + Siri setup → Martin's accident drowns the phone → Apple Store → 'does the black iPhone have Siri?' → punchline. The middle is trimmed to fit 3 minutes.",
   "segments": [
     {
-      "in": "00:00:55.0",
-      "out": "00:01:28.0"
+      "in": 6.49,
+      "out": 21.0
     },
     {
-      "in": "00:01:57.0",
-      "out": "00:02:46.0"
+      "in": 22.24,
+      "out": 49.47
     },
     {
-      "in": "00:03:17.0",
-      "out": "00:04:50.0",
-      "freeze": 0.8
+      "in": 56.91,
+      "out": 63.85
+    },
+    {
+      "in": 73.65,
+      "out": 96.52
+    },
+    {
+      "in": 97.36,
+      "out": 102.33
+    },
+    {
+      "in": 117.27,
+      "out": 123.38
+    },
+    {
+      "in": 124.66,
+      "out": 131.61
+    },
+    {
+      "in": 142.71,
+      "out": 171.68
+    },
+    {
+      "in": 173.59,
+      "out": 205.05
+    },
+    {
+      "in": 206.06,
+      "out": 213.54,
+      "freeze": 0.7
+    },
+    {
+      "in": 227.88,
+      "out": 238.36
     }
   ],
   "translation": {
@@ -41,44 +79,75 @@
   "highlight_words": [
     "Siri",
     "car wash",
+    "shoes",
     "peed",
+    "Again",
+    "drowned",
     "toilet",
     "black iPhone",
-    "window"
+    "window",
+    "pee"
   ],
   "zooms": [
     {
-      "at": "__on 'stick your head out the window'__",
-      "dur": 2.4,
-      "scale": 1.15
+      "at": 86.43,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 155.39,
+      "dur": 2.6,
+      "scale": 1.18
     }
   ],
   "editorial_captions": [
     {
-      "text": "Never give your friend a new iPhone",
+      "text": "N'offrez jamais un iPhone à ce pote",
       "start": 0.0,
-      "end": 3.0
+      "end": 3.2
+    },
+    {
+      "text": "Siri n'a rien demandé",
+      "start": 87.63,
+      "end": 90.13
     }
   ],
   "overlays": [
     {
       "file": "../../../../assets/stickers/shock/wait_what.png",
-      "start": "__on 'does the black iPhone have Siri'__",
-      "end": "__+1.5s__",
+      "start": 135.33,
+      "end": 136.93,
       "position": "lower_right",
       "width": 460
+    },
+    {
+      "file": "../../../../assets/stickers/embarrassment/oof.png",
+      "start": 75.07,
+      "end": 76.37,
+      "position": "upper_center",
+      "width": 420
     }
   ],
   "sfx": [
     {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 40.239999999999995,
+      "gain_db": -12
+    },
+    {
       "file": "../../../../assets/sfx/record_scratch.wav",
-      "at": "__after 'I peed on myself'__",
-      "gain_db": -10
+      "at": 75.02,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/dramatic_sting.wav",
+      "at": 87.38,
+      "gain_db": -16
     },
     {
       "file": "../../../../assets/sfx/impact.wav",
-      "at": "__after 'window'__",
-      "gain_db": -8
+      "at": 156.74,
+      "gain_db": -9
     }
   ],
   "publishing": {
