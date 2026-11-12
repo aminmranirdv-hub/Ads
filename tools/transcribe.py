@@ -40,15 +40,29 @@ def load_audio(path: str, start: float | None, end: float | None):
     return np.frombuffer(raw, np.float32)
 
 
+def join_words(ws: list[dict]) -> str:
+    """Join tokens, re-attaching elisions/hyphen pieces (d' + un, est + -ce) and tight punctuation."""
+    out = ""
+    for w in ws:
+        t = w["word"]
+        if not out:
+            out = t
+        elif t[:1] in "'’-,.)…" or out.endswith(("'", "’", "-", "(")):
+            out += t
+        else:
+            out += " " + t
+    return out
+
+
 def group(words: list[dict]) -> list[dict]:
     cues, cur = [], []
     for w in words:
         if cur:
-            text = " ".join(x["word"] for x in cur + [w])
+            text = join_words(cur + [w])
             pause = w["start"] - cur[-1]["end"]
             ends_sentence = cur[-1]["word"].endswith((".", "?", "!", "…"))
             if (len(text) > MAX_CHARS or w["end"] - cur[0]["start"] > MAX_DUR or pause > GAP_SPLIT
-                    or (ends_sentence and len(" ".join(x["word"] for x in cur)) > 12)):
+                    or (ends_sentence and len(join_words(cur)) > 12)):
                 cues.append(cur)
                 cur = []
         cur.append(w)
@@ -57,7 +71,7 @@ def group(words: list[dict]) -> list[dict]:
     out = []
     for c in cues:
         out.append({"start": c[0]["start"], "end": c[-1]["end"] + 0.15,
-                    "text": " ".join(x["word"] for x in c).replace(" ,", ",").strip()})
+                    "text": join_words(c).strip()})
     for a, b in zip(out, out[1:]):  # never overlap
         a["end"] = min(a["end"], b["start"])
     return out

@@ -1,0 +1,351 @@
+{
+ "id": "test_3min_groupe_whatsapp",
+ "comedian": "PUNCHLINE LAB (original test bit, synthetic voice)",
+ "language": "fr",
+ "source": {
+  "file": "source.mp4",
+  "title": "Le groupe WhatsApp familial (original, written by the channel)",
+  "url": "local://projects/_test_3min/source.mp4"
+ },
+ "rights": {
+  "status": "owned",
+  "evidence": "Script written by the channel; voice: Piper fr_FR-tom-medium (open source); visuals generated locally."
+ },
+ "context_note": "Full original bit; dead air trimmed with tools/tighten.py; freezes after the two biggest punchlines.",
+ "segments": [
+  {
+   "in": 0.0,
+   "out": 1.0
+  },
+  {
+   "in": 1.36,
+   "out": 2.12
+  },
+  {
+   "in": 2.84,
+   "out": 3.82
+  },
+  {
+   "in": 4.34,
+   "out": 11.18
+  },
+  {
+   "in": 11.74,
+   "out": 12.72
+  },
+  {
+   "in": 13.32,
+   "out": 14.8
+  },
+  {
+   "in": 15.3,
+   "out": 15.78
+  },
+  {
+   "in": 16.14,
+   "out": 20.9
+  },
+  {
+   "in": 21.34,
+   "out": 26.7
+  },
+  {
+   "in": 27.24,
+   "out": 34.32
+  },
+  {
+   "in": 34.9,
+   "out": 35.78
+  },
+  {
+   "in": 36.5,
+   "out": 38.46
+  },
+  {
+   "in": 38.92,
+   "out": 41.14
+  },
+  {
+   "in": 41.96,
+   "out": 43.62
+  },
+  {
+   "in": 43.96,
+   "out": 52.78
+  },
+  {
+   "in": 53.24,
+   "out": 54.78
+  },
+  {
+   "in": 55.56,
+   "out": 61.08
+  },
+  {
+   "in": 61.58,
+   "out": 66.16
+  },
+  {
+   "in": 66.6,
+   "out": 67.96
+  },
+  {
+   "in": 68.26,
+   "out": 69.1
+  },
+  {
+   "in": 69.46,
+   "out": 72.98
+  },
+  {
+   "in": 73.92,
+   "out": 74.76
+  },
+  {
+   "in": 75.0,
+   "out": 80.86
+  },
+  {
+   "in": 81.16,
+   "out": 83.54
+  },
+  {
+   "in": 83.82,
+   "out": 86.16
+  },
+  {
+   "in": 86.42,
+   "out": 87.48
+  },
+  {
+   "in": 87.78,
+   "out": 91.14
+  },
+  {
+   "in": 91.64,
+   "out": 99.04
+  },
+  {
+   "in": 99.42,
+   "out": 100.54
+  },
+  {
+   "in": 101.0,
+   "out": 110.34
+  },
+  {
+   "in": 110.74,
+   "out": 113.36
+  },
+  {
+   "in": 113.88,
+   "out": 114.78
+  },
+  {
+   "in": 115.24,
+   "out": 119.8
+  },
+  {
+   "in": 120.24,
+   "out": 120.86
+  },
+  {
+   "in": 121.18,
+   "out": 123.36
+  },
+  {
+   "in": 123.9,
+   "out": 124.54
+  },
+  {
+   "in": 124.86,
+   "out": 126.94
+  },
+  {
+   "in": 127.44,
+   "out": 136.42,
+   "freeze": 0.7
+  },
+  {
+   "in": 136.9,
+   "out": 139.66
+  },
+  {
+   "in": 140.1,
+   "out": 141.24
+  },
+  {
+   "in": 141.5,
+   "out": 144.54
+  },
+  {
+   "in": 144.9,
+   "out": 149.54
+  },
+  {
+   "in": 150.12,
+   "out": 151.26
+  },
+  {
+   "in": 151.6,
+   "out": 152.66
+  },
+  {
+   "in": 152.92,
+   "out": 158.88
+  },
+  {
+   "in": 159.42,
+   "out": 164.28
+  },
+  {
+   "in": 164.68,
+   "out": 169.86
+  },
+  {
+   "in": 170.4,
+   "out": 172.0
+  },
+  {
+   "in": 172.5,
+   "out": 175.76
+  },
+  {
+   "in": 176.46,
+   "out": 185.66,
+   "freeze": 0.8
+  },
+  {
+   "in": 186.44,
+   "out": 189.65
+  }
+ ],
+ "framing": {
+  "mode": "blur_fill",
+  "raise_px": 120
+ },
+ "subtitles": "subs.srt",
+ "subtitles_timing": "source",
+ "translation": {
+  "file": "subs.en.srt",
+  "language": "en"
+ },
+ "highlight_words": [
+  "WhatsApp",
+  "unie",
+  "47",
+  "paillettes",
+  "bruit",
+  "urgent",
+  "huit minutes",
+  "pouce",
+  "mort",
+  "coincé",
+  "mangé",
+  "transformé",
+  "silencieux",
+  "ta mère",
+  "wifi"
+ ],
+ "zooms": [
+  {
+   "at": 109.76,
+   "dur": 2.4,
+   "scale": 1.18
+  },
+  {
+   "at": 156.68,
+   "dur": 2.6,
+   "scale": 1.15
+  }
+ ],
+ "editorial_captions": [
+  {
+   "text": "POV : le groupe WhatsApp de ta famille",
+   "start": 0.0,
+   "end": 3.2
+  },
+  {
+   "text": "Papa a réagi : pouce",
+   "start": 110.46,
+   "end": 113.06
+  },
+  {
+   "text": "Les mamans ont le wifi intégré",
+   "start": 158.08,
+   "end": 161.08
+  }
+ ],
+ "overlays": [
+  {
+   "file": "../../assets/stickers/awkward_silence/silence.png",
+   "start": 110.46,
+   "end": 111.86,
+   "position": "lower_right",
+   "width": 360
+  },
+  {
+   "file": "../../assets/stickers/family/every_mom.png",
+   "start": 157.98,
+   "end": 159.48,
+   "position": "upper_center",
+   "width": 560
+  },
+  {
+   "file": "../../assets/stickers/dramatic_realization/plot_twist.png",
+   "start": 145.38,
+   "end": 146.78,
+   "position": "upper_center",
+   "width": 520
+  }
+ ],
+ "sfx": [
+  {
+   "file": "../../assets/sfx/pop.wav",
+   "at": 50.45,
+   "gain_db": -12
+  },
+  {
+   "file": "../../assets/sfx/boing.wav",
+   "at": 93.92,
+   "gain_db": -12
+  },
+  {
+   "file": "../../assets/sfx/crickets.wav",
+   "at": 110.51,
+   "gain_db": -14
+  },
+  {
+   "file": "../../assets/sfx/record_scratch.wav",
+   "at": 115.97,
+   "gain_db": -12
+  },
+  {
+   "file": "../../assets/sfx/dramatic_sting.wav",
+   "at": 145.33,
+   "gain_db": -16
+  },
+  {
+   "file": "../../assets/sfx/impact.wav",
+   "at": 157.93,
+   "gain_db": -9
+  }
+ ],
+ "publishing": {
+  "hooks": [
+   "Le groupe WhatsApp familial a détruit ma famille",
+   "Mon père répond à TOUT avec un pouce",
+   "Attends de voir comment elle a su…"
+  ],
+  "tiktok_caption": "Le groupe « Famille unie » 😭 Tague celui qui envoie des roses qui tournent 🌹 #humour #whatsapp #famille",
+  "youtube_title": "Le groupe WhatsApp familial 😂 (English subtitles)",
+  "youtube_description": "Original stand-up bit by PUNCHLINE LAB (pipeline test, synthetic voice). English subtitles: translation by the channel.",
+  "hashtags": [
+   "#humour",
+   "#standup",
+   "#whatsapp",
+   "#famille",
+   "#shorts"
+  ]
+ }
+}
