@@ -37,3 +37,7 @@ projects/daily/<date>/<nn>_<comedian>_<bit>/
 
 Then: Eddie Murphy, Bernie Mac, Katt Williams, Jim Carrey, and back to the top of the list.
 If no usable Darija clip is found on a given day, fill the slot with another FR or EN comedian rather than ship a weak short.
+
+## Publishing preference (set by the channel owner)
+- **Always spread ("étale")**: the 3 daily shorts go out at **13:00, 18:00 and 21:00 Paris time** on Instagram @the_punchlinelab and the Facebook Page Thepunchlinelab (and TikTok once connected).
+- Each morning the drafts are shown in one message; a single "ok" from the owner schedules all three (vidIQ requires approval of each batch of drafts).
