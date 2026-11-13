@@ -14,8 +14,18 @@
     "status": "user_assumed",
     "notes": "Channel owner publishes without licence; credit comedian + Montreux Comedy with link."
   },
-  "context_note": "",
-  "segments": [],
+  "context_note": "Self-contained bit about TV: people who watch trash TV 'just to see how bad it is'. Stops before her edgier immigration bit, which needs full context.",
+  "segments": [
+    {
+      "in": 104.68,
+      "out": 128.11
+    },
+    {
+      "in": 128.61,
+      "out": 224.26,
+      "freeze": 0.6
+    }
+  ],
   "framing": {
     "mode": "blur_fill",
     "raise_px": 140,
@@ -32,10 +42,85 @@
     "file": "subs.en.srt",
     "language": "en"
   },
-  "highlight_words": [],
-  "zooms": [],
-  "editorial_captions": [],
-  "overlays": [],
-  "sfx": [],
-  "publishing": {}
+  "highlight_words": [
+    "télé",
+    "merde",
+    "recul",
+    "merdologue",
+    "con",
+    "conne",
+    "miroir"
+  ],
+  "zooms": [
+    {
+      "at": 56.79,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 109.75,
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Ceux qui regardent la télé « juste pour voir à quel point c'est nul »",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Le miroir ne ment jamais… sauf pour ça",
+      "start": 111.6,
+      "end": 114.4
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/confusion/huh.png",
+      "start": 58.22,
+      "end": 59.62,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 58.22,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 67.76,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 111.6,
+      "gain_db": -11
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Tu regardes la télé « avec du recul » ? 😂",
+      "Blanche Gardin a un mot pour toi : merdologue",
+      "On ne se voit pas devenir con…"
+    ],
+    "youtube_title": "Blanche Gardin : « T'es merdologue ? » La télé avec du recul 😂 #shorts",
+    "caption": "Tu regardes la télé « juste pour voir à quel point c'est nul » ? 😂 Blanche Gardin a un mot pour toi : merdologue.\n\n🎤 Blanche Gardin, Gala Montreux Comedy\n🎬 Original : Montreux Comedy (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague celui qui regarde la télé « avec du recul » 👇\n\n#blanchegardin #humour #standup #montreuxcomedy #television #humourfrancais #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "blanche gardin",
+      "montreux comedy",
+      "humour",
+      "stand up",
+      "télé",
+      "merdologue",
+      "humour français",
+      "sketch",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
 }
