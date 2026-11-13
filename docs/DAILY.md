@@ -26,6 +26,9 @@ projects/daily/<date>/<nn>_<comedian>_<bit>/
 3. Fill in the `__placeholder__` times in edit.json (zoom, sticker and SFX on the punchline words)
 4. `python3 tools/make_short.py edit.json`, then `tools/qc.py`, `tools/thumbnail.py`, `tools/deliverables.py`
 
+## Priority comedians (owner request, 2026-11-13)
+- **Sarah Lélé** (Belgian, FR → EN), **Booder** (FR → EN), and other acts from **Marrakech du Rire** (FR → EN; Darija → FR). Use them before the rotation below.
+
 ## Rotation (first 5 days)
 | day | FR → EN | EN → FR | Darija → FR |
 |---|---|---|---|
@@ -40,4 +43,5 @@ If no usable Darija clip is found on a given day, fill the slot with another FR 
 
 ## Publishing preference (set by the channel owner)
 - **Always spread ("étale")**: the 5 daily shorts go out at **11:00, 13:00, 16:00, 18:00 and 21:00 Paris time** on Instagram @the_punchlinelab, the Facebook Page Thepunchlinelab and TikTok The_punchlinelab (public, comments on, Music Usage Confirmation accepted 2026-11-12).
-- Each morning the drafts are shown in one message; a single "ok" from the owner schedules all of them (vidIQ requires approval of each batch of drafts).
+- **Standing approval (owner, 2026-11-13): "NEXT time post without my ok".** Each daily run drafts and publishes all 5 shorts itself, then reports the links. Do not wait for an "ok".
+- If a slot has already passed, use the next free slot (at least 1 hour apart).
