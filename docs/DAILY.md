@@ -1,7 +1,7 @@
-# Daily Production: 3 shorts a day
+# Daily Production: 5 shorts a day
 
 ## Rules
-- **3 shorts a day, 3 different comedians.** No comedian repeats within 5 days (checked against `projects/daily/log.json`).
+- **5 shorts a day, 5 different comedians** (owner's choice, 2026-11-13). No comedian repeats within 5 days (checked against `projects/daily/log.json`).
 - **Length:** 15s to **3:00** max. Use the long format only when the story needs it.
 - **Subtitles are always bilingual:** original on top (white), translation underneath (yellow), plus the corner label "translation".
 
@@ -39,5 +39,5 @@ Then: Eddie Murphy, Bernie Mac, Katt Williams, Jim Carrey, and back to the top o
 If no usable Darija clip is found on a given day, fill the slot with another FR or EN comedian rather than ship a weak short.
 
 ## Publishing preference (set by the channel owner)
-- **Always spread ("étale")**: the 3 daily shorts go out at **13:00, 18:00 and 21:00 Paris time** on Instagram @the_punchlinelab, the Facebook Page Thepunchlinelab and TikTok The_punchlinelab (public, comments on, Music Usage Confirmation accepted 2026-11-12).
-- Each morning the drafts are shown in one message; a single "ok" from the owner schedules all three (vidIQ requires approval of each batch of drafts).
+- **Always spread ("étale")**: the 5 daily shorts go out at **11:00, 13:00, 16:00, 18:00 and 21:00 Paris time** on Instagram @the_punchlinelab, the Facebook Page Thepunchlinelab and TikTok The_punchlinelab (public, comments on, Music Usage Confirmation accepted 2026-11-12).
+- Each morning the drafts are shown in one message; a single "ok" from the owner schedules all of them (vidIQ requires approval of each batch of drafts).
