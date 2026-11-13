@@ -7,3 +7,4 @@
 *.mov
 __pycache__/
 *.pyc
+cache/
