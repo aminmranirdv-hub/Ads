@@ -27,7 +27,7 @@ projects/daily/<date>/<nn>_<comedian>_<bit>/
 4. `python3 tools/make_short.py edit.json`, then `tools/qc.py`, `tools/thumbnail.py`, `tools/deliverables.py`
 
 ## Priority comedians (owner request, 2026-11-13)
-- **Sarah Lélé** (Belgian, FR → EN), **Booder** (FR → EN), and other acts from **Marrakech du Rire** (FR → EN; Darija → FR). Use them before the rotation below.
+- **Ilyès Djadel** (FR → EN; owner asked for 2026-11-14), **Sarah Lélé** (Belgian, FR → EN), **Booder** (FR → EN), and other acts from **Marrakech du Rire** (FR → EN; Darija → FR). Use them before the rotation below.
 
 ## Rotation (first 5 days)
 | day | FR → EN | EN → FR | Darija → FR |
