@@ -1,0 +1,38 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit comedian + Montreux Comedy with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.07,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-13_guillermo_guizz",
+  "comedian": "Guillermo Guizz",
+  "source": {
+    "file": "source.mp4",
+    "title": "Gala Stand-up avec Vérino - Montreux Comedy (spectacle complet, 2016)",
+    "url": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=2980s",
+    "channel": "Montreux Comedy (official)",
+    "offset_in_gala_s": 2980,
+    "timestamp": "49:45"
+  },
+  "segments": [],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "zooms": [],
+  "sfx": [],
+  "overlays": [],
+  "editorial_captions": []
+}
