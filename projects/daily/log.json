@@ -36,5 +36,45 @@
     "status": "scheduled IG+FB 2026-11-12 18:00 Paris; TikTok added (same time)",
     "vidiq_post_id": "c2fd682d-1a05-43d4-85b4-1eb7b5ccdb1b",
     "youtube": "https://www.youtube.com/watch?v=oC6JVmkqgnk (public 20:00)"
+  },
+  {
+    "date": "2026-11-13",
+    "comedian": "Blanche Gardin",
+    "clip": "01_blanche_gardin",
+    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
+    "status": "drafted IG+FB+TikTok+YouTube for 2026-11-13 18:00 Paris; awaiting approval",
+    "vidiq_post_id": "99312163-c2fb-4e41-ae1c-ceafdf2015a4"
+  },
+  {
+    "date": "2026-11-13",
+    "comedian": "Rachid Badouri",
+    "clip": "02_rachid_badouri",
+    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
+    "status": "drafted IG+FB+TikTok+YouTube for 2026-11-13 19:00 Paris; awaiting approval",
+    "vidiq_post_id": "986aa832-80d6-4a70-81a9-3a1fe1786122"
+  },
+  {
+    "date": "2026-11-13",
+    "comedian": "Sebastian Marx",
+    "clip": "03_sebastian_marx",
+    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
+    "status": "drafted IG+FB+TikTok+YouTube for 2026-11-13 20:00 Paris; awaiting approval",
+    "vidiq_post_id": "6becae9d-463a-4ec7-b718-f585670b65e8"
+  },
+  {
+    "date": "2026-11-13",
+    "comedian": "Pierre Croce",
+    "clip": "04_pierre_croce",
+    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
+    "status": "drafted IG+FB+TikTok+YouTube for 2026-11-13 21:00 Paris; awaiting approval",
+    "vidiq_post_id": "61bc8f76-dd1e-4626-ab0b-bf3b478612ed"
+  },
+  {
+    "date": "2026-11-13",
+    "comedian": "Guillermo Guizz",
+    "clip": "05_guillermo_guizz",
+    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
+    "status": "drafted IG+FB+TikTok+YouTube for 2026-11-13 22:00 Paris; awaiting approval",
+    "vidiq_post_id": null
   }
 ]

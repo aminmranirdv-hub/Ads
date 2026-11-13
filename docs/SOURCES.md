@@ -23,5 +23,5 @@ Pick from here before spending vidIQ credits on searches. Mark a video as used (
 | Redouane Bougheraba | FR | https://www.youtube.com/watch?v=Ge_II14MW8A | Redouane Bougheraba TV | 2026-11-12 (0:12-2:58) |
 | Rachid El Baz & Tarek Badir | Darija | https://www.youtube.com/watch?v=LFHFFHoXamo | StandUp Al Aoula TV | skipped: audio not transcribable |
 | Mourad Kerdali | Darija | https://www.youtube.com/watch?v=8TxEIq8mxhI | StandUp Al Aoula TV | |
-| GALA (10 comedians: Vérino, Sebastian Marx, Odah & Dako, Nathanaël Rochat, Mr. Poulpe, Guillermo Guizz, P.E., Blanche Gardin, Pierre Croce, Rachid Badouri) | FR | https://www.youtube.com/watch?v=gPnTQWWEZzg (1:33:24, chapters in description) | Montreux Comedy | |
+| GALA (10 comedians: Vérino, Sebastian Marx, Odah & Dako, Nathanaël Rochat, Mr. Poulpe, Guillermo Guizz, P.E., Blanche Gardin, Pierre Croce, Rachid Badouri) | FR | https://www.youtube.com/watch?v=gPnTQWWEZzg (1:33:24, chapters in description) | Montreux Comedy | 2026-11-13: Blanche Gardin, Rachid Badouri, Sebastian Marx, Pierre Croce, Guillermo Guizz used. Remaining: Vérino, Odah & Dako, Nathanaël Rochat, Mr. Poulpe, P.E. (cached in cache/gPnTQWWEZzg.mp4) |
 | Alban Ivanov | FR | https://www.youtube.com/watch?v=6Ts0foAxeXw | Alban Ivanov (Marrakech du rire) | |

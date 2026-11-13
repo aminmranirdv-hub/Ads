@@ -25,14 +25,128 @@
     "offset_in_gala_s": 2980,
     "timestamp": "49:45"
   },
-  "segments": [],
+  "segments": [
+    {
+      "in": 226.45,
+      "out": 260.46
+    },
+    {
+      "in": 260.84,
+      "out": 280.42
+    },
+    {
+      "in": 281.34,
+      "out": 286.42
+    },
+    {
+      "in": 287.8,
+      "out": 302.1
+    },
+    {
+      "in": 303.05,
+      "out": 312.87
+    },
+    {
+      "in": 313.99,
+      "out": 318.75
+    },
+    {
+      "in": 319.06,
+      "out": 327.17,
+      "freeze": 0.5
+    }
+  ],
   "subtitles": "subs.fixed.srt",
   "translation": {
     "file": "subs.en.srt",
     "language": "en"
   },
-  "zooms": [],
-  "sfx": [],
-  "overlays": [],
-  "editorial_captions": []
+  "zooms": [
+    {
+      "at": 9.93,
+      "dur": 2.0,
+      "scale": 1.1
+    },
+    {
+      "at": 25.75,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 91.93,
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 28.34,
+      "gain_db": -11
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 75.6,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 80.52,
+      "gain_db": -12
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/confusion/huh.png",
+      "start": 51.94,
+      "end": 53.34,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Se battre pour son pays ? Ça dépend contre qui… 😏",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Stratégie militaire : validée ✅",
+      "start": 93.7,
+      "end": 96.16
+    }
+  ],
+  "highlight_words": [
+    "cupcakes",
+    "guerre",
+    "défoncer",
+    "carnage",
+    "Luxembourg",
+    "grand-duc",
+    "Russie",
+    "désertion"
+  ],
+  "publishing": {
+    "hooks": [
+      "Se battre pour son pays ? Ça dépend contre qui 😏",
+      "L'armée du Luxembourg : deux mecs dans une Twingo",
+      "Contre la Russie ? Dynamique de désertion."
+    ],
+    "youtube_title": "Guillermo Guizz : se battre pour son pays ? « Ça dépend contre qui » 😂 #shorts",
+    "caption": "« Se battre pour mon pays ? Ça dépend contre quel pays. » 😂 Le Luxembourg, ok. La Russie… dynamique de désertion.\n\n🎤 Guillermo Guizz, Gala Montreux Comedy\n🎬 Original : Montreux Comedy (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui déserterait en premier 👇\n\n#guillermoguizz #humour #standup #montreuxcomedy #belgique #humourbelge #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "guillermo guizz",
+      "montreux comedy",
+      "humour",
+      "stand up",
+      "humour belge",
+      "belgique",
+      "luxembourg",
+      "cupcakes",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Belgian comedian: the cupcake shop in his posh Brussels street -> 'if there's a war we're done for' -> would he fight for his country? Depends who against (Liechtenstein, Andorra, Luxembourg) -> against Russia: desertion. Starts after the earlier race/police material; stops at the desertion punchline (next tag line unclear in audio)."
 }
