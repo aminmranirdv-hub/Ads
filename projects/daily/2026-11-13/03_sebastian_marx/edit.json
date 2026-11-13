@@ -14,8 +14,21 @@
     "status": "user_assumed",
     "notes": "Channel owner publishes without licence; credit comedian + Montreux Comedy with link."
   },
-  "context_note": "",
-  "segments": [],
+  "context_note": "American comedian living in France riffs on French spelling ('eau' = E+A+U pronounced 'O', silent X) and why HELP beats AU SECOURS on a desert island. Stops at the punchline; the following grammar tag was unclear in the audio.",
+  "segments": [
+    {
+      "in": 40.05,
+      "out": 56.4
+    },
+    {
+      "in": 57.85,
+      "out": 62.89
+    },
+    {
+      "in": 64.52,
+      "out": 78.91
+    }
+  ],
   "framing": {
     "mode": "blur_fill",
     "raise_px": 140,
@@ -32,10 +45,92 @@
     "file": "subs.en.srt",
     "language": "en"
   },
-  "highlight_words": [],
-  "zooms": [],
-  "editorial_captions": [],
-  "overlays": [],
-  "sfx": [],
-  "publishing": {}
+  "highlight_words": [
+    "artistes",
+    "E",
+    "A",
+    "U",
+    "O",
+    "X",
+    "HELP",
+    "AU SECOURS",
+    "île"
+  ],
+  "zooms": [
+    {
+      "at": 14.25,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 32.27,
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Un Américain explique pourquoi le français est une langue d'artiste",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Les Français en PLS",
+      "start": 33.86,
+      "end": 35.78
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/confusion/huh.png",
+      "start": 20.18,
+      "end": 21.58,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 8.72,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 15.6,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 20.18,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 33.86,
+      "gain_db": -11
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "E + A + U = O ? Un Américain craque 😂",
+      "Pourquoi le français est une langue d'artiste",
+      "HELP vs AU SECOURS sur une île déserte"
+    ],
+    "youtube_title": "Sebastian Marx : « E, A, U… et je le prononce O » 😂 #shorts",
+    "caption": "« Je prends un E, un A et un U… et je le prononce O. » 😂 Un Américain explique la langue française (et pourquoi HELP > AU SECOURS sur une île déserte).\n\n🎤 Sebastian Marx, Gala Montreux Comedy\n🎬 Original : Montreux Comedy (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague un étranger qui galère avec le français 👇\n\n#sebastianmarx #humour #standup #montreuxcomedy #languefrancaise #americain #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "sebastian marx",
+      "montreux comedy",
+      "humour",
+      "stand up",
+      "langue française",
+      "américain",
+      "orthographe",
+      "sketch",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
 }

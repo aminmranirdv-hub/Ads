@@ -1,0 +1,43 @@
+{
+  "trans_lang": "en",
+  "context_note": "American comedian living in France riffs on French spelling ('eau' = E+A+U pronounced 'O', silent X) and why HELP beats AU SECOURS on a desert island. Stops at the punchline; the following grammar tag was unclear in the audio.",
+  "ranges": [[18, 34]],
+  "end_pad": 1.4,
+  "hook": "Un Américain explique pourquoi le français est une langue d'artiste",
+  "highlight_words": ["artistes", "E", "A", "U", "O", "X", "HELP", "AU SECOURS", "île"],
+  "cues": {
+    "18": ["Mais c'est pas ma faute si je parle comme", "But it's not my fault I talk like"],
+    "19": ["ça. C'est la faute de la langue française,", "this. It's the French language's fault,"],
+    "20": ["parce que cette langue n'a pas été créée", "because this language wasn't created"],
+    "21": ["par des linguistes.", "by linguists."],
+    "22": ["Elle a été créée par des artistes. L'", "It was created by artists."],
+    "23": ["expressionnisme abstrait.", "Abstract expressionism."],
+    "24": ["Je prends un E, un A et un U…", "I take an E, an A and a U…"],
+    "25": ["Et je le prononce « O ».", "…and I pronounce it \"O\". (eau = water)"],
+    "26": ["Après, je mets un X…", "Then I add an X…"],
+    "27": ["Mais je le prononce pas.", "…but I don't pronounce it."],
+    "28": ["C'est pour ça que si un jour j'étais", "That's why if one day I were"],
+    "29": ["naufragé sur une île déserte, j'espère que", "shipwrecked on a desert island, I hope"],
+    "30": ["cette île n'est pas francophone, parce", "that island isn't French-speaking, because"],
+    "31": ["que je sortirai jamais de cette île.", "I'd never get off that island."],
+    "32": ["Parce que le mot « HELP » est mille fois plus", "Because the word \"HELP\" is a thousand times"],
+    "33": ["facile à écrire dans le sable que « AU", "easier to write in the sand than"],
+    "34": ["SECOURS », OK ?", "\"AU SECOURS\", OK?"]
+  },
+  "effects": [
+    {"type": "sfx", "word": "artistes", "file": "pop", "gain": -12},
+    {"type": "zoom", "word": "prononce", "nth": 1, "offset": -0.4, "dur": 2.0, "scale": 1.12},
+    {"type": "sfx", "word": "o", "nth": 1, "file": "boing", "gain": -13},
+    {"type": "sticker", "word": "prononce", "nth": 2, "file": "confusion/huh", "pos": "lower_right", "width": 380, "dur": 1.4},
+    {"type": "sfx", "word": "prononce", "nth": 2, "file": "record_scratch", "gain": -12},
+    {"type": "zoom", "word": "secour", "offset": -1.2, "dur": 2.4, "scale": 1.15},
+    {"type": "sfx", "word": "secour", "file": "impact", "gain": -11},
+    {"type": "caption", "word": "secour", "text": "Les Français en PLS", "dur": 2.6}
+  ],
+  "publishing": {
+    "hooks": ["E + A + U = O ? Un Américain craque 😂", "Pourquoi le français est une langue d'artiste", "HELP vs AU SECOURS sur une île déserte"],
+    "youtube_title": "Sebastian Marx : « E, A, U… et je le prononce O » 😂 #shorts",
+    "caption": "« Je prends un E, un A et un U… et je le prononce O. » 😂 Un Américain explique la langue française (et pourquoi HELP > AU SECOURS sur une île déserte).\n\n🎤 Sebastian Marx, Gala Montreux Comedy\n🎬 Original : Montreux Comedy (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague un étranger qui galère avec le français 👇\n\n#sebastianmarx #humour #standup #montreuxcomedy #languefrancaise #americain #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": ["sebastian marx", "montreux comedy", "humour", "stand up", "langue française", "américain", "orthographe", "sketch", "drôle", "shorts", "comedy"]
+  }
+}
