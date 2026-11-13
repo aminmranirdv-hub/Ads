@@ -14,8 +14,22 @@
     "status": "user_assumed",
     "notes": "Channel owner publishes without licence; credit comedian + Montreux Comedy with link."
   },
-  "context_note": "",
-  "segments": [],
+  "context_note": "Self-contained childhood story: the only Arab kid in a Quebec neighbourhood gets cast as Aladdin when friends play superheroes; later becomes 'Ricardo'. Self-deprecating identity humour by the comedian about himself. Unclear tag line (cue 35) cut.",
+  "segments": [
+    {
+      "in": 52.18,
+      "out": 75.19,
+      "freeze": 0.6
+    },
+    {
+      "in": 78.14,
+      "out": 87.63
+    },
+    {
+      "in": 91.13,
+      "out": 104.17
+    }
+  ],
   "framing": {
     "mode": "blur_fill",
     "raise_px": 140,
@@ -32,10 +46,85 @@
     "file": "subs.en.srt",
     "language": "en"
   },
-  "highlight_words": [],
-  "zooms": [],
-  "editorial_captions": [],
-  "overlays": [],
-  "sfx": [],
-  "publishing": {}
+  "highlight_words": [
+    "Batman",
+    "Superman",
+    "Aladdin",
+    "cape",
+    "tapis",
+    "tajine",
+    "Ricardo"
+  ],
+  "zooms": [
+    {
+      "at": 20.41,
+      "dur": 2.4,
+      "scale": 1.18
+    },
+    {
+      "at": 42.83,
+      "dur": 2.0,
+      "scale": 1.12
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Quand t'es le seul rebeu du quartier et qu'on joue aux super-héros…",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Le rebranding du siècle",
+      "start": 44.28,
+      "end": 46.14
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 22.26,
+      "end": 23.66,
+      "position": "lower_right",
+      "width": 440
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 22.26,
+      "gain_db": -11
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 27.62,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 31.8,
+      "gain_db": -11
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "« Rachid… Aladdin. » 😭",
+      "Quand t'es le seul rebeu du quartier",
+      "Sa lampe magique, c'était le tajine de sa mère"
+    ],
+    "youtube_title": "Rachid Badouri : « Rachid… tu seras Aladdin » 😭 #shorts",
+    "caption": "« Mike, Batman. Éric, Superman. Rachid… Aladdin. » 😭 Sa lampe magique ? Le tajine de sa mère.\n\n🎤 Rachid Badouri, Gala Montreux Comedy\n🎬 Original : Montreux Comedy (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui avait toujours le pire rôle 👇\n\n#rachidbadouri #humour #standup #montreuxcomedy #quebec #humourfrancais #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "rachid badouri",
+      "montreux comedy",
+      "humour",
+      "stand up",
+      "aladdin",
+      "québec",
+      "humour québécois",
+      "sketch",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
 }

@@ -1,0 +1,50 @@
+{
+  "trans_lang": "en",
+  "context_note": "Self-contained childhood story: the only Arab kid in a Quebec neighbourhood gets cast as Aladdin when friends play superheroes; later becomes 'Ricardo'. Self-deprecating identity humour by the comedian about himself. Unclear tag line (cue 35) cut.",
+  "ranges": [[18, 34], [37, 43]],
+  "end_pad": 1.2,
+  "hook": "Quand t'es le seul rebeu du quartier et qu'on joue aux super-héros…",
+  "highlight_words": ["Batman", "Superman", "Aladdin", "cape", "tapis", "tajine", "Ricardo"],
+  "cues": {
+    "18": ["Vraiment, j'étais le seul, le", "Really, I was the only one, the"],
+    "19": ["seul dans le quartier, et ces Québécois", "only one in the neighbourhood, and these Quebec kids"],
+    "20": ["voulaient toujours jouer à des jeux à l'", "always wanted to play American-style"],
+    "21": ["américaine, et en tant que beur, en", "games, and as an Arab kid,"],
+    "22": ["tant que rebeu, j'avais pas ma place.", "as a \"rebeu\", there was no role for me."],
+    "23": ["Chaque jour, la même connerie avec ces", "Every day, the same nonsense with my"],
+    "24": ["amis québécois :", "Quebec friends:"],
+    "25": ["« Hé, OK, on joue encore aux super-", "\"Hey, OK, let's play superheroes"],
+    "26": ["héros ! Aujourd'hui, Mike, tu vas être", "again! Today, Mike, you're"],
+    "27": ["Batman,", "Batman,"],
+    "28": ["Éric, Superman… Rachid, Aladdin. »", "Eric, Superman… Rachid, Aladdin.\""],
+    "29": ["Ils avaient une cape.", "They had a cape."],
+    "30": ["C'est cool, une cape.", "A cape is cool."],
+    "31": ["J'avais un tapis.", "I had a rug."],
+    "32": ["C'est pas cool, un tapis.", "A rug is not cool."],
+    "33": ["Ma lampe magique, c'était le tajine de ma", "My magic lamp was my mom's"],
+    "34": ["mère.", "tagine."],
+    "37": ["Mais plus tard, le Québec a ouvert ses", "But later, Quebec opened its"],
+    "38": ["portes à l'immigration.", "doors to immigration."],
+    "39": ["Et là, j'étais content.", "And then I was happy."],
+    "40": ["Surtout aux Latinos sud-américains.", "Especially to South American Latinos."],
+    "41": ["Là, le brun, le beur revenait à la mode.", "Suddenly brown skin was back in fashion."],
+    "42": ["J'étais plus Rachid, j'étais Ricardo.", "I wasn't Rachid anymore, I was Ricardo."],
+    "43": ["Tu comprends ?", "You get it?"]
+  },
+  "effects": [
+    {"type": "zoom", "word": "aladin", "offset": -1.0, "dur": 2.4, "scale": 1.18},
+    {"type": "freeze", "word": "aladin", "dur": 0.6},
+    {"type": "sfx", "word": "aladin", "file": "record_scratch", "gain": -11},
+    {"type": "sticker", "word": "aladin", "file": "shock/wait_what", "pos": "lower_right", "width": 440, "dur": 1.4},
+    {"type": "sfx", "word": "tapis", "file": "boing", "gain": -13},
+    {"type": "sfx", "word": "mère", "nth": 1, "file": "impact", "gain": -11},
+    {"type": "zoom", "word": "ricardo", "offset": -0.8, "dur": 2.0, "scale": 1.12},
+    {"type": "caption", "word": "ricardo", "text": "Le rebranding du siècle", "dur": 2.6}
+  ],
+  "publishing": {
+    "hooks": ["« Rachid… Aladdin. » 😭", "Quand t'es le seul rebeu du quartier", "Sa lampe magique, c'était le tajine de sa mère"],
+    "youtube_title": "Rachid Badouri : « Rachid… tu seras Aladdin » 😭 #shorts",
+    "caption": "« Mike, Batman. Éric, Superman. Rachid… Aladdin. » 😭 Sa lampe magique ? Le tajine de sa mère.\n\n🎤 Rachid Badouri, Gala Montreux Comedy\n🎬 Original : Montreux Comedy (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui avait toujours le pire rôle 👇\n\n#rachidbadouri #humour #standup #montreuxcomedy #quebec #humourfrancais #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": ["rachid badouri", "montreux comedy", "humour", "stand up", "aladdin", "québec", "humour québécois", "sketch", "drôle", "shorts", "comedy"]
+  }
+}
