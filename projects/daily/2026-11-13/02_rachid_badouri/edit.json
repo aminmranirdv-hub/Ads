@@ -1,0 +1,41 @@
+{
+  "id": "2026-11-13_rachid_badouri",
+  "comedian": "Rachid Badouri",
+  "language": "fr",
+  "source": {
+    "file": "source.mp4",
+    "title": "Gala Stand-up avec Vérino - Montreux Comedy (spectacle complet, 2016)",
+    "url": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=4910s",
+    "channel": "Montreux Comedy (official)",
+    "offset_in_gala_s": 4910,
+    "timestamp": "1:21:50"
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit comedian + Montreux Comedy with link."
+  },
+  "context_note": "",
+  "segments": [],
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.07,
+      "y1": 1.0
+    }
+  },
+  "subtitles": "subs.fixed.srt",
+  "subtitles_timing": "source",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [],
+  "zooms": [],
+  "editorial_captions": [],
+  "overlays": [],
+  "sfx": [],
+  "publishing": {}
+}
