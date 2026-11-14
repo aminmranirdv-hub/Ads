@@ -44,4 +44,5 @@ If no usable Darija clip is found on a given day, fill the slot with another FR 
 ## Publishing preference (set by the channel owner)
 - **Always spread ("étale")**: the 5 daily shorts go out at **11:00, 13:00, 16:00, 18:00 and 21:00 Paris time** on Instagram @the_punchlinelab, the Facebook Page Thepunchlinelab and TikTok The_punchlinelab (public, comments on, Music Usage Confirmation accepted 2026-11-12).
 - **Standing approval (owner, 2026-11-13): "NEXT time post without my ok".** Each daily run drafts and publishes all 5 shorts itself, then reports the links. Do not wait for an "ok".
+- **Reconfirmed 2026-11-14: "Always publish without my permission and give full authorization to vidiq social, don't ask me for permission all time."** Draft, then publish immediately with vidiq_social_post_publish; never ask the owner before posting. Report links afterwards.
 - If a slot has already passed, use the next free slot (at least 1 hour apart).
