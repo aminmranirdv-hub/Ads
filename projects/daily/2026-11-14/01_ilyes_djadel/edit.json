@@ -1,0 +1,162 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Ilyès Djadel + RTL with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.5,
+      "x1": 1.0,
+      "y0": 0.0,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-14_ilyes_djadel",
+  "comedian": "Ilyès Djadel",
+  "source": {
+    "file": "source.mp4",
+    "title": "Ilyes Djadel - Le lycée catholique - Le Grand Studio RTL Humour",
+    "url": "https://www.youtube.com/watch?v=pM49eqvO-lE",
+    "channel": "RTL (official)"
+  },
+  "segments": [
+    {
+      "in": 32.13,
+      "out": 77.46
+    },
+    {
+      "in": 79.16,
+      "out": 83.26
+    },
+    {
+      "in": 83.68,
+      "out": 91.25
+    },
+    {
+      "in": 112.05,
+      "out": 116.84
+    },
+    {
+      "in": 117.5,
+      "out": 137.5
+    },
+    {
+      "in": 139.33,
+      "out": 166.49
+    },
+    {
+      "in": 166.75,
+      "out": 170.97
+    },
+    {
+      "in": 171.62,
+      "out": 175.13,
+      "freeze": 0.5
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "catholique",
+    "Seigneur",
+    "sarrasin",
+    "armoire",
+    "père",
+    "chips",
+    "Christ",
+    "barbecue",
+    "Frère",
+    "Jacques",
+    "dormez-vous"
+  ],
+  "zooms": [
+    {
+      "at": 19.99,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 90.17,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 113.39,
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 21.66,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 54.82,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 91.48,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 114.84,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 77.22,
+      "end": 78.62,
+      "position": "lower_right",
+      "width": 400
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Un musulman dans un lycée catholique… 😭",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Sonnez les matines 🔔",
+      "start": 114.84,
+      "end": 117.18
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Un musulman dans un lycée catholique 😭",
+      "Il a mangé TOUT le bol d'hosties",
+      "« Appelle-moi Frère Jacques »"
+    ],
+    "youtube_title": "Ilyès Djadel au lycée catholique : il mange tout le bol d'hosties 😭 #shorts",
+    "caption": "« Ils te mettent un bol avec des chips… » 😭 Ilyès Djadel au lycée catholique : la confession dans l'armoire, les hosties au barbecue et Frère Jacques.\n\n🎤 Ilyès Djadel, Le Grand Studio RTL Humour\n🎬 Original : RTL (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui aurait mangé tout le bol 👇\n\n#ilyesdjadel #humour #standup #rtl #lyceecatholique #humourfrancais #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "ilyès djadel",
+      "ilyes djadel",
+      "lycée catholique",
+      "rtl humour",
+      "grand studio rtl",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Ilyès Djadel at Le Grand Studio RTL Humour: a Muslim kid from northern France at a Catholic high school (confession 'wardrobe', eating the whole bowl of communion wafers he thinks are crisps, 'Frère Jacques'). Gentle, self-deprecating culture-clash humour by the comedian about his own experience. The weaker 'poisson' pun (cues 56-67) is cut."
+}

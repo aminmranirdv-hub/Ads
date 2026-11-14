@@ -1,0 +1,139 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit comedian + Montreux Comedy with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.07,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-14_nathanael_rochat",
+  "comedian": "Nathanaël Rochat",
+  "source": {
+    "file": "source.mp4",
+    "title": "Gala Stand-up avec Vérino - Montreux Comedy (spectacle complet, 2016)",
+    "url": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=2222s",
+    "channel": "Montreux Comedy (official)",
+    "offset_in_gala_s": 2222,
+    "timestamp": "37:02"
+  },
+  "segments": [
+    {
+      "in": 6.87,
+      "out": 17.0
+    },
+    {
+      "in": 19.16,
+      "out": 37.1
+    },
+    {
+      "in": 37.84,
+      "out": 54.36
+    },
+    {
+      "in": 54.94,
+      "out": 82.4
+    },
+    {
+      "in": 83.64,
+      "out": 92.45,
+      "freeze": 0.5
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "dysurie",
+    "urologue",
+    "toucher rectal",
+    "mains",
+    "bûcheron",
+    "gant",
+    "oh oui",
+    "rien"
+  ],
+  "zooms": [
+    {
+      "at": 23.15,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 69.29,
+      "dur": 2.6,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 24.58,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 47.62,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 77.18,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 38.06,
+      "end": 39.46,
+      "position": "lower_right",
+      "width": 400
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Le conseil de Nathanaël Rochat avant d'aller chez l'urologue 😳",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Diagnostic express 🩺",
+      "start": 77.18,
+      "end": 79.78
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Le conseil avant d'aller chez l'urologue 😳",
+      "« Regardez ses mains »",
+      "La technique de Nathanaël pour écourter l'examen"
+    ],
+    "youtube_title": "Nathanaël Rochat chez l'urologue : sa technique pour écourter l'examen 😳 #shorts",
+    "caption": "« Un conseil : regardez ses mains. S'il a été bûcheron… » 😳 Nathanaël Rochat chez l'urologue, et sa technique imparable pour écourter l'examen.\n\n🎤 Nathanaël Rochat, Gala Montreux Comedy\n🎬 Original : Montreux Comedy (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui a peur du médecin 👇\n\n#nathanaelrochat #humour #standup #montreuxcomedy #humoursuisse #suisse #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "nathanaël rochat",
+      "nathanael rochat",
+      "montreux comedy",
+      "humour suisse",
+      "stand up",
+      "urologue",
+      "médecin",
+      "humour",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Swiss comedian Nathanaël Rochat (dry Vaudois delivery) at the urologist: the rectal exam and his escape strategy. Self-contained, self-deprecating. Opens at 'je souffre de dysurie' (the preceding line was unclear in the audio)."
+}

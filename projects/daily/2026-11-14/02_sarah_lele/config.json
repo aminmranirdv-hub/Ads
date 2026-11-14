@@ -1,0 +1,298 @@
+{
+  "trans_lang": "en",
+  "context_note": "Sarah Lélé (Belgian-Cameroonian) on her father pushing her to marry at 21: 'I've lived with you 21 years, I've served my sentence', 'people will think you're a lesbian' vs 'people think I'm Congolese', and the Lingala/Flemish punchline. Self-contained family bit; stops before the more sensitive homophobia/religion section.",
+  "ranges": [
+    [
+      247,
+      293
+    ]
+  ],
+  "end_pad": 1.6,
+  "hook": "Quand ton père africain veut te marier à 21 ans… 😭",
+  "highlight_words": [
+    "21 ans",
+    "célibataire",
+    "mariage",
+    "hobby",
+    "peine",
+    "lesbienne",
+    "congolaise",
+    "lingala",
+    "Cameroun",
+    "flamand"
+  ],
+  "cues": {
+    "247": [
+      "Récemment, mon père, d'ailleurs,",
+      "Recently, my dad, actually,"
+    ],
+    "248": [
+      "il vient me voir, j'ai 21 ans, OK ?",
+      "comes to see me. I'm 21, OK?"
+    ],
+    "249": [
+      "Mon père, il vient me voir, il me dit :",
+      "My dad comes over and says:"
+    ],
+    "250": [
+      "« Sarah,",
+      "\"Sarah,"
+    ],
+    "251": [
+      "tu as 21 ans, ça fait donc 21 ans que tu",
+      "you're 21, so that's 21 years you've"
+    ],
+    "252": [
+      "existes. »",
+      "existed.\""
+    ],
+    "253": [
+      "J'ai dit : « Mais ça a l'air de te déranger, ça",
+      "I said: \"That seems to bother you,"
+    ],
+    "254": [
+      "va, tu veux que je fasse quelque chose ou",
+      "you want me to do something about it"
+    ],
+    "255": [
+      "quoi ? » Il me dit : « 21 ans que tu existes et",
+      "or what?\" He says: \"21 years you've existed and"
+    ],
+    "256": [
+      "21 ans que tu es célibataire.",
+      "21 years you've been single."
+    ],
+    "257": [
+      "Il va falloir que tu trouves quelqu'un, et",
+      "You need to find someone,"
+    ],
+    "258": [
+      "vite, pour te marier. » Et j'étais en mode :",
+      "fast, and get married.\" And I was like:"
+    ],
+    "259": [
+      "« Papa, le mariage, c'est pas mon truc, j'aime",
+      "\"Dad, marriage isn't my thing, I don't like"
+    ],
+    "260": [
+      "pas l'idée du mariage, j'aime pas le",
+      "the idea of marriage, I don't like the"
+    ],
+    "261": [
+      "concept. » Il a fait : « C'est pas un hobby. » J'ai",
+      "concept.\" He went: \"It's not a hobby.\" I"
+    ],
+    "262": [
+      "dit : « Oui, je sais, je sais c'est quoi le",
+      "said: \"Yes, I know what"
+    ],
+    "263": [
+      "mariage, mais pour moi, le mariage, j'en veux",
+      "marriage is, but I don't want"
+    ],
+    "264": [
+      "pas, et c'est pas une obligation de vie. » Il",
+      "it, and it's not a life obligation.\" He"
+    ],
+    "265": [
+      "a dit : « Si, c'est une obligation de vie, tu",
+      "said: \"Yes it is a life obligation, you"
+    ],
+    "266": [
+      "dois apprendre à vivre avec un homme. » J'ai",
+      "must learn to live with a man.\" I"
+    ],
+    "267": [
+      "dit : « Mais ça fait 21 ans que je vis avec",
+      "said: \"I've been living with you"
+    ],
+    "268": [
+      "toi, j'ai purgé ma peine, laisse-moi… »",
+      "for 21 years, I've served my sentence, let me be…\""
+    ],
+    "269": [
+      "Laissez-moi tranquille avec cette",
+      "Leave me alone with this"
+    ],
+    "270": [
+      "histoire.",
+      "whole thing."
+    ],
+    "271": [
+      "Mon père, il a insisté encore une fois, il",
+      "My dad insisted once more, he"
+    ],
+    "272": [
+      "a dit : « Sarah, je ne le dirai pas deux fois,",
+      "said: \"Sarah, I won't say it twice,"
+    ],
+    "273": [
+      "dépêche-toi de trouver quelqu'un, sinon",
+      "hurry up and find someone, or"
+    ],
+    "274": [
+      "les gens vont croire que tu es",
+      "people will think you're"
+    ],
+    "275": [
+      "lesbienne. »",
+      "a lesbian.\""
+    ],
+    "276": [
+      "J'ai dit : « Waouh, c'est ça pour toi le pire",
+      "I said: \"Wow, that's the worst thing"
+    ],
+    "277": [
+      "qu'on puisse croire de moi, papa, que je",
+      "people could think of me, Dad, that I'm"
+    ],
+    "278": [
+      "suis lesbienne ? Alors que les gens pensent",
+      "a lesbian? When people think"
+    ],
+    "279": [
+      "que je suis congolaise ! Tu vas bien dans",
+      "I'm Congolese! Are you OK in"
+    ],
+    "280": [
+      "ta tête ou quoi ? »",
+      "the head or what?\""
+    ],
+    "281": [
+      "Et je vous jure, c'est vrai : quand je passe",
+      "And I swear it's true: when I walk"
+    ],
+    "282": [
+      "à Matonge, à Bruxelles, les Congolais,",
+      "through Matonge in Brussels, the Congolese"
+    ],
+    "283": [
+      "ils me parlent en lingala. Je leur dis : « Je",
+      "speak to me in Lingala. I tell them: \"I'm"
+    ],
+    "284": [
+      "ne suis pas l'une des vôtres, laissez-moi",
+      "not one of you, leave me"
+    ],
+    "285": [
+      "tranquille, s'il vous plaît. »",
+      "alone, please.\""
+    ],
+    "286": [
+      "Ils continuent à parler en lingala, ils",
+      "They keep speaking Lingala,"
+    ],
+    "287": [
+      "me disent : « Mais tu viens d'où ? »",
+      "they ask: \"So where are you from?\""
+    ],
+    "288": [
+      "Je dis : « Du Cameroun. » « Il faut…",
+      "I say: \"Cameroon.\" \"You've got to…"
+    ],
+    "289": [
+      "Mais il y a beaucoup de Congolais au",
+      "But there are lots of Congolese in"
+    ],
+    "290": [
+      "Cameroun ! » Je leur dis : « Mais et alors ?",
+      "Cameroon!\" I tell them: \"So what?"
+    ],
+    "291": [
+      "Il y a beaucoup de Flamands en Belgique",
+      "There are lots of Flemish people in Belgium"
+    ],
+    "292": [
+      "et personne veut apprendre le flamand,",
+      "and nobody wants to learn Flemish,"
+    ],
+    "293": [
+      "donc… ne me parle pas de ta langue ! »",
+      "so… don't talk to me about your language!\""
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "hobby",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "zoom",
+      "word": "peine",
+      "offset": -1.2,
+      "dur": 2.2,
+      "scale": 1.12
+    },
+    {
+      "type": "sfx",
+      "word": "peine",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "sticker",
+      "word": "lesbienne",
+      "nth": 1,
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 400,
+      "dur": 1.4
+    },
+    {
+      "type": "zoom",
+      "word": "congolaise",
+      "offset": -1.0,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "congolaise",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "zoom",
+      "word": "flamand",
+      "nth": 2,
+      "offset": -1.2,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "type": "freeze",
+      "word": "langue",
+      "dur": 0.5
+    },
+    {
+      "type": "caption",
+      "word": "langue",
+      "text": "La Belgique en une phrase 🇧🇪",
+      "dur": 2.6
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Quand ton père africain veut te marier à 21 ans 😭",
+      "« J'ai purgé ma peine »",
+      "Lesbienne ? Pire : congolaise"
+    ],
+    "youtube_title": "Sarah Lélé : son père veut la marier à 21 ans 😭 « J'ai purgé ma peine » #shorts",
+    "caption": "« Ça fait 21 ans que je vis avec toi, j'ai purgé ma peine ! » 😭 Sarah Lélé, son père et le mariage… et pourquoi elle n'est PAS congolaise.\n\n🎤 Sarah Lélé, Gala d'ouverture Namur is a Joke 2024\n🎬 Original : Tipik / Namur is a Joke (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ta pote dont les parents demandent « c'est pour quand ? » 👇\n\n#sarahlele #humour #standup #namurisajoke #humourbelge #belgique #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "sarah lélé",
+      "sarah lele",
+      "namur is a joke",
+      "humour belge",
+      "stand up",
+      "humour",
+      "parents africains",
+      "mariage",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}

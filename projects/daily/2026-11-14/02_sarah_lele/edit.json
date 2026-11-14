@@ -1,0 +1,136 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Sarah Lélé + Namur is a Joke / Tipik with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.25,
+      "x1": 0.8,
+      "y0": 0.08,
+      "y1": 0.82
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-14_sarah_lele",
+  "comedian": "Sarah Lélé",
+  "source": {
+    "file": "source.mp4",
+    "title": "Sarah Lélé - Gala d'ouverture Namur is a Joke 2024",
+    "url": "https://www.youtube.com/watch?v=xlhQLTOMFaE",
+    "channel": "Tipik / Namur is a Joke"
+  },
+  "segments": [
+    {
+      "in": 388.69,
+      "out": 399.44
+    },
+    {
+      "in": 400.5,
+      "out": 432.72
+    },
+    {
+      "in": 437.18,
+      "out": 477.91,
+      "freeze": 0.5
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "21 ans",
+    "célibataire",
+    "mariage",
+    "hobby",
+    "peine",
+    "lesbienne",
+    "congolaise",
+    "lingala",
+    "Cameroun",
+    "flamand"
+  ],
+  "zooms": [
+    {
+      "at": 37.95,
+      "dur": 2.2,
+      "scale": 1.12
+    },
+    {
+      "at": 59.03,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 77.79,
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 26.26,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 39.38,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 60.6,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 53.32,
+      "end": 54.72,
+      "position": "lower_right",
+      "width": 400
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Quand ton père africain veut te marier à 21 ans… 😭",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "La Belgique en une phrase 🇧🇪",
+      "start": 82.0,
+      "end": 84.2
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Quand ton père africain veut te marier à 21 ans 😭",
+      "« J'ai purgé ma peine »",
+      "Lesbienne ? Pire : congolaise"
+    ],
+    "youtube_title": "Sarah Lélé : son père veut la marier à 21 ans 😭 « J'ai purgé ma peine » #shorts",
+    "caption": "« Ça fait 21 ans que je vis avec toi, j'ai purgé ma peine ! » 😭 Sarah Lélé, son père et le mariage… et pourquoi elle n'est PAS congolaise.\n\n🎤 Sarah Lélé, Gala d'ouverture Namur is a Joke 2024\n🎬 Original : Tipik / Namur is a Joke (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ta pote dont les parents demandent « c'est pour quand ? » 👇\n\n#sarahlele #humour #standup #namurisajoke #humourbelge #belgique #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "sarah lélé",
+      "sarah lele",
+      "namur is a joke",
+      "humour belge",
+      "stand up",
+      "humour",
+      "parents africains",
+      "mariage",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Sarah Lélé (Belgian-Cameroonian) on her father pushing her to marry at 21: 'I've lived with you 21 years, I've served my sentence', 'people will think you're a lesbian' vs 'people think I'm Congolese', and the Lingala/Flemish punchline. Self-contained family bit; stops before the more sensitive homophobia/religion section."
+}

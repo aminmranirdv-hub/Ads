@@ -1,0 +1,158 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit comedian + Montreux Comedy with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.07,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-14_verino",
+  "comedian": "Vérino",
+  "source": {
+    "file": "source.mp4",
+    "title": "Gala Stand-up avec Vérino - Montreux Comedy (spectacle complet, 2016)",
+    "url": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=1628s",
+    "channel": "Montreux Comedy (official)",
+    "offset_in_gala_s": 1628,
+    "timestamp": "27:08"
+  },
+  "segments": [
+    {
+      "in": 8.35,
+      "out": 14.07
+    },
+    {
+      "in": 41.3,
+      "out": 72.25
+    },
+    {
+      "in": 72.68,
+      "out": 84.6
+    },
+    {
+      "in": 85.75,
+      "out": 111.45
+    },
+    {
+      "in": 153.65,
+      "out": 188.88
+    },
+    {
+      "in": 189.22,
+      "out": 197.14
+    },
+    {
+      "in": 204.76,
+      "out": 218.2
+    },
+    {
+      "in": 218.72,
+      "out": 226.8,
+      "freeze": 0.6
+    },
+    {
+      "in": 233.02,
+      "out": 239.57
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "comité",
+    "comique",
+    "invincible",
+    "pisser",
+    "torché",
+    "bourré",
+    "bassin",
+    "pipi",
+    "prothèses",
+    "hanches",
+    "handicapé"
+  ],
+  "zooms": [
+    {
+      "at": 49.81,
+      "dur": 2.0,
+      "scale": 1.1
+    },
+    {
+      "at": 136.1,
+      "dur": 2.4,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 27.32,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 100.45,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 138.21,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 108.77,
+      "end": 110.17,
+      "position": "lower_right",
+      "width": 400
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Il se moque d'un mec « bourré »… grosse erreur 😬",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Le malaise du siècle 😬",
+      "start": 143.41,
+      "end": 146.01
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Il se moque d'un mec bourré… grosse erreur 😬",
+      "« Il a des prothèses de hanches »",
+      "Le pire moment de la vie d'un humoriste"
+    ],
+    "youtube_title": "Vérino se moque d'un mec « bourré »… qui avait des prothèses de hanches 😬 #shorts",
+    "caption": "« Souple sur le bassin, grand pas, pipi content ! »… sauf que le mec n'était pas bourré 😬 Le pire malaise de Vérino sur scène.\n\n🎤 Vérino, Gala Montreux Comedy\n🎬 Original : Montreux Comedy (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui parle toujours trop vite 👇\n\n#verino #humour #standup #montreuxcomedy #malaise #humourfrancais #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "vérino",
+      "verino",
+      "montreux comedy",
+      "humour",
+      "stand up",
+      "malaise",
+      "comité d'entreprise",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Vérino (host of the Montreux gala) on a corporate gig: he mocks a 'drunk' guy slowly walking to the toilets... who turns out to have hip prostheses. The joke is on the comedian himself. Seminar intro and the 'hypotenuse/timing' aside are cut for length; ends on the reveal."
+}

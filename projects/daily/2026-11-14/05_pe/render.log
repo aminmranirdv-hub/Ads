@@ -1,0 +1,30 @@
+NOTE: rights status 'user_assumed': no licence on file; the channel owner accepts the copyright risk.
+Rendered /home/user/Ads/projects/daily/2026-11-14/05_pe/export/2026-11-14_pe.mp4  (85.48s, 1080x1920, publishable)
+QC report: export/2026-11-14_pe.mp4
+
+  [PASS] video stream              h264
+  [PASS] resolution 1080x1920      1080x1920
+  [PASS] frame rate 30             30.00
+  [PASS] H.264 / yuv420p           h264 yuv420p
+  [PASS] audio stream AAC          aac
+  [PASS] duration <= 180s          83.45s
+  [PASS] duration >= 10s           83.45s
+  [PASS] loudness -14 LUFS (+/-2)  -14.5 LUFS
+  [PASS] true peak <= -1 dBFS      -1.3 dBFS
+  [WARN] rights                    user_assumed: no licence; copyright claims/strikes possible
+  [PASS] context note present      context_note
+  [PASS] source reference present  https://www.youtube.com/watch?v=gPnTQWWEZzg&t=3476s
+
+Manual checklist (editor must confirm):
+  [ ] The joke is understandable without the surrounding set
+  [ ] Original context is preserved; no cut changes what the comedian meant
+  [ ] The punchline lands - no SFX or caption steps on it
+  [ ] Subtitles match the audio word for word (spelling, names, timing)
+  [ ] Translated subtitles are labelled as translation/adaptation where meaning was adapted
+  [ ] Editorial captions are clearly the channel's commentary, never attributed to the comedian
+  [ ] Meme overlays support the joke and don't cover faces
+  [ ] All text sits inside the mobile safe zones
+  [ ] Every asset (footage, stickers, SFX, music) has a recorded licence
+  [ ] No comedian name/likeness is used in a way that implies endorsement
+
+PASSED: 0 fail(s), 1 warning(s)

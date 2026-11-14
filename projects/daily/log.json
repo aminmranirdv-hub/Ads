@@ -76,5 +76,50 @@
     "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
     "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-13 22:00 Paris",
     "vidiq_post_id": "cccfc554-6675-41d8-a1a8-de75c830a9b7"
+  },
+  {
+    "date": "2026-11-14",
+    "comedian": "Ilyès Djadel",
+    "clip": "01_ilyes_djadel",
+    "source": "https://www.youtube.com/watch?v=pM49eqvO-lE",
+    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-14 22:00 Paris (standing approval; run delayed by worker restart)",
+    "vidiq_post_id": "c1d064f4-8233-4474-a7e0-4b337ce4bc1c",
+    "youtube": "https://www.youtube.com/watch?v=H0M-5OwAci4"
+  },
+  {
+    "date": "2026-11-14",
+    "comedian": "Sarah Lélé",
+    "clip": "02_sarah_lele",
+    "source": "https://www.youtube.com/watch?v=xlhQLTOMFaE (Tipik/Namur is a Joke, not verified official)",
+    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 11:00 Paris (standing approval; run delayed by worker restart)",
+    "vidiq_post_id": "835162a9-7b5c-4381-a585-9b0641b7e9c2",
+    "youtube": "https://www.youtube.com/watch?v=nargRLB8yWE"
+  },
+  {
+    "date": "2026-11-14",
+    "comedian": "Vérino",
+    "clip": "03_verino",
+    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=1628s",
+    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 13:00 Paris (standing approval; run delayed by worker restart)",
+    "vidiq_post_id": "f3db13c8-9675-42f5-9089-c24afe32cc10",
+    "youtube": "https://www.youtube.com/watch?v=gCNXiA1lrXk"
+  },
+  {
+    "date": "2026-11-14",
+    "comedian": "Nathanaël Rochat",
+    "clip": "04_nathanael_rochat",
+    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=2222s",
+    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 16:00 Paris (standing approval; run delayed by worker restart)",
+    "vidiq_post_id": "f9f90e09-aaa6-4e95-b115-3213276f994f",
+    "youtube": "https://www.youtube.com/watch?v=ylwSSP5cspg"
+  },
+  {
+    "date": "2026-11-14",
+    "comedian": "P.E.",
+    "clip": "05_pe",
+    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=3476s",
+    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 18:00 Paris (standing approval; run delayed by worker restart)",
+    "vidiq_post_id": "2462515c-5bcb-4b5c-bd43-206db76ff419",
+    "youtube": "https://www.youtube.com/watch?v=OrYN4LuUf2U"
   }
 ]

@@ -1,0 +1,143 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit comedian + Montreux Comedy with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.07,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-14_pe",
+  "comedian": "P.E. (Pierre-Emmanuel)",
+  "source": {
+    "file": "source.mp4",
+    "title": "Gala Stand-up avec Vérino - Montreux Comedy (spectacle complet, 2016)",
+    "url": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=3476s",
+    "channel": "Montreux Comedy (official)",
+    "offset_in_gala_s": 3476,
+    "timestamp": "57:56"
+  },
+  "segments": [
+    {
+      "in": 12.32,
+      "out": 18.68
+    },
+    {
+      "in": 60.25,
+      "out": 75.8
+    },
+    {
+      "in": 76.76,
+      "out": 102.06
+    },
+    {
+      "in": 103.38,
+      "out": 124.42
+    },
+    {
+      "in": 124.64,
+      "out": 137.68,
+      "freeze": 0.5
+    },
+    {
+      "in": 138.44,
+      "out": 142.13
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Pierre-Emmanuel",
+    "enchanté",
+    "prénom",
+    "choix",
+    "Manu",
+    "P.E.",
+    "Pierre-Henri",
+    "orthographe"
+  ],
+  "zooms": [
+    {
+      "at": 19.07,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 73.05,
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 20.34,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 53.44,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 74.64,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/confusion/huh.png",
+      "start": 53.44,
+      "end": 54.84,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Quand ton prénom est trop long… 😅",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "P.E. = Pierre-Henri ✅",
+      "start": 79.32,
+      "end": 81.92
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Quand ton prénom est trop long 😅",
+      "« Tu préfères pas plutôt Manu ? »",
+      "P.E. = Pierre-Henri ?!"
+    ],
+    "youtube_title": "P.E. : « P.E… Pierre-Henri ! » Le calvaire d'un Pierre-Emmanuel 😅 #shorts",
+    "caption": "« Enchanté, Pierre-Emmanuel. » « Et on peut t'appeler comment ? » 😅 P.E. et les galères de son prénom… jusqu'à « Pierre-Henri ».\n\n🎤 P.E., Gala Montreux Comedy\n🎬 Original : Montreux Comedy (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote au prénom trop long 👇\n\n#pe #humour #standup #montreuxcomedy #humourbelge #prenom #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "p.e.",
+      "pe humoriste",
+      "pierre-emmanuel",
+      "montreux comedy",
+      "humour belge",
+      "stand up",
+      "prénom",
+      "humour",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Belgian comedian P.E. (Pierre-Emmanuel) on his long first name: people asking 'what can we call you?', 'Pierre or Emmanuel?', 'Manu?', and the girl who guesses his initials P.E. = 'Pierre-Henri'. Self-contained, clean. The cruder father joke (cues 11-19) is cut; 'j'ai essayé de tomber' (cues 59-60, unclear audio) dropped."
+}
