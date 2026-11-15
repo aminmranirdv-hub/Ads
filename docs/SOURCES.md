@@ -28,7 +28,7 @@ Pick from here before spending vidIQ credits on searches. Mark a video as used (
 | Sarah Lélé | FR (Belgian) | https://www.youtube.com/watch?v=xlhQLTOMFaE (Gala d'ouverture Namur is a Joke 2024) | Tipik (RTBF) upload | 2026-11-14 (6:28-7:55) |
 | Booder (+ Jamel, Mbappé) | FR | https://www.youtube.com/watch?v=G4i8E_ppnvw (Le génie de la lampe, MDR 2022) | DEAD (not public) | |
 | Booder | FR | https://www.youtube.com/watch?v=XQ_jLFuqLEg (best of Booder at Marrakech du Rire) | DEAD (not public) | |
-| GALA Marrakech du Rire 2022 (full show, Jamel + guests) | FR | https://www.youtube.com/watch?v=hWLRmXRqr_E | to verify | priority: 144 min, too big for free import → 1 trim_media credit |
+| GALA Marrakech du Rire 2022 (full show, Jamel + guests) | FR | https://www.youtube.com/watch?v=hWLRmXRqr_E | to verify | cached cache/hWLRmXRqr_E.mp4 (1 credit, 2026-11-15). Used: Booder génie sketch 2:12:10 (2026-11-15). Scan: projects/daily/2026-11-15/scan/all.txt (coarse transcript to find other acts) |
 | GALA Marrakech du Rire 2016 INTÉGRALE | FR | https://www.youtube.com/watch?v=iE3WTpBWgkY | to verify | |
 | GALA Marrakech du Rire 2013 INTÉGRALE | FR | https://www.youtube.com/watch?v=txbqs_4KDuA | to verify | |
 | Official channel: Marrakech du rire | FR/Darija | https://www.youtube.com/channel/UCZIrjm7b2VvKwrIdlp5j73g/videos | Marrakech du rire | prefer its uploads when available |

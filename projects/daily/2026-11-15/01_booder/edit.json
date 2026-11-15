@@ -1,0 +1,154 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Booder, Jamel Debbouze + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-15_booder",
+  "comedian": "Booder",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=7960s",
+    "channel": "to verify (full-show upload)",
+    "offset_in_show_s": 7930,
+    "timestamp": "2:12:10"
+  },
+  "segments": [
+    {
+      "in": 30.7,
+      "out": 37.07
+    },
+    {
+      "in": 47.5,
+      "out": 52.44
+    },
+    {
+      "in": 53.1,
+      "out": 58.18
+    },
+    {
+      "in": 59.12,
+      "out": 75.64
+    },
+    {
+      "in": 85.63,
+      "out": 123.18
+    },
+    {
+      "in": 124.27,
+      "out": 135.99,
+      "freeze": 0.5
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "génie",
+    "nuit",
+    "23 heures",
+    "vœu",
+    "menthe",
+    "Diabolo",
+    "veux",
+    "chicha",
+    "karaté"
+  ],
+  "zooms": [
+    {
+      "at": 14.27,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 54.28,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 78.75,
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 15.64,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 22.56,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 54.81,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 80.48,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 35.83,
+      "end": 37.23,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Jamel frotte la lampe la nuit… mauvaise idée 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Service client du génie : 0/5 ⭐",
+      "start": 80.48,
+      "end": 82.68
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Jamel frotte la lampe la nuit… 😂",
+      "Le génie de l'équipe de nuit",
+      "« Je veux » ≠ « vœu »"
+    ],
+    "youtube_title": "Booder en génie de l'équipe de nuit face à Jamel 😂 « T'as droit à UN vœu » #shorts",
+    "caption": "Jamel frotte la lampe la nuit… et tombe sur Booder, le génie de l'équipe de nuit : UN seul vœu, et attention au « je veux » 😂\n\n🎤 Booder & Jamel Debbouze, Marrakech du Rire 2022\n🎬 Original : Marrakech du Rire 2022 (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui gâcherait son seul vœu 👇\n\n#booder #jameldebbouze #marrakechdurire #humour #standup #genie #humourfrancais #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "booder",
+      "jamel debbouze",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "génie",
+      "lampe magique",
+      "humour",
+      "sketch",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Marrakech du Rire 2022 (10th edition) finale: Jamel Debbouze rubs a magic lamp at night and gets Booder, the 'night-shift genie' who only grants one wish, and the 'je veux' (I want) / 'vœu' (wish) homophone trap. Unclear lines (cues 30-34, 64-65) cut. Ends before the Mbappé surprise."
+}
