@@ -2,7 +2,8 @@
 
 ## Rules
 - **5 shorts a day, 5 different comedians** (owner's choice, 2026-11-13). No comedian repeats within 5 days (checked against `projects/daily/log.json`).
-- **Length:** 15s to **3:00** max. Use the long format only when the story needs it.
+- **Length:** 15s to **4:00** max (owner, 2026-11-15). **Never cut before the joke's payoff**: always run the clip through the final punchline and the laugh, even if that means going past 3:00. Keep it short when the bit is short.
+  - Above 3:00: YouTube publishes it as a regular video (not a Short) and Instagram/Facebook may refuse it as a Reel. If a platform refuses, post the full version where accepted and, for that platform only, split it into « Partie 1 / Partie 2 » posted back to back.
 - **Subtitles are always bilingual:** original on top (white), translation underneath (yellow), plus the corner label "translation".
 
 | performance language | translation shown |

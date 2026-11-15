@@ -63,7 +63,7 @@ def main() -> None:
         check("H.264 / yuv420p", v["codec_name"] == "h264" and v.get("pix_fmt") == "yuv420p",
               f"{v['codec_name']} {v.get('pix_fmt')}")
     check("audio stream AAC", a is not None and a["codec_name"] == "aac", a["codec_name"] if a else "missing")
-    check("duration <= 180s", dur <= 180.5, f"{dur:.2f}s")
+    check("duration <= 240s", dur <= 240.5, f"{dur:.2f}s")
     check("duration >= 10s", dur >= 10, f"{dur:.2f}s", warn=True)
     lufs, peak = loudness(args.video)
     check("loudness -14 LUFS (+/-2)", lufs is not None and abs(lufs + 14) <= 2, f"{lufs} LUFS", warn=True)
