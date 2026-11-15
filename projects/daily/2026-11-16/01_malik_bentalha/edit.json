@@ -1,0 +1,151 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Malik Bentalha + Marrakech du Rire 2018 with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.22,
+      "x1": 0.95,
+      "y0": 0.0,
+      "y1": 0.82
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-16_malik_bentalha",
+  "comedian": "Malik Bentalha",
+  "source": {
+    "file": "source.mp4",
+    "title": "Malik Bentalha au Marrakech du rire 2018 - Le Frigo",
+    "url": "https://www.youtube.com/watch?v=xMdfaaEF-u8",
+    "channel": "to verify (Marrakech du Rire 2018 clip)"
+  },
+  "segments": [
+    {
+      "in": 0.0,
+      "out": 14.28
+    },
+    {
+      "in": 15.32,
+      "out": 24.73
+    },
+    {
+      "in": 25.09,
+      "out": 28.17
+    },
+    {
+      "in": 28.82,
+      "out": 32.46
+    },
+    {
+      "in": 33.04,
+      "out": 62.99
+    },
+    {
+      "in": 67.31,
+      "out": 74.08
+    },
+    {
+      "in": 74.48,
+      "out": 80.41,
+      "freeze": 0.5
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "frigo",
+    "paradis",
+    "Narnia",
+    "mouton",
+    "coca",
+    "citron",
+    "harissa",
+    "œufs",
+    "vaccin"
+  ],
+  "zooms": [
+    {
+      "at": 12.06,
+      "dur": 2.0,
+      "scale": 1.1
+    },
+    {
+      "at": 21.29,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 68.71,
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 22.38,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 47.26,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 69.84,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 52.04,
+      "end": 53.44,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Le frigo des daronnes vs le frigo des gens normaux 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Date de péremption : 1998 💉",
+      "start": 69.84,
+      "end": 72.44
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Le frigo des daronnes vs le frigo des gens normaux 😂",
+      "Une tête de mouton dans le frigo",
+      "Le vaccin de tes 4 ans est encore là"
+    ],
+    "youtube_title": "Malik Bentalha : le frigo des daronnes 😂 (tête de mouton, harissa, vaccin) #shorts",
+    "caption": "Le frigo des gens normaux : les portes du paradis. Le nôtre : une tête de mouton, une bouteille de Coca remplie d'eau… et le vaccin de tes 4 ans 😂\n\n🎤 Malik Bentalha, Marrakech du Rire 2018\n🎬 Original : Marrakech du Rire (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui a le même frigo 👇\n\n#malikbentalha #marrakechdurire #humour #standup #frigo #daronne #humourfrancais #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "malik bentalha",
+      "marrakech du rire",
+      "marrakech du rire 2018",
+      "frigo",
+      "humour",
+      "stand up",
+      "famille",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Malik Bentalha at Marrakech du Rire 2018: 'Le Frigo', what's inside a North-African family's fridge vs a 'normal' one. The uploaded clip itself ends here; it stops on the vaccine punchline. Garbled harissa lines (cues 33-34) cut."
+}

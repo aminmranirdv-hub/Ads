@@ -34,3 +34,4 @@ Pick from here before spending vidIQ credits on searches. Mark a video as used (
 | Official channel: Marrakech du rire | FR/Darija | https://www.youtube.com/channel/UCZIrjm7b2VvKwrIdlp5j73g/videos | Marrakech du rire | prefer its uploads when available |
 | Ilyès Djadel | FR | https://www.youtube.com/watch?v=pM49eqvO-lE (Le lycée catholique, Le Grand Studio RTL Humour) | RTL (official broadcaster) | 2026-11-14 (0:32-2:54) |
 | Ilyès Djadel | FR | https://www.youtube.com/watch?v=gfyPgW6OX0Y (Le lycée catholique, KS) | to verify | backup |
+| Malik Bentalha | FR | https://www.youtube.com/watch?v=xMdfaaEF-u8 (Marrakech du Rire 2018 - Le Frigo, 1:26) | to verify | 2026-11-16 (whole clip) |

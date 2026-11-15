@@ -27,6 +27,9 @@ projects/daily/<date>/<nn>_<comedian>_<bit>/
 3. Fill in the `__placeholder__` times in edit.json (zoom, sticker and SFX on the punchline words)
 4. `python3 tools/make_short.py edit.json`, then `tools/qc.py`, `tools/thumbnail.py`, `tools/deliverables.py`
 
+## Pre-scheduled
+- **2026-11-16 11:00: Malik Bentalha (already published, see log.json).** The 2026-11-16 run makes only 4 new shorts, for 13:00, 16:00, 18:00 and 21:00.
+
 ## Priority comedians (owner request, 2026-11-13)
 - **Ilyès Djadel** (FR → EN; owner asked for 2026-11-14), **Sarah Lélé** (Belgian, FR → EN), **Booder** (FR → EN), and other acts from **Marrakech du Rire** (FR → EN; Darija → FR). Use them before the rotation below.
 

@@ -1,0 +1,265 @@
+{
+  "trans_lang": "en",
+  "context_note": "Malik Bentalha at Marrakech du Rire 2018: 'Le Frigo', what's inside a North-African family's fridge vs a 'normal' one. The uploaded clip itself ends here; it stops on the vaccine punchline. Garbled harissa lines (cues 33-34) cut.",
+  "ranges": [
+    [
+      1,
+      32
+    ],
+    [
+      35,
+      40
+    ]
+  ],
+  "end_pad": 1.6,
+  "hook": "Le frigo des daronnes vs le frigo des gens normaux 😂",
+  "highlight_words": [
+    "frigo",
+    "paradis",
+    "Narnia",
+    "mouton",
+    "coca",
+    "citron",
+    "harissa",
+    "œufs",
+    "vaccin"
+  ],
+  "cues": {
+    "1": [
+      "J'aurais dû me douter qu'on était une",
+      "I should've known we were a"
+    ],
+    "2": [
+      "famille bizarre.",
+      "weird family."
+    ],
+    "3": [
+      "Vous savez à quoi ?",
+      "You know how?"
+    ],
+    "4": [
+      "On voit qu'on est une famille bizarre à",
+      "You can tell we're a weird family by"
+    ],
+    "5": [
+      "nos frigos.",
+      "our fridge."
+    ],
+    "6": [
+      "T'as vu le frigo des gens normaux ?",
+      "Ever seen normal people's fridges?"
+    ],
+    "7": [
+      "Quand tu regardes leur frigo, déjà, quand",
+      "Look at their fridge: when"
+    ],
+    "8": [
+      "tu l'ouvres, ils s'ouvrent pas comme ton",
+      "you open it, it doesn't open like your"
+    ],
+    "9": [
+      "frigo. Eux, leur frigo, ils s'ouvrent",
+      "fridge. Theirs opens"
+    ],
+    "10": [
+      "comme les portes du paradis, comme ça.",
+      "like the gates of heaven, like this."
+    ],
+    "11": [
+      "Tu rentres dans le monde de Narnia, frère !",
+      "You're entering Narnia, bro!"
+    ],
+    "12": [
+      "Moi, j'ouvre mon frigo, le premier truc",
+      "I open my fridge, the first thing"
+    ],
+    "13": [
+      "sur lequel je tombe, c'est une tête de",
+      "I see is a"
+    ],
+    "14": [
+      "mouton coupée.",
+      "severed sheep's head."
+    ],
+    "15": [
+      "Le mouton, il te regarde comme ça.",
+      "The sheep stares at you like this."
+    ],
+    "16": [
+      "T'ouvres le frigo, on dirait qu'il va te",
+      "You open the fridge, it's like he's about to"
+    ],
+    "17": [
+      "demander si tu veux une glace.",
+      "ask if you want an ice cream."
+    ],
+    "18": [
+      "Attends,",
+      "Wait,"
+    ],
+    "19": [
+      "c'est pas fini. À côté de la tête de",
+      "it's not over. Next to the sheep's"
+    ],
+    "20": [
+      "mouton, y a quoi ?",
+      "head, what is there?"
+    ],
+    "21": [
+      "Une bouteille de Coca avec de l'eau",
+      "A Coke bottle with water"
+    ],
+    "22": [
+      "à l'intérieur,",
+      "inside,"
+    ],
+    "23": [
+      "avec l'étiquette du Coca arrachée.",
+      "with the Coke label torn off."
+    ],
+    "24": [
+      "À côté de la bouteille de Coca, y a un",
+      "Next to the Coke bottle, there's half"
+    ],
+    "25": [
+      "demi-citron coupé, tout sec.",
+      "a lemon, all dried up."
+    ],
+    "26": [
+      "Il est là au cas où y a des moustiques",
+      "It's there in case there are mosquitoes"
+    ],
+    "27": [
+      "dans le frigo.",
+      "in the fridge."
+    ],
+    "28": [
+      "À côté du demi-citron, t'as quoi ?",
+      "Next to the half lemon, what've you got?"
+    ],
+    "29": [
+      "Un tube d'harissa plié mille fois.",
+      "A tube of harissa folded a thousand times."
+    ],
+    "30": [
+      "Ta mère, elle veut pas en acheter un nouveau.",
+      "Your mom refuses to buy a new one."
+    ],
+    "31": [
+      "Même le tube, il a envie de dire : « Oh, ça y",
+      "Even the tube wants to say: \"Come on,"
+    ],
+    "32": [
+      "est, c'est fini ! »",
+      "it's over!\""
+    ],
+    "35": [
+      "Après, dans la portière en haut, t'as quoi ?",
+      "Then, in the door at the top, what've you got?"
+    ],
+    "36": [
+      "T'as des œufs. À côté des œufs, t'as des",
+      "Eggs. Next to the eggs,"
+    ],
+    "37": [
+      "gouttes pour les yeux,",
+      "eye drops,"
+    ],
+    "38": [
+      "et à côté des gouttes pour les yeux, t'as",
+      "and next to the eye drops,"
+    ],
+    "39": [
+      "un vaccin que tu devais faire quand",
+      "a vaccine you were supposed to get when you"
+    ],
+    "40": [
+      "t'avais 4 ans.",
+      "were 4."
+    ]
+  },
+  "effects": [
+    {
+      "type": "zoom",
+      "word": "paradis",
+      "offset": -0.6,
+      "dur": 2.0,
+      "scale": 1.1
+    },
+    {
+      "type": "sfx",
+      "word": "mouton",
+      "nth": 1,
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "mouton",
+      "nth": 1,
+      "offset": -0.8,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "moustiques",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "sticker",
+      "word": "pliant",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "zoom",
+      "word": "vaccin",
+      "offset": -0.8,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "vaccin",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "freeze",
+      "word": "ans",
+      "dur": 0.5
+    },
+    {
+      "type": "caption",
+      "word": "vaccin",
+      "text": "Date de péremption : 1998 💉",
+      "dur": 2.6
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Le frigo des daronnes vs le frigo des gens normaux 😂",
+      "Une tête de mouton dans le frigo",
+      "Le vaccin de tes 4 ans est encore là"
+    ],
+    "youtube_title": "Malik Bentalha : le frigo des daronnes 😂 (tête de mouton, harissa, vaccin) #shorts",
+    "caption": "Le frigo des gens normaux : les portes du paradis. Le nôtre : une tête de mouton, une bouteille de Coca remplie d'eau… et le vaccin de tes 4 ans 😂\n\n🎤 Malik Bentalha, Marrakech du Rire 2018\n🎬 Original : Marrakech du Rire (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui a le même frigo 👇\n\n#malikbentalha #marrakechdurire #humour #standup #frigo #daronne #humourfrancais #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "malik bentalha",
+      "marrakech du rire",
+      "marrakech du rire 2018",
+      "frigo",
+      "humour",
+      "stand up",
+      "famille",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}
