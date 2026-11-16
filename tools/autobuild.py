@@ -91,6 +91,8 @@ def ot(src):
 zooms, sfx, overlays, captions = [], [], [], []
 if cfg.get("hook"):
     captions.append({"text": cfg["hook"], "start": 0.0, "end": 3.2})
+if cfg.get("open_zoom"):  # punch-in on the face during the hook (wide-shot sources); see docs/HOOKS.md
+    zooms.append({"at": 0.0, "dur": float(cfg.get("open_zoom_dur", 3.0)), "scale": float(cfg.get("open_zoom", 1.3))})
 for e in cfg.get("effects", []):
     if e["type"] == "freeze":
         continue
