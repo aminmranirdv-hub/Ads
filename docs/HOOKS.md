@@ -37,3 +37,14 @@ TikTok: Jamel « ninjas » (César 2023) ~13k views in a day. Skip rate = % who 
 
 ## Re-check weekly
 Pull `vidiq_instagram_owner_insights` mode reels (free) every few days, add rows above, and adjust. Look at skip rate first, then shares.
+
+## Meta (Instagram/Facebook) distribution rules (owner goal 2026-11-16: every video toward 55k+)
+No paid boost (no budget) and no way to "connect" to the algorithm directly: reach comes from the signals Meta's Reels ranking uses publicly: watch time, completion, **shares (sends)**, saves, comments, and the first-3-second hold. So:
+1. **Series from winners.** When a reel outperforms (skip < 25 % or > 5k views), make « Partie 2 / 3 » from the SAME source within 1-3 days (e.g. more Jamel César 2023 bits), same hook style, caption "Partie 2 de [winner]". Allowed even if the comedian was used in the last 3 days.
+2. **Hashtags: 3-5, specific** (comedian, show, topic), not 12 generic ones. Put keywords in the caption text for Instagram search: comedian full name + topic + "humour" + "stand-up".
+3. **Caption line 1 = the share line** (the quote), line 2 = context, then a **question that invites comments** with two camps ("Team nounou ou team Netflix ? 👇") and a "Tague ton pote qui…" CTA. Shares + comments in the first hour decide distribution.
+4. **First frame = face + hook text**, no black/wide/logo frame; the cover Meta picks is frame 1.
+5. **Sound on, no silence**: start on speech, never on applause or walking.
+6. **Post time**: strongest short at 18:00 or 21:00 Paris (peak evening scroll); keep 5 a day spread.
+7. **Originality**: our own edit (zooms, captions, subtitles, translation) counts as transformation; never post the raw clip.
+8. Re-check insights every 3 days and double down on what holds (skip rate, shares).

@@ -27,6 +27,9 @@ projects/daily/<date>/<nn>_<comedian>_<bit>/
 3. Fill in the `__placeholder__` times in edit.json (zoom, sticker and SFX on the punchline words)
 4. `python3 tools/make_short.py edit.json`, then `tools/qc.py`, `tools/thumbnail.py`, `tools/deliverables.py`
 
+## Next up (owner goal: 55k+)
+- **2026-11-17: include « Jamel aux César, Partie 2 »** from cache/363RgMenp1g.mp4 (winner source): the « César du meilleur perdant » bit (Gilles Lellouche, ~4:38-6:00) or the Will Smith / Corinne Masiero opening (~1:29-2:32). Hook in the same style as the winner, strongest slot (21:00).
+
 ## Pre-scheduled (done)
 - **2026-11-16 (owner's lineup): 11:00 Malik Bentalha (already published), then Sarah Lélé (a NEW bit from cache/xlhQLTOMFaE.mp4, not the father/marriage bit already used; owner overrides the 5-day rule), Jamel Debbouze, Gad Elmaleh, and for the 4th slot Booder « Partie 2 » (génie → FaceTime → Mbappé arrives, cache/hWLRmXRqr_E.mp4 ~2:14:30-2:18:00).** Slots 13:00, 16:00, 18:00, 21:00.
 
