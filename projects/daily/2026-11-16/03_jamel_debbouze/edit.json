@@ -1,0 +1,146 @@
+{
+  "language": "fr",
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 1.0
+    }
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner chose to publish without a licence. Credit Jamel Debbouze / CANAL+ and link the original."
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-16_jamel_debbouze",
+  "comedian": "Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Jamel Debbouze lance les César 2023 - CANAL+",
+    "url": "https://www.youtube.com/watch?v=363RgMenp1g&t=386s",
+    "channel": "CANAL+ (official)",
+    "window": "6:26-8:52"
+  },
+  "segments": [
+    {
+      "in": 385.29,
+      "out": 389.24
+    },
+    {
+      "in": 392.41,
+      "out": 407.69
+    },
+    {
+      "in": 408.19,
+      "out": 456.73
+    },
+    {
+      "in": 463.6,
+      "out": 470.12
+    },
+    {
+      "in": 472.4,
+      "out": 476.26
+    },
+    {
+      "in": 477.58,
+      "out": 530.99,
+      "freeze": 0.5
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Netflix",
+    "9 euros",
+    "Sandra Bullock",
+    "yaourt",
+    "bâtards",
+    "nounou",
+    "scandale"
+  ],
+  "zooms": [
+    {
+      "at": 38.69,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "at": 103.13,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 123.77,
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 15.4,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 42.84,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 105.68,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 60.06,
+      "end": 61.46,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Jamel a trouvé LE coupable : la nounou 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Enquête bouclée 🕵️",
+      "start": 129.66,
+      "end": 132.06
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Jamel a trouvé LE coupable : la nounou 😂",
+      "« Comment ils ont eu Sandra Bullock pour 9 € ? »",
+      "Netflix vs le cinéma français"
+    ],
+    "youtube_title": "Jamel aux César : « Le problème du cinéma ? La nounou ! » 😂 #shorts",
+    "caption": "« Comment ils ont fait pour avoir Sandra Bullock pour 9 euros ?! » 😂 Jamel aux César 2023 : Netflix, le prix des places… et le vrai coupable, la nounou.\n\n🎤 Jamel Debbouze, César 2023 (CANAL+)\n🎬 Original : CANAL+ (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui regarde Netflix au lieu d'aller au ciné 👇\n\n#jameldebbouze #cesar #netflix #humour #standup #cinema #humourfrancais #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "jamel debbouze",
+      "césar 2023",
+      "netflix",
+      "cinéma",
+      "humour",
+      "stand up",
+      "canal+",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Jamel Debbouze opening the César 2023 (CANAL+): why Netflix & co beat French cinema for 9 euros a month, and his 'concrete solution', lower the babysitter's price, because she's on the sofa watching Netflix and eating the yogurt. Different bit from the ninjas short of 2026-11-12. Unclear line (cue 195) cut."
+}

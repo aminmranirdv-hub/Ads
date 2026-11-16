@@ -1,0 +1,337 @@
+{
+  "trans_lang": "en",
+  "context_note": "Part 2 of the Marrakech du Rire 2022 génie sketch: Jamel's one wish (Kylian Mbappé), Booder the night-shift genie can only FaceTime him 'because he's low on credit', Mbappé wishes to be in Marrakech, and he walks on stage for real. Ends on the reveal and greeting.",
+  "ranges": [
+    [
+      9,
+      63
+    ],
+    [
+      64,
+      66
+    ]
+  ],
+  "end_pad": 1.8,
+  "hook": "Partie 2 : le vœu de Jamel… se réalise VRAIMENT 😱",
+  "highlight_words": [
+    "vœu",
+    "Mbappé",
+    "Kylian",
+    "FaceTime",
+    "crédit",
+    "génie",
+    "Marrakech",
+    "surprise"
+  ],
+  "cues": {
+    "9": [
+      "« Un seul vœu ? »",
+      "\"Just one wish?\""
+    ],
+    "10": [
+      "« Un seul. »",
+      "\"Just one.\""
+    ],
+    "11": [
+      "« Concentre-toi, Jamel. Je sais pas, moi,",
+      "\"Focus, Jamel. I don't know,"
+    ],
+    "12": [
+      "qu'est-ce qui te ferait le plus plaisir au",
+      "what would make you happiest in the"
+    ],
+    "13": [
+      "monde ? Avoir les cheveux lisses ? »",
+      "world? Straight hair?\""
+    ],
+    "14": [
+      "« S'il y avait un truc, là, maintenant, tout",
+      "\"If there was one thing, right here, right"
+    ],
+    "15": [
+      "de suite,",
+      "now,"
+    ],
+    "16": [
+      "pour sublimer ce moment… tu sais que",
+      "to make this moment perfect… you know I"
+    ],
+    "17": [
+      "j'aime le foot, moi. »",
+      "love football.\""
+    ],
+    "18": [
+      "« Ah non, tu pourras jamais être",
+      "\"Oh no, you'll never be a"
+    ],
+    "19": [
+      "footballeur. »",
+      "footballer.\""
+    ],
+    "20": [
+      "« Un des trucs qui me ferait le plus kiffer,",
+      "\"One thing I'd absolutely love"
+    ],
+    "21": [
+      "c'est d'avoir avec nous le meilleur joueur",
+      "is to have the best player"
+    ],
+    "22": [
+      "de l'équipe de France :",
+      "of the French team here with us:"
+    ],
+    "23": [
+      "Kylian Mbappé. »",
+      "Kylian Mbappé.\""
+    ],
+    "24": [
+      "",
+      ""
+    ],
+    "25": [
+      "« …qui passe comme ça, sur cette scène. »",
+      "\"…just dropping by on this stage.\""
+    ],
+    "26": [
+      "« Si tu veux. » « Si, j'en veux ! »",
+      "\"If you want.\" \"Yes, I want!\""
+    ],
+    "27": [
+      "« “Je veux”, ça coûte cher, ça. »",
+      "\"'I want' is expensive, you know.\""
+    ],
+    "28": [
+      "« Bon, ben je peux pas te le ramener.",
+      "\"Well, I can't bring him here."
+    ],
+    "29": [
+      "Par contre, j'ai son numéro.",
+      "But I've got his number."
+    ],
+    "30": [
+      "Je peux l'appeler en FaceTime.",
+      "I can FaceTime him."
+    ],
+    "31": [
+      "Mais pas longtemps, parce que j'ai pas",
+      "But not for long, I don't have"
+    ],
+    "32": [
+      "beaucoup de crédit. »",
+      "much credit left.\""
+    ],
+    "33": [
+      "« Tu peux l'appeler en FaceTime ?! »",
+      "\"You can FaceTime him?!\""
+    ],
+    "34": [
+      "« Bouge pas. »",
+      "\"Hold on.\""
+    ],
+    "35": [
+      "« Ça va, tranquillement.",
+      "\"All good, chilling."
+    ],
+    "36": [
+      "Je suis à Paris, là.",
+      "I'm in Paris."
+    ],
+    "37": [
+      "Je commence mes vacances.",
+      "Just starting my holidays."
+    ],
+    "38": [
+      "C'est toi ? Joyeux anniversaire, Jamel ! »",
+      "Is that you? Happy birthday, Jamel!\""
+    ],
+    "39": [
+      "« Merci, mon frère.",
+      "\"Thanks, brother."
+    ],
+    "40": [
+      "Merci de nous faire l'immense plaisir",
+      "Thank you for the huge honour of"
+    ],
+    "41": [
+      "d'être avec nous.",
+      "being with us."
+    ],
+    "42": [
+      "Merci de nous avoir fait rêver.",
+      "Thanks for making us dream."
+    ],
+    "43": [
+      "Merci d'avoir marqué tous ces buts.",
+      "Thanks for scoring all those goals."
+    ],
+    "44": [
+      "Merci d'être ce que t'es.",
+      "Thanks for being who you are."
+    ],
+    "45": [
+      "Merci, mon poteau.",
+      "Thanks, buddy."
+    ],
+    "46": [
+      "Attends, Kylian,",
+      "Wait, Kylian,"
+    ],
+    "47": [
+      "je voudrais te faire plaisir à mon tour.",
+      "I'd like to do something for you too."
+    ],
+    "48": [
+      "Je profite de l'occasion :",
+      "While I'm at it:"
+    ],
+    "49": [
+      "j'ai un génie à ma disposition, là.",
+      "I've got a genie at my disposal."
+    ],
+    "50": [
+      "Ça te dirait de t'en servir pour toi ? »",
+      "Want to use him for yourself?\""
+    ],
+    "51": [
+      "« Pourquoi pas. »",
+      "\"Why not.\""
+    ],
+    "52": [
+      "« Alors, si t'avais un seul vœu à faire, un",
+      "\"So if you had one wish, a"
+    ],
+    "53": [
+      "rêve depuis que t'es tout petit,",
+      "dream since you were little,"
+    ],
+    "54": [
+      "ça serait quoi ? »",
+      "what would it be?\""
+    ],
+    "55": [
+      "« Franchement, c'est passer un moment avec",
+      "\"Honestly, to spend some time with"
+    ],
+    "56": [
+      "toi pour ton anniversaire, et voir tous les",
+      "you on your birthday and see all the"
+    ],
+    "57": [
+      "gens de Marrakech. »",
+      "people of Marrakech.\""
+    ],
+    "58": [
+      "« Attends, je vais voir avec le génie",
+      "\"Wait, I'll check with the genie what"
+    ],
+    "59": [
+      "ce qu'on peut faire. »",
+      "we can do.\""
+    ],
+    "60": [
+      "« Ah bah là, faut appeler Royal Air Maroc,",
+      "\"Oh, for that you need Royal Air Maroc,"
+    ],
+    "61": [
+      "parce que moi, je… »",
+      "because I…\""
+    ],
+    "62": [
+      "« Bon, attends, je vais voir ce que je peux",
+      "\"OK, wait, let me see what I can"
+    ],
+    "63": [
+      "faire. »",
+      "do.\""
+    ],
+    "64": [
+      "« Bonsoir, Marrakech ! »",
+      "\"Good evening, Marrakech!\""
+    ],
+    "65": [
+      "« Mais quelle surprise !",
+      "\"What a surprise!"
+    ],
+    "66": [
+      "Comment ça va, mon ami ? »",
+      "How are you, my friend?\""
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "lisse",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "zoom",
+      "word": "mbappé",
+      "nth": 1,
+      "offset": -0.8,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "crédit",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "sticker",
+      "word": "crédit",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "sfx",
+      "word": "royal",
+      "file": "pop",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "surprise",
+      "offset": -1.0,
+      "dur": 2.6,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "surprise",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "caption",
+      "word": "surprise",
+      "text": "Le génie a livré 🧞‍♂️⚽",
+      "dur": 2.8
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Partie 2 : le vœu de Jamel se réalise VRAIMENT 😱",
+      "Le génie appelle Mbappé en FaceTime",
+      "« J'ai pas beaucoup de crédit »"
+    ],
+    "youtube_title": "Partie 2 : le génie Booder exauce le vœu de Jamel… et Mbappé débarque 😱 #shorts",
+    "caption": "PARTIE 2 🧞‍♂️ Le seul vœu de Jamel : Kylian Mbappé. Le génie de l'équipe de nuit (Booder) n'a « pas beaucoup de crédit »… et pourtant 😱\n\n🎤 Booder & Jamel Debbouze (avec Kylian Mbappé), Marrakech du Rire 2022\n🎬 Original : Marrakech du Rire 2022 (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTu as vu la partie 1 ? Elle est sur notre page 👀\n\n#booder #jameldebbouze #mbappe #marrakechdurire #humour #genie #surprise #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "booder",
+      "jamel debbouze",
+      "kylian mbappé",
+      "mbappe",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "génie",
+      "surprise",
+      "humour",
+      "shorts",
+      "comedy"
+    ]
+  }
+}

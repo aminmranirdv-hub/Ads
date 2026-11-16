@@ -1,0 +1,238 @@
+{
+  "trans_lang": "en",
+  "context_note": "Gad Elmaleh at ComediHa! (Québec): the universal obsession with rounding the amount at the gas pump (up to 89 dollars 'out of pride'), then the guy on the plane who checks his tissue. 'We're all the same' observational bit.",
+  "ranges": [
+    [
+      26,
+      60
+    ]
+  ],
+  "end_pad": 2.0,
+  "hook": "Tout le monde fait ça à la pompe à essence 😂",
+  "highlight_words": [
+    "arrondir",
+    "pompe",
+    "suspense",
+    "finale",
+    "20,02",
+    "89",
+    "fierté",
+    "mouche",
+    "analyse"
+  ],
+  "cues": {
+    "26": [
+      "Est-ce que vous aussi, par exemple, quand",
+      "Do you also, for example, when"
+    ],
+    "27": [
+      "vous allez à la station-service pour",
+      "you go to the gas station to"
+    ],
+    "28": [
+      "mettre de l'essence, vous voulez",
+      "fill up, absolutely want to"
+    ],
+    "29": [
+      "absolument arrondir le montant sur la",
+      "round off the amount on the"
+    ],
+    "30": [
+      "pompe ?",
+      "pump?"
+    ],
+    "31": [
+      "Ça sert à rien, c'est",
+      "It's pointless, it's"
+    ],
+    "32": [
+      "absurde. Genre, tu veux mettre 20 $",
+      "absurd. Like, you want 20 dollars"
+    ],
+    "33": [
+      "d'essence, tu y vas, brrrr… et à 18…",
+      "of gas, you go, brrrr… and at 18…"
+    ],
+    "34": [
+      "Attends, eh eh eh !",
+      "Wait, heh heh heh!"
+    ],
+    "35": [
+      "Le suspense.",
+      "The suspense."
+    ],
+    "36": [
+      "Et t'enchaînes des petits coups de",
+      "And you do little careful"
+    ],
+    "37": [
+      "pistolet prudents.",
+      "squeezes of the nozzle."
+    ],
+    "38": [
+      "Brrr, krrrr…",
+      "Brrr, krrrr…"
+    ],
+    "39": [
+      "19. Waouh ! 19… ta femme te parle, tu dis :",
+      "19. Wow! 19… your wife talks to you, you say:"
+    ],
+    "40": [
+      "« Ta gueule, chérie, j'suis en finale, arrête ! »",
+      "\"Shut up, honey, I'm in the final, stop!\""
+    ],
+    "41": [
+      "Brrr, krr, prr…",
+      "Brrr, krr, prr…"
+    ],
+    "42": [
+      "19,90… et là, l'échec, le drame",
+      "19.90… and then, failure, total"
+    ],
+    "43": [
+      "absolu : 20,02 !",
+      "disaster: 20.02!"
+    ],
+    "45": [
+      "Ah ! Tu dis : « J'en ai rien à foutre, j'vais",
+      "Ah! You say: \"I don't give a damn, I'm going"
+    ],
+    "46": [
+      "jusqu'à 21 ! »",
+      "to 21!\""
+    ],
+    "47": [
+      "Et t'y arrives pas, et tu continues.",
+      "And you miss again, and you keep going."
+    ],
+    "48": [
+      "Un jour, j'suis allé jusqu'à 89, par fierté !",
+      "One day I went up to 89, out of pride!"
+    ],
+    "49": [
+      "Le carburant sortait du réservoir, je disais :",
+      "Fuel was pouring out of the tank, I said:"
+    ],
+    "50": [
+      "« J'm'en fous ! »",
+      "\"I don't care!\""
+    ],
+    "51": [
+      "J'continue, eh si !",
+      "I keep going, oh yes!"
+    ],
+    "52": [
+      "On est tous pareils, les amis, tous.",
+      "We're all the same, guys, all of us."
+    ],
+    "53": [
+      "L'autre jour, j'suis dans l'avion pour",
+      "The other day I'm on the plane to"
+    ],
+    "54": [
+      "arriver à Montréal, y a un mec assis à",
+      "Montreal, a guy sitting"
+    ],
+    "55": [
+      "côté de moi, il se mouche, et après, il",
+      "next to me blows his nose, and then he"
+    ],
+    "56": [
+      "regarde. Pourquoi ?",
+      "looks at it. Why?"
+    ],
+    "57": [
+      "Pourquoi il regarde ?",
+      "Why does he look?"
+    ],
+    "58": [
+      "Pourquoi il analyse ?",
+      "Why does he analyse it?"
+    ],
+    "59": [
+      "S'il y en a trop, il va en remettre ?!",
+      "If there's too much, he'll put some back?!"
+    ],
+    "60": [
+      "Comment ça se passe ?",
+      "How does that work?"
+    ]
+  },
+  "effects": [
+    {
+      "type": "zoom",
+      "word": "suspens",
+      "offset": -0.4,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "type": "sfx",
+      "word": "finale",
+      "file": "pop",
+      "gain": -12
+    },
+    {
+      "type": "sfx",
+      "word": "absolu",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "absolu",
+      "offset": -1.0,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "type": "sticker",
+      "word": "fierté",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "sfx",
+      "word": "remettre",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "zoom",
+      "word": "remettre",
+      "offset": -1.2,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "type": "caption",
+      "word": "remettre",
+      "text": "Contrôle qualité ✅",
+      "dur": 2.6
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Tout le monde fait ça à la pompe 😂",
+      "« Le drame absolu : 20,02 ! »",
+      "Pourquoi il regarde son mouchoir ?!"
+    ],
+    "youtube_title": "Gad Elmaleh : arrondir à la pompe à essence, le drame absolu 😂 #shorts",
+    "caption": "« Et là, l'échec, le drame absolu : 20,02 ! » 😂 Gad Elmaleh et notre obsession d'arrondir à la pompe… jusqu'à 89 $ par fierté.\n\n🎤 Gad Elmaleh, ComediHa! (Québec)\n🎬 Original : ComediHa! (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui fait ÇA à chaque plein 👇\n\n#gadelmaleh #humour #standup #comediha #quebec #essence #humourfrancais #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "gad elmaleh",
+      "comediha",
+      "humour",
+      "stand up",
+      "pompe à essence",
+      "québec",
+      "humour français",
+      "observation",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Sarah Lélé + Namur is a Joke / Tipik with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.25,
+      "x1": 0.8,
+      "y0": 0.08,
+      "y1": 0.82
+    }
+  },
+  "subtitles_timing": "source",
+  "comedian": "Sarah Lélé",
+  "source": {
+    "file": "source.mp4",
+    "title": "Sarah Lélé - Gala d'ouverture Namur is a Joke 2024",
+    "url": "https://www.youtube.com/watch?v=xlhQLTOMFaE&t=309s",
+    "channel": "Tipik / Namur is a Joke"
+  },
+  "id": "2026-11-16_sarah_lele",
+  "segments": [
+    {
+      "in": 308.61,
+      "out": 353.62
+    },
+    {
+      "in": 354.36,
+      "out": 363.2,
+      "freeze": 0.5
+    },
+    {
+      "in": 363.58,
+      "out": 364.55
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Dakar",
+    "Afrique",
+    "honnête",
+    "Blancs",
+    "payé",
+    "drôle",
+    "comédie"
+  ],
+  "zooms": [
+    {
+      "at": 21.77,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 50.69,
+      "dur": 2.6,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 23.32,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 38.58,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 53.1,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 46.1,
+      "end": 47.5,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Faire de l'humour devant un public africain… 😭",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Critique de spectacle : 0/10 🎤",
+      "start": 53.1,
+      "end": 55.32
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Faire de l'humour devant un public africain 😭",
+      "« Le public africain est trop honnête »",
+      "« C'est ça que tu appelles la comédie ? »"
+    ],
+    "youtube_title": "Sarah Lélé : jouer devant un public africain 😭 « C'est ça ta comédie ? » #shorts",
+    "caption": "« Le problème du public africain, c'est qu'il est trop honnête. » 😭 Sarah Lélé raconte Dakar… et le spectateur qui se lève en plein spectacle.\n\n🎤 Sarah Lélé, Gala d'ouverture Namur is a Joke 2024\n🎬 Original : Tipik / Namur is a Joke (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui a déjà fait un bide 👇\n\n#sarahlele #humour #standup #namurisajoke #humourbelge #afrique #dakar #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "sarah lélé",
+      "sarah lele",
+      "namur is a joke",
+      "humour belge",
+      "stand up",
+      "afrique",
+      "dakar",
+      "public africain",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Sarah Lélé on performing in Dakar: African audiences are 'too honest' compared to polite European ones; ends on the heckler punchline. Second bit from the same Namur is a Joke 2024 set (owner asked for Sarah again on 2026-11-16)."
+}

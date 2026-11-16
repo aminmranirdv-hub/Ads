@@ -1,0 +1,335 @@
+{
+  "trans_lang": "en",
+  "context_note": "Jamel Debbouze opening the César 2023 (CANAL+): why Netflix & co beat French cinema for 9 euros a month, and his 'concrete solution', lower the babysitter's price, because she's on the sofa watching Netflix and eating the yogurt. Different bit from the ninjas short of 2026-11-12. Unclear line (cue 195) cut.",
+  "ranges": [
+    [
+      160,
+      217
+    ]
+  ],
+  "end_pad": 1.8,
+  "hook": "Jamel a trouvé LE coupable : la nounou 😂",
+  "highlight_words": [
+    "Netflix",
+    "9 euros",
+    "Sandra Bullock",
+    "yaourt",
+    "bâtards",
+    "nounou",
+    "scandale"
+  ],
+  "cues": {
+    "160": [
+      "Madame la ministre,",
+      "Madam Minister,"
+    ],
+    "161": [
+      "le cinéma souffre.",
+      "cinema is suffering."
+    ],
+    "162": [
+      "Ouais, il paraît qu'il serait mis à mal",
+      "Apparently it's being hurt"
+    ],
+    "163": [
+      "par des Netflix,",
+      "by Netflix,"
+    ],
+    "164": [
+      "Amazon, Paramount, Disney, HBO",
+      "Amazon, Paramount, Disney, HBO"
+    ],
+    "165": [
+      "ou autres Hulu.",
+      "or Hulu."
+    ],
+    "166": [
+      "Et ils sont nombreux, ces bâtards.",
+      "And there are loads of these bastards."
+    ],
+    "167": [
+      "Mais qu'est-ce qu'ils ont de plus que nous ?",
+      "What have they got that we haven't?"
+    ],
+    "169": [
+      "Alors oui, c'est vrai, pour 9 euros, t'as",
+      "OK, it's true, for 9 euros you get"
+    ],
+    "170": [
+      "un accès illimité à des très, très bons",
+      "unlimited access to really, really good"
+    ],
+    "171": [
+      "films.",
+      "films."
+    ],
+    "172": [
+      "Oui,",
+      "Yes,"
+    ],
+    "173": [
+      "avec Martin Scorsese, Spike Lee, Claude",
+      "with Martin Scorsese, Spike Lee, Claude"
+    ],
+    "174": [
+      "Sautet et David Fincher, c'est vrai.",
+      "Sautet and David Fincher, it's true."
+    ],
+    "175": [
+      "Oui, c'est vrai, pour 9 euros, t'as des",
+      "Yes, for 9 euros you get"
+    ],
+    "176": [
+      "acteurs incroyables comme DiCaprio,",
+      "incredible actors like DiCaprio,"
+    ],
+    "177": [
+      "Depardieu, Meryl Streep ou encore Sandra",
+      "Depardieu, Meryl Streep or even Sandra"
+    ],
+    "178": [
+      "Bullock.",
+      "Bullock."
+    ],
+    "179": [
+      "Je l'adore, Sandra Bullock.",
+      "I love Sandra Bullock."
+    ],
+    "180": [
+      "Comment ils ont fait pour l'avoir pour 9",
+      "How did they get her for 9"
+    ],
+    "181": [
+      "euros, elle ?",
+      "euros?"
+    ],
+    "182": [
+      "Non mais sérieux, ils sont forts, quand",
+      "Seriously, they're good,"
+    ],
+    "183": [
+      "même. Oui, c'est vrai, pour 9 euros, tu",
+      "I'll give them that. Yes, for 9 euros you"
+    ],
+    "184": [
+      "peux regarder des films confortablement",
+      "can watch films comfortably"
+    ],
+    "185": [
+      "dans ton salon, ou avec ta femme dans ton",
+      "in your living room, or with your wife in"
+    ],
+    "186": [
+      "lit. Tu peux mettre pause,",
+      "bed. You can hit pause,"
+    ],
+    "187": [
+      "aller chercher un yaourt, revenir.",
+      "go get a yogurt, come back."
+    ],
+    "188": [
+      "Et tout ça pour la modique somme de 9 € !",
+      "And all that for the measly sum of 9 euros!"
+    ],
+    "189": [
+      "Par mois !",
+      "Per month!"
+    ],
+    "190": [
+      "Les bâtards, putain…",
+      "The bastards, damn…"
+    ],
+    "191": [
+      "Alors oui, c'est vrai, mesdames,",
+      "So yes, ladies and"
+    ],
+    "192": [
+      "messieurs, cette offre est exceptionnelle,",
+      "gentlemen, this offer is exceptional,"
+    ],
+    "193": [
+      "et on est dans la merde.",
+      "and we're in deep trouble."
+    ],
+    "194": [
+      "Mais ! On est le cinéma !",
+      "But! We are cinema!"
+    ],
+    "196": [
+      "Et on est le meilleur cinéma d'Europe,",
+      "And we're the best cinema in Europe,"
+    ],
+    "197": [
+      "même !",
+      "even!"
+    ],
+    "198": [
+      "Oui ! Attends, attends !",
+      "Yes! Wait, wait!"
+    ],
+    "199": [
+      "Et je sais comment le rester, moi !",
+      "And I know how to stay that way!"
+    ],
+    "200": [
+      "J'ai des solutions concrètes pour ça.",
+      "I've got concrete solutions."
+    ],
+    "201": [
+      "Le prix des places, par exemple, c'est un",
+      "Ticket prices, for example, are an"
+    ],
+    "202": [
+      "sujet. Oui, c'est vrai, c'est",
+      "issue. Yes, it's true, it's"
+    ],
+    "203": [
+      "cher : pour un couple, si tu additionnes le",
+      "expensive: for a couple, add the"
+    ],
+    "204": [
+      "prix de deux places, plus le pop-corn, plus",
+      "price of two tickets, plus popcorn, plus"
+    ],
+    "205": [
+      "la nounou, ça fait 60 euros minimum. C'est",
+      "the babysitter, that's 60 euros minimum. It's"
+    ],
+    "206": [
+      "cher. Mais j'ai une solution :",
+      "expensive. But I have a solution:"
+    ],
+    "207": [
+      "il faut baisser le prix de la",
+      "we have to lower the price of the"
+    ],
+    "208": [
+      "nounou !",
+      "babysitter!"
+    ],
+    "209": [
+      "Mais elles se gavent, elles se gavent !",
+      "They're raking it in!"
+    ],
+    "210": [
+      "Elles sont assises sur le canapé pendant que les",
+      "They sit on the sofa while the"
+    ],
+    "211": [
+      "enfants dorment, et qu'est-ce qu'elles",
+      "kids are asleep, and what are they"
+    ],
+    "212": [
+      "font, elles ? Elles regardent Netflix !",
+      "doing? Watching Netflix!"
+    ],
+    "213": [
+      "Vous vous rendez compte ou pas,",
+      "Do you realise,"
+    ],
+    "214": [
+      "vous ? Sur la tête de ma mère, elle regarde Netflix",
+      "seriously? I swear, she's watching Netflix"
+    ],
+    "215": [
+      "et elle mange le yaourt !",
+      "and eating the yogurt!"
+    ],
+    "216": [
+      "Non, c'est un scandale,",
+      "No, it's a scandal,"
+    ],
+    "217": [
+      "c'est les nounous, le souci.",
+      "the babysitters are the problem."
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "bâtards",
+      "nth": 1,
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "bullock",
+      "nth": 2,
+      "offset": -1.0,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "elle",
+      "nth": 1,
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "sticker",
+      "word": "mois",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "zoom",
+      "word": "nounou",
+      "nth": 2,
+      "offset": -0.8,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "nounou",
+      "nth": 2,
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "zoom",
+      "word": "yaourt",
+      "nth": 2,
+      "offset": -1.0,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "type": "freeze",
+      "word": "souci",
+      "dur": 0.5
+    },
+    {
+      "type": "caption",
+      "word": "souci",
+      "text": "Enquête bouclée 🕵️",
+      "dur": 2.6
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Jamel a trouvé LE coupable : la nounou 😂",
+      "« Comment ils ont eu Sandra Bullock pour 9 € ? »",
+      "Netflix vs le cinéma français"
+    ],
+    "youtube_title": "Jamel aux César : « Le problème du cinéma ? La nounou ! » 😂 #shorts",
+    "caption": "« Comment ils ont fait pour avoir Sandra Bullock pour 9 euros ?! » 😂 Jamel aux César 2023 : Netflix, le prix des places… et le vrai coupable, la nounou.\n\n🎤 Jamel Debbouze, César 2023 (CANAL+)\n🎬 Original : CANAL+ (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui regarde Netflix au lieu d'aller au ciné 👇\n\n#jameldebbouze #cesar #netflix #humour #standup #cinema #humourfrancais #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "jamel debbouze",
+      "césar 2023",
+      "netflix",
+      "cinéma",
+      "humour",
+      "stand up",
+      "canal+",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}

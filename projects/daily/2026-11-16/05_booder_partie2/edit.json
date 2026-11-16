@@ -1,0 +1,155 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Booder, Jamel Debbouze, Kylian Mbappé appearance + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-16_booder_partie2",
+  "comedian": "Booder",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=8065s",
+    "channel": "to verify (full-show upload)",
+    "offset_in_show_s": 8050,
+    "timestamp": "2:14:25"
+  },
+  "segments": [
+    {
+      "in": 15.45,
+      "out": 17.9
+    },
+    {
+      "in": 18.45,
+      "out": 34.45
+    },
+    {
+      "in": 34.73,
+      "out": 47.11
+    },
+    {
+      "in": 48.55,
+      "out": 65.79
+    },
+    {
+      "in": 73.9,
+      "out": 109.46
+    },
+    {
+      "in": 110.96,
+      "out": 121.33
+    },
+    {
+      "in": 136.5,
+      "out": 150.04
+    },
+    {
+      "in": 155.32,
+      "out": 160.62
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "vœu",
+    "Mbappé",
+    "Kylian",
+    "FaceTime",
+    "crédit",
+    "génie",
+    "Marrakech",
+    "surprise"
+  ],
+  "zooms": [
+    {
+      "at": 26.81,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 107.88,
+      "dur": 2.6,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 8.28,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 43.96,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 88.1,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 109.45,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 43.96,
+      "end": 45.36,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Partie 2 : le vœu de Jamel… se réalise VRAIMENT 😱",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Le génie a livré 🧞‍♂️⚽",
+      "start": 109.45,
+      "end": 112.25
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Partie 2 : le vœu de Jamel se réalise VRAIMENT 😱",
+      "Le génie appelle Mbappé en FaceTime",
+      "« J'ai pas beaucoup de crédit »"
+    ],
+    "youtube_title": "Partie 2 : le génie Booder exauce le vœu de Jamel… et Mbappé débarque 😱 #shorts",
+    "caption": "PARTIE 2 🧞‍♂️ Le seul vœu de Jamel : Kylian Mbappé. Le génie de l'équipe de nuit (Booder) n'a « pas beaucoup de crédit »… et pourtant 😱\n\n🎤 Booder & Jamel Debbouze (avec Kylian Mbappé), Marrakech du Rire 2022\n🎬 Original : Marrakech du Rire 2022 (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTu as vu la partie 1 ? Elle est sur notre page 👀\n\n#booder #jameldebbouze #mbappe #marrakechdurire #humour #genie #surprise #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "booder",
+      "jamel debbouze",
+      "kylian mbappé",
+      "mbappe",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "génie",
+      "surprise",
+      "humour",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Part 2 of the Marrakech du Rire 2022 génie sketch: Jamel's one wish (Kylian Mbappé), Booder the night-shift genie can only FaceTime him 'because he's low on credit', Mbappé wishes to be in Marrakech, and he walks on stage for real. Ends on the reveal and greeting."
+}

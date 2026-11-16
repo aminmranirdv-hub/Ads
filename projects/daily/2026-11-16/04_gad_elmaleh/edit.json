@@ -1,0 +1,134 @@
+{
+  "language": "fr",
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.72,
+      "y0": 0.0,
+      "y1": 0.86
+    }
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Gad Elmaleh + ComediHa! with link."
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-16_gad_elmaleh",
+  "comedian": "Gad Elmaleh",
+  "source": {
+    "file": "source.mp4",
+    "title": "Gad Elmaleh - ComediHa!",
+    "url": "https://www.youtube.com/watch?v=Dyy-KRkdE2c&t=59s",
+    "channel": "ComediHa! (official)"
+  },
+  "segments": [
+    {
+      "in": 58.26,
+      "out": 110.51
+    },
+    {
+      "in": 110.87,
+      "out": 119.73
+    },
+    {
+      "in": 120.18,
+      "out": 126.99
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "arrondir",
+    "pompe",
+    "suspense",
+    "finale",
+    "20,02",
+    "89",
+    "fierté",
+    "mouche",
+    "analyse"
+  ],
+  "zooms": [
+    {
+      "at": 16.23,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 3.23,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "at": 63.29,
+      "dur": 2.4,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 26.64,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 5.04,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 64.84,
+      "gain_db": -13
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 45.9,
+      "end": 47.3,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Tout le monde fait ça à la pompe à essence 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Contrôle qualité ✅",
+      "start": 64.84,
+      "end": 67.44
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Tout le monde fait ça à la pompe 😂",
+      "« Le drame absolu : 20,02 ! »",
+      "Pourquoi il regarde son mouchoir ?!"
+    ],
+    "youtube_title": "Gad Elmaleh : arrondir à la pompe à essence, le drame absolu 😂 #shorts",
+    "caption": "« Et là, l'échec, le drame absolu : 20,02 ! » 😂 Gad Elmaleh et notre obsession d'arrondir à la pompe… jusqu'à 89 $ par fierté.\n\n🎤 Gad Elmaleh, ComediHa! (Québec)\n🎬 Original : ComediHa! (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui fait ÇA à chaque plein 👇\n\n#gadelmaleh #humour #standup #comediha #quebec #essence #humourfrancais #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "gad elmaleh",
+      "comediha",
+      "humour",
+      "stand up",
+      "pompe à essence",
+      "québec",
+      "humour français",
+      "observation",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Gad Elmaleh at ComediHa! (Québec): the universal obsession with rounding the amount at the gas pump (up to 89 dollars 'out of pride'), then the guy on the plane who checks his tissue. 'We're all the same' observational bit."
+}

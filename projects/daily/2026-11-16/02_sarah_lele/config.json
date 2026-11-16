@@ -1,0 +1,230 @@
+{
+  "trans_lang": "en",
+  "context_note": "Sarah Lélé on performing in Dakar: African audiences are 'too honest' compared to polite European ones; ends on the heckler punchline. Second bit from the same Namur is a Joke 2024 set (owner asked for Sarah again on 2026-11-16).",
+  "ranges": [
+    [
+      199,
+      231
+    ]
+  ],
+  "end_pad": 2.0,
+  "hook": "Faire de l'humour devant un public africain… 😭",
+  "highlight_words": [
+    "Dakar",
+    "Afrique",
+    "honnête",
+    "Blancs",
+    "payé",
+    "drôle",
+    "comédie"
+  ],
+  "cues": {
+    "199": [
+      "Le vrai challenge, les amis, c'est quand je",
+      "The real challenge, guys, was when I"
+    ],
+    "200": [
+      "suis allée jouer en Afrique. Je suis allée",
+      "went to perform in Africa. I went"
+    ],
+    "201": [
+      "jouer à Dakar, au Sénégal. Je sais pas",
+      "to play Dakar, in Senegal. I don't know if"
+    ],
+    "202": [
+      "s'il y en a qui connaissent… en Afrique,",
+      "any of you know it… in Africa,"
+    ],
+    "203": [
+      "sur la planète Terre. Les Blancs, ça va",
+      "on planet Earth. White people, you"
+    ],
+    "204": [
+      "aller, vous trouvez ?",
+      "following so far?"
+    ],
+    "205": [
+      "Dakar, c'était un autre délire.",
+      "Dakar was something else."
+    ],
+    "206": [
+      "Tu sais,",
+      "You know,"
+    ],
+    "207": [
+      "la différence entre l'Afrique et vous,",
+      "the difference between Africa and you"
+    ],
+    "208": [
+      "c'est le public, OK ?",
+      "is the audience, OK?"
+    ],
+    "209": [
+      "Le public, il est différent.",
+      "The audience is different."
+    ],
+    "210": [
+      "Le public africain, il est pas comme vous.",
+      "An African audience is not like you."
+    ],
+    "211": [
+      "Vous êtes géniaux, restez comme vous êtes.",
+      "You're great, stay as you are."
+    ],
+    "212": [
+      "Le problème du public africain,",
+      "The problem with an African audience"
+    ],
+    "213": [
+      "c'est qu'il est trop honnête.",
+      "is that it's too honest."
+    ],
+    "214": [
+      "Et en humour, on n'a pas besoin de tant",
+      "And in comedy, we don't need that much"
+    ],
+    "215": [
+      "d'honnêteté, vraiment.",
+      "honesty, really."
+    ],
+    "216": [
+      "Des fois, on fait des blagues de merde, et",
+      "Sometimes we tell crap jokes, and"
+    ],
+    "217": [
+      "on aime bien les publics comme vous, là,",
+      "we love audiences like you,"
+    ],
+    "218": [
+      "les Blancs. Parce que vous rigolez quoi",
+      "white people. Because you laugh no matter"
+    ],
+    "219": [
+      "qu'il arrive. Parce que des fois, quand on",
+      "what. Because sometimes, when we"
+    ],
+    "220": [
+      "fait des blagues de merde, vous, vous avez",
+      "tell crap jokes, you feel"
+    ],
+    "221": [
+      "mal pour notre ego, OK ?",
+      "sorry for our ego, OK?"
+    ],
+    "222": [
+      "En Afrique, ils en ont rien à foutre.",
+      "In Africa, they don't give a damn."
+    ],
+    "223": [
+      "Ils ont payé, t'as intérêt à être drôle,",
+      "They paid, you'd better be funny,"
+    ],
+    "224": [
+      "d'accord ? J'ai un ami, il passe avant moi,",
+      "got it? A friend of mine goes on before me,"
+    ],
+    "225": [
+      "nul à chier. J'étais dans le public, j'ai",
+      "terrible. I'm in the audience, I"
+    ],
+    "226": [
+      "fait comme vous, j'ai fait…",
+      "did like you, I went…"
+    ],
+    "227": [
+      "« Force à toi, frérot, parce que là, c'est",
+      "\"Hang in there, bro, because this is"
+    ],
+    "228": [
+      "dur. »",
+      "rough.\""
+    ],
+    "229": [
+      "Le public, non. Il y a un gars,",
+      "Not the audience. One guy"
+    ],
+    "230": [
+      "il s'est levé, il a fait : « C'est ça que tu",
+      "stood up and went: \"You call this"
+    ],
+    "231": [
+      "appelles la comédie ? »",
+      "comedy?\""
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "honnête",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "honnête",
+      "offset": -0.8,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "type": "sfx",
+      "word": "payé",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "sticker",
+      "word": "force",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "zoom",
+      "word": "comédie",
+      "offset": -1.6,
+      "dur": 2.6,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "comédie",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "freeze",
+      "word": "comédie",
+      "dur": 0.5
+    },
+    {
+      "type": "caption",
+      "word": "comédie",
+      "text": "Critique de spectacle : 0/10 🎤",
+      "dur": 2.6
+    }
+  ],
+  "publishing": {
+    "hooks": [
+      "Faire de l'humour devant un public africain 😭",
+      "« Le public africain est trop honnête »",
+      "« C'est ça que tu appelles la comédie ? »"
+    ],
+    "youtube_title": "Sarah Lélé : jouer devant un public africain 😭 « C'est ça ta comédie ? » #shorts",
+    "caption": "« Le problème du public africain, c'est qu'il est trop honnête. » 😭 Sarah Lélé raconte Dakar… et le spectateur qui se lève en plein spectacle.\n\n🎤 Sarah Lélé, Gala d'ouverture Namur is a Joke 2024\n🎬 Original : Tipik / Namur is a Joke (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ton pote qui a déjà fait un bide 👇\n\n#sarahlele #humour #standup #namurisajoke #humourbelge #afrique #dakar #drole #mdr #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "sarah lélé",
+      "sarah lele",
+      "namur is a joke",
+      "humour belge",
+      "stand up",
+      "afrique",
+      "dakar",
+      "public africain",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}
