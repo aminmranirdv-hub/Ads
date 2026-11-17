@@ -1,3 +1,5 @@
 stills/*.png
 build/work/
 build/takes/
+build/ls_in/
+build/__pycache__/

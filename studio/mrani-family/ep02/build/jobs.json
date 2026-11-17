@@ -43,6 +43,45 @@
   "A_hack": "xSXdqgcjfW",
   "A_tablet_group": "s78oK75l8e",
   "A_screen": "VXwUzo4MMU",
-  "A_reveal": "P3uESAA42C"
+  "A_reveal": "P3uESAA42C",
+  "A_robot": "UPhmlhLwny",
+  "A_outro": "lJI8jmAgv9",
+  "A_bake_wide": "N2HF9WQ6D9",
+  "A_stir": "Ifi68bhtvE",
+  "A_egg": "1lepkPWr4r",
+  "A_timer": "huZRmrevqL"
+ },
+ "k30_talk": {
+  "T_aziza_det": "UPhhO3Vwny",
+  "T_amir_point": "dtPP8EDXSL",
+  "T_abd_bean": "IfiiaiLtvE",
+  "T_hic_couch": "UPhhyvKwny",
+  "T_abd_bed": "nVLLTgoYQD",
+  "T_aziza_bed": "s788whvl8e",
+  "T_amir_bed": "bxVVjrW5Y2",
+  "T_hic_bed": "1leeggPr4r",
+  "T_aziza_recipe": "nVLLMDgYQD",
+  "T_hic_closed": "DoJJI1Tpcl"
+ },
+ "lipsync": {
+  "s1a": "0eSSfZVTfW",
+  "s1c": "rgdd6Fzxtc",
+  "s1h": "iGbbe9L3uK",
+  "s1b": "s7884uRl8e",
+  "s1d": "cpggaAX0eP",
+  "s1e": "xSXXi55jfW",
+  "s1g": "rgddJroxtc",
+  "s1f": "Xm44E8yBfo",
+  "s2e": "SymmiODUb8",
+  "s3a": "DoJJQMbpcl",
+  "s3b": "N2HHpiA6D9",
+  "s3c": "ksppNjp16B",
+  "s3d": "xSXX34PjfW",
+  "s4a": "ksppyey16B",
+  "s4d": "JNffcYSOq4",
+  "s4b": "Bh99H3VoQR",
+  "s4c": "Ifiir5YtvE",
+  "s4e": "6AqqVx6iJO",
+  "s5a": "gOttRQKSXO"
  }
 }
