@@ -58,10 +58,12 @@ def compose(im, T):
             al = int(255 * min(1, (T - a) / .12, (b - T) / .12)); nm, col = NAME[spk]
             f2 = B.font(52); nb = f2.getbbox(nm)[2] + 50; x = (W - nb) // 2
             d.rounded_rectangle((x, 1330, x + nb, 1402), radius=36, fill=col + (al,)); d.text((x + 25, 1336), nm, font=f2, fill=B.NAVY + (al,))
-            f3 = B.font(76)
-            for r, row in enumerate(wrap(d, txt, f3, W - 110)[:3]):
+            for sz in (76, 66, 58, 52):   # shrink long lines so the whole sentence fits in 4 rows
+                f3 = B.font(sz); rows = wrap(d, txt, f3, W - 100)
+                if len(rows) <= (3 if sz == 76 else 4): break
+            for r, row in enumerate(rows):
                 rw = f3.getbbox(row, stroke_width=7)[2]
-                d.text(((W - rw) // 2, 1430 + r * 98), row, font=f3, fill=(255, 255, 255, al), stroke_width=7, stroke_fill=B.NAVY + (al,))
+                d.text(((W - rw) // 2, 1430 + r * int(sz * 1.28)), row, font=f3, fill=(255, 255, 255, al), stroke_width=7, stroke_fill=B.NAVY + (al,))
             break
     return canvas.convert("RGB")
 
