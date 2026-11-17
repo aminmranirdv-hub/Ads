@@ -161,9 +161,9 @@ def render(s, lt, text=True):
             on = .5 + .5 * math.sin((lt * 3 + ph) * 2 * math.pi)
             for r, al in ((34, 60), (18, 140), (8, 255)): dg.ellipse((bx + ox - r, by - r, bx + ox + r, by + r), fill=(200, 255, 200, int(al * on)))
         im.alpha_composite(glow.filter(ImageFilter.GaussianBlur(3))); d = ImageDraw.Draw(im)
-        if int(lt * 2) % 2 == 0: d.ellipse((90, 80, 130, 120), fill=(255, 40, 40)); d.text((150, 72), "REC", font=font(52), fill=(255, 255, 255))
-        d.text((W - 640, H - 148), "BABY CAM 1", font=font(52), fill=(220, 255, 220))
-        d.text((90, H - 140), "02:13 AM", font=font(60), fill=(220, 255, 220))
+        if int(lt * 2) % 2 == 0: d.ellipse((290, 80, 330, 120), fill=(255, 40, 40)); d.text((350, 72), "REC", font=font(52), fill=(255, 255, 255))
+        d.text((W - 660, H - 148), "BABY CAM 1", font=font(52), fill=(220, 255, 220))
+        d.text((290, H - 148), "02:13 AM", font=font(60), fill=(220, 255, 220))
         im = im.convert("RGB")
     elif k == "robot":
         p = f"{CL}/A_robot.mp4"

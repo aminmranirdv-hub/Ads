@@ -26,9 +26,9 @@ WHO ATE AZIZA'S COOKIE?! 🍪🔍 Detective Aziza, Abdel-Hamid, Amir and little 
 0:11 Meet the family
 0:19 The crime scene
 0:49 The investigation
-1:17 The twist!
-1:42 Making it right
-2:14 Case closed… or is it?
+1:16 The twist!
+1:41 Making it right
+2:12 Case closed… or is it?
 
 🔔 Subscribe for a new M'Rani Family episode every week!
 👀 Next episode: Strange Noises at Midnight
