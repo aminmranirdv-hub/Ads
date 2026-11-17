@@ -1,0 +1,167 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Nawel Madani + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-17_nawel_madani",
+  "comedian": "Nawel Madani",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=2517s",
+    "channel": "to verify (full-show upload)",
+    "offset_in_show_s": 2500
+  },
+  "segments": [
+    {
+      "in": 17.0,
+      "out": 32.86
+    },
+    {
+      "in": 33.68,
+      "out": 70.37
+    },
+    {
+      "in": 91.4,
+      "out": 112.45
+    },
+    {
+      "in": 115.77,
+      "out": 126.01
+    },
+    {
+      "in": 128.03,
+      "out": 138.55,
+      "freeze": 0.6
+    },
+    {
+      "in": 141.4,
+      "out": 158.02
+    },
+    {
+      "in": 159.82,
+      "out": 161.74
+    },
+    {
+      "in": 162.66,
+      "out": 184.98
+    },
+    {
+      "in": 189.46,
+      "out": 215.6
+    },
+    {
+      "in": 219.82,
+      "out": 236.84
+    },
+    {
+      "in": 237.25,
+      "out": 251.65
+    },
+    {
+      "in": 252.9,
+      "out": 262.71
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Oscars",
+    "Rihanna",
+    "Bitch",
+    "Chris Brown",
+    "patate",
+    "Mbappé",
+    "diamond"
+  ],
+  "zooms": [
+    {
+      "at": 0.0,
+      "dur": 3.9,
+      "scale": 2.6,
+      "cx": 0.36,
+      "cy": 0.54
+    },
+    {
+      "at": 84.41,
+      "dur": 2.4,
+      "scale": 1.18
+    },
+    {
+      "at": 158.63,
+      "dur": 2.6,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 85.34,
+      "gain_db": -11
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 161.58,
+      "gain_db": -11
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 178.6,
+      "gain_db": -13
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 116.0,
+      "end": 117.4,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Nawel Madani a failli frapper une STAR aux Oscars 😱",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Rihanna en PLS 💎",
+      "start": 197.92,
+      "end": 200.52
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Nawel Madani a failli frapper Rihanna aux Oscars 😱 « Je suis pas Chris Brown » #shorts",
+    "caption": "« Écoute-moi bien, je suis pas Chris Brown : je te mets une patate, plus jamais tu chantes ! » 😱😂\nNawel Madani aux Oscars… face à la meuf qui drague son mari : c'était Rihanna.\n\nTeam Nawel ou team Rihanna ? 👇 Tague ta pote qui aurait fait pareil 😅\n\n🎤 Nawel Madani, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#nawelmadani #rihanna #marrakechdurire #humour #standup",
+    "youtube_tags": [
+      "nawel madani",
+      "rihanna",
+      "oscars",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Nawel Madani (Marrakech du Rire 2022): at the Oscars after-party with her actor husband (Les Misérables), she taps a woman flirting with him… it's Rihanna; near-fight, 'I'm not Chris Brown', US security, and she ends singing Rihanna songs. Bum digression (cues 39-50) cut for pace."
+}

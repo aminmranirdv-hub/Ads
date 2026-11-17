@@ -1,0 +1,523 @@
+{
+  "trans_lang": "en",
+  "context_note": "Camille Lellouche (pregnant, in character) & Jamel Debbouze, Marrakech du Rire 2022: baby 'is Algerian' (raï plays from the belly), hormone mood swings, cravings: whisky and a grand piano.",
+  "ranges": [
+    [
+      7,
+      11
+    ],
+    [
+      14,
+      19
+    ],
+    [
+      26,
+      30
+    ],
+    [
+      31,
+      41,
+      "raw"
+    ],
+    [
+      42,
+      102
+    ],
+    [
+      104,
+      115
+    ]
+  ],
+  "end_pad": 1.5,
+  "hook": "Camille Lellouche enceinte pète les plombs sur Jamel 😂",
+  "highlight_words": [
+    "enceinte",
+    "Algérien",
+    "10 kilos",
+    "vache",
+    "piano",
+    "whisky",
+    "hormones"
+  ],
+  "cues": {
+    "7": [
+      "Mais Jamel, t'as rien remarqué ?",
+      "Jamel, haven't you noticed anything?"
+    ],
+    "8": [
+      "Quoi ? Bah, je sais pas !",
+      "What? Well, I don't know!"
+    ],
+    "9": [
+      "Waouh ! T'es enceinte ?",
+      "Wow! You're pregnant?"
+    ],
+    "10": [
+      "Bah oui, je suis enceinte, Jamel !",
+      "Well yeah, I'm pregnant, Jamel!"
+    ],
+    "11": [
+      "C'est un truc de fou !",
+      "That's crazy!"
+    ],
+    "14": [
+      "Bah oui ! T'es enceinte !",
+      "Yeah! You're pregnant!"
+    ],
+    "15": [
+      "Bah oui ! Moi aussi je vais avoir un bébé,",
+      "Yeah! I'm having a baby too,"
+    ],
+    "16": [
+      "y'a pas que toi !",
+      "it's not just you!"
+    ],
+    "17": [
+      "Y'a pas que toi !",
+      "Not just you!"
+    ],
+    "18": [
+      "♪ Moi aussi je vais avoir un bébé, y'a pas",
+      "♪ I'm having a baby too, it's not"
+    ],
+    "19": [
+      "que toi, Jamel, y'a pas que toi ♪",
+      "just you, Jamel, not just you ♪"
+    ],
+    "26": [
+      "♪ Et moi aussi je vais avoir un bébé ♪",
+      "♪ And I'm having a baby too ♪"
+    ],
+    "27": [
+      "C'est cool,",
+      "It's cool,"
+    ],
+    "28": [
+      "ça fait plaisir de se retrouver sur cette",
+      "so nice to be back on this"
+    ],
+    "29": [
+      "scène ! — Ah bah ouais, franchement, ça fait",
+      "stage! — Oh yeah, honestly, it's"
+    ],
+    "30": [
+      "plaisir, moi aussi ! C'est fou !",
+      "nice for me too! Crazy!"
+    ],
+    "31": [
+      "C'est une fille ou un garçon ?",
+      "Is it a girl or a boy?"
+    ],
+    "32": [
+      "C'est un Algérien.",
+      "It's an Algerian."
+    ],
+    "33": [
+      "Non, oui, mais le sexe, le sexe de…",
+      "No, sure, but the sex, the sex of…"
+    ],
+    "34": [
+      "Algérien. — Comment tu sais qu'il est",
+      "Algerian. — How do you know it's"
+    ],
+    "35": [
+      "algérien ? — Regarde, mets ton oreille sur",
+      "Algerian? — Look, put your ear on"
+    ],
+    "36": [
+      "mon ventre, Jamel.",
+      "my belly, Jamel."
+    ],
+    "37": [
+      "Comme les coquillages dans la mer, là ?",
+      "Like seashells by the sea?"
+    ],
+    "38": [
+      "Oui, sauf que là, c'est moi ta mer, allez,",
+      "Yes, except I'm your sea now, come on,"
+    ],
+    "39": [
+      "viens.",
+      "come here."
+    ],
+    "40": [
+      "N'aie pas peur.",
+      "Don't be scared."
+    ],
+    "41": [
+      "Comment tu te sens ?",
+      "How are you feeling?"
+    ],
+    "42": [
+      "Franchement, Jamel, je me sens bien, je me",
+      "Honestly, Jamel, I feel good, I"
+    ],
+    "43": [
+      "sens…",
+      "feel…"
+    ],
+    "44": [
+      "J'ai pris 10 kilos, Jamel !",
+      "I've gained 10 kilos, Jamel!"
+    ],
+    "45": [
+      "Je ressemble à une théière.",
+      "I look like a teapot."
+    ],
+    "46": [
+      "J'ai de la peau d'orange, citron,",
+      "I've got orange-peel skin, lemon,"
+    ],
+    "47": [
+      "clémentine, pamplemousse, j'ai le cul de",
+      "clementine, grapefruit, I've got the butt of"
+    ],
+    "48": [
+      "ma tante,",
+      "my aunt,"
+    ],
+    "49": [
+      "j'ai le cul de ta tante, j'ai le cul de la",
+      "your aunt's butt, the butt of"
+    ],
+    "50": [
+      "tante de tout le monde ici,",
+      "everyone's aunt in here,"
+    ],
+    "51": [
+      "et pire encore, Jamel, j'ai le cul en V,",
+      "and worse, Jamel, my butt's V-shaped,"
+    ],
+    "52": [
+      "mais pas le V de Victoire ou le V des",
+      "but not V for Victory or the V of the"
+    ],
+    "53": [
+      "meufs de Victoria's Secret, oh que non,",
+      "Victoria's Secret girls, oh no,"
+    ],
+    "54": [
+      "Jamel, j'ai le V de « va là-bas avec",
+      "Jamel, it's V for \"Vamoose with"
+    ],
+    "55": [
+      "ton cul de vieille ».",
+      "your old-lady butt\"."
+    ],
+    "56": [
+      "Mais… ça va quand même ?",
+      "But… you're OK though?"
+    ],
+    "57": [
+      "Ah oui, sinon ça va super.",
+      "Oh yeah, otherwise I'm great."
+    ],
+    "58": [
+      "Ça, c'est les hormones, ça doit être les",
+      "That's the hormones, must be the"
+    ],
+    "59": [
+      "hormones,",
+      "hormones,"
+    ],
+    "60": [
+      "ça doit être…",
+      "must be…"
+    ],
+    "61": [
+      "C'est hormonal, c'est pour ça.",
+      "It's hormonal, that's why."
+    ],
+    "62": [
+      "Et le propriétaire ?",
+      "And the owner?"
+    ],
+    "63": [
+      "Comment il est ?",
+      "How's he doing?"
+    ],
+    "64": [
+      "Le propriétaire, il est…",
+      "The owner, he's…"
+    ],
+    "65": [
+      "il est éclaté au sol.",
+      "he's wrecked."
+    ],
+    "66": [
+      "Mais comment il le prend ?",
+      "But how's he taking it?"
+    ],
+    "67": [
+      "Ah, comment il le prend ?",
+      "Oh, how's he taking it?"
+    ],
+    "68": [
+      "C'est dur, les femmes enceintes, les",
+      "It's hard, pregnant women, the"
+    ],
+    "69": [
+      "hormones, c'est compliqué à gérer.",
+      "hormones, it's tough to handle."
+    ],
+    "70": [
+      "Il est gentil avec toi ?",
+      "Is he nice to you?"
+    ],
+    "71": [
+      "Ouais, il est gentil, il est gentil, il me",
+      "Yeah, he's nice, he's nice, he gives me"
+    ],
+    "72": [
+      "fait des massages,",
+      "massages,"
+    ],
+    "73": [
+      "il me fait des gommages, il me fait le",
+      "scrubs, he does the"
+    ],
+    "74": [
+      "ménage, il me fait tout.",
+      "housework, he does everything."
+    ],
+    "75": [
+      "Et tu lui fais la misère quand même ?",
+      "And you still give him hell?"
+    ],
+    "76": [
+      "Je lui fais la misère tout le temps, Jamel,",
+      "I give him hell all the time, Jamel,"
+    ],
+    "77": [
+      "tout le temps.",
+      "all the time."
+    ],
+    "78": [
+      "Mais il faut le comprendre.",
+      "But you have to understand him."
+    ],
+    "79": [
+      "Mais je le comprends, je le comprends.",
+      "Oh I understand him, I do."
+    ],
+    "80": [
+      "C'est dur aussi pour lui, hein ?",
+      "It's hard for him too, right?"
+    ],
+    "81": [
+      "Ouais, c'est dur pour lui.",
+      "Yeah, it's hard for him."
+    ],
+    "82": [
+      "Ce fils de p*** !",
+      "That son of a b****!"
+    ],
+    "83": [
+      "Est-ce que t'as envie de quelque chose ?",
+      "Are you craving anything?"
+    ],
+    "84": [
+      "Écoute, je sais pas,",
+      "Well, I don't know,"
+    ],
+    "85": [
+      "ça me gêne un peu, mais je peux avoir,",
+      "it's a bit awkward, but could I have,"
+    ],
+    "86": [
+      "je sais pas, des cigarettes, un whisky et",
+      "I dunno, some cigarettes, a whisky and"
+    ],
+    "87": [
+      "un piano à queue.",
+      "a grand piano."
+    ],
+    "88": [
+      "Cigarettes, whisky, piano… mais t'es",
+      "Cigarettes, whisky, piano… but you're"
+    ],
+    "89": [
+      "enceinte ! — Ah oui, bah juste un whisky et",
+      "pregnant! — Oh right, just a whisky and"
+    ],
+    "90": [
+      "un piano à queue.",
+      "a grand piano then."
+    ],
+    "91": [
+      "Amenez-lui un piano à queue, ça suffira.",
+      "Bring her a grand piano, that'll do."
+    ],
+    "92": [
+      "Un piano à queue, s'il vous plaît.",
+      "A grand piano, please."
+    ],
+    "93": [
+      "Un piano à queue.",
+      "A grand piano."
+    ],
+    "94": [
+      "Et ça va, quand même ?",
+      "And you're OK, though?"
+    ],
+    "95": [
+      "Oui, oui, ça va, Jamel.",
+      "Yes, yes, I'm OK, Jamel."
+    ],
+    "96": [
+      "T'es sûre ? T'es heureuse, t'es",
+      "You sure? You're happy, you're"
+    ],
+    "97": [
+      "heureuse ? — Oui, ça va, je suis heureuse,",
+      "happy? — Yes, I'm fine, I'm happy,"
+    ],
+    "98": [
+      "Jamel.",
+      "Jamel."
+    ],
+    "99": [
+      "Ça va, t'es cool, ça va, c'est cool.",
+      "OK, you're chill, OK, that's cool."
+    ],
+    "100": [
+      "Mais c'est cool, Jamel !",
+      "But it IS cool, Jamel!"
+    ],
+    "101": [
+      "Pourquoi je meugle, Jamel ?",
+      "Why am I mooing, Jamel?"
+    ],
+    "102": [
+      "Parce que je me transforme en vache, Jamel !",
+      "Because I'm turning into a cow, Jamel!"
+    ],
+    "104": [
+      "Ah, le piano ! Tiens, dégage.",
+      "Ah, the piano! Here, get lost."
+    ],
+    "105": [
+      "Les hormones, les hormones…",
+      "The hormones, the hormones…"
+    ],
+    "107": [
+      "T'as dit quoi ?",
+      "What did you say?"
+    ],
+    "108": [
+      "Non, je me demandais si ça allait et si t'étais…",
+      "No, I was wondering if you were OK and…"
+    ],
+    "109": [
+      "Ah oui, oui, ça va.",
+      "Oh yes, yes, I'm fine."
+    ],
+    "110": [
+      "Franchement, là, je suis bien.",
+      "Honestly, I'm good right now."
+    ],
+    "111": [
+      "Je suis bien, Jamel.",
+      "I'm good, Jamel."
+    ],
+    "112": [
+      "Je peux te laisser ?",
+      "Can I leave you?"
+    ],
+    "113": [
+      "Ouais, ça va.",
+      "Yeah, I'm fine."
+    ],
+    "114": [
+      "Merci beaucoup, ça va.",
+      "Thanks a lot, I'm fine."
+    ],
+    "115": [
+      "Merci.",
+      "Thank you."
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "algérien",
+      "nth": 1,
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "algérien",
+      "nth": 1,
+      "offset": -0.4,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "caption",
+      "word": "viens",
+      "text": "Le bébé est DÉJÀ au bled 🇩🇿🎶",
+      "dur": 3.0
+    },
+    {
+      "type": "zoom",
+      "word": "kilos",
+      "offset": -0.5,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "fils",
+      "file": "impact",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "fils",
+      "offset": -0.3,
+      "dur": 1.8,
+      "scale": 1.2
+    },
+    {
+      "type": "sticker",
+      "word": "piano",
+      "nth": 1,
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "sfx",
+      "word": "vache",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "zoom",
+      "word": "vache",
+      "offset": -1.0,
+      "dur": 2.2,
+      "scale": 1.18
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Camille Lellouche enceinte pète les plombs sur Jamel 😂 « Un whisky et un piano à queue » #shorts",
+    "caption": "« Juste un whisky et un piano à queue. » 🍼🎹😂\nCamille Lellouche enceinte face à Jamel : les hormones ont gagné.\n\nT'as déjà vu une femme enceinte comme ça ? Team Camille ou team Jamel ? 👇 Tague la future maman de ton entourage 😅\n\n🎤 Camille Lellouche & Jamel Debbouze, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#camillelellouche #jameldebbouze #marrakechdurire #humour #enceinte",
+    "youtube_tags": [
+      "camille lellouche",
+      "jamel debbouze",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "enceinte",
+      "femme enceinte",
+      "humour",
+      "sketch",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}

@@ -48,8 +48,12 @@ Path(f"subs.{tl_lang}.srt").write_text("\n\n".join(trans) + "\n", encoding="utf-
 
 segs = []
 pad = float(cfg.get("end_pad", 1.2))
-for a, b in cfg["ranges"]:
+for rng in cfg["ranges"]:
+    a, b = rng[0], rng[1]
     s0, e0 = cues[a - 1]["start"] - 0.25, cues[b - 1]["end"] + pad
+    if len(rng) > 2 and rng[2] == "raw":  # keep every pause (music/visual gags), no tightening
+        segs.append({"in": round(s0, 3), "out": round(e0, 3)})
+        continue
     out = subprocess.run(["python3", str(TOOLS / "tighten.py"), "words.json", "--start", f"{s0:.2f}", "--end", f"{e0:.2f}",
                           "--max-gap", "1.8", "--keep", "1.6", "--lead", "0.25"], capture_output=True, text=True, check=True)
     part = json.loads(out.stdout.splitlines()[0])
@@ -92,7 +96,11 @@ zooms, sfx, overlays, captions = [], [], [], []
 if cfg.get("hook"):
     captions.append({"text": cfg["hook"], "start": 0.0, "end": 3.2})
 if cfg.get("open_zoom"):  # punch-in on the face during the hook (wide-shot sources); see docs/HOOKS.md
-    zooms.append({"at": 0.0, "dur": float(cfg.get("open_zoom_dur", 3.0)), "scale": float(cfg.get("open_zoom", 1.3))})
+    oz = {"at": 0.0, "dur": float(cfg.get("open_zoom_dur", 3.0)), "scale": float(cfg.get("open_zoom", 1.3))}
+    for k in ("cx", "cy"):  # focus point, 0-1 of the output frame
+        if cfg.get("open_zoom_" + k) is not None:
+            oz[k] = float(cfg["open_zoom_" + k])
+    zooms.append(oz)
 for e in cfg.get("effects", []):
     if e["type"] == "freeze":
         continue

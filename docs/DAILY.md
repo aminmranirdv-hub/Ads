@@ -28,9 +28,11 @@ projects/daily/<date>/<nn>_<comedian>_<bit>/
 4. `python3 tools/make_short.py edit.json`, then `tools/qc.py`, `tools/thumbnail.py`, `tools/deliverables.py`
 
 ## Next up (owner goal: 55k+)
-- **2026-11-17: include « Jamel aux César, Partie 2 »** from cache/363RgMenp1g.mp4 (winner source): the « César du meilleur perdant » bit (Gilles Lellouche, ~4:38-6:00) or the Will Smith / Corinne Masiero opening (~1:29-2:32). Hook in the same style as the winner, strongest slot (21:00).
+- Re-check Instagram reels insights (free, `vidiq_instagram_owner_insights` mode reels) around 2026-11-19; update docs/HOOKS.md and build series from winners (Jamel César P1/P2, Nawel, Camille).
+- Remaining Marrakech 2022 acts: see docs/SOURCES.md (unused list).
 
 ## Pre-scheduled (done)
+- **2026-11-17:** 11:00 Jarry, 13:00 Elie Semoun, 16:00 Camille Lellouche & Jamel, 18:00 Nawel Madani, 21:00 Jamel César Partie 2.
 - **2026-11-16 (owner's lineup): 11:00 Malik Bentalha (already published), then Sarah Lélé (a NEW bit from cache/xlhQLTOMFaE.mp4, not the father/marriage bit already used; owner overrides the 5-day rule), Jamel Debbouze, Gad Elmaleh, and for the 4th slot Booder « Partie 2 » (génie → FaceTime → Mbappé arrives, cache/hWLRmXRqr_E.mp4 ~2:14:30-2:18:00).** Slots 13:00, 16:00, 18:00, 21:00.
 
 ## Priority comedians (owner request, 2026-11-13)
@@ -53,3 +55,9 @@ If no usable Darija clip is found on a given day, fill the slot with another FR 
 - **Standing approval (owner, 2026-11-13): "NEXT time post without my ok".** Each daily run drafts and publishes all 5 shorts itself, then reports the links. Do not wait for an "ok".
 - **Reconfirmed 2026-11-14: "Always publish without my permission and give full authorization to vidiq social, don't ask me for permission all time."** Draft, then publish immediately with vidiq_social_post_publish; never ask the owner before posting. Report links afterwards.
 - If a slot has already passed, use the next free slot (at least 1 hour apart).
+
+## Size limit (Instagram)
+Instagram refuses videos over 100 MB (104,857,600 bytes). Long shorts (2-4 min) often exceed it: make an extra `<name>.ig.mp4` copy
+(`ffmpeg -i X.mp4 -c:v libx264 -b:v 3300k -maxrate 3800k -bufsize 7600k -c:a aac -b:a 160k -movflags +faststart X.ig.mp4`), upload it too,
+and give the Instagram destination its own `media`. If you later update one destination with `vidiq_social_post_draft_update`,
+re-check that the others still show their `scheduledFor` time (a YouTube destination lost its time once on 2026-11-17).

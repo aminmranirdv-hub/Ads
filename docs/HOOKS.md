@@ -22,7 +22,8 @@ TikTok: Jamel « ninjas » (César 2023) ~13k views in a day. Skip rate = % who 
 
 ## Rules for every short (apply before rendering)
 - **Pick bits that START strong**: choose the in-point on a line with stakes, a question, a provocation or a direct address. If the bit's natural start is setup, start later (first strong line) as long as the joke stays understandable.
-- **Frame 1 = face.** If the source is a wide shot, set `"open_zoom": 1.3` in config.json (punch-in during the hook) and/or a tighter `pre_crop`.
+- **Frame 1 = face.** If the source is a wide shot, set `"open_zoom": 1.3` in config.json (punch-in during the hook) and/or a tighter `pre_crop`. For a very wide shot, aim the punch-in at the comedian with `"open_zoom_cx"`/`"open_zoom_cy"` (0-1 of the output frame, e.g. 2.6× at cx 0.36 for Nawel) and end it before the next camera cut (`open_zoom_dur`). If the first segment opens on an audience shot, move its `in` to just before the first word.
+- **Music/visual gags:** mark the range `[a, b, "raw"]` so pauses aren't tightened away (e.g. the raï-from-the-belly gag in Camille Lellouche's sketch).
 - **Hook text formula** (max ~45 characters, 2 lines): `[Star name] + [promise/twist] + emoji`. Patterns that work:
   - "X a trouvé LE coupable : …"
   - "Le vœu de X… se réalise VRAIMENT"

@@ -1,0 +1,233 @@
+{
+  "trans_lang": "en",
+  "context_note": "Partie 2 from the winning source (Jamel opening the César 2023, CANAL+): a thought for the losers, 'you're being filmed', and his proposed César for the best loser, which he gives to Gilles Lellouche. Unclear lines 108-112 and 149 cut.",
+  "ranges": [
+    [
+      113,
+      148
+    ]
+  ],
+  "end_pad": 2.2,
+  "hook": "Jamel invente le César du meilleur PERDANT 😂",
+  "highlight_words": [
+    "perdant",
+    "filmés",
+    "dignes",
+    "César",
+    "Gilles",
+    "Lellouche",
+    "mourir"
+  ],
+  "cues": {
+    "113": [
+      "D'ailleurs, j'ai une pensée émue pour tous",
+      "By the way, my thoughts go out to everyone"
+    ],
+    "114": [
+      "ceux qui vont pas l'avoir.",
+      "who won't win tonight."
+    ],
+    "115": [
+      "J'y suis passé, par là.",
+      "I've been there."
+    ],
+    "116": [
+      "C'est horrible, comme sensation.",
+      "It's a horrible feeling."
+    ],
+    "117": [
+      "Là, on se sent hagard,",
+      "You feel dazed,"
+    ],
+    "118": [
+      "diminué, inutile.",
+      "diminished, useless."
+    ],
+    "119": [
+      "Tu marches dans la rue, tu parles tout",
+      "You walk down the street talking to"
+    ],
+    "120": [
+      "seul.",
+      "yourself."
+    ],
+    "121": [
+      "Mais attention, pour ceux qui vont pas",
+      "But careful, those of you who won't"
+    ],
+    "122": [
+      "l'avoir : vous êtes filmés.",
+      "win: you're being filmed."
+    ],
+    "123": [
+      "Sérieux,",
+      "Seriously,"
+    ],
+    "124": [
+      "il faut être bon perdant, il faut",
+      "you have to be a good loser, you mustn't…"
+    ],
+    "125": [
+      "pas… Parce que, d'après les",
+      "Because according to"
+    ],
+    "126": [
+      "statistiques, les gens regardent plus",
+      "statistics, people watch the losers"
+    ],
+    "127": [
+      "ceux qui l'ont pas que ceux qui l'ont.",
+      "more than the winners."
+    ],
+    "128": [
+      "C'est important, ce que je vous dis : restez",
+      "This is important: stay"
+    ],
+    "129": [
+      "dignes, restez dignes.",
+      "dignified, stay dignified."
+    ],
+    "130": [
+      "Voilà. Et c'est dur à jouer, la dignité,",
+      "And dignity is hard to act,"
+    ],
+    "131": [
+      "tout le monde n'y arrive pas.",
+      "not everyone pulls it off."
+    ],
+    "132": [
+      "D'ailleurs, monsieur et madame de",
+      "Actually, ladies and gentlemen of"
+    ],
+    "133": [
+      "l'Académie, on devrait créer un César pour",
+      "the Academy, we should create a César for"
+    ],
+    "134": [
+      "ça :",
+      "that:"
+    ],
+    "135": [
+      "le César de celui qui l'a pas et qui fait",
+      "the César for the one who loses and best"
+    ],
+    "136": [
+      "le mieux semblant d'être content pour",
+      "pretends to be happy for"
+    ],
+    "137": [
+      "celui qui l'a.",
+      "the winner."
+    ],
+    "138": [
+      "Attends, attends,",
+      "Wait, wait,"
+    ],
+    "139": [
+      "attends… moi, ce",
+      "wait… this"
+    ],
+    "140": [
+      "César, je",
+      "César, I'd"
+    ],
+    "141": [
+      "l'attribuerais sans hésiter à Gilles",
+      "give it without hesitation to Gilles"
+    ],
+    "142": [
+      "Lellouche.",
+      "Lellouche."
+    ],
+    "143": [
+      "Comment il fait bien celui qui l'a pas !",
+      "He's SO good at losing!"
+    ],
+    "144": [
+      "Il est dégoûté, ça se voit jamais ! Ça se",
+      "He's gutted and it never shows! Does it"
+    ],
+    "145": [
+      "voit pas ? Il a envie de mourir",
+      "show? He wants to die"
+    ],
+    "146": [
+      "à l'intérieur.",
+      "inside."
+    ],
+    "147": [
+      "Mais il est impassible, on voit rien.",
+      "But he's stone-faced, you see nothing."
+    ],
+    "148": [
+      "Gilles, si tu nous écoutes, on te kiffe.",
+      "Gilles, if you're listening, we love you."
+    ]
+  },
+  "effects": [
+    {
+      "type": "zoom",
+      "word": "filmé",
+      "offset": -0.6,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "type": "sfx",
+      "word": "filmé",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "sfx",
+      "word": "dignes",
+      "nth": 2,
+      "file": "pop",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "loulouche",
+      "offset": -1.0,
+      "dur": 2.4,
+      "scale": 1.18
+    },
+    {
+      "type": "sfx",
+      "word": "loulouche",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "sticker",
+      "word": "mourir",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "caption",
+      "word": "kiffe",
+      "text": "César du meilleur perdant 🏆",
+      "dur": 2.6
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Partie 2 : Jamel invente le César du meilleur perdant… pour Gilles Lellouche 😂 #shorts",
+    "caption": "« Le César de celui qui l'a pas et qui fait le mieux semblant d'être content… je le donne à Gilles Lellouche ! » 😂\nPartie 2 de Jamel aux César 2023 (après la nounou et Netflix).\n\nTeam bon perdant ou team mauvais perdant ? 👇 Tague ton pote qui fait semblant d'être content 😅\n\n🎤 Jamel Debbouze, César 2023 (CANAL+) · 🇬🇧 English subtitles by @the_punchlinelab\n\n#jameldebbouze #cesar2023 #gilleslellouche #humour #standup",
+    "youtube_tags": [
+      "jamel debbouze",
+      "césar 2023",
+      "gilles lellouche",
+      "mauvais perdant",
+      "humour",
+      "stand up",
+      "canal+",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}

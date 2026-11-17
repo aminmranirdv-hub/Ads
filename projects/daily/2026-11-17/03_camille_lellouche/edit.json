@@ -1,0 +1,166 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Camille Lellouche, Jamel Debbouze + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-17_camille_lellouche",
+  "comedian": "Camille Lellouche & Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=4541s",
+    "channel": "to verify (full-show upload)",
+    "offset_in_show_s": 4524
+  },
+  "segments": [
+    {
+      "in": 28.44,
+      "out": 38.05
+    },
+    {
+      "in": 39.24,
+      "out": 53.19
+    },
+    {
+      "in": 67.42,
+      "out": 75.53
+    },
+    {
+      "in": 73.78,
+      "out": 106.95
+    },
+    {
+      "in": 105.02,
+      "out": 139.49
+    },
+    {
+      "in": 141.82,
+      "out": 158.7
+    },
+    {
+      "in": 159.14,
+      "out": 183.54
+    },
+    {
+      "in": 185.28,
+      "out": 188.06
+    },
+    {
+      "in": 188.96,
+      "out": 210.42
+    },
+    {
+      "in": 211.25,
+      "out": 229.22
+    },
+    {
+      "in": 228.91,
+      "out": 244.57
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "enceinte",
+    "Algérien",
+    "10 kilos",
+    "vache",
+    "piano",
+    "whisky",
+    "hormones"
+  ],
+  "zooms": [
+    {
+      "at": 33.04,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 69.77,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 141.31,
+      "dur": 1.8,
+      "scale": 1.2
+    },
+    {
+      "at": 178.96,
+      "dur": 2.2,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 34.11,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 141.9,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 180.19,
+      "gain_db": -13
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 152.84,
+      "end": 154.24,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Camille Lellouche enceinte pète les plombs sur Jamel 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Le bébé est DÉJÀ au bled 🇩🇿🎶",
+      "start": 48.14,
+      "end": 51.14
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Camille Lellouche enceinte pète les plombs sur Jamel 😂 « Un whisky et un piano à queue » #shorts",
+    "caption": "« Juste un whisky et un piano à queue. » 🍼🎹😂\nCamille Lellouche enceinte face à Jamel : les hormones ont gagné.\n\nT'as déjà vu une femme enceinte comme ça ? Team Camille ou team Jamel ? 👇 Tague la future maman de ton entourage 😅\n\n🎤 Camille Lellouche & Jamel Debbouze, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#camillelellouche #jameldebbouze #marrakechdurire #humour #enceinte",
+    "youtube_tags": [
+      "camille lellouche",
+      "jamel debbouze",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "enceinte",
+      "femme enceinte",
+      "humour",
+      "sketch",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Camille Lellouche (pregnant, in character) & Jamel Debbouze, Marrakech du Rire 2022: baby 'is Algerian' (raï plays from the belly), hormone mood swings, cravings: whisky and a grand piano."
+}

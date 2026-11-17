@@ -1,0 +1,224 @@
+{
+  "trans_lang": "en",
+  "context_note": "Jarry (Marrakech du Rire 2022) on his Moroccan mum: Marrakech/Tunisia, the goat named Martine cooked into a shepherd's pie, and the 'palais' (palate/palace) pun.",
+  "ranges": [
+    [
+      9,
+      13
+    ],
+    [
+      34,
+      42
+    ],
+    [
+      46,
+      51
+    ],
+    [
+      93,
+      104
+    ]
+  ],
+  "end_pad": 2.0,
+  "hook": "Sa mère lui a fait MANGER sa chèvre 😱",
+  "highlight_words": [
+    "Tunisie",
+    "Martine",
+    "chèvre",
+    "bonne",
+    "princesse",
+    "palais"
+  ],
+  "cues": {
+    "9": [
+      "J'suis tellement content d'être à",
+      "I'm so happy to be in"
+    ],
+    "10": [
+      "Marrakech ! Quand j'ai dit à ma mère : « Je",
+      "Marrakech! When I told my mum: \"I'm"
+    ],
+    "11": [
+      "vais à Marrakech », elle m'a dit : « Emmène-moi",
+      "going to Marrakech\", she said: \"Take me"
+    ],
+    "12": [
+      "! J'ai toujours rêvé de visiter la",
+      "with you! I've always dreamed of visiting"
+    ],
+    "13": [
+      "Tunisie. »",
+      "Tunisia.\""
+    ],
+    "34": [
+      "Ma mère, c'est la femme la plus drôle du",
+      "My mum is the funniest woman in the"
+    ],
+    "35": [
+      "monde. Je suis devenu humoriste grâce à ma",
+      "world. I became a comedian thanks to my"
+    ],
+    "36": [
+      "maman. Depuis que je suis tout petit, elle",
+      "mum. Ever since I was little, she's"
+    ],
+    "37": [
+      "me fait des blagues.",
+      "been playing jokes on me."
+    ],
+    "38": [
+      "Par exemple, à la maison, quand j'étais",
+      "For example, at home, when I was"
+    ],
+    "39": [
+      "petit, j'avais une chèvre qui s'appelait",
+      "little, I had a goat called"
+    ],
+    "40": [
+      "Martine.",
+      "Martine."
+    ],
+    "41": [
+      "Je l'avais appelée comme ça, c'était le",
+      "I named her that, it was my"
+    ],
+    "42": [
+      "prénom de ma nourrice.",
+      "nanny's name."
+    ],
+    "46": [
+      "Et un samedi après-midi, ma mère m'a",
+      "And one Saturday afternoon, my mum"
+    ],
+    "47": [
+      "préparé mon plat préféré, un hachis",
+      "made my favourite dish, shepherd's"
+    ],
+    "48": [
+      "parmentier. À la fin, elle m'a regardé et m'a",
+      "pie. At the end, she looked at me and"
+    ],
+    "49": [
+      "dit :",
+      "said:"
+    ],
+    "50": [
+      "« Alors, elle est bonne, Martine",
+      "\"So, how's Martine taste"
+    ],
+    "51": [
+      "? »",
+      "?\""
+    ],
+    "93": [
+      "Ma mère a très vite compris que j'étais",
+      "My mum quickly understood I was"
+    ],
+    "94": [
+      "un garçon un peu différent.",
+      "a slightly different boy."
+    ],
+    "95": [
+      "Enfin, surtout différent de mes trois",
+      "Well, mostly different from my three"
+    ],
+    "96": [
+      "frères, parce que je viens d'une famille de",
+      "brothers, because I come from a family of"
+    ],
+    "97": [
+      "vignerons. Chez moi, le vin, c'est une",
+      "winemakers. At home, wine is a"
+    ],
+    "98": [
+      "tradition. Moi, tu mets une bouteille de",
+      "tradition. Put a bottle of"
+    ],
+    "99": [
+      "blanc, une bouteille de rouge, une",
+      "white, a bottle of red, a"
+    ],
+    "100": [
+      "bouteille de rosé, je te fais la",
+      "bottle of rosé in front of me, I can tell"
+    ],
+    "101": [
+      "différence, rien qu'en les regardant.",
+      "them apart just by looking at them."
+    ],
+    "102": [
+      "Ma mère m'a dit : « Tu voulais devenir",
+      "My mum told me: \"You wanted to be"
+    ],
+    "103": [
+      "une princesse, t'as jamais réussi, mais t'as",
+      "a princess, you never made it, but you've got"
+    ],
+    "104": [
+      "un super palais. »",
+      "a great palate (palace).\""
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "tunisie",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "martine",
+      "nth": 2,
+      "offset": -0.8,
+      "dur": 2.4,
+      "scale": 1.18
+    },
+    {
+      "type": "freeze",
+      "word": "martine",
+      "nth": 2,
+      "dur": 0.5
+    },
+    {
+      "type": "caption",
+      "word": "martine",
+      "nth": 2,
+      "text": "RIP Martine 🐐💀",
+      "dur": 2.6
+    },
+    {
+      "type": "sfx",
+      "word": "palais",
+      "file": "impact",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "palais",
+      "offset": -0.6,
+      "dur": 2.2,
+      "scale": 1.15
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Jarry : sa mère lui a fait manger sa chèvre 😱 « Alors, elle est bonne Martine ? » #shorts",
+    "caption": "« Alors, elle est bonne, Martine ? » 🐐😱😂\nLa maman de Jarry, c'est un autre niveau d'humour.\n\nTa mère aurait osé ou pas ? 👇 Tague quelqu'un qui a une daronne comme ça 😅\n\n🎤 Jarry, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#jarry #marrakechdurire #humour #maman #standup",
+    "youtube_tags": [
+      "jarry",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "jarry maman",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "open_zoom": 1.7,
+  "open_zoom_dur": 3.2,
+  "open_zoom_cx": 0.41,
+  "open_zoom_cy": 0.42
+}

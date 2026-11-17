@@ -1,0 +1,143 @@
+{
+  "language": "fr",
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 1.0
+    }
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner chose to publish without a licence. Credit Jamel Debbouze / CANAL+ and link the original."
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-17_jamel_cesar_p2",
+  "comedian": "Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Jamel Debbouze lance les César 2023 - CANAL+",
+    "url": "https://www.youtube.com/watch?v=363RgMenp1g&t=278s",
+    "channel": "CANAL+ (official)",
+    "window": "4:38-6:00"
+  },
+  "segments": [
+    {
+      "in": 278.21,
+      "out": 281.5
+    },
+    {
+      "in": 282.95,
+      "out": 285.89
+    },
+    {
+      "in": 286.19,
+      "out": 288.99
+    },
+    {
+      "in": 290.05,
+      "out": 299.37
+    },
+    {
+      "in": 299.73,
+      "out": 303.45
+    },
+    {
+      "in": 304.21,
+      "out": 334.37
+    },
+    {
+      "in": 336.19,
+      "out": 345.49
+    },
+    {
+      "in": 346.29,
+      "out": 361.66
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "perdant",
+    "filmés",
+    "dignes",
+    "César",
+    "Gilles",
+    "Lellouche",
+    "mourir"
+  ],
+  "zooms": [
+    {
+      "at": 20.33,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 59.15,
+      "dur": 2.4,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 21.32,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 35.5,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 60.78,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 69.18,
+      "end": 70.58,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Jamel invente le César du meilleur PERDANT 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "César du meilleur perdant 🏆",
+      "start": 74.6,
+      "end": 76.9
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Partie 2 : Jamel invente le César du meilleur perdant… pour Gilles Lellouche 😂 #shorts",
+    "caption": "« Le César de celui qui l'a pas et qui fait le mieux semblant d'être content… je le donne à Gilles Lellouche ! » 😂\nPartie 2 de Jamel aux César 2023 (après la nounou et Netflix).\n\nTeam bon perdant ou team mauvais perdant ? 👇 Tague ton pote qui fait semblant d'être content 😅\n\n🎤 Jamel Debbouze, César 2023 (CANAL+) · 🇬🇧 English subtitles by @the_punchlinelab\n\n#jameldebbouze #cesar2023 #gilleslellouche #humour #standup",
+    "youtube_tags": [
+      "jamel debbouze",
+      "césar 2023",
+      "gilles lellouche",
+      "mauvais perdant",
+      "humour",
+      "stand up",
+      "canal+",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Partie 2 from the winning source (Jamel opening the César 2023, CANAL+): a thought for the losers, 'you're being filmed', and his proposed César for the best loser, which he gives to Gilles Lellouche. Unclear lines 108-112 and 149 cut."
+}

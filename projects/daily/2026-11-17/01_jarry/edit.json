@@ -1,0 +1,119 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Jarry + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-17_jarry",
+  "comedian": "Jarry",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=3185s",
+    "channel": "to verify (full-show upload)"
+  },
+  "segments": [
+    {
+      "in": 23.8,
+      "out": 32.01
+    },
+    {
+      "in": 71.04,
+      "out": 84.74
+    },
+    {
+      "in": 88.36,
+      "out": 101.51,
+      "freeze": 0.5
+    },
+    {
+      "in": 185.14,
+      "out": 205.66
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Tunisie",
+    "Martine",
+    "chèvre",
+    "bonne",
+    "princesse",
+    "palais"
+  ],
+  "zooms": [
+    {
+      "at": 0.0,
+      "dur": 3.2,
+      "scale": 1.7,
+      "cx": 0.41,
+      "cy": 0.42
+    },
+    {
+      "at": 28.75,
+      "dur": 2.4,
+      "scale": 1.18
+    },
+    {
+      "at": 52.68,
+      "dur": 2.2,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 6.34,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 54.21,
+      "gain_db": -12
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Sa mère lui a fait MANGER sa chèvre 😱",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "RIP Martine 🐐💀",
+      "start": 30.12,
+      "end": 32.72
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Jarry : sa mère lui a fait manger sa chèvre 😱 « Alors, elle est bonne Martine ? » #shorts",
+    "caption": "« Alors, elle est bonne, Martine ? » 🐐😱😂\nLa maman de Jarry, c'est un autre niveau d'humour.\n\nTa mère aurait osé ou pas ? 👇 Tague quelqu'un qui a une daronne comme ça 😅\n\n🎤 Jarry, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#jarry #marrakechdurire #humour #maman #standup",
+    "youtube_tags": [
+      "jarry",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "jarry maman",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Jarry (Marrakech du Rire 2022) on his Moroccan mum: Marrakech/Tunisia, the goat named Martine cooked into a shepherd's pie, and the 'palais' (palate/palace) pun."
+}

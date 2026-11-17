@@ -196,17 +196,27 @@ def _framing_core(spec: dict) -> str:
 def zoom_filter(zooms: list[dict]) -> str | None:
     if not zooms:
         return None
-    terms = []
+    terms, cxt, cyt = [], [], []
     for z in zooms:
         a = parse_time(z["at"])
         b = a + float(z.get("dur", 1.5))
         s = float(z.get("scale", 1.15))
         e = float(z.get("ease", 0.12))
-        terms.append(f"({s - 1:.4f})*min(1\\,(it-{a:.3f})/{e:.3f})*between(it\\,{a:.3f}\\,{b:.3f})")
+        win = f"between(it\\,{a:.3f}\\,{b:.3f})"
+        terms.append(f"({s - 1:.4f})*min(1\\,(it-{a:.3f})/{e:.3f})*{win}")
+        # optional focus point (0-1 of the output frame) so a wide shot can punch in on the comedian
+        if "cx" in z:
+            cxt.append(f"({float(z['cx']) - 0.5:.4f})*{win}")
+        if "cy" in z:
+            cyt.append(f"({float(z['cy']) - 0.5:.4f})*{win}")
     zexpr = "1+" + "+".join(terms)
+    cx = "0.5" + "".join("+" + t for t in cxt)
+    cy = "0.5" + "".join("+" + t for t in cyt)
+    xe = f"max(0\\,min(iw-iw/zoom\\,iw*({cx})-(iw/zoom/2)))"
+    ye = f"max(0\\,min(ih-ih/zoom\\,ih*({cy})-(ih/zoom/2)))"
     # Upscale first so the zoompan crop doesn't jitter on sub-pixel moves.
     return (f"scale={OUT_W * 2}:{OUT_H * 2},"
-            f"zoompan=z='{zexpr}':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s={OUT_W}x{OUT_H}:fps={OUT_FPS}")
+            f"zoompan=z='{zexpr}':d=1:x='{xe}':y='{ye}':s={OUT_W}x{OUT_H}:fps={OUT_FPS}")
 
 
 def main() -> None:

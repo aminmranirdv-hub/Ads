@@ -1,0 +1,115 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Elie Semoun + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-17_elie_semoun",
+  "comedian": "Elie Semoun",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=5832s",
+    "channel": "to verify (full-show upload)"
+  },
+  "segments": [
+    {
+      "in": 187.86,
+      "out": 258.55
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Vianney",
+    "mensonge",
+    "Jamel",
+    "serpillière",
+    "Tinder",
+    "Johnny",
+    "moi"
+  ],
+  "zooms": [
+    {
+      "at": 31.17,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 65.11,
+      "dur": 2.6,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 6.88,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 32.52,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 67.6,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 44.02,
+      "end": 45.42,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Elie Semoun balance les mensonges de TOUT le monde 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Le catfish c'était LUI 💀",
+      "start": 67.6,
+      "end": 70.2
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Elie Semoun : « Oh Jamel, t'as grandi » MENSONGE 😂 #shorts",
+    "caption": "« Oh Jamel, t'as grandi ! » … mensonge. 😂\nElie Semoun balance les mensonges qu'on dit TOUS — et le catfish Tinder, c'était lui.\n\nC'est quoi le pire mensonge que t'as déjà dit ? 👇 Tague le pote qui ment sur Tinder 😅\n\n🎤 Elie Semoun, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#eliesemoun #jameldebbouze #marrakechdurire #humour #tinder",
+    "youtube_tags": [
+      "elie semoun",
+      "jamel debbouze",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "tinder",
+      "mensonge",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Elie Semoun (Marrakech du Rire 2022): 'monsters' in the room, everyday lies (tap water in Morocco, 'Jamel you've grown'), the lady's shirt, and the Tinder catfish twist."
+}

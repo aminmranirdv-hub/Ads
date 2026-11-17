@@ -1,0 +1,223 @@
+{
+  "trans_lang": "en",
+  "context_note": "Elie Semoun (Marrakech du Rire 2022): 'monsters' in the room, everyday lies (tap water in Morocco, 'Jamel you've grown'), the lady's shirt, and the Tinder catfish twist.",
+  "ranges": [
+    [
+      83,
+      115
+    ]
+  ],
+  "end_pad": 2.5,
+  "hook": "Elie Semoun balance les mensonges de TOUT le monde 😂",
+  "highlight_words": [
+    "Vianney",
+    "mensonge",
+    "Jamel",
+    "serpillière",
+    "Tinder",
+    "Johnny",
+    "moi"
+  ],
+  "cues": {
+    "83": [
+      "Est-ce qu'il y a un mari qui trompe sa",
+      "Is there a husband here cheating on his"
+    ],
+    "84": [
+      "femme ?",
+      "wife?"
+    ],
+    "85": [
+      "Un assassin ?",
+      "A murderer?"
+    ],
+    "86": [
+      "Un fan de Vianney ?",
+      "A Vianney fan?"
+    ],
+    "87": [
+      "Un raciste ? Au moins, on peut être sûr",
+      "A racist? At least we can be sure"
+    ],
+    "88": [
+      "que dans cette salle, il y a des lâches.",
+      "there are cowards in this room."
+    ],
+    "89": [
+      "Vous savez,",
+      "You know,"
+    ],
+    "90": [
+      "ces monstres qui vous font avoir de si",
+      "those monsters that give you such"
+    ],
+    "91": [
+      "vilaines pensées, qui vous font mentir.",
+      "nasty thoughts, that make you lie."
+    ],
+    "92": [
+      "« La prochaine fois, c'est moi qui t'invite",
+      "\"Next time, dinner's"
+    ],
+    "93": [
+      "au restaurant » : mensonge.",
+      "on me\": lie."
+    ],
+    "94": [
+      "« Au Maroc, tu peux boire l'eau du robinet » :",
+      "\"In Morocco you can drink the tap water\":"
+    ],
+    "95": [
+      "mensonge.",
+      "lie."
+    ],
+    "96": [
+      "« Ça se voit pas du tout, le lifting que t'as",
+      "\"You can't tell at all about the facelift you"
+    ],
+    "97": [
+      "fait à Casa » : mensonge.",
+      "got in Casablanca\": lie."
+    ],
+    "98": [
+      "« Oh Jamel, t'as grandi ! » : mensonge.",
+      "\"Oh Jamel, you've grown!\": lie."
+    ],
+    "99": [
+      "Tout le monde ment, tout le monde triche.",
+      "Everyone lies, everyone cheats."
+    ],
+    "100": [
+      "Madame,",
+      "Madam,"
+    ],
+    "101": [
+      "la personne qui vous a vendu cette chemise",
+      "the person who sold you that shirt"
+    ],
+    "102": [
+      "vous a menti.",
+      "lied to you."
+    ],
+    "103": [
+      "« Rachida, ça y est, j'ai réussi à",
+      "\"Rachida, I finally managed to"
+    ],
+    "104": [
+      "refourguer la serpillière de la collection",
+      "offload the mop from the"
+    ],
+    "105": [
+      "automne-hiver 92. »",
+      "autumn-winter '92 collection.\""
+    ],
+    "106": [
+      "Tout le monde ment, tout le monde triche,",
+      "Everyone lies, everyone cheats,"
+    ],
+    "107": [
+      "moi, j'ai plein d'exemples de ça.",
+      "I've got loads of examples."
+    ],
+    "108": [
+      "J'ai un pote qui s'est inscrit sur un site",
+      "A buddy of mine signed up on a dating"
+    ],
+    "109": [
+      "de rencontre, sur Tinder. Ce crétin, avec",
+      "site, on Tinder. This idiot, with"
+    ],
+    "110": [
+      "Photoshop,",
+      "Photoshop,"
+    ],
+    "111": [
+      "il s'est rajouté des cheveux,",
+      "added himself some hair,"
+    ],
+    "112": [
+      "il a dit qu'il avait 30 ans, qu'il s'appelait Johnny,",
+      "said he was 30, that his name was Johnny,"
+    ],
+    "113": [
+      "qu'il habitait à Los Angeles,",
+      "that he lived in Los Angeles,"
+    ],
+    "114": [
+      "alors qu'il a 50 balais, une perruque et",
+      "when he's actually 50, with a wig and"
+    ],
+    "115": [
+      "un dentier. C'est pas un pote, c'est moi.",
+      "dentures. It's not a buddy, it's me."
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "vianney",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "sfx",
+      "word": "grandi",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "zoom",
+      "word": "grandi",
+      "offset": -1.0,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sticker",
+      "word": "refourguer",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "zoom",
+      "word": "dentier",
+      "offset": -0.6,
+      "dur": 2.6,
+      "scale": 1.18
+    },
+    {
+      "type": "sfx",
+      "word": "pote",
+      "nth": 2,
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "caption",
+      "word": "pote",
+      "nth": 2,
+      "text": "Le catfish c'était LUI 💀",
+      "dur": 2.6
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Elie Semoun : « Oh Jamel, t'as grandi » MENSONGE 😂 #shorts",
+    "caption": "« Oh Jamel, t'as grandi ! » … mensonge. 😂\nElie Semoun balance les mensonges qu'on dit TOUS — et le catfish Tinder, c'était lui.\n\nC'est quoi le pire mensonge que t'as déjà dit ? 👇 Tague le pote qui ment sur Tinder 😅\n\n🎤 Elie Semoun, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#eliesemoun #jameldebbouze #marrakechdurire #humour #tinder",
+    "youtube_tags": [
+      "elie semoun",
+      "jamel debbouze",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "tinder",
+      "mensonge",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}
