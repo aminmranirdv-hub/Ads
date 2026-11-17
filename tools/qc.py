@@ -64,6 +64,8 @@ def main() -> None:
               f"{v['codec_name']} {v.get('pix_fmt')}")
     check("audio stream AAC", a is not None and a["codec_name"] == "aac", a["codec_name"] if a else "missing")
     check("duration <= 240s", dur <= 240.5, f"{dur:.2f}s")
+    if dur < 119.5:
+        check("duration >= 120s (owner rule)", False, f"{dur:.2f}s: pick a longer bit or chain jokes", warn=True)
     check("duration >= 10s", dur >= 10, f"{dur:.2f}s", warn=True)
     lufs, peak = loudness(args.video)
     check("loudness -14 LUFS (+/-2)", lufs is not None and abs(lufs + 14) <= 2, f"{lufs} LUFS", warn=True)

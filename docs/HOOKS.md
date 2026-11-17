@@ -34,7 +34,7 @@ TikTok: Jamel « ninjas » (César 2023) ~13k views in a day. Skip rate = % who 
 - **Prefer stars and famous moments**: Jamel, Gad, Booder, Malik Bentalha, Ilyès Djadel, Marrakech du Rire, César, big TV galas. Use lesser-known acts only with an exceptional first line.
 - **Shareable topics first**: money, prices, family/parents, couples, everyday obsessions, France vs others.
 - **Caption first line = the quote that makes people tag a friend**, then "Tague …" CTA (shares matter most).
-- Keep the full payoff (up to 4:00) — never cut before the punchline.
+- Length: 2:00 minimum, 2:00-3:00 target, up to 4:00 if the joke continues (owner, 2026-11-17) — never cut before the punchline. A strong hook in the first 3 s matters even more on long shorts.
 
 ## Re-check weekly
 Pull `vidiq_instagram_owner_insights` mode reels (free) every few days, add rows above, and adjust. Look at skip rate first, then shares.
