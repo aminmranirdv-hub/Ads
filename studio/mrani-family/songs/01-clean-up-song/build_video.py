@@ -23,7 +23,14 @@ EDL = [  # t0, t1, clip, start offset in clip
  (128.5, 133.5, "dance_a", 0), (133.5, 138.5, "highfive", 0), (138.5, 143.5, "dance_b", 0), (143.5, 149.0, "final_dance", 0),
  (149.0, 152.4, "EP1:hicham_false", 0), (152.4, 158.4, "ENDCARD", 0),
 ]
-END = 158.4
+SONG_END = 158.4
+# ---------- character introduction (before the song) ----------
+INTRO = 8.0
+INTRO_SEGS = [(0.0, 2.0, "aziza_books", 3.0, "AZIZA", "The Tidy Team Leader", (168, 107, 255)),
+              (2.0, 4.0, "abd_crumbs", 3.4, "ABDEL-HAMID", "The Sleepy Genius", (255, 216, 77)),
+              (4.0, 6.0, "amir_basket", 0.8, "AMIR", "The Football Star", (255, 138, 31)),
+              (6.0, 8.0, "hicham_blocks", 3.2, "HICHAM", "The Little Hacker", (79, 195, 255))]
+END = SONG_END + INTRO
 # ---------- karaoke lyrics from the word timings (with ASR fixes) ----------
 FIX = {"hammer": "Amir", "grow": "go", "Tablets": "Tablet's"}
 segs = json.load(open(f"{HERE}/song-transcript.json"))
@@ -42,10 +49,12 @@ COUNT = [(t, w) for t, w in COUNT if 116 < t < 122]          # only the bridge c
 NUMCOL = {"one": (255, 93, 143), "two": (255, 138, 31), "three": (255, 216, 77), "four": (79, 195, 255), "five": (168, 107, 255)}
 
 _cl = {}
+ALIAS = {"final_dance": "dance_b"}   # stand-in until the Kling 4.0 finale shot is ready
 def frames(name):
+    if not name.startswith("EP1:") and not os.path.exists(f"{HERE}/clips_k40/{name}.mp4") and name in ALIAS: name = ALIAS[name]
     if name not in _cl:
         if len(_cl) >= 4: _cl.pop(next(iter(_cl)))
-        p = f"{EP1CLIPS}/{name[4:]}.mp4" if name.startswith("EP1:") else f"{HERE}/clips/{name}.mp4"
+        p = f"{EP1CLIPS}/{name[4:]}.mp4" if name.startswith("EP1:") else (f"{HERE}/clips_k40/{name}.mp4" if os.path.exists(f"{HERE}/clips_k40/{name}.mp4") else f"{HERE}/clips/{name}.mp4")
         w, h = [int(v) for v in subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height",
                                                "-of", "csv=p=0", p], capture_output=True, text=True).stdout.strip().split(",")]
         raw = subprocess.run(["ffmpeg", "-v", "error", "-i", p, "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], capture_output=True).stdout
@@ -76,8 +85,7 @@ def karaoke(d, t):
             x += wd + sp
         break
 
-def frame(i):
-    t = i / FPS
+def song_frame(t):
     seg = next((e for e in EDL if e[0] <= t < e[1]), EDL[-1]); t0, t1, name, off = seg; lt = t - t0
     if name == "ENDCARD":
         global END_BG
@@ -106,8 +114,8 @@ def frame(i):
         im = ImageEnhance.Color(im).enhance(1.12)                            # brighter toddler look
         a = np.asarray(im, np.float32)
         if lt < .12 and t0 > 0: a = a + (255 - a) * (1 - lt / .12) * .35     # soft flash on each cut (beat feel)
-    if t < .5: a *= t / .5
-    if t > END - .6: a *= max(0, (END - t) / .6)
+    if t < .15: a = a + (255 - a) * (1 - t / .15) * .5
+    if t > SONG_END - .6: a *= max(0, (SONG_END - t) / .6)
     img = Image.fromarray(np.clip(a, 0, 255).astype(np.uint8)).convert("RGBA"); d = ImageDraw.Draw(img)
     if t < 149: img.alpha_composite(LOGO, (W - LOGO.width - 30, 24))
     if .8 < t < 5.0:   # song title
@@ -127,6 +135,30 @@ def frame(i):
     if t < 149: karaoke(d, t)
     return img.convert("RGB")
 
+def intro_frame(t, text=True):
+    seg = next((e for e in INTRO_SEGS if e[0] <= t < e[1]), INTRO_SEGS[-1]); t0, t1, name, off, nm, tag, col = seg; lt = t - t0
+    fr = frames(name); n = len(fr); im = Image.fromarray(fr[min(n - 1, int((off + lt * .8) * FPS))]); iw, ih = im.size
+    z = 1.06 + .06 * ease(lt / 2); cw = min(iw, ih * 16 / 9) / z; ch = cw * 9 / 16
+    im = im.resize((W, H), Image.BICUBIC, box=((iw - cw) / 2, (ih - ch) / 2, (iw + cw) / 2, (ih + ch) / 2))
+    a = np.asarray(ImageEnhance.Color(im).enhance(1.12), np.float32)
+    if lt < .12: a = a + (255 - a) * (1 - lt / .12) * .45
+    if t < .4: a *= t / .4
+    img = Image.fromarray(np.clip(a, 0, 255).astype(np.uint8)).convert("RGBA"); d = ImageDraw.Draw(img)
+    if not text: return img.convert("RGB")
+    img.alpha_composite(LOGO, (W - LOGO.width - 30, 24))
+    s = ease(lt / .35); bounce = 1 + .12 * math.sin(math.pi * min(1, lt / .35))
+    f = font(int(170 * bounce)); bw = f.getbbox(nm, stroke_width=14)[2]; x = int(90 - 900 * (1 - s))
+    d.text((x, 640), nm, font=f, fill=col, stroke_width=14, stroke_fill=NAVY)
+    if lt > .25:
+        f2 = font(66); tb = f2.getbbox(tag); pw = tb[2] - tb[0] + 60
+        d.rounded_rectangle((x + 10, 850, x + 10 + pw, 950), radius=50, fill=NAVY + (235,))
+        d.text((x + 40, 862), tag, font=f2, fill="white")
+    return img.convert("RGB")
+
+def frame(i):
+    t = i / FPS
+    return intro_frame(t) if t < INTRO else song_frame(t - INTRO)
+
 def chunk(args):
     k, a, b = args; out = f"{WORK}/chunk{k}.mp4"
     pr = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
@@ -141,12 +173,24 @@ def audio():
     sr = 48000; s = np.arange(int(.5 * sr)) / sr; f = 260 * (1 + 1.2 * np.exp(-s * 9) * np.sin(2 * np.pi * 14 * s))
     b = np.sin(2 * np.pi * np.cumsum(f) / sr) * np.exp(-s * 6) * .5
     import soundfile as sf; sf.write(boing, b, sr)
-    fc = ("[0:a]aresample=48000,volume='if(between(t,87.7,90.6),0.35,1)':eval=frame[song];"
-          "[1:a]aresample=48000,adelay=88000|88000,volume=1.6[v1];[2:a]aresample=48000,adelay=149200|149200,volume=1.6[v2];"
-          "[3:a]adelay=151600|151600,volume=0.8[b];[song][v1][v2][b]amix=inputs=4:normalize=0,apad,atrim=0:%s,"
-          "afade=t=out:st=%s:d=1.2,loudnorm=I=-14:TP=-1.5:LRA=11[out]" % (END, END - 1.2))
+    jingle = f"{WORK}/intro.wav"; N = int(INTRO * sr); j = np.zeros(N)
+    def tone(fq, d, dec=5):
+        tt = np.arange(int(d * sr)) / sr; return sum(np.sin(2 * np.pi * fq * k * tt) * .55 ** k for k in range(1, 4)) * np.exp(-tt * dec)
+    beat = 60 / 112; notes = [523, 659, 784, 659, 587, 698, 880, 698, 523, 659, 784, 1047, 784, 659, 523, 392]
+    for k in range(int(INTRO / (beat / 2))):
+        st = int(k * beat / 2 * sr); x = tone(notes[k % len(notes)], .35, 9) * .18; j[st:st + len(x)] += x[:max(0, N - st)]
+        if k % 2 == 0: x = tone([131, 98, 110, 87][(k // 8) % 4], .5, 6) * .25; j[st:st + len(x)] += x[:max(0, N - st)]
+    for c in range(4):
+        st = int(c * 2 * sr); tt = np.arange(int(1.2 * sr)) / sr; x = (np.sin(2 * np.pi * 1318 * tt) + .4 * np.sin(2 * np.pi * 1760 * tt)) * np.exp(-tt * 4) * .35
+        j[st:st + len(x)] += x[:max(0, N - st)]
+    j[-int(.3 * sr):] *= np.linspace(1, .3, int(.3 * sr)); sf.write(jingle, j.astype(np.float32), sr)
+    D = int(INTRO * 1000)
+    fc = ("[0:a]aresample=48000,volume='if(between(t,87.7,90.6),0.35,1)':eval=frame,adelay=%d|%d[song];"
+          "[1:a]aresample=48000,adelay=%d|%d,volume=1.6[v1];[2:a]aresample=48000,adelay=%d|%d,volume=1.6[v2];"
+          "[3:a]adelay=%d|%d,volume=0.8[b];[4:a]aresample=48000,volume=1.0[j];[song][v1][v2][b][j]amix=inputs=5:normalize=0,apad,atrim=0:%s,"
+          "afade=t=out:st=%s:d=1.2,loudnorm=I=-14:TP=-1.5:LRA=11[out]" % (D, D, 88000 + D, 88000 + D, 149200 + D, 149200 + D, 151600 + D, 151600 + D, END, END - 1.2))
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", SONG, "-i", f"{HERE}/vo/abd_fun.mp3", "-i", f"{HERE}/vo/hicham_end.mp3",
-                    "-i", boing, "-filter_complex", fc, "-map", "[out]", out], check=True)
+                    "-i", boing, "-i", jingle, "-filter_complex", fc, "-map", "[out]", out], check=True)
     return out
 
 if __name__ == "__main__":

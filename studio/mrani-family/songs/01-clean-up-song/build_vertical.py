@@ -7,8 +7,9 @@ import build_video as B
 W, H, FPS = 1080, 1920, B.FPS
 MODE = sys.argv[1] if len(sys.argv) > 1 else "full"
 # output-time -> song-time map. reel = intro+chorus, then bridge+final chorus, then Hicham's tag + end card
+I = B.INTRO   # timeline time = intro + song time
 PARTS = {"full": [(0.0, B.END)],
-         "reel": [(0.0, 34.4), (112.3, 152.4), (152.4, 156.4)]}[MODE]
+         "reel": [(0.0, I + 34.4), (I + 112.3, I + 152.4), (I + 152.4, I + 156.4)]}[MODE]
 OUTLEN = sum(b - a for a, b in PARTS)
 def src(t):
     for a, b in PARTS:
@@ -52,7 +53,9 @@ def karaoke(d, ts):
         break
 
 def frame(i):
-    t = i / FPS; ts = src(t)
+    t = i / FPS; T = src(t)
+    if T < I: return intro_v(t, T)
+    ts = T - I
     im, seg, lt = base(ts); t0, t1, name, off = seg
     bg = im.resize((W * 2, int(W * 2 * 1080 / 1920))).crop((W // 2, 0, W // 2 + W, int(W * 2 * 1080 / 1920)))
     bg = bg.resize((W, H)).filter(ImageFilter.GaussianBlur(28)); bg = ImageEnhance.Brightness(bg).enhance(.7)
@@ -82,6 +85,30 @@ def frame(i):
     if t > OUTLEN - .5: out = Image.blend(Image.new("RGB", out.size), out, max(0, (OUTLEN - t) / .5))
     return out
 
+def compose(im):
+    bg = im.resize((W * 2, int(W * 2 * 1080 / 1920))).crop((W // 2, 0, W // 2 + W, int(W * 2 * 1080 / 1920)))
+    bg = ImageEnhance.Brightness(bg.resize((W, H)).filter(ImageFilter.GaussianBlur(28))).enhance(.7)
+    canvas = bg.convert("RGBA"); win = im.crop((240, 0, 1680, 1080)).resize((W, VID_H), Image.BICUBIC)
+    mask = Image.new("L", win.size, 0); ImageDraw.Draw(mask).rounded_rectangle((0, 0, W - 1, VID_H - 1), 40, fill=255)
+    canvas.paste(win, (0, VID_Y), mask)
+    lg = B.LOGO.resize((300, int(B.LOGO.height * 300 / B.LOGO.width))); canvas.alpha_composite(lg, ((W - lg.width) // 2, 60))
+    return canvas
+
+def intro_v(t, T):
+    seg = next((e for e in B.INTRO_SEGS if e[0] <= T < e[1]), B.INTRO_SEGS[-1]); t0, t1, name, off, nm, tag, col = seg; lt = T - t0
+    canvas = compose(B.intro_frame(T, text=False)); d = ImageDraw.Draw(canvas)
+    text_c(d, 300, "MEET THE FAMILY!", 96, (255, 255, 255), 9)
+    bounce = 1 + .12 * math.sin(math.pi * min(1, lt / .35)); al = int(255 * B.ease(lt / .25))
+    f = B.font(int(150 * bounce)); bw = f.getbbox(nm, stroke_width=13)[2]
+    if bw > W - 60: f = B.font(int(150 * bounce * (W - 60) / bw)); bw = f.getbbox(nm, stroke_width=13)[2]
+    d.text(((W - bw) // 2, 1340), nm, font=f, fill=col + (al,), stroke_width=13, stroke_fill=B.NAVY + (al,))
+    if lt > .25:
+        f2 = B.font(62); tb = f2.getbbox(tag); pw = tb[2] - tb[0] + 60; x = (W - pw) // 2
+        d.rounded_rectangle((x, 1540, x + pw, 1636), radius=48, fill=B.NAVY + (235,)); d.text((x + 30, 1550), tag, font=f2, fill="white")
+    out = canvas.convert("RGB")
+    if t < .3: out = Image.blend(Image.new("RGB", out.size), out, t / .3)
+    return out
+
 def chunk(args):
     k, a, b = args; o = f"{B.WORK}/v_{MODE}_{k}.mp4"
     pr = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
@@ -93,7 +120,7 @@ def audio():
     mix = f"{B.WORK}/mix.wav"; o = f"{B.WORK}/mix_{MODE}.wav"
     if MODE == "full": return mix
     # song parts joined with short crossfades at phrase boundaries
-    fc = ("[0:a]atrim=0:34.6,asetpts=PTS-STARTPTS[a];[0:a]atrim=112.1:156.4,asetpts=PTS-STARTPTS[b];"
+    fc = ("[0:a]atrim=0:%s,asetpts=PTS-STARTPTS[a];[0:a]atrim=%s:%s,asetpts=PTS-STARTPTS[b];" % (I + 34.6, I + 112.1, I + 156.4) +
           "[a][b]acrossfade=d=0.4:c1=tri:c2=tri,afade=t=out:st=%s:d=0.8[o]" % (OUTLEN - .8))
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", mix, "-filter_complex", fc, "-map", "[o]", o], check=True)
     return o
