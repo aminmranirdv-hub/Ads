@@ -1,0 +1,172 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Maxime Gasteuil + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-18_maxime_gasteuil",
+  "comedian": "Maxime Gasteuil",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6933s",
+    "channel": "to verify (full-show upload)",
+    "offset_in_show_s": 6655
+  },
+  "segments": [
+    {
+      "in": 278.74,
+      "out": 293.71
+    },
+    {
+      "in": 294.7,
+      "out": 324.54
+    },
+    {
+      "in": 325.36,
+      "out": 330.18
+    },
+    {
+      "in": 331.74,
+      "out": 335.96
+    },
+    {
+      "in": 337.95,
+      "out": 345.55
+    },
+    {
+      "in": 345.78,
+      "out": 348.9
+    },
+    {
+      "in": 349.24,
+      "out": 353.98
+    },
+    {
+      "in": 357.51,
+      "out": 362.59
+    },
+    {
+      "in": 362.87,
+      "out": 368.91
+    },
+    {
+      "in": 369.54,
+      "out": 374.94
+    },
+    {
+      "in": 376.14,
+      "out": 403.42
+    },
+    {
+      "in": 404.9,
+      "out": 430.32
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "normale",
+    "suspense",
+    "diable",
+    "Canapé",
+    "whisky",
+    "PLS",
+    "quart d'heure"
+  ],
+  "zooms": [
+    {
+      "at": 0.0,
+      "dur": 2.6,
+      "scale": 1.8,
+      "cx": 0.41,
+      "cy": 0.4
+    },
+    {
+      "at": 27.37,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 42.71,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "at": 132.5,
+      "dur": 2.4,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 28.28,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 81.56,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 133.93,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 104.8,
+      "end": 106.2,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Maxime Gasteuil : « Tu peux lui dire qu'on sort ? » 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Direction le canapé 🛋️",
+      "start": 82.02,
+      "end": 84.62
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Maxime Gasteuil : « Tu peux lui dire qu'on sort ? » 😂 rentrer à 5h du mat' #shorts",
+    "caption": "« Chérie, je viens de rentrer, t'en es où ? » … traduction : « T'as un quart d'heure. » 😂\nMaxime Gasteuil et les soirées entre potes quand t'es en couple.\n\nTeam « je rentre à minuit et demi » ou team canapé ? 👇 Tague ton pote qui dort toujours sur le canapé 😅\n\n🎤 Maxime Gasteuil, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#maximegasteuil #marrakechdurire #couple #humour #standup",
+    "youtube_tags": [
+      "maxime gasteuil",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "couple",
+      "soirée entre potes",
+      "canapé",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Maxime Gasteuil (first time at Marrakech du Rire 2022): mates who need him to tell their wives they're going out, the wife waiting 4.5 hours, coming home drunk at 5 a.m. ('Canapé'), and the 'where are you?' text. Unclear line 236 cut; ending kept unbroken (raw range)."
+}

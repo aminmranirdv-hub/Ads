@@ -1,0 +1,423 @@
+{
+  "trans_lang": "en",
+  "context_note": "Maxime Gasteuil (first time at Marrakech du Rire 2022): mates who need him to tell their wives they're going out, the wife waiting 4.5 hours, coming home drunk at 5 a.m. ('Canapé'), and the 'where are you?' text. Unclear line 236 cut; ending kept unbroken (raw range).",
+  "ranges": [
+    [
+      170,
+      235
+    ],
+    [
+      237,
+      249,
+      "raw"
+    ]
+  ],
+  "end_pad": 1.5,
+  "hook": "Maxime Gasteuil : « Tu peux lui dire qu'on sort ? » 😂",
+  "highlight_words": [
+    "normale",
+    "suspense",
+    "diable",
+    "Canapé",
+    "whisky",
+    "PLS",
+    "quart d'heure"
+  ],
+  "cues": {
+    "170": [
+      "Moi, tous mes potes qui sont en couple,",
+      "All my mates who are in couples"
+    ],
+    "171": [
+      "ils adorent leur femme.",
+      "adore their wives."
+    ],
+    "172": [
+      "Vous allez me dire « normal », mais c'est beau",
+      "You'll say \"obviously\", but it's lovely"
+    ],
+    "173": [
+      "à voir. Et à chaque fois qu'on sort entre",
+      "to see. And every time we go out as"
+    ],
+    "174": [
+      "potes, ils m'appellent avant, les gars.",
+      "mates, they call me beforehand."
+    ],
+    "175": [
+      "Ils me disent : « Tu peux passer à la maison",
+      "They say: \"Can you come by the house"
+    ],
+    "176": [
+      "quand on sort ? »",
+      "when we go out?\""
+    ],
+    "177": [
+      "Moi, j'arrive chez lui, je dis : « Mais",
+      "I get to his place, I say: \"What"
+    ],
+    "178": [
+      "qu'est-ce que je fous là ? »",
+      "am I doing here?\""
+    ],
+    "179": [
+      "Il me dit : « Tu peux lui dire qu'on sort ?",
+      "He says: \"Can you tell her we're going out?"
+    ],
+    "180": [
+      "Parce que quand c'est moi qui lui dis… »",
+      "Because when I tell her…\""
+    ],
+    "181": [
+      "Je lui dis : « Quand c'est toi qui lui dis",
+      "I say: \"When you tell her"
+    ],
+    "182": [
+      "quoi ? » « Quand c'est moi qui lui dis, elle",
+      "what?\" \"When I tell her, she's"
+    ],
+    "183": [
+      "fait chier, elle est relou, elle est",
+      "a pain, she's annoying, she's a"
+    ],
+    "184": [
+      "casse-couilles. » Je lui dis : « Elle fait chier,",
+      "nightmare.\" I say: \"She's a pain,"
+    ],
+    "185": [
+      "elle est relou, elle est casse-couilles ?",
+      "she's annoying, she's a nightmare?"
+    ],
+    "186": [
+      "Mais tu sors deux fois par semaine.",
+      "You go out twice a week."
+    ],
+    "187": [
+      "Tu lui dis que tu vas rentrer à minuit et",
+      "You tell her you'll be home at half"
+    ],
+    "188": [
+      "demi, t'arrives à cinq heures.",
+      "past midnight, you show up at five."
+    ],
+    "189": [
+      "Elle fait pas chier, elle est pas relou, elle",
+      "She's not a pain, she's not annoying, she's"
+    ],
+    "190": [
+      "est pas casse-couilles.",
+      "not a nightmare."
+    ],
+    "191": [
+      "Elle est normale !",
+      "She's normal!"
+    ],
+    "192": [
+      "Tu lui mets quatre heures et demie de",
+      "You give her four and a half hours of"
+    ],
+    "193": [
+      "suspense ! Toute seule à s'angoisser chez",
+      "suspense! Alone, worrying at"
+    ],
+    "194": [
+      "elle, comme ça, au téléphone :",
+      "home, like this, on the phone:"
+    ],
+    "195": [
+      "« Putain, il m'avait dit minuit et demi, il",
+      "\"Damn, he said half past midnight, that was"
+    ],
+    "196": [
+      "y a une heure, je vais péter un câble.",
+      "an hour ago, I'm gonna lose it."
+    ],
+    "197": [
+      "Ça se trouve, il lui est arrivé quelque",
+      "Maybe something's happened"
+    ],
+    "198": [
+      "chose, putain. »",
+      "to him, damn.\""
+    ],
+    "199": [
+      "Quatre heures et demie, c'est long.",
+      "Four and a half hours is long."
+    ],
+    "200": [
+      "Elle finit par s'endormir, mais elle",
+      "She ends up falling asleep, but she"
+    ],
+    "201": [
+      "s'endort avec le diable en elle.",
+      "falls asleep with the devil inside her."
+    ],
+    "202": [
+      "Le diable qui lui dit : « T'inquiète pas,",
+      "The devil telling her: \"Don't worry,"
+    ],
+    "203": [
+      "laisse-le faire.",
+      "let him be."
+    ],
+    "204": [
+      "Quand il rentre, on lui défonce la gueule. »",
+      "When he gets home, we smash his face in.\""
+    ],
+    "205": [
+      "Et l'autre,",
+      "And him,"
+    ],
+    "206": [
+      "5 heures du matin, ivre mort, il rentre",
+      "5 a.m., dead drunk, he gets"
+    ],
+    "207": [
+      "chez lui, il croit qu'il est le bienvenu.",
+      "home, thinks he's welcome."
+    ],
+    "208": [
+      "Il rentre dans la baraque, arraché.",
+      "He stumbles into the house, wasted."
+    ],
+    "209": [
+      "Il sait plus où il habite, l'autre.",
+      "He doesn't know where he lives anymore."
+    ],
+    "210": [
+      "Là, il va jusqu'à la chambre, il tente sa",
+      "He goes to the bedroom, tries his"
+    ],
+    "211": [
+      "chance :",
+      "luck:"
+    ],
+    "212": [
+      "« Mon amour,",
+      "\"My love,"
+    ],
+    "213": [
+      "mon amour…",
+      "my love…"
+    ],
+    "214": [
+      "Tu dors ?",
+      "Are you asleep?"
+    ],
+    "215": [
+      "Moi, non, moi…",
+      "Not me, no…"
+    ],
+    "216": [
+      "Kalinou… »",
+      "Sweetie…\""
+    ],
+    "217": [
+      "« Canapé. Canapé.",
+      "\"Sofa. Sofa."
+    ],
+    "218": [
+      "Il est là-bas, le canapé. »",
+      "It's over there, the sofa.\""
+    ],
+    "219": [
+      "Tu vois…",
+      "You see…"
+    ],
+    "220": [
+      "Qu'est-ce qu'il fait ?",
+      "What does he do?"
+    ],
+    "221": [
+      "Il va se réfugier dans le canapé, lui.",
+      "He goes and takes refuge on the sofa."
+    ],
+    "222": [
+      "Le lendemain, trop mignonnes, les filles,",
+      "Next day, ladies, so sweet,"
+    ],
+    "223": [
+      "vous voulez savoir ce qu'on est devenus.",
+      "you want to know what became of us."
+    ],
+    "224": [
+      "Vous êtes bienveillantes.",
+      "You're so caring."
+    ],
+    "225": [
+      "Allô… vous ouvrez le salon.",
+      "Hello… you open the living room."
+    ],
+    "226": [
+      "Le bordel, c'est une distillerie.",
+      "What a mess, it's a distillery."
+    ],
+    "227": [
+      "« Putain ! Y a quelqu'un qui a cassé une",
+      "\"Damn! Did someone break a"
+    ],
+    "228": [
+      "bouteille de whisky ou quoi ? »",
+      "bottle of whisky or what?\""
+    ],
+    "229": [
+      "Là…",
+      "And there…"
+    ],
+    "230": [
+      "Là, t'es dans le canapé.",
+      "There you are on the sofa."
+    ],
+    "231": [
+      "Enfin, il est dans le canapé.",
+      "Well, he's on the sofa."
+    ],
+    "232": [
+      "Il est en PLS sur un accoudoir.",
+      "Curled up on an armrest."
+    ],
+    "233": [
+      "Si c'est un champion, il a encore les",
+      "If he's a champion, he's still got his"
+    ],
+    "234": [
+      "chaussures, le pantalon, là.",
+      "shoes and trousers on."
+    ],
+    "235": [
+      "Bouche ouverte, filet de bave…",
+      "Mouth open, drool dripping…"
+    ],
+    "237": [
+      "Qu'est-ce que c'est beau, le couple,",
+      "Isn't being a couple beautiful,"
+    ],
+    "238": [
+      "putain. Moi, j'adore le couple.",
+      "damn. I love couples."
+    ],
+    "239": [
+      "T'as vu les soirées dissociées aussi en",
+      "And separate nights out as a"
+    ],
+    "240": [
+      "couple ? Quand ta nana, elle fait une",
+      "couple? When your girl has a"
+    ],
+    "241": [
+      "soirée de son côté, du coup, t'en profites,",
+      "night out on her own, you make the most of it,"
+    ],
+    "242": [
+      "tu fais une soirée de ton côté.",
+      "you have a night out on your own."
+    ],
+    "243": [
+      "Si par hasard ta nana, elle rentre avant",
+      "If your girl happens to get home before"
+    ],
+    "244": [
+      "toi, les filles, vous avez toujours un",
+      "you, ladies, you always send a"
+    ],
+    "245": [
+      "petit texto bienveillant, trop mignon, qui",
+      "sweet, caring little text that"
+    ],
+    "246": [
+      "fait : « Chérie, je viens de rentrer, t'en",
+      "says: \"Darling, I just got home, where"
+    ],
+    "247": [
+      "es où ? »",
+      "are you?\""
+    ],
+    "248": [
+      "Texto qui veut vraiment dire : « T'as un quart d'heure,",
+      "Which really means: \"You've got fifteen minutes,"
+    ],
+    "249": [
+      "fils de p*** ! »",
+      "you son of a b****!\""
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "normale",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "normale",
+      "offset": -0.5,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "type": "zoom",
+      "word": "diable",
+      "offset": -0.6,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "canapé",
+      "nth": 1,
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "caption",
+      "word": "canapé",
+      "nth": 2,
+      "text": "Direction le canapé 🛋️",
+      "dur": 2.6
+    },
+    {
+      "type": "sticker",
+      "word": "accoudoir",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "sfx",
+      "word": "fils",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "zoom",
+      "word": "fils",
+      "offset": -0.8,
+      "dur": 2.4,
+      "scale": 1.18
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Maxime Gasteuil : « Tu peux lui dire qu'on sort ? » 😂 rentrer à 5h du mat' #shorts",
+    "caption": "« Chérie, je viens de rentrer, t'en es où ? » … traduction : « T'as un quart d'heure. » 😂\nMaxime Gasteuil et les soirées entre potes quand t'es en couple.\n\nTeam « je rentre à minuit et demi » ou team canapé ? 👇 Tague ton pote qui dort toujours sur le canapé 😅\n\n🎤 Maxime Gasteuil, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#maximegasteuil #marrakechdurire #couple #humour #standup",
+    "youtube_tags": [
+      "maxime gasteuil",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "couple",
+      "soirée entre potes",
+      "canapé",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "open_zoom": 1.8,
+  "open_zoom_dur": 2.6,
+  "open_zoom_cx": 0.41,
+  "open_zoom_cy": 0.4
+}

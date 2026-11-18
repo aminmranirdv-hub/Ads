@@ -28,7 +28,8 @@ projects/daily/<date>/<nn>_<comedian>_<bit>/
 4. `python3 tools/make_short.py edit.json`, then `tools/qc.py`, `tools/thumbnail.py`, `tools/deliverables.py`
 
 ## Next up (owner goal: 55k+)
-- **2026-11-18 plan (told to owner):** 21:00 Jamel César Partie 3 (Will Smith / Corinne Masiero opening, cache/363RgMenp1g.mp4 ~1:29-2:32); Ilyès Djadel new bit (cache/pM49eqvO-lE.mp4); Gad Elmaleh new bit (cache/Dyy-KRkdE2c.mp4, not the gas pump); Alban Ivanov at Marrakech du Rire (free import https://www.youtube.com/watch?v=6Ts0foAxeXw); the woman in the red suit from Marrakech 2022 (~1:58:50, bac+7 lawyer bit) only if her name is confirmed from the host's intro/frames, otherwise Sarah Lélé new bit (cache/xlhQLTOMFaE.mp4). Owner may override.
+- **2026-11-18 done:** 16:00 Alban Ivanov, 17:00 Ilyès Djadel (Lourdes, Marrakech 2022), 18:00 Gad Elmaleh (couple), 19:30 Maxime Gasteuil, 21:00 Jamel César P3 (ninjas). Run started late (11:00/13:00 slots passed). Red-suit woman (~1:58:50) still unidentified (scan says "Vigno").
+- **Next César series option:** Jamel's opening (co-présentation, Saada, Corinne Masiero, Will Smith, ~0:53-2:42 of 363RgMenp1g) as Partie 4 if P2/P3 hold.
 - Re-check Instagram reels insights (free, `vidiq_instagram_owner_insights` mode reels) around 2026-11-19; update docs/HOOKS.md and build series from winners (Jamel César P1/P2, Nawel, Camille).
 - Remaining Marrakech 2022 acts: see docs/SOURCES.md (unused list).
 
