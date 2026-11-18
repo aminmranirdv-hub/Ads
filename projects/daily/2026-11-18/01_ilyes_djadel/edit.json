@@ -1,0 +1,153 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Ilyès Djadel + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-18_ilyes_djadel",
+  "comedian": "Ilyès Djadel",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6412s",
+    "channel": "to verify (full-show upload)",
+    "offset_in_show_s": 6398
+  },
+  "segments": [
+    {
+      "in": 14.27,
+      "out": 39.6
+    },
+    {
+      "in": 40.28,
+      "out": 43.14
+    },
+    {
+      "in": 49.47,
+      "out": 61.85
+    },
+    {
+      "in": 64.88,
+      "out": 96.39
+    },
+    {
+      "in": 96.73,
+      "out": 100.13
+    },
+    {
+      "in": 107.07,
+      "out": 142.03
+    },
+    {
+      "in": 142.32,
+      "out": 149.17
+    },
+    {
+      "in": 150.01,
+      "out": 213.94
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Lourdes",
+    "miracle",
+    "ski",
+    "fauteuil",
+    "bus",
+    "trottinette",
+    "pape",
+    "miraculé",
+    "l'élu"
+  ],
+  "zooms": [
+    {
+      "at": 0.0,
+      "dur": 3.4,
+      "scale": 1.75,
+      "cx": 0.47,
+      "cy": 0.4
+    },
+    {
+      "at": 56.98,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 117.3,
+      "dur": 3.0,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 27.0,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 74.23,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 119.41,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 79.45,
+      "end": 80.85,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Ilyès Djadel à Lourdes… pris pour un MIRACULÉ 😱",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Standing ovation 🙌",
+      "start": 138.51,
+      "end": 141.51
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Ilyès Djadel à Lourdes : pris pour un miraculé devant le pape 😱 (standing ovation) #shorts",
+    "caption": "« Par respect, je me lève du fauteuil roulant… ils ont cru que j'étais un miraculé ! » 😱😂\nIlyès Djadel à Lourdes, et le Marrakech du Rire se lève.\n\nTu l'aurais fait ou pas ? 👇 Tague ton pote capable de faire ça 😅\n\n🎤 Ilyès Djadel, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#ilyesdjadel #marrakechdurire #lourdes #humour #standup",
+    "youtube_tags": [
+      "ilyès djadel",
+      "ilyes djadel",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "lourdes",
+      "pape",
+      "miraculé",
+      "humour",
+      "stand up",
+      "humour français",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Ilyès Djadel (Marrakech du Rire 2022): school trip to Lourdes, sits in an empty wheelchair to rest, spends the day with a group of disabled pilgrims, then stands up out of respect when the Pope arrives and is taken for a miracle — standing ovation. Ovation kept uncut (raw range)."
+}
