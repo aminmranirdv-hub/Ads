@@ -63,3 +63,9 @@ Instagram refuses videos over 100 MB (104,857,600 bytes). Long shorts (2-4 min) 
 (`ffmpeg -i X.mp4 -c:v libx264 -b:v 3300k -maxrate 3800k -bufsize 7600k -c:a aac -b:a 160k -movflags +faststart X.ig.mp4`), upload it too,
 and give the Instagram destination its own `media`. If you later update one destination with `vidiq_social_post_draft_update`,
 re-check that the others still show their `scheduledFor` time (a YouTube destination lost its time once on 2026-11-17).
+
+## YouTube Content ID blocklist (owner report, 2026-11-18)
+Gad Elmaleh and Malik Bentalha shorts get blocked on YouTube right after upload (all 3 Gad: 194m902V3Ds, 6SZuj69HM8s, -kpa15Lwem8;
+Malik: VfXs9zV7KN4). Uploads complete fine; the block comes from the rights holder's Content ID (Gad's ComediHa!/own productions,
+Malik's Marrakech du Rire 2018 clip). Rule: for **Gad Elmaleh and Malik Bentalha**, post to Instagram, Facebook and TikTok only —
+**no YOUTUBE destination**. Add any other comedian here as soon as one of their YouTube shorts gets blocked. Never dispute a claim.
