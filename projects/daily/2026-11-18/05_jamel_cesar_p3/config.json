@@ -1,0 +1,385 @@
+{
+  "trans_lang": "en",
+  "context_note": "Partie 3 from the winning source (Jamel opening the César 2023, CANAL+): French films need stunts — Anaïs Demoustier in a fighter jet, a French Avatar fighting for pensions, ninjas attacking Vincent Lindon; Juliette Binoche reacts from her seat; Louis Garrel and Bouli Lanners roasted. Unclear lines 272-273 cut.",
+  "ranges": [
+    [
+      225,
+      271
+    ],
+    [
+      274,
+      295
+    ]
+  ],
+  "end_pad": 2.2,
+  "hook": "Partie 3 : Jamel veut des NINJAS dans le cinéma français 😂",
+  "highlight_words": [
+    "ninjas",
+    "Avatar",
+    "retraite",
+    "Tom Cruise",
+    "langoureusement",
+    "Binoche",
+    "sucette",
+    "dégrisement"
+  ],
+  "cues": {
+    "225": [
+      "Autre proposition : qu'est-ce qui marche en",
+      "Another idea: what's working at the"
+    ],
+    "226": [
+      "ce moment au cinéma ?",
+      "cinema right now?"
+    ],
+    "227": [
+      "Avatar, Astérix, Top Gun.",
+      "Avatar, Asterix, Top Gun."
+    ],
+    "228": [
+      "Les cascades, les effets spéciaux.",
+      "Stunts, special effects."
+    ],
+    "229": [
+      "J'ai regardé nos films d'auteur.",
+      "I watched our arthouse films."
+    ],
+    "230": [
+      "Pas une cascade, pas un effet spécial.",
+      "Not one stunt, not one special effect."
+    ],
+    "231": [
+      "C'est normal, ça ?",
+      "Is that normal?"
+    ],
+    "232": [
+      "Non mais sérieusement, vous voulez faire",
+      "No, seriously, do you want to sell"
+    ],
+    "233": [
+      "des entrées ou pas, franchement ?",
+      "tickets or not, honestly?"
+    ],
+    "234": [
+      "Il faut booster nos scénarios !",
+      "We need to boost our scripts!"
+    ],
+    "235": [
+      "Il faut être plus créatif !",
+      "We need to be more creative!"
+    ],
+    "236": [
+      "Je sais pas, moi : tu mets Anaïs",
+      "I don't know: you put Anaïs"
+    ],
+    "237": [
+      "Demoustier dans un avion de chasse ?",
+      "Demoustier in a fighter jet?"
+    ],
+    "238": [
+      "Elle fait la même taille que Tom Cruise,",
+      "She's the same height as Tom Cruise,"
+    ],
+    "239": [
+      "c'est sûr, ça passe !",
+      "it'll work for sure!"
+    ],
+    "240": [
+      "Ou, ou, ou… on n'a qu'à inventer un",
+      "Or, or, or… let's just invent a"
+    ],
+    "241": [
+      "Avatar à la française, tu vois,",
+      "French-style Avatar, you know,"
+    ],
+    "242": [
+      "avec des hommes en bleu de travail.",
+      "with men in blue overalls."
+    ],
+    "243": [
+      "Et au lieu de se battre pour sauver la",
+      "And instead of fighting to save"
+    ],
+    "244": [
+      "nature, ils se battent pour sauver leur",
+      "nature, they fight to save their"
+    ],
+    "245": [
+      "retraite, eux, tu vois.",
+      "pensions, you know."
+    ],
+    "246": [
+      "On a les sujets, on les a.",
+      "We've got the stories, we have."
+    ],
+    "247": [
+      "On les a, les sujets.",
+      "We've got them, the stories."
+    ],
+    "248": [
+      "Y'a qu'à piocher.",
+      "Just pick one."
+    ],
+    "249": [
+      "Ça ne tient qu'à vous, hein.",
+      "It's up to you, eh."
+    ],
+    "250": [
+      "Attends, et si on n'a pas le budget",
+      "Wait, and if we don't have the budget"
+    ],
+    "251": [
+      "pour les Avatar ou pour des avions de",
+      "for Avatars or for fighter"
+    ],
+    "252": [
+      "chasse, mettez des ninjas.",
+      "jets, put in ninjas."
+    ],
+    "253": [
+      "Ça ne coûte pas cher, des ninjas.",
+      "Ninjas don't cost much."
+    ],
+    "254": [
+      "Mais dès le scénario,",
+      "But right from the script,"
+    ],
+    "255": [
+      "tu vois.",
+      "you know."
+    ],
+    "256": [
+      "Parce que quand je lis, je suis désolé :",
+      "Because when I read, I'm sorry:"
+    ],
+    "257": [
+      "« Vincent Lindon marche langoureusement",
+      "\"Vincent Lindon walks languorously"
+    ],
+    "258": [
+      "vers Juliette Binoche »,",
+      "towards Juliette Binoche\","
+    ],
+    "259": [
+      "« langoureusement », on a vidé la salle.",
+      "\"languorously\", the cinema's empty."
+    ],
+    "260": [
+      "Si tu remplaces « langoureusement » par des",
+      "If you replace \"languorously\" with"
+    ],
+    "261": [
+      "ninjas, sur la vie de ma mère, c'est pas",
+      "ninjas, I swear on my mother, it's not"
+    ],
+    "262": [
+      "le même film.",
+      "the same film."
+    ],
+    "263": [
+      "T'imagines Vincent Lindon, il marche comme",
+      "Imagine Vincent Lindon, walking like"
+    ],
+    "264": [
+      "ça, langoureusement, vers Juliette Binoche,",
+      "this, languorously, towards Juliette Binoche,"
+    ],
+    "265": [
+      "il se fait attaquer par des ninjas de part",
+      "he gets attacked by ninjas from"
+    ],
+    "266": [
+      "et d'autre.",
+      "both sides."
+    ],
+    "267": [
+      "Là, il se passe quelque chose.",
+      "Now something's happening."
+    ],
+    "268": [
+      "Là, là, là, là, oui.",
+      "There, there, yes."
+    ],
+    "269": [
+      "Là, on fait des entrées.",
+      "Now we sell tickets."
+    ],
+    "270": [
+      "Moi, je vous fais le déc…",
+      "I'll do you the…"
+    ],
+    "271": [
+      "Juliette ? Oui, c'est vrai.",
+      "Juliette? Yes, it's true."
+    ],
+    "274": [
+      "Tu rajoutes des ninjas, Juliette, sur la",
+      "Add ninjas, Juliette, I swear on"
+    ],
+    "275": [
+      "vie de ma mère, ça fait un malheur.",
+      "my mother, it'd be a smash."
+    ],
+    "276": [
+      "Je l'ai vu, le film, bien sûr.",
+      "I saw the film, of course."
+    ],
+    "277": [
+      "Mais qu'est-ce qui lui arrive, à elle ?",
+      "What's got into her?"
+    ],
+    "278": [
+      "Vous lui avez écrit ça, comme texte ?",
+      "Did you write that for her?"
+    ],
+    "279": [
+      "Si on est là ce soir, c'est parce qu'on",
+      "If we're here tonight, it's because we"
+    ],
+    "280": [
+      "croit au cinéma et qu'on l'aime.",
+      "believe in cinema and love it."
+    ],
+    "281": [
+      "Et c'est un endroit où tout est possible.",
+      "And it's a place where anything's possible."
+    ],
+    "282": [
+      "Je suis la preuve vivante, Juliette.",
+      "I'm living proof, Juliette."
+    ],
+    "283": [
+      "C'est un endroit qui permet de rêver,",
+      "It's a place that lets you dream,"
+    ],
+    "284": [
+      "d'être n'importe qui.",
+      "be anyone."
+    ],
+    "285": [
+      "On peut rentrer dans la vie de n'importe",
+      "You can step into the life of any"
+    ],
+    "286": [
+      "quel personnage.",
+      "character."
+    ],
+    "287": [
+      "Regarde Louis Garrel.",
+      "Look at Louis Garrel."
+    ],
+    "288": [
+      "Il a fait un braqueur alors qu'il n'a",
+      "He played a robber when he's never"
+    ],
+    "289": [
+      "jamais volé une sucette, c'est sûr.",
+      "even stolen a lollipop, that's for sure."
+    ],
+    "290": [
+      "Pourtant, 11 nominations, bravo ! Mesdames,",
+      "Yet 11 nominations, bravo! Ladies"
+    ],
+    "291": [
+      "messieurs, on peut l'applaudir.",
+      "and gentlemen, a round of applause."
+    ],
+    "292": [
+      "L'Innocent.",
+      "L'Innocent."
+    ],
+    "293": [
+      "Bouli Lanners,",
+      "Bouli Lanners,"
+    ],
+    "294": [
+      "qui joue un policier alors qu'il devrait",
+      "who plays a cop when he should be"
+    ],
+    "295": [
+      "être en cellule de dégrisement.",
+      "in a sobering-up cell."
+    ]
+  },
+  "effects": [
+    {
+      "type": "zoom",
+      "word": "chasse",
+      "offset": -0.4,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "retraite",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "caption",
+      "word": "retraite",
+      "text": "Avatar version réforme des retraites 💀",
+      "dur": 2.8
+    },
+    {
+      "type": "sfx",
+      "word": "ninjas",
+      "nth": 1,
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "zoom",
+      "word": "ninjas",
+      "nth": 3,
+      "offset": -0.5,
+      "dur": 2.4,
+      "scale": 1.18
+    },
+    {
+      "type": "sticker",
+      "word": "arrive",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "sfx",
+      "word": "sucette",
+      "file": "pop",
+      "gain": -12
+    },
+    {
+      "type": "sfx",
+      "word": "dégrisement",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "zoom",
+      "word": "dégrisement",
+      "offset": -0.8,
+      "dur": 2.2,
+      "scale": 1.15
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Partie 3 : Jamel veut des ninjas dans le cinéma français 😂 (Juliette Binoche réagit) #shorts",
+    "caption": "« Si tu remplaces “langoureusement” par des ninjas… c'est pas le même film ! » 🥷😂\nPartie 3 de Jamel aux César 2023 : Avatar version retraite, Anaïs Demoustier dans un avion de chasse… et Juliette Binoche qui réagit.\n\nTeam films d'auteur ou team ninjas ? 👇 Tague ton pote qui s'endort devant les films français 😅\n\n🎤 Jamel Debbouze, César 2023 (CANAL+) · 🇬🇧 English subtitles by @the_punchlinelab\n\n#jameldebbouze #cesar2023 #juliettebinoche #cinemafrancais #humour",
+    "youtube_tags": [
+      "jamel debbouze",
+      "césar 2023",
+      "juliette binoche",
+      "vincent lindon",
+      "cinéma français",
+      "ninjas",
+      "humour",
+      "canal+",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}

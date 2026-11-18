@@ -219,5 +219,32 @@
     "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 13:00 Paris",
     "vidiq_post_id": "6cb5e1a1-00d2-4b9e-8009-191b1a224ed0",
     "youtube": "https://www.youtube.com/watch?v=CKYX2rPdZF8"
+  },
+  {
+    "date": "2026-11-18",
+    "comedian": "Jamel Debbouze (César 2023, Partie 3 — ninjas)",
+    "clip": "05_jamel_cesar_p3",
+    "source": "https://www.youtube.com/watch?v=363RgMenp1g&t=540s",
+    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 21:00 Paris",
+    "vidiq_post_id": "ee42ad34-4b43-4161-bf00-22c7ef880064",
+    "youtube": null
+  },
+  {
+    "date": "2026-11-18",
+    "comedian": "Alban Ivanov",
+    "clip": "04_alban_ivanov",
+    "source": "https://www.youtube.com/watch?v=6Ts0foAxeXw (Alban Ivanov (Marrakech du rire), to verify)",
+    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 16:00 Paris",
+    "vidiq_post_id": "a6cf1a5e-e645-4612-80b6-ba5d5cac10a6",
+    "youtube": null
+  },
+  {
+    "date": "2026-11-18",
+    "comedian": "Gad Elmaleh (couple / sommeil)",
+    "clip": "03_gad_elmaleh",
+    "source": "https://www.youtube.com/watch?v=Dyy-KRkdE2c&t=169s (ComediHa! official)",
+    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 18:00 Paris",
+    "vidiq_post_id": "1e0e0a75-b7d1-49b9-a163-eca0e863d65b",
+    "youtube": null
   }
 ]

@@ -1,0 +1,159 @@
+{
+  "language": "fr",
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.72,
+      "y0": 0.0,
+      "y1": 0.86
+    }
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Gad Elmaleh + ComediHa! with link."
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-18_gad_elmaleh",
+  "comedian": "Gad Elmaleh",
+  "source": {
+    "file": "source.mp4",
+    "title": "Gad Elmaleh - ComediHa!",
+    "url": "https://www.youtube.com/watch?v=Dyy-KRkdE2c&t=169s",
+    "channel": "ComediHa! (official)"
+  },
+  "segments": [
+    {
+      "in": 168.51,
+      "out": 187.04
+    },
+    {
+      "in": 187.94,
+      "out": 207.72
+    },
+    {
+      "in": 211.0,
+      "out": 222.0
+    },
+    {
+      "in": 223.45,
+      "out": 249.67
+    },
+    {
+      "in": 257.09,
+      "out": 281.14
+    },
+    {
+      "in": 281.52,
+      "out": 285.9
+    },
+    {
+      "in": 286.32,
+      "out": 290.52
+    },
+    {
+      "in": 291.41,
+      "out": 307.51
+    },
+    {
+      "in": 308.63,
+      "out": 316.14
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "350",
+    "limites",
+    "fesculin",
+    "peur",
+    "binaire",
+    "Bluetooth",
+    "où",
+    "chien"
+  ],
+  "zooms": [
+    {
+      "at": 0.0,
+      "dur": 2.55,
+      "scale": 1.7,
+      "cx": 0.48,
+      "cy": 0.4
+    },
+    {
+      "at": 16.79,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 47.49,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 127.24,
+      "dur": 2.4,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 14.58,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 37.56,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 128.03,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 117.97,
+      "end": 119.37,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Gad Elmaleh : « Chérie, tu m'aimerais toujours si… » 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Sommeil en Bluetooth 📶😴",
+      "start": 86.55,
+      "end": 89.15
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Gad Elmaleh : « Chérie, tu m'aimerais toujours si… » 😂 le sommeil en Bluetooth #shorts",
+    "caption": "« Vous, mesdames, vous avez un sommeil en Bluetooth. » 📶😴😂\nGad Elmaleh et les questions pièges en couple : « tu m'aimerais toujours si… », les bruits la nuit, « tu vas où ? » à 4h du mat'.\n\nTeam homme ou team femme sur ce coup-là ? 👇 Tague ta moitié qui te demande « tu vas où ? » 😅\n\n🎤 Gad Elmaleh, ComediHa! · 🇬🇧 English subtitles by @the_punchlinelab\n\n#gadelmaleh #couple #humour #standup #comediha",
+    "youtube_tags": [
+      "gad elmaleh",
+      "couple",
+      "homme vs femme",
+      "sommeil",
+      "comediha",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Gad Elmaleh (ComediHa!, Quebec): the 'would you still love me if…' trap question, feminine vs masculine (hearing noises at night), how women sleep, 'Bluetooth sleep', and 'where are you going?' at 4 a.m. Unclear lines 132-133 cut."
+}

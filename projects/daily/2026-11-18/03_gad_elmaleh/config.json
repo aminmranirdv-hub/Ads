@@ -1,0 +1,429 @@
+{
+  "trans_lang": "en",
+  "context_note": "Gad Elmaleh (ComediHa!, Quebec): the 'would you still love me if…' trap question, feminine vs masculine (hearing noises at night), how women sleep, 'Bluetooth sleep', and 'where are you going?' at 4 a.m. Unclear lines 132-133 cut.",
+  "ranges": [
+    [
+      81,
+      131
+    ],
+    [
+      134,
+      163
+    ]
+  ],
+  "end_pad": 2.0,
+  "hook": "Gad Elmaleh : « Chérie, tu m'aimerais toujours si… » 😂",
+  "highlight_words": [
+    "350",
+    "limites",
+    "fesculin",
+    "peur",
+    "binaire",
+    "Bluetooth",
+    "où",
+    "chien"
+  ],
+  "cues": {
+    "81": [
+      "Je m'adresse à vous, messieurs.",
+      "This one's for you, gentlemen."
+    ],
+    "82": [
+      "On connaît tous ça.",
+      "We all know this one."
+    ],
+    "83": [
+      "« Chérie,",
+      "\"Darling,"
+    ],
+    "84": [
+      "est-ce que tu m'aimerais toujours si… »",
+      "would you still love me if…\""
+    ],
+    "85": [
+      "Je dis : putain, qu'est-ce qui va se passer",
+      "I think: damn, what's coming"
+    ],
+    "86": [
+      "après ? Je cite :",
+      "next? I quote:"
+    ],
+    "87": [
+      "« Si je pesais 350 livres en",
+      "\"If I weighed 350 pounds"
+    ],
+    "88": [
+      "plus ? »",
+      "more?\""
+    ],
+    "89": [
+      "Non.",
+      "No."
+    ],
+    "90": [
+      "Je t'aime, mais il y a des limites.",
+      "I love you, but there are limits."
+    ],
+    "91": [
+      "C'est féminin.",
+      "That's feminine."
+    ],
+    "92": [
+      "Je veux pas faire du machisme, de la",
+      "I don't want to be sexist,"
+    ],
+    "93": [
+      "misogynie, les amis.",
+      "misogynistic, my friends."
+    ],
+    "94": [
+      "Mais c'est féminin, il y a des choses,",
+      "But some things are"
+    ],
+    "95": [
+      "c'est féminin, et d'autres, c'est masculin.",
+      "feminine, and others are masculine."
+    ],
+    "96": [
+      "Tenez, je vais vous donner des exemples et",
+      "Here, I'll give you examples and"
+    ],
+    "97": [
+      "vous allez me dire féminin ou masculin.",
+      "you tell me: feminine or masculine."
+    ],
+    "98": [
+      "Vous êtes prêts ?",
+      "Ready?"
+    ],
+    "99": [
+      "OK, par exemple, entendre des bruits la",
+      "OK, for example, hearing noises at"
+    ],
+    "100": [
+      "nuit, c'est ?",
+      "night is…?"
+    ],
+    "101": [
+      "Waouh, à Québec, c'est la première fois de",
+      "Wow, Quebec, it's the first time in"
+    ],
+    "102": [
+      "ma vie que j'entends « fesculin ».",
+      "my life I've heard \"femasculine\"."
+    ],
+    "103": [
+      "Entendre des bruits la nuit, c'est",
+      "Hearing noises at night is"
+    ],
+    "104": [
+      "féminin. Oui, il n'y a aucun homme au",
+      "feminine. Yes, there's no man in the"
+    ],
+    "105": [
+      "monde, dans toute l'histoire du couple, de",
+      "world, in the whole history of couples, of"
+    ],
+    "106": [
+      "l'humanité tout entière, qui a déjà dit à",
+      "all mankind, who has ever said to"
+    ],
+    "107": [
+      "sa femme à 4 heures du matin : « Chérie, je",
+      "his wife at 4 a.m.: \"Darling, I"
+    ],
+    "108": [
+      "crois qu'il y a des gens dans la salle de",
+      "think there are people in the"
+    ],
+    "109": [
+      "bain, j'ai un peu peur. »",
+      "bathroom, I'm a bit scared.\""
+    ],
+    "110": [
+      "On n'est pas pareils.",
+      "We're not the same."
+    ],
+    "111": [
+      "La manière de dormir aussi, on n'est pas",
+      "How we sleep, too, we're not"
+    ],
+    "112": [
+      "pareils. Nous, les hommes, soit on dort,",
+      "the same. Us men, either we sleep"
+    ],
+    "113": [
+      "soit on dort pas.",
+      "or we don't."
+    ],
+    "114": [
+      "C'est binaire.",
+      "It's binary."
+    ],
+    "115": [
+      "C'est A ou B.",
+      "It's A or B."
+    ],
+    "116": [
+      "Les femmes, c'est des trucs que je",
+      "Women, it's stuff I"
+    ],
+    "117": [
+      "comprends pas.",
+      "don't understand."
+    ],
+    "118": [
+      "Genre : « En fait, j'ai pas vraiment dormi.",
+      "Like: \"Actually, I didn't really sleep."
+    ],
+    "119": [
+      "J'étais en train de m'endormir.",
+      "I was falling asleep."
+    ],
+    "120": [
+      "Au moment où tu m'as réveillée, je croyais",
+      "When you woke me up, I thought"
+    ],
+    "121": [
+      "que je dormais.",
+      "I was sleeping."
+    ],
+    "122": [
+      "Mais en fait, je dormais pas du tout.",
+      "But actually I wasn't sleeping at all."
+    ],
+    "123": [
+      "Ça m'a fait faire une sieste juste avant.",
+      "It made me take a nap just before."
+    ],
+    "124": [
+      "Et en fait, je me suis réveillée au milieu.",
+      "And actually I woke up in the middle."
+    ],
+    "125": [
+      "J'avais l'impression que je dormais.",
+      "I felt like I was sleeping."
+    ],
+    "126": [
+      "En fait, j'étais réveillée. »",
+      "Actually, I was awake.\""
+    ],
+    "127": [
+      "C'est ça qui est fou.",
+      "That's what's crazy."
+    ],
+    "128": [
+      "Donc dorénavant, je vais faire une petite",
+      "So from now on I'll take a little"
+    ],
+    "129": [
+      "sieste avant de me coucher.",
+      "nap before going to bed."
+    ],
+    "130": [
+      "Comme ça, je dors au moment où je me",
+      "That way I'm asleep when I"
+    ],
+    "131": [
+      "réveille.",
+      "wake up."
+    ],
+    "134": [
+      "Et cette capacité qu'elles ont, mesdames,",
+      "And this ability you have, ladies,"
+    ],
+    "135": [
+      "de dormir et en même temps d'être au courant",
+      "to sleep and at the same time know"
+    ],
+    "136": [
+      "de tout ce qui se passe dans la maison.",
+      "everything going on in the house."
+    ],
+    "137": [
+      "Comment vous faites ?",
+      "How do you do it?"
+    ],
+    "138": [
+      "Nous, on dort, il peut y avoir un",
+      "We sleep, there could be an"
+    ],
+    "139": [
+      "tremblement de terre ; vous, vous avez un",
+      "earthquake; you've got"
+    ],
+    "140": [
+      "sommeil en Bluetooth.",
+      "Bluetooth sleep."
+    ],
+    "141": [
+      "C'est pour ça que quand tu bouges un",
+      "That's why when you move a"
+    ],
+    "142": [
+      "orteil, elle te dit : « Tu vas où ? »",
+      "toe, she says: \"Where are you going?\""
+    ],
+    "143": [
+      "J'ai jamais compris vos questions de « Tu",
+      "I've never understood your \"Where"
+    ],
+    "144": [
+      "vas où ? ». Il est 4 heures du matin, je suis",
+      "are you going?\". It's 4 a.m., I'm"
+    ],
+    "145": [
+      "en caleçon, je suis presque à poil.",
+      "in my boxers, practically naked."
+    ],
+    "146": [
+      "Tu veux que j'aille à une soirée déguisée ?",
+      "You think I'm off to a costume party?"
+    ],
+    "147": [
+      "Non, je vais pisser, oui.",
+      "No, I'm going for a pee, yes."
+    ],
+    "148": [
+      "L'autre jour, je lui ai dit : « Je vais",
+      "The other day I told her: \"I'm going"
+    ],
+    "149": [
+      "pisser. » Elle m'a dit : « OK, alors reviens. »",
+      "for a pee.\" She said: \"OK, come back then.\""
+    ],
+    "150": [
+      "Je lui ai dit : « Non, c'est une bonne",
+      "I said: \"No, it's a great"
+    ],
+    "151": [
+      "ambiance là-bas, moi, je m'en fous. »",
+      "vibe in there, I don't care.\""
+    ],
+    "152": [
+      "Ah ben ouais, je vais faire claquer la",
+      "Oh yeah, I'm gonna slam the"
+    ],
+    "153": [
+      "cuvette, tirer du papier toilette, je vais",
+      "toilet seat, pull some toilet paper, I'm gonna"
+    ],
+    "154": [
+      "m'amuser.",
+      "have fun."
+    ],
+    "155": [
+      "Je suis revenu, elle m'a dit : « Alors,",
+      "I came back, she said: \"So,"
+    ],
+    "156": [
+      "alors ? »",
+      "so?\""
+    ],
+    "157": [
+      "Ah, tu veux vraiment un débrief de ce qui",
+      "Oh, you really want a debrief of what"
+    ],
+    "158": [
+      "s'est passé ? Eh ben écoute, au début,",
+      "happened? Well, at first"
+    ],
+    "159": [
+      "c'était un peu difficile, mais après, c'est",
+      "it was a bit tough, but then it"
+    ],
+    "160": [
+      "parti tout seul, c'était génial.",
+      "just flowed, it was great."
+    ],
+    "161": [
+      "Je suis revenu, moi, le truc qui m'a",
+      "I came back, and what"
+    ],
+    "162": [
+      "énervé, c'est qu'il y avait le chien à ma",
+      "annoyed me was the dog was in my"
+    ],
+    "163": [
+      "place, je te jure, il a pris ma place.",
+      "spot, I swear, he took my spot."
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "non",
+      "nth": 1,
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "limites",
+      "offset": -0.6,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "fesculin",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "zoom",
+      "word": "peur",
+      "offset": -0.8,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "caption",
+      "word": "bluetooth",
+      "text": "Sommeil en Bluetooth 📶😴",
+      "dur": 2.6
+    },
+    {
+      "type": "sticker",
+      "word": "débrief",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "sfx",
+      "word": "chien",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "zoom",
+      "word": "chien",
+      "offset": -0.6,
+      "dur": 2.4,
+      "scale": 1.18
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Gad Elmaleh : « Chérie, tu m'aimerais toujours si… » 😂 le sommeil en Bluetooth #shorts",
+    "caption": "« Vous, mesdames, vous avez un sommeil en Bluetooth. » 📶😴😂\nGad Elmaleh et les questions pièges en couple : « tu m'aimerais toujours si… », les bruits la nuit, « tu vas où ? » à 4h du mat'.\n\nTeam homme ou team femme sur ce coup-là ? 👇 Tague ta moitié qui te demande « tu vas où ? » 😅\n\n🎤 Gad Elmaleh, ComediHa! · 🇬🇧 English subtitles by @the_punchlinelab\n\n#gadelmaleh #couple #humour #standup #comediha",
+    "youtube_tags": [
+      "gad elmaleh",
+      "couple",
+      "homme vs femme",
+      "sommeil",
+      "comediha",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "open_zoom": 1.7,
+  "open_zoom_dur": 2.55,
+  "open_zoom_cx": 0.48,
+  "open_zoom_cy": 0.4
+}

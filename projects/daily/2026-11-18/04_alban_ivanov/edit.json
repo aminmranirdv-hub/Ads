@@ -1,0 +1,144 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Alban Ivanov + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.9
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-18_alban_ivanov",
+  "comedian": "Alban Ivanov",
+  "source": {
+    "file": "source.mp4",
+    "title": "Alban Ivanov (Marrakech du rire)",
+    "url": "https://www.youtube.com/watch?v=6Ts0foAxeXw",
+    "channel": "Alban Ivanov (Marrakech du rire) — to verify"
+  },
+  "segments": [
+    {
+      "in": 0.0,
+      "out": 22.99
+    },
+    {
+      "in": 94.59,
+      "out": 114.83
+    },
+    {
+      "in": 118.79,
+      "out": 127.42
+    },
+    {
+      "in": 128.34,
+      "out": 197.09
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "division 8",
+    "bar-tabac",
+    "joint",
+    "Soupir",
+    "Samir",
+    "Julien",
+    "35",
+    "short"
+  ],
+  "zooms": [
+    {
+      "at": 0.0,
+      "dur": 0.9,
+      "scale": 1.6,
+      "cx": 0.55,
+      "cy": 0.44
+    },
+    {
+      "at": 33.34,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 59.6,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 116.17,
+      "dur": 2.2,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 17.69,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 41.13,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 92.79,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 117.18,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 92.79,
+      "end": 94.19,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Alban Ivanov et le PIRE club de foot de France 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Coach Soupir 😮‍💨",
+      "start": 46.95,
+      "end": 49.35
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Alban Ivanov et le pire club de foot de France 😂 « Le vestiaire, c'était un bar-tabac » #shorts",
+    "caption": "« Notre vestiaire à la mi-temps, c'était un bar-tabac. » ⚽🍺😂\nAlban Ivanov raconte son club de division 8… et le coach qui n'en peut plus.\n\nTeam foot du dimanche ou team Ligue des Champions ? 👇 Tague ton pote qui joue encore en district 😅\n\n🎤 Alban Ivanov, Marrakech du Rire · 🇬🇧 English subtitles by @the_punchlinelab\n\n#albanivanov #marrakechdurire #football #humour #standup",
+    "youtube_tags": [
+      "alban ivanov",
+      "marrakech du rire",
+      "football",
+      "foot amateur",
+      "vestiaire",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Alban Ivanov (Marrakech du Rire): his division-8 amateur football club — a corner bar as the half-time dressing room, and the desperate coach 'Sigh' yelling at the players (Samir on Julien's licence, Boubacar 35 in the under-18s, and Alban himself). Religion-based jokes (cues 13-46) skipped."
+}

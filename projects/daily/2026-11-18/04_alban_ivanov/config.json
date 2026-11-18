@@ -1,0 +1,355 @@
+{
+  "trans_lang": "en",
+  "context_note": "Alban Ivanov (Marrakech du Rire): his division-8 amateur football club — a corner bar as the half-time dressing room, and the desperate coach 'Sigh' yelling at the players (Samir on Julien's licence, Boubacar 35 in the under-18s, and Alban himself). Religion-based jokes (cues 13-46) skipped.",
+  "ranges": [
+    [
+      1,
+      12
+    ],
+    [
+      47,
+      57
+    ],
+    [
+      60,
+      96
+    ]
+  ],
+  "end_pad": 2.0,
+  "hook": "Alban Ivanov et le PIRE club de foot de France 😂",
+  "highlight_words": [
+    "division 8",
+    "bar-tabac",
+    "joint",
+    "Soupir",
+    "Samir",
+    "Julien",
+    "35",
+    "short"
+  ],
+  "cues": {
+    "1": [
+      "Moi aussi, j'aurais dû être footballeur",
+      "I should've been a pro footballer"
+    ],
+    "2": [
+      "professionnel, mais j'ai eu un problème.",
+      "too, but I had a problem."
+    ],
+    "3": [
+      "Ah, j'étais nul, quoi.",
+      "I was rubbish."
+    ],
+    "4": [
+      "C'est ça.",
+      "That's it."
+    ],
+    "5": [
+      "Oh, de la merde.",
+      "Oh, total crap."
+    ],
+    "6": [
+      "Oh là là.",
+      "Oh dear."
+    ],
+    "7": [
+      "Je jouais en division 8, district.",
+      "I played in division 8, district level."
+    ],
+    "8": [
+      "C'est la plus basse division qui",
+      "It's the lowest division that"
+    ],
+    "9": [
+      "existe dans le football.",
+      "exists in football."
+    ],
+    "10": [
+      "En dessous, c'est du handball, tu vois,",
+      "Below that it's handball, you see,"
+    ],
+    "11": [
+      "donc… Ah, tu perds les crampons, tu",
+      "so… you lose your boots, you're"
+    ],
+    "12": [
+      "dégages.",
+      "out."
+    ],
+    "47": [
+      "Non, mon moment préféré, moi, au foot,",
+      "No, my favourite moment in football"
+    ],
+    "48": [
+      "c'était la mi-temps, le moment",
+      "was half-time, the moment"
+    ],
+    "49": [
+      "du vestiaire.",
+      "in the dressing room."
+    ],
+    "50": [
+      "Alors, dans des vestiaires normaux, t'as",
+      "In normal dressing rooms you've got"
+    ],
+    "51": [
+      "des bancs, de l'eau, des douches.",
+      "benches, water, showers."
+    ],
+    "52": [
+      "Nous, notre vestiaire, à la mi-temps,",
+      "Us, our half-time dressing room"
+    ],
+    "53": [
+      "c'était un bar-tabac.",
+      "was a corner bar."
+    ],
+    "54": [
+      "Ça récupérait avec café, clope, bière,",
+      "We recovered with coffee, smokes, beer,"
+    ],
+    "55": [
+      "joint.",
+      "a joint."
+    ],
+    "56": [
+      "Avant de sortir du vestiaire, on devait",
+      "Before leaving the dressing room, we had to"
+    ],
+    "57": [
+      "souffler dans un ballon.",
+      "blow into a breathalyser."
+    ],
+    "60": [
+      "L'entraîneur, il n'en pouvait plus de",
+      "The coach was fed up with"
+    ],
+    "61": [
+      "nous. L'entraîneur, on l'appelait Soupir.",
+      "us. We called the coach Sigh."
+    ],
+    "62": [
+      "Parce que dès qu'il rentrait dans le",
+      "Because whenever he walked into the"
+    ],
+    "63": [
+      "vestiaire, il disait toujours : « Oh, les gars…",
+      "dressing room, he'd always go: \"Oh, guys…"
+    ],
+    "64": [
+      "Bah ouais, mais vous voulez que le club",
+      "Come on, do you want the club"
+    ],
+    "65": [
+      "ferme ou quoi ?",
+      "to shut down or what?"
+    ],
+    "66": [
+      "Bah alors ? Arrêtez d'appeler Samir « Samir » !",
+      "Come on! Stop calling Samir \"Samir\"!"
+    ],
+    "67": [
+      "Il joue sous la licence de Julien, putain !",
+      "He's playing on Julien's licence, damn it!"
+    ],
+    "68": [
+      "Bah ouais, mais l'arbitre, il",
+      "Yeah, but the referee"
+    ],
+    "69": [
+      "le voit, ça !",
+      "sees that!"
+    ],
+    "70": [
+      "Allez, là !",
+      "Come on!"
+    ],
+    "71": [
+      "Si vous faisiez tourner les ballons",
+      "If you passed the ball around"
+    ],
+    "72": [
+      "comme les joints, on serait déjà en Ligue des",
+      "like the joints, we'd already be in the"
+    ],
+    "73": [
+      "Champions, hein !",
+      "Champions League!"
+    ],
+    "74": [
+      "Il est où, l'autre ?",
+      "Where's the other one?"
+    ],
+    "75": [
+      "Boubacar, la Gazelle, viens là !",
+      "Boubacar, the Gazelle, come here!"
+    ],
+    "76": [
+      "Viens là ! Pourquoi tu prends une",
+      "Come here! Why are you taking a"
+    ],
+    "77": [
+      "douche à la mi-temps ?",
+      "shower at half-time?"
+    ],
+    "78": [
+      "Viens là ! Non mais je m'en fous de qui",
+      "Come here! I don't care who's"
+    ],
+    "79": [
+      "est là avec toi, viens là !",
+      "in there with you, come here!"
+    ],
+    "80": [
+      "Et arrête de mettre l'eau dans ton sac,",
+      "And stop putting the water in your bag,"
+    ],
+    "81": [
+      "viens là ! Boubacar, t'es",
+      "come here! Boubacar, do you"
+    ],
+    "82": [
+      "au courant que je te fais jouer avec les",
+      "realise I've got you playing in the"
+    ],
+    "83": [
+      "moins de 18 ?",
+      "under-18s?"
+    ],
+    "84": [
+      "T'es au courant que t'en as 35 ?",
+      "Do you realise you're 35?"
+    ],
+    "85": [
+      "Et pourquoi tu te gares encore",
+      "And why do you keep parking"
+    ],
+    "86": [
+      "devant l'arbitre ?",
+      "right in front of the referee?"
+    ],
+    "87": [
+      "Avec tes gosses en plus, qui ont des photos",
+      "With your kids too, wearing photos"
+    ],
+    "88": [
+      "de toi sur le t-shirt et qui crient « Vas-y,",
+      "of you on their T-shirts, shouting \"Go on,"
+    ],
+    "89": [
+      "papa ! » Et rase-toi !",
+      "daddy!\" And shave!"
+    ],
+    "90": [
+      "Et mets un short, il y a des mineurs",
+      "And put some shorts on, there are minors"
+    ],
+    "91": [
+      "dans le vestiaire !",
+      "in the dressing room!"
+    ],
+    "92": [
+      "Il est où, l'autre ?",
+      "Where's the other one?"
+    ],
+    "93": [
+      "Alban ! Allez, va t'échauffer, tu vas",
+      "Alban! Go warm up, you're"
+    ],
+    "94": [
+      "rentrer ! T'étais déjà sur le terrain ?",
+      "coming on! You were already on the pitch?"
+    ],
+    "95": [
+      "Sur la vie de ma mère, tu sors !",
+      "I swear on my mother, you're off!"
+    ],
+    "96": [
+      "Allez, dégage ! »",
+      "Go on, get out!\""
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "handball",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "tabac",
+      "offset": -0.4,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "ballon",
+      "nth": 1,
+      "file": "pop",
+      "gain": -12
+    },
+    {
+      "type": "caption",
+      "word": "soupir",
+      "text": "Coach Soupir 😮‍💨",
+      "dur": 2.4
+    },
+    {
+      "type": "zoom",
+      "word": "julien",
+      "offset": -0.5,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "35",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "sticker",
+      "word": "35",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "sfx",
+      "word": "sors",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "zoom",
+      "word": "sors",
+      "offset": -0.8,
+      "dur": 2.2,
+      "scale": 1.18
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Alban Ivanov et le pire club de foot de France 😂 « Le vestiaire, c'était un bar-tabac » #shorts",
+    "caption": "« Notre vestiaire à la mi-temps, c'était un bar-tabac. » ⚽🍺😂\nAlban Ivanov raconte son club de division 8… et le coach qui n'en peut plus.\n\nTeam foot du dimanche ou team Ligue des Champions ? 👇 Tague ton pote qui joue encore en district 😅\n\n🎤 Alban Ivanov, Marrakech du Rire · 🇬🇧 English subtitles by @the_punchlinelab\n\n#albanivanov #marrakechdurire #football #humour #standup",
+    "youtube_tags": [
+      "alban ivanov",
+      "marrakech du rire",
+      "football",
+      "foot amateur",
+      "vestiaire",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "open_zoom": 1.6,
+  "open_zoom_dur": 0.9,
+  "open_zoom_cx": 0.55,
+  "open_zoom_cy": 0.44
+}

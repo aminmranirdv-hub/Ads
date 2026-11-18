@@ -1,0 +1,155 @@
+{
+  "language": "fr",
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 1.0
+    }
+  },
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner chose to publish without a licence. Credit Jamel Debbouze / CANAL+ and link the original."
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-18_jamel_cesar_p3",
+  "comedian": "Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Jamel Debbouze lance les César 2023 - CANAL+",
+    "url": "https://www.youtube.com/watch?v=363RgMenp1g&t=540s",
+    "channel": "CANAL+ (official)",
+    "window": "9:00-11:41"
+  },
+  "segments": [
+    {
+      "in": 540.63,
+      "out": 550.14
+    },
+    {
+      "in": 550.38,
+      "out": 553.32
+    },
+    {
+      "in": 557.42,
+      "out": 582.42
+    },
+    {
+      "in": 582.84,
+      "out": 634.58
+    },
+    {
+      "in": 636.14,
+      "out": 642.01
+    },
+    {
+      "in": 650.93,
+      "out": 654.9
+    },
+    {
+      "in": 655.5,
+      "out": 691.28
+    },
+    {
+      "in": 697.64,
+      "out": 704.85
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "ninjas",
+    "Avatar",
+    "retraite",
+    "Tom Cruise",
+    "langoureusement",
+    "Binoche",
+    "sucette",
+    "dégrisement"
+  ],
+  "zooms": [
+    {
+      "at": 26.15,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "at": 72.31,
+      "dur": 2.4,
+      "scale": 1.18
+    },
+    {
+      "at": 138.35,
+      "dur": 2.2,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 41.4,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 55.84,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 128.12,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 139.72,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 104.52,
+      "end": 105.92,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Partie 3 : Jamel veut des NINJAS dans le cinéma français 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Avatar version réforme des retraites 💀",
+      "start": 41.4,
+      "end": 44.2
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Partie 3 : Jamel veut des ninjas dans le cinéma français 😂 (Juliette Binoche réagit) #shorts",
+    "caption": "« Si tu remplaces “langoureusement” par des ninjas… c'est pas le même film ! » 🥷😂\nPartie 3 de Jamel aux César 2023 : Avatar version retraite, Anaïs Demoustier dans un avion de chasse… et Juliette Binoche qui réagit.\n\nTeam films d'auteur ou team ninjas ? 👇 Tague ton pote qui s'endort devant les films français 😅\n\n🎤 Jamel Debbouze, César 2023 (CANAL+) · 🇬🇧 English subtitles by @the_punchlinelab\n\n#jameldebbouze #cesar2023 #juliettebinoche #cinemafrancais #humour",
+    "youtube_tags": [
+      "jamel debbouze",
+      "césar 2023",
+      "juliette binoche",
+      "vincent lindon",
+      "cinéma français",
+      "ninjas",
+      "humour",
+      "canal+",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Partie 3 from the winning source (Jamel opening the César 2023, CANAL+): French films need stunts — Anaïs Demoustier in a fighter jet, a French Avatar fighting for pensions, ninjas attacking Vincent Lindon; Juliette Binoche reacts from her seat; Louis Garrel and Bouli Lanners roasted. Unclear lines 272-273 cut."
+}
