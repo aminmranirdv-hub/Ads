@@ -1,0 +1,118 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Booder, Jamel Debbouze, Kylian Mbappé, Patrick Bruel + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-19_booder_partie3",
+  "comedian": "Booder & Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=8199s",
+    "channel": "to verify (full-show upload)",
+    "offset_in_show_s": 8195
+  },
+  "segments": [
+    {
+      "in": 4.61,
+      "out": 64.01
+    },
+    {
+      "in": 64.18,
+      "out": 107.59
+    },
+    {
+      "in": 108.75,
+      "out": 119.94
+    },
+    {
+      "in": 109.3,
+      "out": 138.36
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Mbappé",
+    "Jamel",
+    "génie",
+    "Ginette",
+    "205",
+    "Patrick Bruel",
+    "Si"
+  ],
+  "zooms": [
+    {
+      "at": 44.65,
+      "dur": 2.2,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 77.48,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 129.96,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 83.0,
+      "end": 84.4,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Partie 3 : le génie Booder fait venir… PATRICK BRUEL ?! 😱",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Patrick Bruel… vraiment ?! 😱🎸",
+      "start": 129.96,
+      "end": 133.46
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Partie 3 : le génie Booder fait venir… Patrick Bruel ?! 😱 (Jamel, Mbappé) #shorts",
+    "caption": "PARTIE 3 🧞‍♂️ (la fin) « C'est pas Patrick Bruel, ça ? » « Si. » 😱🎸\nAprès Mbappé, le génie Booder exauce son propre vœu au Marrakech du Rire… et « Patrick Bruel » débarque.\n\nTon vœu à toi, ce serait qui ? 👇 Tague ton pote fan de Bruel 😅\n\n🎤 Booder & Jamel Debbouze (avec Kylian Mbappé), Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#booder #jameldebbouze #mbappe #marrakechdurire #humour",
+    "youtube_tags": [
+      "booder",
+      "jamel debbouze",
+      "patrick bruel",
+      "mbappé",
+      "kylian mbappé",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "génie",
+      "humour",
+      "sketch",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Partie 3 (finale) of the Booder genie sketch, Marrakech du Rire 2022: Kylian Mbappé (Jamel's wish from Partie 2) leads a standing ovation for Jamel's birthday; Jamel asks the genie Booder what HE wants: Patrick Bruel singing 'Place des grands hommes' — and 'Patrick Bruel' walks on (real or impersonator not confirmed — never claim 'the real one'). Arrival kept unbroken (raw)."
+}

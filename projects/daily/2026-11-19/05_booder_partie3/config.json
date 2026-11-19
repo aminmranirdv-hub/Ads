@@ -1,0 +1,281 @@
+{
+  "trans_lang": "en",
+  "context_note": "Partie 3 (finale) of the Booder genie sketch, Marrakech du Rire 2022: Kylian Mbappé (Jamel's wish from Partie 2) leads a standing ovation for Jamel's birthday; Jamel asks the genie Booder what HE wants: Patrick Bruel singing 'Place des grands hommes' — and 'Patrick Bruel' walks on (real or impersonator not confirmed — never claim 'the real one'). Arrival kept unbroken (raw).",
+  "ranges": [
+    [
+      1,
+      20,
+      "raw"
+    ],
+    [
+      21,
+      45
+    ],
+    [
+      46,
+      48,
+      "raw"
+    ]
+  ],
+  "end_pad": 13.0,
+  "hook": "Partie 3 : le génie Booder fait venir… PATRICK BRUEL ?! 😱",
+  "highlight_words": [
+    "Mbappé",
+    "Jamel",
+    "génie",
+    "Ginette",
+    "205",
+    "Patrick Bruel",
+    "Si"
+  ],
+  "cues": {
+    "1": [
+      "Bonsoir Marrakech !",
+      "Good evening, Marrakech!"
+    ],
+    "2": [
+      "Mais quelle surprise !",
+      "What a surprise!"
+    ],
+    "3": [
+      "Comment ça va, mon ami ?",
+      "How are you, my friend?"
+    ],
+    "4": [
+      "Ça va super, super.",
+      "Really great."
+    ],
+    "5": [
+      "Je suis vraiment content d'être ici.",
+      "I'm really happy to be here."
+    ],
+    "6": [
+      "Franchement, j'adore.",
+      "Honestly, I love it."
+    ],
+    "7": [
+      "Mais je voudrais vraiment dire un mot.",
+      "But I'd really like to say something."
+    ],
+    "8": [
+      "Voilà, comme vous le savez, c'est",
+      "As you know, it's"
+    ],
+    "9": [
+      "l'anniversaire de Jamel.",
+      "Jamel's birthday."
+    ],
+    "10": [
+      "Avec tout ce qu'il a fait ici pour le",
+      "With everything he's done here for"
+    ],
+    "11": [
+      "Marrakech,",
+      "Marrakech,"
+    ],
+    "12": [
+      "tout ce qu'il a fait en France, je pense",
+      "everything he's done in France, I think"
+    ],
+    "13": [
+      "qu'il mérite vraiment un tonnerre",
+      "he really deserves a thunder"
+    ],
+    "14": [
+      "d'applaudissements, et que tout le monde se",
+      "of applause, and for everyone to"
+    ],
+    "15": [
+      "lève pour Jamel.",
+      "stand up for Jamel."
+    ],
+    "16": [
+      "Merci, mon ami, je te jure.",
+      "Thank you, my friend, I swear."
+    ],
+    "17": [
+      "Merci du fond du cœur.",
+      "From the bottom of my heart."
+    ],
+    "18": [
+      "Une des personnes les plus généreuses que",
+      "One of the most generous people"
+    ],
+    "19": [
+      "je connaisse, et des plus talentueuses.",
+      "I know, and one of the most talented."
+    ],
+    "20": [
+      "Kylian Mbappé, du bruit !",
+      "Kylian Mbappé, make some noise!"
+    ],
+    "21": [
+      "« Génie, Génie, tu m'as offert le plus",
+      "\"Genie, Genie, you gave me the most"
+    ],
+    "22": [
+      "beau des rêves, tu m'as offert le plus",
+      "beautiful dream, you gave me the most"
+    ],
+    "23": [
+      "beau des cadeaux, je te jure.",
+      "beautiful gift, I swear."
+    ],
+    "24": [
+      "Voilà ! T'es extraordinaire comme génie,",
+      "There! You're an amazing genie,"
+    ],
+    "25": [
+      "mon génie.",
+      "my genie."
+    ],
+    "26": [
+      "C'est pas possible, tu fais des cadeaux",
+      "It's not right, you give gifts"
+    ],
+    "27": [
+      "à tout le monde, personne t'en fait, à toi.",
+      "to everyone, nobody gives you any."
+    ],
+    "28": [
+      "Est-ce qu'il y a un truc qui te ferait",
+      "Is there something that would make"
+    ],
+    "29": [
+      "plaisir ? » « Moi, ce qui me ferait plaisir ?",
+      "you happy?\" \"What would make me happy?"
+    ],
+    "30": [
+      "Tu sais, quand des fois je suis avec ma",
+      "You know, sometimes when I'm with my"
+    ],
+    "31": [
+      "Ginette… » « Ginette ? »",
+      "Ginette…\" \"Ginette?\""
+    ],
+    "32": [
+      "« Oui, c'est ma meuf, Génie.",
+      "\"Yeah, she's my girl, Genie."
+    ],
+    "33": [
+      "Donc quand je suis avec Ginette, en 205,",
+      "So when I'm with Ginette, in the 205,"
+    ],
+    "34": [
+      "on aime bien mettre des morceaux de",
+      "we like to put on some"
+    ],
+    "35": [
+      "chansons françaises. »",
+      "French songs.\""
+    ],
+    "36": [
+      "« Sérieux ? J'adore. »",
+      "\"Seriously? I love that.\""
+    ],
+    "37": [
+      "« T'aimes bien la chanson française ? »",
+      "\"You like French music?\""
+    ],
+    "38": [
+      "« Oh là là. » « C'est qui ton artiste préféré ? »",
+      "\"Oh yes.\" \"Who's your favourite artist?\""
+    ],
+    "39": [
+      "« Patrick Bruel. »",
+      "\"Patrick Bruel.\""
+    ],
+    "40": [
+      "« Oh ! » « On s'était donné rendez-vous dans 10",
+      "\"Oh!\" \"'We'd agreed to meet in 10"
+    ],
+    "41": [
+      "ans »… ça, ça me ferait kiffer, ça.",
+      "years'… I'd love that."
+    ],
+    "42": [
+      "Que Patrick Bruel vienne sur cette scène",
+      "For Patrick Bruel to come on this stage"
+    ],
+    "43": [
+      "et qu'il chante « On s'était donné",
+      "and sing 'We'd agreed"
+    ],
+    "44": [
+      "rendez-vous dans 10 ans ».",
+      "to meet in 10 years'."
+    ],
+    "45": [
+      "Franchement, j'aimerais bien. »",
+      "Honestly, I'd love that.\""
+    ],
+    "46": [
+      "« Je vais essayer de voir si ça fonctionne. »",
+      "\"Let me see if it works.\""
+    ],
+    "47": [
+      "« Patrick Bruel ?! C'est pas Patrick Bruel, ça ? »",
+      "\"Patrick Bruel?! That's not Patrick Bruel, is it?\""
+    ],
+    "48": [
+      "« Si. »",
+      "\"It is.\""
+    ]
+  },
+  "effects": [
+    {
+      "type": "zoom",
+      "word": "mbappé",
+      "offset": -0.5,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "génette",
+      "nth": 1,
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "sticker",
+      "word": "205",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "sfx",
+      "word": "si",
+      "nth": 2,
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "caption",
+      "word": "si",
+      "nth": 2,
+      "text": "Patrick Bruel… vraiment ?! 😱🎸",
+      "dur": 3.5
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Partie 3 : le génie Booder fait venir… Patrick Bruel ?! 😱 (Jamel, Mbappé) #shorts",
+    "caption": "PARTIE 3 🧞‍♂️ (la fin) « C'est pas Patrick Bruel, ça ? » « Si. » 😱🎸\nAprès Mbappé, le génie Booder exauce son propre vœu au Marrakech du Rire… et « Patrick Bruel » débarque.\n\nTon vœu à toi, ce serait qui ? 👇 Tague ton pote fan de Bruel 😅\n\n🎤 Booder & Jamel Debbouze (avec Kylian Mbappé), Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#booder #jameldebbouze #mbappe #marrakechdurire #humour",
+    "youtube_tags": [
+      "booder",
+      "jamel debbouze",
+      "patrick bruel",
+      "mbappé",
+      "kylian mbappé",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "génie",
+      "humour",
+      "sketch",
+      "shorts",
+      "comedy"
+    ]
+  }
+}
