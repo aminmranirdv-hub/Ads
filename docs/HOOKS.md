@@ -49,3 +49,20 @@ No paid boost (no budget) and no way to "connect" to the algorithm directly: rea
 6. **Post time**: strongest short at 18:00 or 21:00 Paris (peak evening scroll); keep 5 a day spread.
 7. **Originality**: our own edit (zooms, captions, subtitles, translation) counts as transformation; never post the raw clip.
 8. Re-check insights every 3 days and double down on what holds (skip rate, shares).
+
+## Insights 2026-11-19 (vidiq_instagram_owner_insights, reels, free)
+Followers **254** (69 on 2026-11-16). 30-day account views: 163k (mostly the Jamel nounou reel).
+| Reel | Len | Views | Skip | Avg watched | Shares |
+|---|---|---|---|---|---|
+| Booder P2 (Mbappé génie) | 1:52 | 585 | 25.6% | 50% | 4 |
+| Gad pompe à essence | 1:07 | 398 | 36% | 42% | 1 |
+| Jarry Martine | 0:56 | 291 | 37.5% | 33% | 0 |
+| Elie Semoun mensonges | 1:10 | 256 | 28.8% | 40% | 0 |
+| Alban foot (18th, <1 day) | 2:00 | 161 | 45.6% | 21% | 1 |
+| Gad couple (18th, <1 day) | 2:11 | 150 | 41% | 31% | 2 |
+| Camille Lellouche enceinte | 3:18 | 94 | **20%** | 41% (81 s) | 1 |
+| Nawel Rihanna | 3:23 | 57 | 37.8% | 30% | 0 |
+| Jamel César P2 | 1:16 | 53 | 38.9% | 52% | 0 |
+| Ilyès Lourdes (18th) | 3:01 | 17 | 27% | 35% | 0 |
+| Jamel César P3 (18th) | 2:22 | 14 | 36% | 27% | 0 |
+Read: the César series is fading (P2 53, P3 14) → pause it. Booder génie is the best follower of the Jamel winner → Booder Partie 3 (finale, 2026-11-19). Long 3-min reels hold viewers in absolute seconds (Camille 81 s) but % watched drops; keep 2:00-2:30 when possible and put the strongest laugh in the first 20 s.
