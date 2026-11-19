@@ -67,6 +67,12 @@ Instagram refuses videos over 100 MB (104,857,600 bytes). Long shorts (2-4 min) 
 and give the Instagram destination its own `media`. If you later update one destination with `vidiq_social_post_draft_update`,
 re-check that the others still show their `scheduledFor` time (a YouTube destination lost its time once on 2026-11-17).
 
+## FACEBOOK SHORT CUT (owner, 2026-11-19)
+Facebook Creator dashboard: 45-60 s reels got 18,361 views vs 8,717 for >60 s (+111 %). So every short gets TWO edits:
+- **Long (2:00-2:30)** → INSTAGRAM + TIKTOK (owner's 2-min rule).
+- **Short 45-60 s** → FACEBOOK_PAGES (own `media` on that destination). Pick the single strongest bit, setup + payoff + laugh; never cut before the punchline.
+How: in the clip folder make `fb/`, symlink `../source.mp4 ../words.json ../subs.srt` into it, copy config.json with `ranges` reduced to the 45-60 s bit (same cues, hook, effects whose anchors fall inside), run tools/autobuild.py + make_short.py in `fb/`, export `export/<name>.fb.mp4`, qc (ignore the 120 s warning), upload it and set it as the FACEBOOK_PAGES media.
+
 ## YOUTUBE PAUSED (owner, 2026-11-19): YouTube blocks nearly all our shorts → post to Instagram, Facebook and TikTok ONLY, no YOUTUBE destination for anyone, until the owner says to resume.
 
 ## YouTube Content ID blocklist (owner report, 2026-11-18)
