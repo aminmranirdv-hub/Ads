@@ -1,0 +1,144 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Redouane Harjane + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-19_redouane_harjane",
+  "comedian": "Redouane Harjane",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=7481s",
+    "channel": "to verify (full-show upload)",
+    "offset_in_show_s": 7410
+  },
+  "segments": [
+    {
+      "in": 71.45,
+      "out": 92.82
+    },
+    {
+      "in": 93.18,
+      "out": 112.82
+    },
+    {
+      "in": 114.61,
+      "out": 134.15
+    },
+    {
+      "in": 134.5,
+      "out": 154.75
+    },
+    {
+      "in": 155.39,
+      "out": 168.75
+    },
+    {
+      "in": 169.23,
+      "out": 176.25
+    },
+    {
+      "in": 177.5,
+      "out": 181.46
+    },
+    {
+      "in": 181.86,
+      "out": 207.82
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "confinement",
+    "cons",
+    "soussigné",
+    "masque",
+    "marathonien",
+    "chiens",
+    "papa"
+  ],
+  "zooms": [
+    {
+      "at": 22.85,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 125.36,
+      "dur": 2.6,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 33.14,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 54.0,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 127.15,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 95.87,
+      "end": 97.27,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Redouane Harjane : le confinement nous a rendus CONS 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Les marathoniens du confinement 🏃‍♂️💀",
+      "start": 76.92,
+      "end": 79.72
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Redouane Harjane : le confinement nous a rendus cons 😂 « Je soussigné, c'est bien moi » #shorts",
+    "caption": "« Je soussigné, c'est bien moi qui suis moi-même. » 📝😂\nRedouane Harjane et tout ce qu'on a fait de débile pendant le confinement : les attestations, le masque, les faux marathoniens…\n\nT'étais lequel pendant le confinement ? 👇 Tague le pote qui s'est mis au footing en 2020 😅\n\n🎤 Redouane Harjane, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#redouaneharjane #marrakechdurire #confinement #humour #standup",
+    "youtube_tags": [
+      "redouane harjane",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "confinement",
+      "covid",
+      "attestation",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Redouane Harjane (Marrakech du Rire 2022): how lockdown made us stupid — signing our own permission slips, the cop checking handwriting, the guy who lowers his mask to hear, fake joggers, dog owners, and realising his son was a 'past mistake'."
+}

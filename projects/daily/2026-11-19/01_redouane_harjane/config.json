@@ -1,0 +1,350 @@
+{
+  "trans_lang": "en",
+  "context_note": "Redouane Harjane (Marrakech du Rire 2022): how lockdown made us stupid — signing our own permission slips, the cop checking handwriting, the guy who lowers his mask to hear, fake joggers, dog owners, and realising his son was a 'past mistake'.",
+  "ranges": [
+    [
+      22,
+      86
+    ]
+  ],
+  "end_pad": 4.0,
+  "hook": "Redouane Harjane : le confinement nous a rendus CONS 😂",
+  "highlight_words": [
+    "confinement",
+    "cons",
+    "soussigné",
+    "masque",
+    "marathonien",
+    "chiens",
+    "papa"
+  ],
+  "cues": {
+    "22": [
+      "Le confinement, vous vous souvenez du",
+      "Lockdown, you remember"
+    ],
+    "23": [
+      "confinement ?",
+      "lockdown?"
+    ],
+    "24": [
+      "Vous vous rappelez ? Là, vous faites",
+      "Remember? Now you act like"
+    ],
+    "25": [
+      "les gens, genre « pouvoir d'achat » et tout,",
+      "normal people, \"cost of living\" and all,"
+    ],
+    "26": [
+      "« spectacle »… Hé, vous !",
+      "\"going to shows\"… Hey, you!"
+    ],
+    "27": [
+      "Mais il y a eu un confinement !",
+      "But there was a lockdown!"
+    ],
+    "28": [
+      "Vous vous souvenez comment on était devenus",
+      "Remember how we'd become"
+    ],
+    "29": [
+      "cons pendant le confinement,",
+      "idiots during lockdown,"
+    ],
+    "30": [
+      "comment on avait régressé",
+      "how we'd regressed"
+    ],
+    "31": [
+      "intellectuellement ?",
+      "intellectually?"
+    ],
+    "32": [
+      "On se signait des autorisations de sortie",
+      "We signed permission slips to go out"
+    ],
+    "33": [
+      "de nous-mêmes, pour nous-mêmes,",
+      "from ourselves, for ourselves,"
+    ],
+    "34": [
+      "à nous-mêmes. « Je soussigné, c'est bien moi… »",
+      "to ourselves. \"I, the undersigned, am really me…\""
+    ],
+    "35": [
+      "C'était à la main, en plus ! « Je soussigné,",
+      "By hand, too! \"I, the undersigned,"
+    ],
+    "36": [
+      "c'est bien moi qui suis moi-même, je suis",
+      "am really myself, I am"
+    ],
+    "37": [
+      "moi, c'est moi. » Et quand t'avais un contrôle",
+      "me, it's me.\" And when the police"
+    ],
+    "38": [
+      "de police, le flic, il vérifiait ton",
+      "stopped you, the cop checked your"
+    ],
+    "39": [
+      "écriture, genre il connaît comment t'écris !",
+      "handwriting, like he knows how you write!"
+    ],
+    "40": [
+      "« C'est bien vous qui écrivez ? Vous",
+      "\"Did you write this? Are you"
+    ],
+    "41": [
+      "êtes vous ? » « C'est moi qui suis moi ! »",
+      "you?\" \"I'm the one who's me!\""
+    ],
+    "42": [
+      "Meurs !",
+      "Die!"
+    ],
+    "43": [
+      "Fuck, comment on est devenus débiles ! On est",
+      "Damn, how dumb we got! We"
+    ],
+    "44": [
+      "devenus cons pendant le confinement.",
+      "turned stupid during lockdown."
+    ],
+    "45": [
+      "Hé, c'est pas apocalyptique, un peu ?",
+      "Hey, isn't that a bit apocalyptic?"
+    ],
+    "46": [
+      "On est devenus cons, putain !",
+      "We turned stupid, damn it!"
+    ],
+    "47": [
+      "Le masque ! Tu connais ce mec qui enlève",
+      "The mask! You know the guy who takes off"
+    ],
+    "48": [
+      "son masque quand il n'a pas bien entendu",
+      "his mask when he didn't hear"
+    ],
+    "49": [
+      "ce que tu lui as dit ?",
+      "what you said?"
+    ],
+    "50": [
+      "« Hein ? » Con, lui,",
+      "\"Huh?\" Is he stupid"
+    ],
+    "51": [
+      "ou quoi ? Meurs !",
+      "or what? Die!"
+    ],
+    "52": [
+      "Je te jure, pendant le confinement, on est",
+      "I swear, during lockdown we"
+    ],
+    "53": [
+      "tous devenus fous, on s'est tous inventé",
+      "all went crazy, we all invented"
+    ],
+    "54": [
+      "des vies, tout le monde s'est transformé",
+      "lives, everyone turned into"
+    ],
+    "55": [
+      "en sportif,",
+      "an athlete,"
+    ],
+    "56": [
+      "tout le monde s'est mis à faire des",
+      "everyone started going"
+    ],
+    "57": [
+      "footings : « Je cours,",
+      "jogging: \"I'm running,"
+    ],
+    "58": [
+      "je cours, je suis un marathonien ! » J'ai vu",
+      "I'm running, I'm a marathon runner!\" I saw"
+    ],
+    "59": [
+      "des gens courir pendant le confinement que",
+      "people running in lockdown who"
+    ],
+    "60": [
+      "j'avais jamais vus marcher.",
+      "I'd never even seen walk."
+    ],
+    "61": [
+      "« Mais t'étais pas handicapé, toi, à la base ? »",
+      "\"Weren't you disabled before?\""
+    ],
+    "62": [
+      "Et les gens qui avaient des chiens,",
+      "And people with dogs,"
+    ],
+    "63": [
+      "comment ils se la racontaient !",
+      "how full of themselves they were!"
+    ],
+    "64": [
+      "Les gens qui avaient des chiens, on aurait",
+      "People with dogs, it was like"
+    ],
+    "65": [
+      "dit que la ville, elle était à eux.",
+      "the city belonged to them."
+    ],
+    "66": [
+      "Ils marchaient…",
+      "They walked…"
+    ],
+    "67": [
+      "« La ville est à moi ! »",
+      "\"The city is mine!\""
+    ],
+    "68": [
+      "Hé, j'ai volé des chiens pendant le",
+      "Hey, I stole dogs during"
+    ],
+    "69": [
+      "confinement, moi.",
+      "lockdown."
+    ],
+    "70": [
+      "Même des chiens morts, je les traînais",
+      "Even dead dogs, I dragged them"
+    ],
+    "71": [
+      "comme ça :",
+      "like this:"
+    ],
+    "72": [
+      "« Allez, c'est l'heure de la balade ! »",
+      "\"Come on, walkies time!\""
+    ],
+    "73": [
+      "Pendant le confinement, j'ai réalisé que",
+      "During lockdown I realised"
+    ],
+    "74": [
+      "j'avais une vie de merde.",
+      "my life was crap."
+    ],
+    "75": [
+      "J'ai regardé autour de moi, et j'ai vu",
+      "I looked around me and saw"
+    ],
+    "76": [
+      "mon fils. J'ai dit : « C'est qui, cet enculé,",
+      "my son. I said: \"Who's this bastard"
+    ],
+    "77": [
+      "là ? »",
+      "here?\""
+    ],
+    "78": [
+      "« C'est à moi, ce merdier ? C'est quoi, cette",
+      "\"This mess is mine? What is this"
+    ],
+    "79": [
+      "merde, là ? » Et en plus, qu'est-ce qu'il",
+      "crap?\" And on top of that, he's so"
+    ],
+    "80": [
+      "est con ! Un jour, il vient me voir :",
+      "dumb! One day he comes up to me:"
+    ],
+    "81": [
+      "« Papa, papa ! » Il commence ses phrases",
+      "\"Dad, Dad!\" He starts his sentences"
+    ],
+    "82": [
+      "par « papa, papa ! »",
+      "with \"Dad, Dad!\""
+    ],
+    "83": [
+      "« Arrête, gros, arrête !",
+      "\"Stop it, man, stop!"
+    ],
+    "84": [
+      "Arrête « papa » ! Tu crois que tu vas me",
+      "Stop with the \"Dad\"! You think you're going to"
+    ],
+    "85": [
+      "rappeler tous les jours mes erreurs",
+      "remind me every day of my past"
+    ],
+    "86": [
+      "passées ? »",
+      "mistakes?\""
+    ]
+  },
+  "effects": [
+    {
+      "type": "zoom",
+      "word": "sousignais",
+      "nth": 1,
+      "offset": -0.4,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "écriture",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "sfx",
+      "word": "entendu",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "caption",
+      "word": "marcher",
+      "text": "Les marathoniens du confinement 🏃‍♂️💀",
+      "dur": 2.8
+    },
+    {
+      "type": "sticker",
+      "word": "morts",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "zoom",
+      "word": "passées",
+      "offset": -1.0,
+      "dur": 2.6,
+      "scale": 1.18
+    },
+    {
+      "type": "sfx",
+      "word": "passées",
+      "file": "impact",
+      "gain": -11
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Redouane Harjane : le confinement nous a rendus cons 😂 « Je soussigné, c'est bien moi » #shorts",
+    "caption": "« Je soussigné, c'est bien moi qui suis moi-même. » 📝😂\nRedouane Harjane et tout ce qu'on a fait de débile pendant le confinement : les attestations, le masque, les faux marathoniens…\n\nT'étais lequel pendant le confinement ? 👇 Tague le pote qui s'est mis au footing en 2020 😅\n\n🎤 Redouane Harjane, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#redouaneharjane #marrakechdurire #confinement #humour #standup",
+    "youtube_tags": [
+      "redouane harjane",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "confinement",
+      "covid",
+      "attestation",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}
