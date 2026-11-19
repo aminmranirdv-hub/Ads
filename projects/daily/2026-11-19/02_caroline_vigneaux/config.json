@@ -1,0 +1,383 @@
+{
+  "trans_lang": "en",
+  "context_note": "Caroline Vigneaux (ex-lawyer, Marrakech du Rire 2022): women barred from the bac and top schools, Anne Chopinet top of Polytechnique 1972, the Naval Academy, and her former clients all still in prison.",
+  "ranges": [
+    [
+      13,
+      82
+    ]
+  ],
+  "end_pad": 2.5,
+  "hook": "L'avocate dont TOUS les clients sont en prison 😂",
+  "highlight_words": [
+    "bac",
+    "1924",
+    "Polytechnique",
+    "Chopinet",
+    "connes",
+    "avocate",
+    "prison",
+    "scooter"
+  ],
+  "cues": {
+    "13": [
+      "La plus diplômée du game,",
+      "The most qualified in the game,"
+    ],
+    "14": [
+      "bac +7,",
+      "seven years of uni,"
+    ],
+    "15": [
+      "ce qui ne sert à rien !",
+      "which is totally useless!"
+    ],
+    "16": [
+      "Mais c'est inespéré pour une femme.",
+      "But unheard of for a woman."
+    ],
+    "17": [
+      "Je sais pas si vous le savez, mais le bac",
+      "I don't know if you know, but the baccalaureate"
+    ],
+    "18": [
+      "était interdit aux filles en France jusqu'en",
+      "was banned for girls in France until"
+    ],
+    "19": [
+      "1924. Alors c'est vrai qu'on passait",
+      "1924. Granted, we did take"
+    ],
+    "20": [
+      "quand même un petit examen qui était",
+      "a little exam that was"
+    ],
+    "21": [
+      "réservé à notre sexe, un petit",
+      "reserved for our sex, a little"
+    ],
+    "22": [
+      "« bacounet ». C'était…",
+      "\"mini-bac\". It was…"
+    ],
+    "23": [
+      "Aménagement floral à l'écrit…",
+      "Flower arranging for the written part…"
+    ],
+    "24": [
+      "Et « comment faire plaisir à ton mari » à",
+      "And \"how to please your husband\" for"
+    ],
+    "25": [
+      "l'oral, bien sûr.",
+      "the oral, of course."
+    ],
+    "26": [
+      "En ce qui concerne les études supérieures,",
+      "As for higher education,"
+    ],
+    "27": [
+      "alors là, c'est très simple.",
+      "it's very simple."
+    ],
+    "28": [
+      "Toutes les grandes écoles sont interdites",
+      "All the top schools are closed"
+    ],
+    "29": [
+      "aux filles. Toutes. On va devoir les",
+      "to girls. All of them. We'll have to"
+    ],
+    "30": [
+      "ouvrir une par une, comme par exemple",
+      "open them one by one, like"
+    ],
+    "31": [
+      "Polytechnique, qui va s'ouvrir aux femmes",
+      "Polytechnique, which opens to women"
+    ],
+    "32": [
+      "en 1972.",
+      "in 1972."
+    ],
+    "33": [
+      "Et encore, moi, je peux vous dire qu'en 72",
+      "And even then, I can tell you in '72"
+    ],
+    "34": [
+      "les mecs ont hésité, puis au bout d'un",
+      "the guys hesitated, then after a"
+    ],
+    "35": [
+      "moment, t'en as un qui a fait :",
+      "while one of them went:"
+    ],
+    "36": [
+      "« D'accord !",
+      "\"Fine!"
+    ],
+    "37": [
+      "Laisse-les passer le concours d'entrée,",
+      "Let them sit the entrance exam,"
+    ],
+    "38": [
+      "on s'en fout, elles l'auront",
+      "who cares, they'll"
+    ],
+    "39": [
+      "jamais ! »",
+      "never pass!\""
+    ],
+    "40": [
+      "Le con !",
+      "The idiot!"
+    ],
+    "41": [
+      "1972 : 7 femmes intègrent l'X.",
+      "1972: 7 women get into Polytechnique."
+    ],
+    "42": [
+      "Parmi elles, Anne Chopinet, qui",
+      "Among them Anne Chopinet, who"
+    ],
+    "43": [
+      "finit major de promo.",
+      "finishes top of her class."
+    ],
+    "44": [
+      "Dans ta gueule ! Le défilé du 14 Juillet :",
+      "In your face! The 14th of July parade:"
+    ],
+    "45": [
+      "Anne Chopinet sur les Champs-Élysées, tête",
+      "Anne Chopinet on the Champs-Élysées, leading"
+    ],
+    "46": [
+      "de gondole du défilé de Polytechnique, porte-",
+      "the Polytechnique parade, flag"
+    ],
+    "47": [
+      "drapeau, tétons au vent,",
+      "bearer, chest out,"
+    ],
+    "48": [
+      "avec derrière elle tous les autres",
+      "with all the other"
+    ],
+    "49": [
+      "connards, l'épée en berne.",
+      "jerks behind her, swords drooping."
+    ],
+    "50": [
+      "Oh là là là là…",
+      "Oh la la la la…"
+    ],
+    "51": [
+      "Sur le côté, qui regardent le défilé, t'as",
+      "On the side, watching the parade, you've got"
+    ],
+    "52": [
+      "tous les directeurs des grandes écoles :",
+      "all the heads of the top schools:"
+    ],
+    "53": [
+      "« Faut pas ouvrir les écoles aux femmes,",
+      "\"Don't open the schools to women,"
+    ],
+    "54": [
+      "elles sont moins connes qu'on croyait ! »",
+      "they're smarter than we thought!\""
+    ],
+    "55": [
+      "Alors du coup, j'ai une théorie : je pense",
+      "So I have a theory: I think"
+    ],
+    "56": [
+      "que c'est à cause d'Anne Chopinet que",
+      "it's because of Anne Chopinet that"
+    ],
+    "57": [
+      "l'École navale va mettre 20 ans de plus",
+      "the Naval Academy takes 20 more years"
+    ],
+    "58": [
+      "pour nous ouvrir ses portes.",
+      "to open its doors to us."
+    ],
+    "59": [
+      "Oui, Marrakech, tu comptes vite :",
+      "Yes, Marrakech, you're quick at maths:"
+    ],
+    "60": [
+      "72 plus 20,",
+      "72 plus 20,"
+    ],
+    "61": [
+      "1992,",
+      "1992,"
+    ],
+    "62": [
+      "l'ouverture de l'École navale aux femmes.",
+      "the Naval Academy opens to women."
+    ],
+    "63": [
+      "Tellement ils avaient peur qu'on soit",
+      "They were so scared we'd be"
+    ],
+    "64": [
+      "meilleures ! T'en manquerais pas un peu,",
+      "better! Aren't you a bit short of"
+    ],
+    "65": [
+      "de couilles, chez les marins ?",
+      "balls, you sailors?"
+    ],
+    "66": [
+      "Non, bah c'est peut-être pour ça qu'ils en",
+      "Well, maybe that's why they"
+    ],
+    "67": [
+      "ont rajouté une sur le béret.",
+      "stuck one on the beret."
+    ],
+    "68": [
+      "Alors moi, je suis diplômée de l'école de",
+      "Me, I graduated from the"
+    ],
+    "69": [
+      "formation du barreau de Paris.",
+      "Paris Bar school."
+    ],
+    "70": [
+      "Donc oui, j'ai vraiment été avocate.",
+      "So yes, I really was a lawyer."
+    ],
+    "71": [
+      "C'est-à-dire, oui, j'ai vraiment défendu",
+      "I mean, yes, I really defended"
+    ],
+    "72": [
+      "des gens qui sont aujourd'hui encore tous",
+      "people who are all still"
+    ],
+    "73": [
+      "en prison.",
+      "in prison today."
+    ],
+    "74": [
+      "Et d'ailleurs, je pense ce soir tout",
+      "And tonight I'm thinking"
+    ],
+    "75": [
+      "particulièrement à mes anciens clients.",
+      "especially of my former clients."
+    ],
+    "76": [
+      "Vous imaginez le mec dans sa cellule.",
+      "Picture the guy in his cell."
+    ],
+    "77": [
+      "Il va allumer sa télé pour voir l'émission",
+      "He turns on his TV to watch"
+    ],
+    "78": [
+      "du Marrakech du Rire, et il va me",
+      "the Marrakech du Rire, and he sees me"
+    ],
+    "79": [
+      "voir faire un sketch.",
+      "doing a comedy sketch."
+    ],
+    "80": [
+      "Là, le mec commence à comprendre pourquoi",
+      "Now the guy starts to understand why"
+    ],
+    "81": [
+      "il a pris 13 ans",
+      "he got 13 years"
+    ],
+    "82": [
+      "pour un vol de scooter.",
+      "for stealing a scooter."
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "rien",
+      "nth": 1,
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "'oral",
+      "offset": -0.5,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "jamais",
+      "nth": 1,
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "zoom",
+      "word": "connes",
+      "offset": -0.8,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "type": "sticker",
+      "word": "béret",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "zoom",
+      "word": "prison",
+      "offset": -0.6,
+      "dur": 2.4,
+      "scale": 1.18
+    },
+    {
+      "type": "sfx",
+      "word": "scooter",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "caption",
+      "word": "scooter",
+      "text": "13 ans pour un scooter 💀⚖️",
+      "dur": 2.8
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Caroline Vigneaux, ex-avocate : tous ses clients sont encore en prison 😂 #shorts",
+    "caption": "« J'ai vraiment été avocate… j'ai défendu des gens qui sont aujourd'hui encore TOUS en prison. » ⚖️😂\nCaroline Vigneaux, bac +7, raconte comment les grandes écoles ont dû s'ouvrir aux femmes.\n\nTeam Anne Chopinet ou team directeurs de grandes écoles ? 👇 Tague ta pote la plus diplômée 😅\n\n🎤 Caroline Vigneaux, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#carolinevigneaux #marrakechdurire #avocate #humour #standup",
+    "youtube_tags": [
+      "caroline vigneaux",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "avocate",
+      "polytechnique",
+      "femmes",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "open_zoom": 1.45,
+  "open_zoom_dur": 4.0,
+  "open_zoom_cx": 0.47,
+  "open_zoom_cy": 0.42
+}
