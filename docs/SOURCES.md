@@ -54,6 +54,11 @@ Found with the free WebSearch (never vidiq_youtube_search). Import free with vid
 | Laura Domenge – Jamel Comedy Club | FR | https://www.youtube.com/watch?v=PrQTbXOz2iU | to import |
 | Haroun – Les racistes de gauche (spectacle complet) | FR | https://www.youtube.com/watch?v=MVzR1zgQTcI | to import (check size) |
 | Jamel – Jamel en scène (1999, Kissman) | FR | https://www.youtube.com/watch?v=AZRZib-wLNo | to import (big; trim = 1 credit) |
+| Roman Frayssinet – Pourquoi les femmes n'ont plus besoin de nous ? (owner request 2026-11-19) | FR | https://www.youtube.com/watch?v=01whjC1lMwM | to import |
+| Roman Frayssinet – Je déteste mon corps (compilation stand-up) | FR | https://www.youtube.com/watch?v=T9AJKrZRgHc | to import |
+| Roman Frayssinet – Je déteste les siffleurs (sketch complet) | FR | https://www.youtube.com/watch?v=EtrIRKttELg | to import |
+| Roman Frayssinet – Ô dedans, Partie 1 / Partie 6 | FR | https://www.youtube.com/watch?v=WoOjs0cWBus / https://www.youtube.com/watch?v=Vi3z-G7mz3Q | to import |
+| Roman Frayssinet – Extrait du spectacle | FR | https://www.youtube.com/watch?v=Uw7ICA9mJWw | to import |
 | Eko (Darija) – channel | Darija→FR | https://www.youtube.com/c/ekoartiste | pick a video |
 | Jamel Comedy Club official channel | FR | https://www.youtube.com/@jamelcomedyclub | pick viral sets |
 | DEAD (not public): Haroun « Si je deviens président » ZIHZv-kKsoE, Fary « Dévoiler » 6kLlyUtnvM8 |
