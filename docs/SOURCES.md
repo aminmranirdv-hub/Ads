@@ -40,12 +40,12 @@ Pick from here before spending vidIQ credits on searches. Mark a video as used (
 Found with the free WebSearch (never vidiq_youtube_search). Import free with vidiq_video_upload url=… then curl to cache/<id>.mp4.
 | Comedian / show | Lang | URL | Status |
 |---|---|---|---|
-| Ahmed Sylla – demande de l'argent à son grand-père | FR | https://www.youtube.com/watch?v=YpEqPvp1Z_o | importing 2026-11-19 |
-| Ahmed Sylla – passage intégral (YouHumour 2015) | FR | https://www.youtube.com/watch?v=rrb7djpKjnA | importing 2026-11-19 |
-| Inès Reg – galères dans le métro | FR | https://www.youtube.com/watch?v=KDvWzCPiXIw | importing 2026-11-19 |
-| Djamil le Schlag – Le musulman sympa (Jamel Comedy Club 2019, CANAL+) | FR | https://www.youtube.com/watch?v=MM6uO2o1J2E | importing 2026-11-19 |
-| D'jal – Le Maroc (À cœur ouvert, Comédie+) | FR | https://www.youtube.com/watch?v=dvOlpXZV4ZA | importing 2026-11-19 |
-| Montreux Comedy – Gala Stand-up avec Noman Hosni (full) | FR | https://www.youtube.com/watch?v=GO-E-pgBqa8 | importing 2026-11-19 |
+| Ahmed Sylla – demande de l'argent à son grand-père | FR | https://www.youtube.com/watch?v=YpEqPvp1Z_o | cached cache/YpEqPvp1Z_o.mp4 (5:55) |
+| Ahmed Sylla – passage intégral (YouHumour 2015) | FR | https://www.youtube.com/watch?v=rrb7djpKjnA | cached cache/rrb7djpKjnA.mp4 (27 min) |
+| Inès Reg – galères dans le métro | FR | https://www.youtube.com/watch?v=KDvWzCPiXIw | cached cache/KDvWzCPiXIw.mp4 (1:17 only — chain with another Inès Reg clip or skip) |
+| Djamil le Schlag – Le musulman sympa (Jamel Comedy Club 2019, CANAL+) | FR | https://www.youtube.com/watch?v=MM6uO2o1J2E | cached cache/MM6uO2o1J2E.mp4 (6:57) |
+| D'jal – Le Maroc (À cœur ouvert, Comédie+) | FR | https://www.youtube.com/watch?v=dvOlpXZV4ZA | cached cache/dvOlpXZV4ZA.mp4 (4:07) |
+| Montreux Comedy – Gala Stand-up avec Noman Hosni (full) | FR | https://www.youtube.com/watch?v=GO-E-pgBqa8 | import job job_43355df5-fff1-46e4-81e0-469e82463bc1 (poll vidiq_job_poll; if failed = too big → pick another) |
 | Montreux Comedy – Gala avec Thomas Wiesel (full) | FR | https://www.youtube.com/watch?v=t8Zthh25Brw | to import |
 | Montreux Comedy – Gala Jokenation (full) | FR | https://www.youtube.com/watch?v=33zyKk96jWk | to import |
 | Montreux Comedy – Best of « Les Français pour les nuls » | FR | https://www.youtube.com/watch?v=oeLo_z7Ivew | to import |
