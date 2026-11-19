@@ -34,6 +34,7 @@ projects/daily/<date>/<nn>_<comedian>_<bit>/
 - Remaining Marrakech 2022 acts: see docs/SOURCES.md (unused list).
 
 ## Pre-scheduled (done)
+- **2026-11-19:** 11:00 Redouane Harjane, 13:00 Caroline Vigneaux, 16:00 Paul Mirabel, 18:00 Kev Adams, 21:00 Booder Partie 3 (finale).
 - **2026-11-17:** 11:00 Jarry, 13:00 Elie Semoun, 16:00 Camille Lellouche & Jamel, 18:00 Nawel Madani, 21:00 Jamel César Partie 2.
 - **2026-11-16 (owner's lineup): 11:00 Malik Bentalha (already published), then Sarah Lélé (a NEW bit from cache/xlhQLTOMFaE.mp4, not the father/marriage bit already used; owner overrides the 5-day rule), Jamel Debbouze, Gad Elmaleh, and for the 4th slot Booder « Partie 2 » (génie → FaceTime → Mbappé arrives, cache/hWLRmXRqr_E.mp4 ~2:14:30-2:18:00).** Slots 13:00, 16:00, 18:00, 21:00.
 
