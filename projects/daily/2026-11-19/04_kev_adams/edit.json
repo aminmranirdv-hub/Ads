@@ -1,0 +1,133 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-19_kev_adams",
+  "comedian": "Kev Adams",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=1608s",
+    "channel": "to verify (full-show upload)",
+    "offset_in_show_s": 1494
+  },
+  "segments": [
+    {
+      "in": 114.95,
+      "out": 143.17
+    },
+    {
+      "in": 143.57,
+      "out": 160.21
+    },
+    {
+      "in": 160.67,
+      "out": 179.61
+    },
+    {
+      "in": 182.24,
+      "out": 243.07
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "miel",
+    "aphrodisiaque",
+    "puissance",
+    "mère",
+    "Astaghfirullah",
+    "tartines",
+    "président"
+  ],
+  "zooms": [
+    {
+      "at": 15.43,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 53.33,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 119.99,
+      "dur": 2.8,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 16.12,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 36.94,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 121.62,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 78.92,
+      "end": 80.32,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Kev Adams achète du miel… APHRODISIAQUE pour sa mère 😱",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Brigitte approuve 💀🍯",
+      "start": 121.62,
+      "end": 124.62
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Kev Adams achète du miel aphrodisiaque pour sa mère 😱 Marrakech #shorts",
+    "caption": "« Les Français, ils font tout comme leur président. » 🍯😱😂\nKev Adams voulait juste ramener du miel à sa mère… sur la place Jemaa el-Fna.\n\nT'aurais compris ou pas ? 👇 Tague ton pote qui ramène toujours des souvenirs à sa daronne 😅\n\n🎤 Kev Adams, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#kevadams #marrakechdurire #marrakech #humour #standup",
+    "youtube_tags": [
+      "kev adams",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "marrakech",
+      "miel",
+      "jemaa el fna",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Kev Adams (Marrakech du Rire 2022): buys honey for his mum on Jemaa el-Fna without knowing it's sold as an aphrodisiac; the sellers' punchline: 'the French do everything like their president' (Macron's wife was his teacher)."
+}

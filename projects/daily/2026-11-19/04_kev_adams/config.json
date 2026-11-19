@@ -1,0 +1,413 @@
+{
+  "trans_lang": "en",
+  "context_note": "Kev Adams (Marrakech du Rire 2022): buys honey for his mum on Jemaa el-Fna without knowing it's sold as an aphrodisiac; the sellers' punchline: 'the French do everything like their president' (Macron's wife was his teacher).",
+  "ranges": [
+    [
+      56,
+      134
+    ]
+  ],
+  "end_pad": 4.0,
+  "hook": "Kev Adams achète du miel… APHRODISIAQUE pour sa mère 😱",
+  "highlight_words": [
+    "miel",
+    "aphrodisiaque",
+    "puissance",
+    "mère",
+    "Astaghfirullah",
+    "tartines",
+    "président"
+  ],
+  "cues": {
+    "56": [
+      "Une",
+      "A"
+    ],
+    "57": [
+      "histoire de dingue. Moi, ma mère, elle aime",
+      "crazy story. My mum likes it"
+    ],
+    "58": [
+      "bien qu'à chaque fois que je fais des",
+      "when, every time I do"
+    ],
+    "59": [
+      "spectacles à droite à gauche, je lui ramène",
+      "shows here and there, I bring her"
+    ],
+    "60": [
+      "des produits locaux, OK ? Elle aime bien. Et",
+      "local products, OK? She likes that. And"
+    ],
+    "61": [
+      "il se trouve que ma mère, elle adore le",
+      "it turns out my mum loves"
+    ],
+    "62": [
+      "miel. Donc à chaque fois que je vais",
+      "honey. So every time I go"
+    ],
+    "63": [
+      "quelque part faire des spectacles, je",
+      "somewhere for a show, I"
+    ],
+    "64": [
+      "ramène du miel. Sauf que moi, il y a un truc",
+      "bring honey back. Except there's one thing"
+    ],
+    "65": [
+      "que je savais pas, tu vois. Dès que je suis",
+      "I didn't know, you see. As soon as I"
+    ],
+    "66": [
+      "arrivé, j'étais place Jemaa el-Fna à Marrakech,",
+      "arrived, I was on Jemaa el-Fna square in Marrakech,"
+    ],
+    "67": [
+      "et je savais pas qu'au Maroc, ils vendent un",
+      "and I didn't know that in Morocco they sell a"
+    ],
+    "68": [
+      "miel",
+      "honey"
+    ],
+    "69": [
+      "aphrodisiaque. Je sais pas si vous étiez au",
+      "that's an aphrodisiac. I don't know if you"
+    ],
+    "70": [
+      "courant. C'est pas un miel, tu vois, c'est",
+      "knew. It's not honey, you see, it's"
+    ],
+    "71": [
+      "un miel…",
+      "a HONEY…"
+    ],
+    "72": [
+      "Moi, je savais pas, tu vois. Du coup, j'arrive",
+      "I didn't know, you see. So I get to"
+    ],
+    "73": [
+      "place Jemaa el-Fna, je vois un vendeur, je dis :",
+      "Jemaa el-Fna, I see a seller, I say:"
+    ],
+    "74": [
+      "« Excusez-moi, vous avez du miel ? »",
+      "\"Excuse me, do you have honey?\""
+    ],
+    "75": [
+      "Et tout de suite, je sens qu'il y a un truc",
+      "And straight away I feel something's"
+    ],
+    "76": [
+      "qui bug. Parce que le mec, il me regarde et",
+      "off. Because the guy looks at me and"
+    ],
+    "77": [
+      "il me dit :",
+      "he says:"
+    ],
+    "78": [
+      "« Aaaah… Tu veux du miel ? »",
+      "\"Aaaah… You want honey?\""
+    ],
+    "79": [
+      "Et moi, je dis : « Ouais, ouais, je veux du miel,",
+      "And I say: \"Yeah, yeah, I want honey,"
+    ],
+    "80": [
+      "tu vois. » Il me dit : « Tu veux du miel, genre…",
+      "you know.\" He says: \"You want honey, like…"
+    ],
+    "81": [
+      "raka-taka-paka-faka-taka ? »",
+      "raka-taka-paka-faka-taka?\""
+    ],
+    "82": [
+      "Je lui dis : « Ouais, je veux du miel,",
+      "I say: \"Yeah, I want honey,"
+    ],
+    "83": [
+      "raka-taka-paka-faka, quoi, tu vois,",
+      "raka-taka-paka-faka, you know,"
+    ],
+    "84": [
+      "tranquille. » Il me dit : « T'inquiète pas, on",
+      "chill.\" He says: \"Don't worry, we"
+    ],
+    "85": [
+      "s'est compris. Tu veux quelle puissance ? »",
+      "understand each other. What strength?\""
+    ],
+    "86": [
+      "Je lui dis : « Puissance petit-déj, quoi,",
+      "I say: \"Breakfast strength,"
+    ],
+    "87": [
+      "tranquille, tu vois. »",
+      "chill, you know.\""
+    ],
+    "88": [
+      "Et là, on se comprend pas. Il me dit :",
+      "And we don't understand each other. He says:"
+    ],
+    "89": [
+      "« Ah ouais ? Toi, tu veux",
+      "\"Oh yeah? You want it"
+    ],
+    "90": [
+      "que ça dure jusqu'au matin, t'es un",
+      "to last till morning, you're"
+    ],
+    "91": [
+      "malade ! »",
+      "crazy!\""
+    ],
+    "92": [
+      "Il me dit : « Sans indiscrétion, je peux te",
+      "He says: \"If you don't mind me"
+    ],
+    "93": [
+      "demander c'est pour quelle utilisation,",
+      "asking, what's it for,"
+    ],
+    "94": [
+      "à quel moment ? »",
+      "what occasion?\""
+    ],
+    "95": [
+      "Je lui dis : « Bah écoute, c'est très simple,",
+      "I say: \"Well, it's very simple,"
+    ],
+    "96": [
+      "il y a ma mère qui arrive ce soir. »",
+      "my mum's arriving tonight.\""
+    ],
+    "97": [
+      "« Je sais qu'elle adore ça,",
+      "\"I know she loves it,"
+    ],
+    "98": [
+      "donc voilà. » Et je sens qu'il y a un truc",
+      "so there.\" And I feel something's"
+    ],
+    "99": [
+      "qui va pas. Il me regarde et me",
+      "not right. He looks at me and"
+    ],
+    "100": [
+      "dit : « Pour ta mère ? »",
+      "says: \"For your MUM?\""
+    ],
+    "101": [
+      "Je dis : « Ouais, enfin, pas que pour ma mère,",
+      "I say: \"Yeah, well, not just for my mum,"
+    ],
+    "102": [
+      "on aime tous ça dans la famille, on va",
+      "we all love it in the family, we'll"
+    ],
+    "103": [
+      "partager ça avec ma tante, mon cousin. »",
+      "share it with my aunt, my cousin.\""
+    ],
+    "104": [
+      "Et là, tu sais, il me regarde et me dit :",
+      "And then, you know, he looks at me and says:"
+    ],
+    "105": [
+      "« Astaghfirullah ! »",
+      "\"God forgive me!\""
+    ],
+    "106": [
+      "Je sens qu'il y a un truc qui va pas, tu",
+      "I feel something's not right, you"
+    ],
+    "107": [
+      "vois. Il appelle un collègue à lui, il",
+      "see. He calls a colleague over, he"
+    ],
+    "108": [
+      "dit : « Viens voir, viens voir. »",
+      "says: \"Come and see, come and see.\""
+    ],
+    "109": [
+      "L'autre, il arrive, il dit : « Il",
+      "The other one comes, he says: \"What"
+    ],
+    "110": [
+      "veut quoi, lui ? »",
+      "does he want?\""
+    ],
+    "111": [
+      "Il dit : « Il veut du miel. »",
+      "He says: \"He wants honey.\""
+    ],
+    "112": [
+      "Et là, ça recommence, il fait : « Ah, tu",
+      "And it starts again: \"Ah, you"
+    ],
+    "113": [
+      "veux du miel ? »",
+      "want honey?\""
+    ],
+    "114": [
+      "Il dit : « Pour sa mère. »",
+      "He says: \"For his mum.\""
+    ],
+    "115": [
+      "Il dit : « Pour ta mère ?!",
+      "He says: \"For your MUM?!"
+    ],
+    "116": [
+      "C'est une folie ! »",
+      "That's insane!\""
+    ],
+    "117": [
+      "Et du coup, il m'explique, tu vois.",
+      "So he explains to me, you see."
+    ],
+    "118": [
+      "Il me dit : « Mais non, ça, c'est pas du",
+      "He says: \"No, no, this isn't"
+    ],
+    "119": [
+      "miel pour les tartines.",
+      "honey for toast."
+    ],
+    "120": [
+      "Ça, c'est du miel pour les cookies. »",
+      "This is honey for the cookies.\""
+    ],
+    "121": [
+      "Et moi, je dis : « Non, non, les gars,",
+      "And I say: \"No, no, guys,"
+    ],
+    "122": [
+      "moi, c'est pas ça que je veux.",
+      "that's not what I want."
+    ],
+    "123": [
+      "Moi, je veux du miel pour les tartines, tu",
+      "I want honey for toast, you"
+    ],
+    "124": [
+      "vois. » Et ils me disent : « Ah, OK. »",
+      "see.\" And they say: \"Ah, OK.\""
+    ],
+    "125": [
+      "Et là, je leur pose la question, tu vois,",
+      "Then I ask them, you see,"
+    ],
+    "126": [
+      "je dis : « Les gars, qu'est-ce que vous vous",
+      "I say: \"Guys, what did you"
+    ],
+    "127": [
+      "êtes dit dans votre tête quand je vous ai",
+      "think in your heads when I"
+    ],
+    "128": [
+      "dit : il me faut du miel pour ma mère ? »",
+      "said I need honey for my mum?\""
+    ],
+    "129": [
+      "Et là, écoute-moi bien, j'ai entendu la",
+      "And listen to this, I heard the"
+    ],
+    "130": [
+      "meilleure blague que j'ai jamais entendue",
+      "best joke I've ever heard"
+    ],
+    "131": [
+      "de ma vie, au Maroc.",
+      "in my life, in Morocco."
+    ],
+    "132": [
+      "Il m'a regardé, il m'a dit : « Je me suis",
+      "He looked at me and said: \"I"
+    ],
+    "133": [
+      "dit : les Français, ils font tout comme",
+      "thought: the French do everything like"
+    ],
+    "134": [
+      "leur président. »",
+      "their president.\""
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "aphrodisiaque",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "aphrodisiaque",
+      "offset": -0.4,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "raka",
+      "nth": 1,
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "zoom",
+      "word": "malade",
+      "offset": -0.8,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "sticker",
+      "word": "star",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "zoom",
+      "word": "président",
+      "offset": -1.2,
+      "dur": 2.8,
+      "scale": 1.18
+    },
+    {
+      "type": "sfx",
+      "word": "président",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "caption",
+      "word": "président",
+      "text": "Brigitte approuve 💀🍯",
+      "dur": 3.0
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Kev Adams achète du miel aphrodisiaque pour sa mère 😱 Marrakech #shorts",
+    "caption": "« Les Français, ils font tout comme leur président. » 🍯😱😂\nKev Adams voulait juste ramener du miel à sa mère… sur la place Jemaa el-Fna.\n\nT'aurais compris ou pas ? 👇 Tague ton pote qui ramène toujours des souvenirs à sa daronne 😅\n\n🎤 Kev Adams, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#kevadams #marrakechdurire #marrakech #humour #standup",
+    "youtube_tags": [
+      "kev adams",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "marrakech",
+      "miel",
+      "jemaa el fna",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}
