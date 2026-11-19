@@ -54,9 +54,9 @@ Found with the free WebSearch (never vidiq_youtube_search). Import free with vid
 | Laura Domenge – Jamel Comedy Club | FR | https://www.youtube.com/watch?v=PrQTbXOz2iU | to import |
 | Haroun – Les racistes de gauche (spectacle complet) | FR | https://www.youtube.com/watch?v=MVzR1zgQTcI | to import (check size) |
 | Jamel – Jamel en scène (1999, Kissman) | FR | https://www.youtube.com/watch?v=AZRZib-wLNo | to import (big; trim = 1 credit) |
-| Roman Frayssinet – Pourquoi les femmes n'ont plus besoin de nous ? (owner request 2026-11-19) | FR | https://www.youtube.com/watch?v=01whjC1lMwM | to import |
-| Roman Frayssinet – Je déteste mon corps (compilation stand-up) | FR | https://www.youtube.com/watch?v=T9AJKrZRgHc | to import |
-| Roman Frayssinet – Je déteste les siffleurs (sketch complet) | FR | https://www.youtube.com/watch?v=EtrIRKttELg | to import |
+| Roman Frayssinet – Pourquoi les femmes n'ont plus besoin de nous ? (owner request 2026-11-19) | FR | https://www.youtube.com/watch?v=01whjC1lMwM | import job job_f4326840-36d7-4810-8f01-8928d6a089d3 (poll, then curl to cache/01whjC1lMwM.mp4) |
+| Roman Frayssinet – Je déteste mon corps (compilation stand-up) | FR | https://www.youtube.com/watch?v=T9AJKrZRgHc | import job job_48eacfd8-73bd-4928-a552-aa54a51a196e (poll, then curl to cache/T9AJKrZRgHc.mp4) |
+| Roman Frayssinet – Je déteste les siffleurs (sketch complet) | FR | https://www.youtube.com/watch?v=EtrIRKttELg | DEAD (not public) |
 | Roman Frayssinet – Ô dedans, Partie 1 / Partie 6 | FR | https://www.youtube.com/watch?v=WoOjs0cWBus / https://www.youtube.com/watch?v=Vi3z-G7mz3Q | to import |
 | Roman Frayssinet – Extrait du spectacle | FR | https://www.youtube.com/watch?v=Uw7ICA9mJWw | to import |
 | Eko (Darija) – channel | Darija→FR | https://www.youtube.com/c/ekoartiste | pick a video |
