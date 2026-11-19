@@ -1,0 +1,189 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Paul Mirabel + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-19_paul_mirabel",
+  "comedian": "Paul Mirabel",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=5067s",
+    "channel": "to verify (full-show upload)",
+    "offset_in_show_s": 5040
+  },
+  "segments": [
+    {
+      "in": 27.55,
+      "out": 29.66
+    },
+    {
+      "in": 31.2,
+      "out": 49.44
+    },
+    {
+      "in": 51.26,
+      "out": 61.94
+    },
+    {
+      "in": 62.7,
+      "out": 77.12
+    },
+    {
+      "in": 77.64,
+      "out": 91.7
+    },
+    {
+      "in": 93.49,
+      "out": 104.37
+    },
+    {
+      "in": 105.95,
+      "out": 114.33
+    },
+    {
+      "in": 122.53,
+      "out": 151.77
+    },
+    {
+      "in": 153.32,
+      "out": 157.86
+    },
+    {
+      "in": 158.14,
+      "out": 180.56
+    },
+    {
+      "in": 182.0,
+      "out": 187.46
+    },
+    {
+      "in": 193.38,
+      "out": 203.32
+    },
+    {
+      "in": 203.82,
+      "out": 211.62
+    },
+    {
+      "in": 213.3,
+      "out": 218.87
+    }
+  ],
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "gazelle",
+    "125 cendriers",
+    "Adidas",
+    "Titanic 2",
+    "génie",
+    "vélo",
+    "neuf",
+    "Disneyland"
+  ],
+  "zooms": [
+    {
+      "at": 21.89,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 76.93,
+      "dur": 2.2,
+      "scale": 1.18
+    },
+    {
+      "at": 105.23,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "at": 159.99,
+      "dur": 2.4,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 11.48,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 48.02,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 78.02,
+      "gain_db": -11
+    },
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 138.14,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 161.14,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/shock/wait_what.png",
+      "start": 84.5,
+      "end": 85.9,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Paul Mirabel VS le souk de Marrakech 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "125 cendriers 🚬😭",
+      "start": 35.02,
+      "end": 37.62
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Paul Mirabel au souk de Marrakech : 125 cendriers et un génie absent 😂 #shorts",
+    "caption": "« Je me suis fait voler mon vélo… alors que j'étais dessus. » 🚲😂\nPaul Mirabel au souk de Marrakech : surnommé « gazelle », 125 cendriers, des Adidas en 33 et 48… et le taxi à 9 dans 5 places.\n\nTeam souk ou team centre commercial ? 👇 Tague ton pote qui se fait toujours avoir au marché 😅\n\n🎤 Paul Mirabel, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#paulmirabel #marrakechdurire #marrakech #humour #standup",
+    "youtube_tags": [
+      "paul mirabel",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "marrakech",
+      "souk",
+      "maroc",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Paul Mirabel (Marrakech du Rire 2022): Royal Air Maroc, being called 'gazelle' in the souk, 125 ashtrays, fake Adidas, the genie lamp, his bike stolen while riding it, the overloaded taxi and Moroccan driving. Plus: never been in a fight ('are you talking to me?'), practising getting angry… at a child."
+}

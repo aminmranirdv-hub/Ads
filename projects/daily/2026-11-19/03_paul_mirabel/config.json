@@ -1,0 +1,447 @@
+{
+  "trans_lang": "en",
+  "context_note": "Paul Mirabel (Marrakech du Rire 2022): Royal Air Maroc, being called 'gazelle' in the souk, 125 ashtrays, fake Adidas, the genie lamp, his bike stolen while riding it, the overloaded taxi and Moroccan driving. Plus: never been in a fight ('are you talking to me?'), practising getting angry… at a child.",
+  "ranges": [
+    [
+      4,
+      85
+    ]
+  ],
+  "end_pad": 2.5,
+  "hook": "Paul Mirabel VS le souk de Marrakech 😂",
+  "highlight_words": [
+    "gazelle",
+    "125 cendriers",
+    "Adidas",
+    "Titanic 2",
+    "génie",
+    "vélo",
+    "neuf",
+    "Disneyland"
+  ],
+  "cues": {
+    "4": [
+      "Salam !",
+      "Salam!"
+    ],
+    "5": [
+      "Je suis très heureux d'être à Marrakech.",
+      "I'm very happy to be in Marrakech."
+    ],
+    "6": [
+      "J'ai pris l'avion pour venir ici, j'ai",
+      "I flew here, I"
+    ],
+    "7": [
+      "pris la Royal Air Maroc.",
+      "took Royal Air Maroc."
+    ],
+    "8": [
+      "C'est la première fois que je vois un",
+      "First time I've seen a"
+    ],
+    "9": [
+      "pilote d'avion conduire en ayant le permis",
+      "plane pilot flying with a"
+    ],
+    "10": [
+      "bateau.",
+      "boat licence."
+    ],
+    "11": [
+      "Je suis allé visiter le souk de Marrakech",
+      "I visited the Marrakech souk"
+    ],
+    "12": [
+      "aussi, ils te donnent des surnoms là-bas.",
+      "too, they give you nicknames there."
+    ],
+    "13": [
+      "Moi, c'est la première fois que quelqu'un",
+      "It was the first time someone"
+    ],
+    "14": [
+      "que je ne connais pas m'appelle « gazelle ».",
+      "I don't know called me \"gazelle\"."
+    ],
+    "15": [
+      "J'ai dit : « Bah, enchanté, chasseur. »",
+      "I said: \"Well, nice to meet you, hunter.\""
+    ],
+    "16": [
+      "C'est très étonnant comme endroit,",
+      "It's a very surprising place,"
+    ],
+    "17": [
+      "le souk. Moi, au début, je voulais rien",
+      "the souk. At first I didn't want to"
+    ],
+    "18": [
+      "acheter, puis après, on m'a obligé,",
+      "buy anything, then they made me,"
+    ],
+    "19": [
+      "ce qui fait que je suis désormais le",
+      "so I'm now the"
+    ],
+    "20": [
+      "propriétaire de 125 cendriers,",
+      "owner of 125 ashtrays,"
+    ],
+    "21": [
+      "alors que je ne fume pas.",
+      "even though I don't smoke."
+    ],
+    "22": [
+      "Ils vendent beaucoup de choses dans le",
+      "They sell lots of things in the"
+    ],
+    "23": [
+      "souk, d'ailleurs, elles sont pas toutes",
+      "souk, though not all of them are"
+    ],
+    "24": [
+      "vraies, puisque j'ai acheté une très belle",
+      "real, since I bought a really nice"
+    ],
+    "25": [
+      "paire de chaussures Adidas,",
+      "pair of Adidas shoes,"
+    ],
+    "26": [
+      "j'ai un pied en 33, l'autre en 48.",
+      "one's a size 33, the other a 48."
+    ],
+    "27": [
+      "Mais non, c'est pas des",
+      "No, they're not"
+    ],
+    "28": [
+      "vraies.",
+      "real."
+    ],
+    "29": [
+      "Ils vendent même des choses qui n'existent",
+      "They even sell things that don't"
+    ],
+    "30": [
+      "pas, là-bas, d'ailleurs, telles que par",
+      "exist, like for"
+    ],
+    "31": [
+      "exemple le film Titanic 2.",
+      "example the film Titanic 2."
+    ],
+    "32": [
+      "Il y a un vendeur aussi qui m'a vendu une",
+      "One seller also sold me a"
+    ],
+    "33": [
+      "lampe. Il m'a dit : « Si tu frottes, il y a",
+      "lamp. He said: \"If you rub it, a"
+    ],
+    "34": [
+      "un génie qui apparaît. »",
+      "genie appears.\""
+    ],
+    "35": [
+      "J'ai frotté, et rien n'apparaît.",
+      "I rubbed it, and nothing appeared."
+    ],
+    "36": [
+      "J'ai dit au vendeur : « Mais monsieur, il est",
+      "I told the seller: \"Sir, where's"
+    ],
+    "37": [
+      "où, le génie ? »",
+      "the genie?\""
+    ],
+    "38": [
+      "Il m'a dit : « Il y a des jours où il est pas",
+      "He said: \"Some days he's not"
+    ],
+    "39": [
+      "là. »",
+      "in.\""
+    ],
+    "40": [
+      "Un peu dangereux comme endroit, d'ailleurs,",
+      "A bit of a dangerous place, actually,"
+    ],
+    "41": [
+      "le souk. Je me suis fait voler mon vélo",
+      "the souk. I got my bike stolen"
+    ],
+    "42": [
+      "là-bas.",
+      "there."
+    ],
+    "43": [
+      "Alors que j'étais dessus.",
+      "While I was on it."
+    ],
+    "44": [
+      "J'ai pris un taxi, du coup, pour rentrer du",
+      "So I took a taxi back from the"
+    ],
+    "45": [
+      "souk, dans lequel il y avait cinq places,",
+      "souk, which had five seats,"
+    ],
+    "46": [
+      "dont neuf qui étaient occupées.",
+      "nine of which were taken."
+    ],
+    "47": [
+      "Je me suis dit : bah, je vais pouvoir",
+      "I thought: well, I'll be able to"
+    ],
+    "48": [
+      "revendre mes cendriers.",
+      "resell my ashtrays."
+    ],
+    "49": [
+      "Alors, je connaissais le code de la route.",
+      "I knew the highway code."
+    ],
+    "50": [
+      "Je ne connaissais pas le code de la route",
+      "I didn't know the Moroccan"
+    ],
+    "51": [
+      "marocain,",
+      "highway code,"
+    ],
+    "52": [
+      "qui consiste en fait à choisir la",
+      "which basically means choosing the"
+    ],
+    "53": [
+      "limitation de vitesse que tu désires.",
+      "speed limit you fancy."
+    ],
+    "54": [
+      "À un moment, au rond-point, j'ai",
+      "At one point, at a roundabout, I"
+    ],
+    "55": [
+      "dit au chauffeur : « Monsieur, normalement,",
+      "told the driver: \"Sir, normally"
+    ],
+    "56": [
+      "ce n'est pas un rond-point, c'est une",
+      "that's not a roundabout, it's a"
+    ],
+    "57": [
+      "attraction à Disneyland. »",
+      "Disneyland ride.\""
+    ],
+    "58": [
+      "Il m'a dit : « T'inquiète, gazelle, je m'en",
+      "He said: \"Don't worry, gazelle, I've"
+    ],
+    "59": [
+      "occupe. »",
+      "got this.\""
+    ],
+    "60": [
+      "Mais ça ne m'a pas trop énervé, je ne suis",
+      "But it didn't bother me much, I'm not"
+    ],
+    "61": [
+      "pas trop un nerveux dans la vie, moi.",
+      "really a nervous guy."
+    ],
+    "62": [
+      "Par exemple, je me suis jamais battu de",
+      "For example, I've never been in a fight in"
+    ],
+    "63": [
+      "toute ma vie, puisqu'il y a une phrase qui",
+      "my whole life, since there's a saying that"
+    ],
+    "64": [
+      "dit « la violence ne résout rien »… Alors je",
+      "goes \"violence solves nothing\"… Though I"
+    ],
+    "65": [
+      "pense que la phrase exacte, c'est « ma",
+      "think the exact saying is \"MY"
+    ],
+    "66": [
+      "violence ne résout rien ». J'ai failli me",
+      "violence solves nothing\". I almost got"
+    ],
+    "67": [
+      "battre une fois, tu sais, et j'ai voulu",
+      "into a fight once, you know, and I wanted"
+    ],
+    "68": [
+      "faire comme dans les films. J'ai dit : « Ouais,",
+      "to do it like in the movies. I said: \"Yeah,"
+    ],
+    "69": [
+      "c'est à moi que tu",
+      "are you talking"
+    ],
+    "70": [
+      "parles ? » Il m'a dit :",
+      "to me?\" He said:"
+    ],
+    "71": [
+      "« Oui, c'est à toi que je parle. »",
+      "\"Yes, I'm talking to you.\""
+    ],
+    "72": [
+      "J'ai dit : « Bon, bah OK, c'était juste pour",
+      "I said: \"Well, OK, just wanted to"
+    ],
+    "73": [
+      "être sûr. »",
+      "make sure.\""
+    ],
+    "74": [
+      "Je me suis jamais énervé de",
+      "I've never been angry in"
+    ],
+    "75": [
+      "toute ma vie.",
+      "my whole life."
+    ],
+    "76": [
+      "Du coup, je sais même pas à quoi je",
+      "So I don't even know what I"
+    ],
+    "77": [
+      "ressemble quand je suis énervé.",
+      "look like when I'm angry."
+    ],
+    "78": [
+      "Si ça se trouve, là…",
+      "For all I know, right now…"
+    ],
+    "79": [
+      "je suis en train de péter un câble.",
+      "I'm totally losing it."
+    ],
+    "80": [
+      "Je sors de mes gonds.",
+      "I'm flying off the handle."
+    ],
+    "81": [
+      "Je m'entraîne à m'énerver contre des gens",
+      "I'm practising getting angry at people"
+    ],
+    "82": [
+      "en ce moment, pour voir comment ça fait.",
+      "right now, to see what it's like."
+    ],
+    "83": [
+      "Tu sais, je suis là : « Oui, toi ! »",
+      "You know, I go: \"Yeah, YOU!\""
+    ],
+    "84": [
+      "Et puis après, je laisse l'enfant",
+      "And then I let the kid"
+    ],
+    "85": [
+      "retourner à l'école.",
+      "go back to school."
+    ]
+  },
+  "effects": [
+    {
+      "type": "sfx",
+      "word": "bateau",
+      "file": "record_scratch",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "chasseur",
+      "offset": -0.5,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "type": "caption",
+      "word": "cendriers",
+      "nth": 1,
+      "text": "125 cendriers 🚬😭",
+      "dur": 2.6
+    },
+    {
+      "type": "sfx",
+      "word": "48",
+      "file": "boing",
+      "gain": -13
+    },
+    {
+      "type": "zoom",
+      "word": "dessus",
+      "offset": -0.6,
+      "dur": 2.2,
+      "scale": 1.18
+    },
+    {
+      "type": "sfx",
+      "word": "dessus",
+      "file": "impact",
+      "gain": -11
+    },
+    {
+      "type": "sticker",
+      "word": "neuf",
+      "file": "shock/wait_what",
+      "pos": "lower_right",
+      "width": 380,
+      "dur": 1.4
+    },
+    {
+      "type": "zoom",
+      "word": "gazelle",
+      "nth": 2,
+      "offset": -0.8,
+      "dur": 2.4,
+      "scale": 1.15
+    },
+    {
+      "type": "sfx",
+      "word": "sûr",
+      "nth": 1,
+      "file": "pop",
+      "gain": -12
+    },
+    {
+      "type": "zoom",
+      "word": "'école",
+      "offset": -0.8,
+      "dur": 2.4,
+      "scale": 1.18
+    },
+    {
+      "type": "sfx",
+      "word": "'école",
+      "file": "impact",
+      "gain": -11
+    }
+  ],
+  "publishing": {
+    "youtube_title": "Paul Mirabel au souk de Marrakech : 125 cendriers et un génie absent 😂 #shorts",
+    "caption": "« Je me suis fait voler mon vélo… alors que j'étais dessus. » 🚲😂\nPaul Mirabel au souk de Marrakech : surnommé « gazelle », 125 cendriers, des Adidas en 33 et 48… et le taxi à 9 dans 5 places.\n\nTeam souk ou team centre commercial ? 👇 Tague ton pote qui se fait toujours avoir au marché 😅\n\n🎤 Paul Mirabel, Marrakech du Rire 2022 · 🇬🇧 English subtitles by @the_punchlinelab\n\n#paulmirabel #marrakechdurire #marrakech #humour #standup",
+    "youtube_tags": [
+      "paul mirabel",
+      "marrakech du rire",
+      "marrakech du rire 2022",
+      "marrakech",
+      "souk",
+      "maroc",
+      "humour",
+      "stand up",
+      "humour français",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  }
+}
