@@ -35,3 +35,25 @@ Pick from here before spending vidIQ credits on searches. Mark a video as used (
 | Ilyès Djadel | FR | https://www.youtube.com/watch?v=pM49eqvO-lE (Le lycée catholique, Le Grand Studio RTL Humour) | RTL (official broadcaster) | 2026-11-14 (0:32-2:54) |
 | Ilyès Djadel | FR | https://www.youtube.com/watch?v=gfyPgW6OX0Y (Le lycée catholique, KS) | to verify | backup |
 | Malik Bentalha | FR | https://www.youtube.com/watch?v=xMdfaaEF-u8 (Marrakech du Rire 2018 - Le Frigo, 1:26) | to verify | 2026-11-16 (whole clip) |
+
+## New sources 2026-11-19 (owner: other shows + viral comedians, not only Marrakech)
+Found with the free WebSearch (never vidiq_youtube_search). Import free with vidiq_video_upload url=… then curl to cache/<id>.mp4.
+| Comedian / show | Lang | URL | Status |
+|---|---|---|---|
+| Ahmed Sylla – demande de l'argent à son grand-père | FR | https://www.youtube.com/watch?v=YpEqPvp1Z_o | importing 2026-11-19 |
+| Ahmed Sylla – passage intégral (YouHumour 2015) | FR | https://www.youtube.com/watch?v=rrb7djpKjnA | importing 2026-11-19 |
+| Inès Reg – galères dans le métro | FR | https://www.youtube.com/watch?v=KDvWzCPiXIw | importing 2026-11-19 |
+| Djamil le Schlag – Le musulman sympa (Jamel Comedy Club 2019, CANAL+) | FR | https://www.youtube.com/watch?v=MM6uO2o1J2E | importing 2026-11-19 |
+| D'jal – Le Maroc (À cœur ouvert, Comédie+) | FR | https://www.youtube.com/watch?v=dvOlpXZV4ZA | importing 2026-11-19 |
+| Montreux Comedy – Gala Stand-up avec Noman Hosni (full) | FR | https://www.youtube.com/watch?v=GO-E-pgBqa8 | importing 2026-11-19 |
+| Montreux Comedy – Gala avec Thomas Wiesel (full) | FR | https://www.youtube.com/watch?v=t8Zthh25Brw | to import |
+| Montreux Comedy – Gala Jokenation (full) | FR | https://www.youtube.com/watch?v=33zyKk96jWk | to import |
+| Montreux Comedy – Best of « Les Français pour les nuls » | FR | https://www.youtube.com/watch?v=oeLo_z7Ivew | to import |
+| Blanche Gardin – Jamel Comedy Club S2 | FR | https://www.youtube.com/watch?v=qEQSJbrWLvQ | to import |
+| Tony Saint Laurent – Je suis humoriste (JCC 2012) | FR | https://www.youtube.com/watch?v=9wErVDFuHII | to import |
+| Laura Domenge – Jamel Comedy Club | FR | https://www.youtube.com/watch?v=PrQTbXOz2iU | to import |
+| Haroun – Les racistes de gauche (spectacle complet) | FR | https://www.youtube.com/watch?v=MVzR1zgQTcI | to import (check size) |
+| Jamel – Jamel en scène (1999, Kissman) | FR | https://www.youtube.com/watch?v=AZRZib-wLNo | to import (big; trim = 1 credit) |
+| Eko (Darija) – channel | Darija→FR | https://www.youtube.com/c/ekoartiste | pick a video |
+| Jamel Comedy Club official channel | FR | https://www.youtube.com/@jamelcomedyclub | pick viral sets |
+| DEAD (not public): Haroun « Si je deviens président » ZIHZv-kKsoE, Fary « Dévoiler » 6kLlyUtnvM8 |

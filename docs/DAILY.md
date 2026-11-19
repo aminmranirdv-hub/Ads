@@ -28,6 +28,8 @@ projects/daily/<date>/<nn>_<comedian>_<bit>/
 4. `python3 tools/make_short.py edit.json`, then `tools/qc.py`, `tools/thumbnail.py`, `tools/deliverables.py`
 
 ## Next up (owner goal: 55k+)
+- **VARIETY RULE (owner, 2026-11-19): don't focus only on Marrakech du Rire.** Max **1 Marrakech du Rire short per day**; the other 4 come from other shows/viral comedians (Jamel Comedy Club, Montreux Comedy, TV/radio sets, comedians' own channels, Darija comedians like Eko / D'jal → FR subs). See docs/SOURCES.md "New sources 2026-11-19".
+- **2026-11-20 plan:** Ahmed Sylla (grand-père and/or YouHumour full set), Inès Reg (métro), Djamil le Schlag (Jamel Comedy Club « Le musulman sympa »), D'jal (« Le Maroc », Comédie+), a Montreux gala act (Noman Hosni gala) — and at most one Marrakech bit (Kev hammam/neighbour letter or Paul Mirabel rando) only if one of these fails.
 - **2026-11-18 done:** 16:00 Alban Ivanov, 17:00 Ilyès Djadel (Lourdes, Marrakech 2022), 18:00 Gad Elmaleh (couple), 19:30 Maxime Gasteuil, 21:00 Jamel César P3 (ninjas). Run started late (11:00/13:00 slots passed). Red-suit woman (~1:58:50) still unidentified (scan says "Vigno").
 - **Next César series option:** Jamel's opening (co-présentation, Saada, Corinne Masiero, Will Smith, ~0:53-2:42 of 363RgMenp1g) as Partie 4 if P2/P3 hold.
 - Re-check Instagram reels insights (free, `vidiq_instagram_owner_insights` mode reels) around 2026-11-19; update docs/HOOKS.md and build series from winners (Jamel César P1/P2, Nawel, Camille).
