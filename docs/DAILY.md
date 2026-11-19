@@ -67,6 +67,8 @@ Instagram refuses videos over 100 MB (104,857,600 bytes). Long shorts (2-4 min) 
 and give the Instagram destination its own `media`. If you later update one destination with `vidiq_social_post_draft_update`,
 re-check that the others still show their `scheduledFor` time (a YouTube destination lost its time once on 2026-11-17).
 
+## YOUTUBE PAUSED (owner, 2026-11-19): YouTube blocks nearly all our shorts → post to Instagram, Facebook and TikTok ONLY, no YOUTUBE destination for anyone, until the owner says to resume.
+
 ## YouTube Content ID blocklist (owner report, 2026-11-18)
 Gad Elmaleh and Malik Bentalha shorts get blocked on YouTube right after upload (all 3 Gad: 194m902V3Ds, 6SZuj69HM8s, -kpa15Lwem8;
 Malik: VfXs9zV7KN4). Uploads complete fine; the block comes from the rights holder's Content ID (Gad's ComediHa!/own productions,
