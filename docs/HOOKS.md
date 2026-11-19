@@ -66,3 +66,6 @@ Followers **254** (69 on 2026-11-16). 30-day account views: 163k (mostly the Jam
 | Ilyès Lourdes (18th) | 3:01 | 17 | 27% | 35% | 0 |
 | Jamel César P3 (18th) | 2:22 | 14 | 36% | 27% | 0 |
 Read: the César series is fading (P2 53, P3 14) → pause it. Booder génie is the best follower of the Jamel winner → Booder Partie 3 (finale, 2026-11-19). Long 3-min reels hold viewers in absolute seconds (Camille 81 s) but % watched drops; keep 2:00-2:30 when possible and put the strongest laugh in the first 20 s.
+
+
+Note 2026-11-19: owner overrides the 3-5 hashtag rule — add the fixed set from docs/DAILY.md (FIXED HASHTAGS) after the specific ones.
