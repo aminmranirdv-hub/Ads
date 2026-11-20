@@ -1,0 +1,158 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Credit Ahmed Sylla with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-20_ahmed_sylla",
+  "comedian": "Ahmed Sylla",
+  "source": {
+    "file": "source.mp4",
+    "title": "Ahmed Sylla - Mon grand-père",
+    "url": "https://www.youtube.com/watch?v=YpEqPvp1Z_o",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "grand-père",
+    "mains",
+    "pieds",
+    "Allemands",
+    "Scheisse",
+    "pole",
+    "devant",
+    "derrière",
+    "camp",
+    "bouche",
+    "rire",
+    "drôle"
+  ],
+  "segments": [
+    {
+      "in": 70.53,
+      "out": 74.22
+    },
+    {
+      "in": 82.08,
+      "out": 107.38
+    },
+    {
+      "in": 108.04,
+      "out": 177.44
+    },
+    {
+      "in": 178.24,
+      "out": 181.38
+    },
+    {
+      "in": 183.73,
+      "out": 191.93
+    },
+    {
+      "in": 192.75,
+      "out": 208.93
+    },
+    {
+      "in": 209.31,
+      "out": 244.58
+    },
+    {
+      "in": 308.89,
+      "out": 325.16
+    },
+    {
+      "in": 334.5,
+      "out": 347.94
+    },
+    {
+      "in": 348.58,
+      "out": 350.29
+    }
+  ],
+  "zooms": [
+    {
+      "at": 2.09,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 59.65,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 123.57,
+      "dur": 2.4,
+      "scale": 1.18
+    },
+    {
+      "at": 152.05,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 175.15,
+      "dur": 2.2,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 34.36,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 74.04,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 124.86,
+      "gain_db": -11
+    },
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 176.7,
+      "gain_db": -10
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/disbelief/wach_bsah.png",
+      "start": 34.36,
+      "end": 35.76,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Ahmed Sylla imite son GRAND-PÈRE tirailleur 😂🇸🇳",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Toujours devant… sauf pour le défilé 💀",
+      "start": 84.16,
+      "end": 86.96
+    }
+  ],
+  "context_note": "Ahmed Sylla (Zénith, YouHumour): plays his Senegalese grandfather (tirailleur) — 'sans les mains, sans les pieds', always sent to the front line but asked to stay at camp on Liberation Day, 'ton arme c'est ta bouche'."
+}
