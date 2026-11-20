@@ -62,3 +62,8 @@ Found with the free WebSearch (never vidiq_youtube_search). Import free with vid
 | Eko (Darija) – channel | Darija→FR | https://www.youtube.com/c/ekoartiste | pick a video |
 | Jamel Comedy Club official channel | FR | https://www.youtube.com/@jamelcomedyclub | pick viral sets |
 | DEAD (not public): Haroun « Si je deviens président » ZIHZv-kKsoE, Fary « Dévoiler » 6kLlyUtnvM8 |
+
+## Notes 2026-11-20
+- Used: D'jal Le Maroc (dvOlpXZV4ZA, cues 1-86: ambassade + flics BlaBlaCar; grand-mère sorcière 2:47+ UNUSED), Ahmed Sylla grand-père (YpEqPvp1Z_o), Djamil le Schlag hôpital Saint-Denis (MM6uO2o1J2E 0:08-2:52; "Allahu akbar" chant bit 3:46+ skipped on purpose — terrorism theme), Alban Ivanov boucher des Yvelines + javelot (6Ts0foAxeXw 3:16-6:22), Jamel "vacances au bled / gnous" (n8mPjor58HM 4:00-5:50 + 7:30-8:24 — owner request; psy/yaourts 0:00-4:00 and aires de repos/mouches 6:30-7:30 UNUSED). cache/n8mPjor58HM.mp4.
+- Roman Frayssinet 01whjC1lMwM + T9AJKrZRgHc: fan re-uploads with keyed fake background + burned-in subtitles → DON'T USE. Need a clean official source (Netflix/Canal/Montreux).
+- Montreux gala GO-E-pgBqa8 (cached, 107 min): 1:05-1:20 is all crude (facial, insect rape, Dubai porn) → skip that stretch; other acts not scanned yet.

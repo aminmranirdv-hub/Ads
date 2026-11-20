@@ -336,5 +336,23 @@
     "status": "published (scheduled) IG+TikTok (long 2:30) + FB (61s cut) 2026-11-20 21:00 Paris",
     "vidiq_post_id": "37666d1b-e5db-4466-9473-5acb45c3a57e",
     "youtube": null
+  },
+  {
+    "date": "2026-11-20",
+    "comedian": "Djamil le Schlag",
+    "clip": "03_djamil_schlag",
+    "source": "https://www.youtube.com/watch?v=MM6uO2o1J2E",
+    "status": "published (scheduled) IG+TikTok (long 2:49, .ig.mp4) + FB (53s cut) 2026-11-20 18:00 Paris",
+    "vidiq_post_id": "a7dfc217-aa50-4a24-ada3-e21b3add634d",
+    "youtube": null
+  },
+  {
+    "date": "2026-11-20",
+    "comedian": "Alban Ivanov (javelot)",
+    "clip": "04_alban_javelot",
+    "source": "https://www.youtube.com/watch?v=6Ts0foAxeXw&t=196s",
+    "status": "published (scheduled) IG+TikTok (long 3:00) + FB (54s cut) 2026-11-20 19:30 Paris",
+    "vidiq_post_id": "5d2b982e-8d84-451f-827c-a872b32878c5",
+    "youtube": null
   }
 ]
