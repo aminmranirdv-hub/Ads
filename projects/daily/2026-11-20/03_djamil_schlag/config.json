@@ -1,0 +1,427 @@
+{
+ "trans_lang": "en",
+ "context_note": "Djamil le Schlag (Jamel Comedy Club): a sprained ankle lands him in the Saint-Denis hospital — the endless queue market, then the mama in the queue giving birth 'par Ivoirienne' (césarienne pun) to Gervinho, Bakayoko and Gbagbo.",
+ "ranges": [
+  [
+   5,
+   18
+  ],
+  [
+   22,
+   51
+  ],
+  [
+   53,
+   89
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Djamil le Schlag aux urgences de SAINT-DENIS 😂🏥",
+ "highlight_words": [
+  "Saint-Denis",
+  "Schengen",
+  "kebabs",
+  "strabisme",
+  "queue",
+  "slips",
+  "Ivoirienne",
+  "césarienne",
+  "Gervinho",
+  "Bakayoko",
+  "Gbagbo"
+ ],
+ "cues": {
+  "5": [
+   "Bon, faut que je vous raconte.",
+   "OK, I have to tell you something."
+  ],
+  "6": [
+   "L'autre jour, il m'est arrivé un truc",
+   "The other day something"
+  ],
+  "7": [
+   "incroyable.",
+   "unbelievable happened to me."
+  ],
+  "8": [
+   "Je me suis fait une entorse à la",
+   "I sprained my"
+  ],
+  "9": [
+   "cheville et j'ai atterri dans",
+   "ankle and I ended up in"
+  ],
+  "10": [
+   "le pire endroit du monde :",
+   "the worst place in the world:"
+  ],
+  "11": [
+   "l'hôpital de Saint-Denis.",
+   "the Saint-Denis hospital."
+  ],
+  "12": [
+   "Bon.",
+   "Yeah."
+  ],
+  "13": [
+   "Alors l'hôpital de Saint-Denis, tu quittes",
+   "The Saint-Denis hospital: you leave"
+  ],
+  "14": [
+   "l'espace Schengen.",
+   "the Schengen area."
+  ],
+  "15": [
+   "L'hôpital de Saint-Denis, t'as intérêt",
+   "At the Saint-Denis hospital, you'd better"
+  ],
+  "16": [
+   "à être croyant, seul Dieu peut t'aider.",
+   "be a believer, only God can help you."
+  ],
+  "17": [
+   "L'hôpital de Saint-Denis, faut faire un vœu et",
+   "At the Saint-Denis hospital you have to make a wish"
+  ],
+  "18": [
+   "réunir les 7 boules de cristal.",
+   "and gather the 7 Dragon Balls."
+  ],
+  "22": [
+   "J'ai vu des kebabs plus propres que",
+   "I've seen kebab shops cleaner than"
+  ],
+  "23": [
+   "l'hôpital de Saint-Denis.",
+   "the Saint-Denis hospital."
+  ],
+  "24": [
+   "T'arrives là-bas avec une entorse, tu",
+   "You go in with a sprain, you"
+  ],
+  "25": [
+   "repars, t'as un strabisme.",
+   "come out cross-eyed."
+  ],
+  "26": [
+   "Grand Corps Malade est rentré là-bas pour",
+   "Grand Corps Malade went in there for"
+  ],
+  "27": [
+   "un ongle incarné.",
+   "an ingrown toenail."
+  ],
+  "28": [
+   "J'arrive, il",
+   "I get there,"
+  ],
+  "29": [
+   "y a une queue incroyable, la queue",
+   "there's an insane queue, the queue"
+  ],
+  "30": [
+   "commence à Pierrefitte,",
+   "starts in Pierrefitte,"
+  ],
+  "31": [
+   "elle finit à Drancy, elle passe par",
+   "ends in Drancy, and goes via"
+  ],
+  "32": [
+   "l'A86,",
+   "the A86 motorway,"
+  ],
+  "33": [
+   "et dans la queue, c'est la cour des",
+   "and the queue is a total"
+  ],
+  "34": [
+   "miracles : il y a des Pakistanais qui",
+   "circus: there are Pakistani guys"
+  ],
+  "35": [
+   "vendent du maïs chaud dans des caddies. Mais on",
+   "selling hot corn out of shopping trolleys. Where"
+  ],
+  "36": [
+   "est où, les gars ?",
+   "are we, guys?"
+  ],
+  "37": [
+   "On est en France, la sixième puissance",
+   "This is France, the world's sixth"
+  ],
+  "38": [
+   "mondiale ! On vend des fruits et",
+   "biggest economy! People sell fruit and"
+  ],
+  "39": [
+   "légumes même au sol, il y a des",
+   "veg on the floor, there are"
+  ],
+  "40": [
+   "Togolaises qui vendent des cheveux. « Ça va,",
+   "Togolese women selling hair. \"Hi,"
+  ],
+  "41": [
+   "ma sœur ? » Et il y",
+   "sister!\" And there are"
+  ],
+  "42": [
+   "a même des Marocains qui",
+   "even Moroccans"
+  ],
+  "43": [
+   "vendent des slips.",
+   "selling underpants."
+  ],
+  "44": [
+   "Mais des slips !",
+   "Underpants!"
+  ],
+  "45": [
+   "T'sais, il crie dans la rue :",
+   "You know, he yells in the street:"
+  ],
+  "46": [
+   "« Slippette ! » Et moi, je suis là, t'sais,",
+   "\"Pants, pants!\" And there I am,"
+  ],
+  "47": [
+   "je suis dans la queue, j'ai une douleur",
+   "in the queue, with a horrible pain"
+  ],
+  "48": [
+   "atroce au niveau de la cheville.",
+   "in my ankle."
+  ],
+  "49": [
+   "« T'aimes pas les baskets ?",
+   "\"Want some trainers?"
+  ],
+  "50": [
+   "Reebok Classic !",
+   "Reebok Classic!"
+  ],
+  "51": [
+   "Deux cents dirhams ! »",
+   "Two hundred dirhams!\""
+  ],
+  "53": [
+   "« Ouais, c'est des fausses !",
+   "\"Yeah, they're fake!"
+  ],
+  "54": [
+   "Ouais, c'est des fausses ! »",
+   "Yeah, they're fake!\""
+  ],
+  "55": [
+   "Et à un moment donné, je regarde sur ma",
+   "And at one point I look to my"
+  ],
+  "56": [
+   "gauche.",
+   "left."
+  ],
+  "57": [
+   "C'est précisément là que j'ai compris",
+   "That's exactly when I realised"
+  ],
+  "58": [
+   "que j'allais pas être l'urgence.",
+   "I wasn't going to be the emergency."
+  ],
+  "59": [
+   "Dans la queue, sur ma gauche, il y avait",
+   "In the queue on my left there was"
+  ],
+  "60": [
+   "une daronne.",
+   "a mama."
+  ],
+  "61": [
+   "Elle était en train d'accoucher",
+   "She was giving birth"
+  ],
+  "62": [
+   "dans le plus grand des calmes.",
+   "totally calmly."
+  ],
+  "63": [
+   "Mais elle accouchait pas par",
+   "But she wasn't giving birth by"
+  ],
+  "64": [
+   "césarienne.",
+   "C-section."
+  ],
+  "65": [
+   "Elle accouchait par Ivoirienne.",
+   "She was giving birth Ivorian-style."
+  ],
+  "66": [
+   "Jambes pliées, sourcils froncés, coupé-",
+   "Knees bent, eyebrows frowning, coupé-"
+  ],
+  "67": [
+   "décalé !",
+   "décalé dance!"
+  ],
+  "68": [
+   "T'sais, elle enchaînait :",
+   "You know, she was on a roll:"
+  ],
+  "69": [
+   "« Les amis, doucement, je suis qu'à 12 % de",
+   "\"Easy, friends, I'm only at 12% of"
+  ],
+  "70": [
+   "mes capacités !",
+   "my capacity!"
+  ],
+  "71": [
+   "Je suis qu'à 12 % de mes capacités !",
+   "I'm only at 12% of my capacity!"
+  ],
+  "72": [
+   "On va y aller mollo !",
+   "We're gonna take it easy!"
+  ],
+  "73": [
+   "On va y aller mollo ! »",
+   "We're gonna take it easy!\""
+  ],
+  "74": [
+   "T'sais, elle enchaînait les marmots !",
+   "You know, she was popping out kids!"
+  ],
+  "75": [
+   "« Un ! Gervinho !",
+   "\"One! Gervinho!"
+  ],
+  "76": [
+   "Deux ! Bakayoko !",
+   "Two! Bakayoko!"
+  ],
+  "77": [
+   "Trois ! Laurent Gbagbo ! »",
+   "Three! Laurent Gbagbo!\""
+  ],
+  "78": [
+   "J'ai dit : « Mais c'est trop !",
+   "I said: \"This is too much!"
+  ],
+  "79": [
+   "C'est quoi, cet hôpital ?",
+   "What is this hospital?"
+  ],
+  "80": [
+   "Il va me rendre complètement cinglé ! »",
+   "It's going to drive me crazy!\""
+  ],
+  "81": [
+   "« On t'a pas prévenu, frérot ?",
+   "\"Nobody warned you, bro?"
+  ],
+  "82": [
+   "Y a des postillons, premier rang !",
+   "Front row gets spat on!"
+  ],
+  "83": [
+   "Ouais ! Appelle-moi Jacques",
+   "Yeah! Call me Jacques"
+  ],
+  "84": [
+   "Brel ! T'as voulu voir Vesoul ?",
+   "Brel! You wanted to see Vesoul?"
+  ],
+  "85": [
+   "On a vu Vesoul !",
+   "We've seen Vesoul!"
+  ],
+  "86": [
+   "Chauffe, Marcel !",
+   "Crank it up, Marcel!"
+  ],
+  "87": [
+   "Les gars, j'suis en lâcher-prise total !",
+   "Guys, I've totally let go!"
+  ],
+  "88": [
+   "Ouais, j'fais des pirouettes !",
+   "Yeah, I'm doing pirouettes!"
+  ],
+  "89": [
+   "J'entends rien au Comedy Club ! »",
+   "Can't hear a thing at the Comedy Club!\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "Schengen",
+   "offset": -0.6,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "strabisme",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "incarnés",
+   "offset": -0.6,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sticker",
+   "word": "slips",
+   "nth": 1,
+   "file": "disbelief/wach_bsah",
+   "pos": "lower_right",
+   "width": 380,
+   "dur": 1.4
+  },
+  {
+   "type": "sfx",
+   "word": "'urgence",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "Ivoirienne",
+   "offset": -0.6,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "Ivoirienne",
+   "file": "impact",
+   "gain": -11
+  },
+  {
+   "type": "caption",
+   "word": "Bagbo",
+   "text": "La maternité version Abidjan 🇨🇮💀",
+   "dur": 2.6
+  },
+  {
+   "type": "zoom",
+   "word": "Vezoul",
+   "nth": 1,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  }
+ ],
+ "open_zoom": 1.45,
+ "open_zoom_dur": 2.6,
+ "open_zoom_cx": 0.5,
+ "open_zoom_cy": 0.42
+}

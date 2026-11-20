@@ -365,8 +365,8 @@
  },
  "open_zoom": 2.0,
  "open_zoom_dur": 1.8,
- "open_zoom_cx": 0.57,
- "open_zoom_cy": 0.66,
+ "open_zoom_cx": 0.55,
+ "open_zoom_cy": 0.44,
  "effects": [
   {
    "type": "zoom",

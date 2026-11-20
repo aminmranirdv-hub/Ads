@@ -12,6 +12,7 @@ for f in ("source.mp4", "words.json", "subs.srt"):
     p = fb / f
     if not p.exists(): p.symlink_to(Path("..") / f)
 cfg = json.load(open(clip / "config.json")); cfg["ranges"] = [[a, b]]; cfg["end_pad"] = pad
+for k in ("open_zoom", "open_zoom_dur", "open_zoom_cx", "open_zoom_cy"): cfg.pop(k, None)  # opening punch-in is framed for the long edit's first shot
 spec = json.load(open(clip / "edit.json"))
 for k in ("segments", "zooms", "sfx", "overlays", "editorial_captions"): spec.pop(k, None)
 json.dump(spec, open(fb / "edit.json", "w"), ensure_ascii=False, indent=2)

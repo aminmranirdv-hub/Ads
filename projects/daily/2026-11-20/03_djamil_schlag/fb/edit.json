@@ -1,0 +1,83 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Credit Djamil le Schlag + Jamel Comedy Club with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-20_djamil_schlag",
+  "comedian": "Djamil le Schlag",
+  "source": {
+    "file": "source.mp4",
+    "title": "Djamil le Schlag - Jamel Comedy Club (CANAL+)",
+    "url": "https://www.youtube.com/watch?v=MM6uO2o1J2E",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Saint-Denis",
+    "Schengen",
+    "kebabs",
+    "strabisme",
+    "queue",
+    "slips",
+    "Ivoirienne",
+    "césarienne",
+    "Gervinho",
+    "Bakayoko",
+    "Gbagbo"
+  ],
+  "context_note": "Djamil le Schlag (Jamel Comedy Club): a sprained ankle lands him in the Saint-Denis hospital — the endless queue market, then the mama in the queue giving birth 'par Ivoirienne' (césarienne pun) to Gervinho, Bakayoko and Gbagbo.",
+  "segments": [
+    {
+      "in": 118.33,
+      "out": 171.38
+    }
+  ],
+  "zooms": [
+    {
+      "at": 11.73,
+      "dur": 2.4,
+      "scale": 1.2
+    },
+    {
+      "at": 48.23,
+      "dur": 2.0,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "/home/user/Ads/assets/sfx/impact.wav",
+      "at": 14.08,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Djamil le Schlag aux urgences de SAINT-DENIS 😂🏥",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "La maternité version Abidjan 🇨🇮💀",
+      "start": 37.12,
+      "end": 39.72
+    }
+  ]
+}

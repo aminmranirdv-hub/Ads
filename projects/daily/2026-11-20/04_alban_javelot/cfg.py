@@ -92,7 +92,7 @@ cfg={"trans_lang":"en",
 "hook":"Pourquoi les lanceurs de javelot CRIENT 😂",
 "highlight_words":["Boucher","Predator","pélican","poisson","javelot","oseille","loyer","fourrière","moustache","crient"],
 "cues":{str(k):v for k,v in c.items()},
-"open_zoom":2.0,"open_zoom_dur":1.8,"open_zoom_cx":0.57,"open_zoom_cy":0.66,
+"open_zoom":2.0,"open_zoom_dur":1.8,"open_zoom_cx":0.55,"open_zoom_cy":0.44,
 "effects":[
  {"type":"zoom","word":"Boucher","offset":-0.3,"dur":2.0,"scale":1.15},
  {"type":"sfx","word":"Predator","file":"record_scratch","gain":-12},
