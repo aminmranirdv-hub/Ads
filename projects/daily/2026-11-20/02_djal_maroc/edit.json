@@ -1,0 +1,137 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit D'jal with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-20_djal_maroc",
+  "comedian": "D'jal",
+  "source": {
+    "file": "source.mp4",
+    "title": "D'jal - Le Maroc",
+    "url": "https://www.youtube.com/watch?v=dvOlpXZV4ZA",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Maroc",
+    "ambassade",
+    "hélicoptère",
+    "Mords",
+    "photo",
+    "autostop",
+    "BlaBlaCar",
+    "France"
+  ],
+  "segments": [
+    {
+      "in": 0.0,
+      "out": 20.8
+    },
+    {
+      "in": 21.04,
+      "out": 42.1
+    },
+    {
+      "in": 50.0,
+      "out": 53.1
+    },
+    {
+      "in": 53.92,
+      "out": 114.36
+    },
+    {
+      "in": 124.17,
+      "out": 147.27
+    },
+    {
+      "in": 148.74,
+      "out": 165.14
+    },
+    {
+      "in": 166.29,
+      "out": 167.49
+    }
+  ],
+  "zooms": [
+    {
+      "at": 35.36,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 55.84,
+      "dur": 1.8,
+      "scale": 1.18
+    },
+    {
+      "at": 103.54,
+      "dur": 2.2,
+      "scale": 1.18
+    },
+    {
+      "at": 142.48,
+      "dur": 2.2,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 51.33,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 72.03,
+      "gain_db": -13
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 104.53,
+      "gain_db": -11
+    },
+    {
+      "file": "../../../../assets/sfx/pop.wav",
+      "at": 143.15,
+      "gain_db": -10
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/disbelief/wach_bsah.png",
+      "start": 130.67,
+      "end": 132.07,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "D'jal appelle l'ambassade du MAROC 😂📞",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "L'administration marocaine 📝💀",
+      "start": 72.03,
+      "end": 74.63
+    }
+  ],
+  "context_note": "D'jal (Comédie+): French vs Moroccan embassy when you're attacked in Papua — then Moroccan cops hitchhiking on the motorway (BlaBlaCar)."
+}

@@ -1,0 +1,93 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit D'jal with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-20_djal_maroc",
+  "comedian": "D'jal",
+  "source": {
+    "file": "source.mp4",
+    "title": "D'jal - Le Maroc",
+    "url": "https://www.youtube.com/watch?v=dvOlpXZV4ZA",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Maroc",
+    "ambassade",
+    "hélicoptère",
+    "Mords",
+    "photo",
+    "autostop",
+    "BlaBlaCar",
+    "France"
+  ],
+  "segments": [
+    {
+      "in": 23.63,
+      "out": 42.1
+    },
+    {
+      "in": 50.0,
+      "out": 53.1
+    },
+    {
+      "in": 53.92,
+      "out": 92.18
+    }
+  ],
+  "zooms": [
+    {
+      "at": 11.97,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 32.45,
+      "dur": 1.8,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "/home/user/Ads/assets/sfx/record_scratch.wav",
+      "at": 27.94,
+      "gain_db": -12
+    },
+    {
+      "file": "/home/user/Ads/assets/sfx/boing.wav",
+      "at": 48.64,
+      "gain_db": -13
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "D'jal appelle l'ambassade du MAROC 😂📞",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "L'administration marocaine 📝💀",
+      "start": 48.64,
+      "end": 51.24
+    }
+  ],
+  "context_note": "D'jal (Comédie+): French vs Moroccan embassy when you're attacked in Papua — then Moroccan cops hitchhiking on the motorway (BlaBlaCar)."
+}

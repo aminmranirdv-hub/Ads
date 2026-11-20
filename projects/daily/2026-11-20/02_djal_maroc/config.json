@@ -1,0 +1,433 @@
+{
+ "trans_lang": "en",
+ "context_note": "D'jal (Comédie+): French vs Moroccan embassy when you're attacked in Papua — then Moroccan cops hitchhiking on the motorway (BlaBlaCar).",
+ "ranges": [
+  [
+   1,
+   86
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "D'jal appelle l'ambassade du MAROC 😂📞",
+ "highlight_words": [
+  "Maroc",
+  "ambassade",
+  "hélicoptère",
+  "Mords",
+  "photo",
+  "autostop",
+  "BlaBlaCar",
+  "France"
+ ],
+ "cues": {
+  "1": [
+   "Je suis d'origine marocaine, mais je",
+   "I'm of Moroccan origin, but I"
+  ],
+  "2": [
+   "tiens à vous rassurer, Paris, je suis",
+   "want to reassure you, Paris, I'm"
+  ],
+  "3": [
+   "avant tout français.",
+   "French first and foremost."
+  ],
+  "4": [
+   "Je suis avec vous, et fier de l'être.",
+   "I'm with you, and proud of it."
+  ],
+  "5": [
+   "Wakanda, on est tous ensemble.",
+   "Wakanda, we're all together."
+  ],
+  "6": [
+   "Français et fier de l'être, ouais.",
+   "French and proud of it, yeah."
+  ],
+  "7": [
+   "Me regarde pas comme ça avec ta gueule.",
+   "Don't look at me with that face."
+  ],
+  "8": [
+   "Français,",
+   "French,"
+  ],
+  "9": [
+   "lui, monsieur,",
+   "him, sir,"
+  ],
+  "10": [
+   "français et fier de l'être.",
+   "French and proud of it."
+  ],
+  "11": [
+   "Voilà. Vous avez la carte Vitale ?",
+   "There. Got your health card?"
+  ],
+  "12": [
+   "Pour ça, je suis fier d'être français.",
+   "For that, I'm proud to be French."
+  ],
+  "13": [
+   "Et vaut mieux être français quand",
+   "And you'd better be French when"
+  ],
+  "14": [
+   "tu voyages énormément dans le monde, et",
+   "you travel the world a lot, and"
+  ],
+  "15": [
+   "que t'as un souci, que tu dois appeler en",
+   "you get in trouble and have to call"
+  ],
+  "16": [
+   "urgence l'ambassade.",
+   "the embassy in an emergency."
+  ],
+  "17": [
+   "« Allô, l'ambassade de France ? Je",
+   "\"Hello, French embassy? I'm"
+  ],
+  "18": [
+   "suis en Papouasie,",
+   "in Papua New Guinea,"
+  ],
+  "19": [
+   "des Papous veulent m'attaquer, veulent",
+   "Papuans want to attack me, want"
+  ],
+  "20": [
+   "me tuer ! S'il vous plaît, faites quelque",
+   "to kill me! Please, do"
+  ],
+  "21": [
+   "chose, je vous en supplie ! »",
+   "something, I beg you!\""
+  ],
+  "22": [
+   "« Ici l'ambassadeur de France, ne vous",
+   "\"This is the French ambassador, don't"
+  ],
+  "23": [
+   "inquiétez pas.",
+   "worry."
+  ],
+  "24": [
+   "Je viens d'envoyer un hélicoptère avec",
+   "I've just sent a helicopter with"
+  ],
+  "25": [
+   "l'armée qui va venir vous sauver.",
+   "the army to come and save you."
+  ],
+  "26": [
+   "Soyez fort ! Nous arrivons !",
+   "Be strong! We're coming!"
+  ],
+  "27": [
+   "Et n'oubliez pas !",
+   "And don't forget!"
+  ],
+  "28": [
+   "Vive la France ! »",
+   "Long live France!\""
+  ],
+  "29": [
+   "Vive la France !",
+   "Long live France!"
+  ],
+  "30": [
+   "Appelle l'ambassade du Maroc.",
+   "Now call the Moroccan embassy."
+  ],
+  "31": [
+   "« Allô, l'ambassade du Maroc ? Je suis en",
+   "\"Hello, Moroccan embassy? I'm in"
+  ],
+  "32": [
+   "Papouasie, des Papous veulent me tuer !",
+   "Papua, Papuans want to kill me!"
+  ],
+  "33": [
+   "S'il vous plaît, faites quelque chose, je",
+   "Please, do something, I"
+  ],
+  "34": [
+   "vous en supplie ! »",
+   "beg you!\""
+  ],
+  "35": [
+   "« Allô ?",
+   "\"Hello?"
+  ],
+  "36": [
+   "C'est qui, toi ?",
+   "Who are you?"
+  ],
+  "37": [
+   "Hein ? On veut t'attaquer ?",
+   "Huh? They want to attack you?"
+  ],
+  "38": [
+   "Eh ben contre-attaque ! »",
+   "Well, counter-attack!\""
+  ],
+  "39": [
+   "« Dites-moi, vous êtes marocain ? »",
+   "\"Tell me, are you Moroccan?\""
+  ],
+  "40": [
+   "« Oui, tout à fait ! »",
+   "\"Yes, absolutely!\""
+  ],
+  "41": [
+   "« Eh ben normalement, c'est vous qui les",
+   "\"Well normally, YOU'RE the one who"
+  ],
+  "42": [
+   "attaquez ! Mords-le, griffe-le !",
+   "attacks them! Bite him, scratch him!"
+  ],
+  "43": [
+   "Tire-lui les cheveux !",
+   "Pull his hair!"
+  ],
+  "44": [
+   "Tire ! Mords-lui les pieds !",
+   "Pull! Bite his feet!"
+  ],
+  "45": [
+   "Mords ! Mords le salopard !",
+   "Bite! Bite the bastard!"
+  ],
+  "46": [
+   "Mords-le ! » « Non mais monsieur, ils sont",
+   "Bite him!\" \"But sir, there are"
+  ],
+  "47": [
+   "trop nombreux, là ! »",
+   "too many of them!\""
+  ],
+  "48": [
+   "« Ah bah pour ça, faut remplir un dossier",
+   "\"Ah, for that you need to fill in a form"
+  ],
+  "49": [
+   "avec une photo A4…",
+   "with an A4 photo…"
+  ],
+  "50": [
+   "recto verso !",
+   "double-sided!"
+  ],
+  "51": [
+   "De vous, à déposer ici à l'ambassade. »",
+   "Of you, to drop off here at the embassy.\""
+  ],
+  "52": [
+   "« Non mais excusez-moi monsieur, mais ça",
+   "\"Excuse me sir, but that"
+  ],
+  "53": [
+   "va pas être possible !",
+   "won't be possible!"
+  ],
+  "54": [
+   "Je suis en Papouasie, quand",
+   "I'm in Papua,"
+  ],
+  "55": [
+   "même ! » « En Papouasie ?",
+   "for God's sake!\" \"In Papua?"
+  ],
+  "56": [
+   "Et pourquoi il appelle ?",
+   "So why is he calling?"
+  ],
+  "57": [
+   "Pourquoi il appelle ? »",
+   "Why is he calling?\""
+  ],
+  "59": [
+   "« Ah, je crois qu'il est hors forfait,",
+   "\"Ah, I think he's out of credit,"
+  ],
+  "60": [
+   "l'appel coûte une fortune… »",
+   "the call costs a fortune…\""
+  ],
+  "61": [
+   "« Oh là là, moi",
+   "\"Oh no, I'm"
+  ],
+  "62": [
+   "je vais",
+   "going"
+  ],
+  "63": [
+   "mourir… »",
+   "to die…\""
+  ],
+  "64": [
+   "« Ah ben c'est comme ça, c'est la vie, hein.",
+   "\"Well, that's how it is, that's life.\""
+  ],
+  "65": [
+   "On doit tous mourir un jour ou l'autre,",
+   "We all have to die one day,"
+  ],
+  "66": [
+   "eh ben toi, c'est aujourd'hui. »",
+   "well for you, it's today.\""
+  ],
+  "67": [
+   "J'aime le Maroc, je vous jure, j'aime le",
+   "I love Morocco, I swear, I love"
+  ],
+  "68": [
+   "Maroc, attention,",
+   "Morocco, mind you,"
+  ],
+  "69": [
+   "j'aime mon pays d'origine, extraordinaire,",
+   "I love my home country, amazing,"
+  ],
+  "70": [
+   "je vous invite à aller voir ce beau et",
+   "I invite you to visit this beautiful,"
+  ],
+  "71": [
+   "grand pays, je te jure, et puis c'est le",
+   "great country, I swear, and it's the"
+  ],
+  "72": [
+   "seul pays au monde où tu peux voir des",
+   "only country in the world where you see"
+  ],
+  "73": [
+   "flics en uniforme faire de l'autostop.",
+   "cops in uniform hitchhiking."
+  ],
+  "74": [
+   "J'ai jamais vu ça de ma vie.",
+   "I'd never seen that in my life."
+  ],
+  "75": [
+   "J'en ai fait, des pays, mais j'ai jamais vu.",
+   "I've been to loads of countries, never seen that."
+  ],
+  "76": [
+   "T'as déjà vu le GIGN après une",
+   "Ever seen a SWAT team after"
+  ],
+  "77": [
+   "intervention ?",
+   "a raid going:"
+  ],
+  "78": [
+   "« Excusez-moi, vous allez sur Paris ? »",
+   "\"Excuse me, are you heading to Paris?\""
+  ],
+  "79": [
+   "Là-bas, ils t'arrêtent sur l'autoroute,",
+   "Over there they pull you over on the motorway"
+  ],
+  "80": [
+   "comme si c'était un contrôle.",
+   "like it's a police check."
+  ],
+  "81": [
+   "« Salam alikoum ! Vous allez où comme ça ? »",
+   "\"Salam alaikum! Where are you off to?\""
+  ],
+  "82": [
+   "« Moi je vais à Casa et lui à Rabat ! »",
+   "\"I'm going to Casa and he's going to Rabat!\""
+  ],
+  "83": [
+   "« Qu'est-ce qu'on va faire ?",
+   "\"What are we gonna do?"
+  ],
+  "84": [
+   "Bon voilà, Rabat, eh ben voilà, t'as",
+   "OK, Rabat, there you go, you've"
+  ],
+  "85": [
+   "trouvé ! »",
+   "got a ride!\""
+  ],
+  "86": [
+   "Bienvenue dans BlaBlaCar !",
+   "Welcome to BlaBlaCar!"
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "hélicoptère",
+   "offset": -0.3,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "Allô",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "contre",
+   "offset": -0.3,
+   "dur": 1.8,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "photo",
+   "file": "boing",
+   "gain": -13
+  },
+  {
+   "type": "caption",
+   "word": "photo",
+   "text": "L'administration marocaine 📝💀",
+   "dur": 2.6
+  },
+  {
+   "type": "zoom",
+   "word": "aujourd",
+   "offset": -0.6,
+   "dur": 2.2,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "aujourd",
+   "file": "impact",
+   "gain": -11
+  },
+  {
+   "type": "sticker",
+   "word": "'autoroute",
+   "file": "disbelief/wach_bsah",
+   "pos": "lower_right",
+   "width": 380,
+   "dur": 1.4
+  },
+  {
+   "type": "zoom",
+   "word": "Bienvenue",
+   "offset": -0.3,
+   "dur": 2.2,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "Bienvenue",
+   "file": "pop",
+   "gain": -10
+  }
+ ],
+ "publishing": {}
+}
