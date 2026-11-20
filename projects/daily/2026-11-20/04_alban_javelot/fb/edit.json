@@ -1,0 +1,108 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Alban Ivanov + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.9
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-20_alban_javelot",
+  "comedian": "Alban Ivanov",
+  "source": {
+    "file": "source.mp4",
+    "title": "Alban Ivanov (Marrakech du rire)",
+    "url": "https://www.youtube.com/watch?v=6Ts0foAxeXw",
+    "channel": "Alban Ivanov (Marrakech du rire) — to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Boucher",
+    "Predator",
+    "pélican",
+    "poisson",
+    "javelot",
+    "oseille",
+    "loyer",
+    "fourrière",
+    "moustache",
+    "crient"
+  ],
+  "context_note": "Alban Ivanov (Marrakech du Rire): the 'Butcher of the Yvelines' tackle in his amateur club, then why javelin throwers scream — broke, car towed, bills, wife cheating, kid with a moustache.",
+  "segments": [
+    {
+      "in": 296.99,
+      "out": 322.9
+    },
+    {
+      "in": 324.94,
+      "out": 327.6
+    },
+    {
+      "in": 329.24,
+      "out": 332.96
+    },
+    {
+      "in": 336.1,
+      "out": 340.24
+    },
+    {
+      "in": 340.44,
+      "out": 344.02
+    },
+    {
+      "in": 344.31,
+      "out": 347.41
+    },
+    {
+      "in": 350.19,
+      "out": 360.76
+    }
+  ],
+  "zooms": [
+    {
+      "at": 0.0,
+      "dur": 1.8,
+      "scale": 2.0,
+      "cx": 0.57,
+      "cy": 0.66
+    },
+    {
+      "at": 22.93,
+      "dur": 2.2,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "/home/user/Ads/assets/sfx/impact.wav",
+      "at": 30.76,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Pourquoi les lanceurs de javelot CRIENT 😂",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Le sport le moins rentable du monde 💸",
+      "start": 3.28,
+      "end": 6.08
+    }
+  ]
+}

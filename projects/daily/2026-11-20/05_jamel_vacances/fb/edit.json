@@ -1,0 +1,112 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Credit Jamel Debbouze with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-20_jamel_vacances",
+  "comedian": "Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Jamel Debbouze - LES VACANCES AU BLED - Maintenant ou Jamel",
+    "url": "https://www.youtube.com/watch?v=n8mPjor58HM",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "gnous",
+    "Marocains",
+    "même jour",
+    "2 heures",
+    "volant",
+    "Tetris",
+    "bâche",
+    "prières",
+    "Espagne",
+    "station-service",
+    "gratuit"
+  ],
+  "context_note": "Jamel Debbouze (Maintenant ou Jamel, at the shrink): holidays back in Morocco by car — all Moroccans leave on the same day like wildebeest, 2 a.m. departures, dad letting go of the wheel, Tetris on the roof, mum's prayers, 10,000 wildebeest at the Spanish petrol station.",
+  "segments": [
+    {
+      "in": 262.93,
+      "out": 277.06
+    },
+    {
+      "in": 278.38,
+      "out": 289.52
+    },
+    {
+      "in": 291.92,
+      "out": 305.72
+    },
+    {
+      "in": 315.33,
+      "out": 327.16
+    },
+    {
+      "in": 328.12,
+      "out": 338.13
+    }
+  ],
+  "zooms": [
+    {
+      "at": 7.19,
+      "dur": 2.2,
+      "scale": 1.18
+    },
+    {
+      "at": 35.73,
+      "dur": 2.0,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "/home/user/Ads/assets/sfx/boing.wav",
+      "at": 8.74,
+      "gain_db": -12
+    },
+    {
+      "file": "/home/user/Ads/assets/sfx/record_scratch.wav",
+      "at": 38.32,
+      "gain_db": -12
+    }
+  ],
+  "overlays": [
+    {
+      "file": "/home/user/Ads/assets/stickers/disbelief/wach_bsah.png",
+      "start": 54.55,
+      "end": 55.95,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Jamel : les Marocains partent en vacances comme des GNOUS 😂🚗",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Départ 2h du matin, comme tout le monde 😴",
+      "start": 16.8,
+      "end": 19.6
+    }
+  ]
+}

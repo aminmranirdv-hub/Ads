@@ -1,0 +1,423 @@
+{
+ "trans_lang": "en",
+ "context_note": "Ahmed Sylla (Zénith, YouHumour): plays his Senegalese grandfather (tirailleur) — 'sans les mains, sans les pieds', always sent to the front line but asked to stay at camp on Liberation Day, 'ton arme c'est ta bouche'.",
+ "ranges": [
+  [
+   70,
+   91
+  ]
+ ],
+ "end_pad": 2.0,
+ "hook": "Ahmed Sylla imite son GRAND-PÈRE tirailleur 😂🇸🇳",
+ "highlight_words": [
+  "grand-père",
+  "mains",
+  "pieds",
+  "Allemands",
+  "Scheisse",
+  "pole",
+  "devant",
+  "derrière",
+  "camp",
+  "bouche",
+  "rire",
+  "drôle"
+ ],
+ "cues": {
+  "26": [
+   "Et ça, je le dois à une personne qui m'a",
+   "And I owe it to one person who"
+  ],
+  "27": [
+   "tendu la main quand je suis arrivé à",
+   "reached out to me when I arrived in"
+  ],
+  "28": [
+   "Paris,",
+   "Paris,"
+  ],
+  "29": [
+   "et ce soir, en fait, je voulais lui rendre",
+   "and tonight I wanted to pay"
+  ],
+  "30": [
+   "hommage. C'est mon grand-père.",
+   "tribute to him. It's my grandfather."
+  ],
+  "31": [
+   "Oh… Oh-oh…",
+   "Oh… oh-oh…"
+  ],
+  "32": [
+   "Oh ! Oh-oh ! Ahmed, c'est toi",
+   "Oh! Oh-oh! Ahmed, is that you"
+  ],
+  "33": [
+   "? Oh-oh ! Je suis content de te voir, Ahmed",
+   "? Oh-oh! I'm happy to see you, Ahmed"
+  ],
+  "34": [
+   "! Je suis content de te voir !",
+   "! So happy to see you!"
+  ],
+  "35": [
+   "Oh là là, ça fait longtemps !",
+   "Oh my, it's been so long!"
+  ],
+  "36": [
+   "Et puis, tu as grandi !",
+   "And you've grown!"
+  ],
+  "37": [
+   "Tu as grandi !",
+   "You've grown!"
+  ],
+  "38": [
+   "Et moi, je fais des progrès.",
+   "And me, I'm making progress."
+  ],
+  "39": [
+   "Je fais des progrès depuis le temps.",
+   "I've made progress over time."
+  ],
+  "40": [
+   "Regarde. Sans les mains.",
+   "Look. No hands."
+  ],
+  "41": [
+   "Oh, attention.",
+   "Oh, careful."
+  ],
+  "42": [
+   "Ahmed, regarde.",
+   "Ahmed, look."
+  ],
+  "43": [
+   "Sans les mains.",
+   "No hands."
+  ],
+  "44": [
+   "Oh, attention.",
+   "Oh, careful."
+  ],
+  "45": [
+   "Ahmed, regarde.",
+   "Ahmed, look."
+  ],
+  "46": [
+   "Sans les pieds.",
+   "No feet."
+  ],
+  "47": [
+   "Non, je déconne, je déconne,",
+   "No, I'm kidding, I'm kidding,"
+  ],
+  "48": [
+   "je déconne.",
+   "I'm kidding."
+  ],
+  "49": [
+   "Bon, allez, Ahmed, dis-moi, qu'est-ce que",
+   "Come on, Ahmed, tell me, what"
+  ],
+  "50": [
+   "tu as à me demander ?",
+   "do you want to ask me?"
+  ],
+  "51": [
+   "Je sais que tu n'es pas venu pour rien.",
+   "I know you didn't come for nothing."
+  ],
+  "52": [
+   "« Ben, en fait, papy, voilà, tu sais,",
+   "\"Well, Grandpa, you know,"
+  ],
+  "53": [
+   "c'est par rapport au théâtre que",
+   "it's about the theatre that"
+  ],
+  "54": [
+   "j'ai commencé à Paris.",
+   "I started in Paris."
+  ],
+  "55": [
+   "Et en fait, par rapport à l'argent pour",
+   "And actually, about the money to"
+  ],
+  "56": [
+   "payer… »",
+   "pay…\""
+  ],
+  "57": [
+   "Hmm, comédien… toi, tu es malin, tu veux",
+   "Hmm, an actor… you're clever, you want"
+  ],
+  "58": [
+   "l'argent et les filles.",
+   "the money and the girls."
+  ],
+  "59": [
+   "Mais tu sais, Ahmed, si tu veux les",
+   "But you know, Ahmed, if you want the"
+  ],
+  "60": [
+   "filles, tu peux faire l'armée.",
+   "girls, you can join the army."
+  ],
+  "61": [
+   "Tu sais, moi, j'ai fait la guerre pour la",
+   "You know, I fought the war for"
+  ],
+  "62": [
+   "France.",
+   "France."
+  ],
+  "63": [
+   "Première ligne, infanterie, artillerie",
+   "Front line, infantry, heavy"
+  ],
+  "64": [
+   "lourde. On a défoncé les Allemands, on les",
+   "artillery. We smashed the Germans, we"
+  ],
+  "65": [
+   "a défoncés.",
+   "smashed them."
+  ],
+  "66": [
+   "« Scheisse, Scheisse ! », ils criaient comme ça",
+   "\"Scheisse, Scheisse!\" they were shouting"
+  ],
+  "67": [
+   "partout. Ils ont jamais retrouvé leur",
+   "everywhere. They never found their"
+  ],
+  "68": [
+   "Scheisse.",
+   "Scheisse."
+  ],
+  "69": [
+   "Ah ouais.",
+   "Oh yeah."
+  ],
+  "70": [
+   "Tu sais, ils nous ont mis, moi et mon équipe, tout",
+   "You know, they put me and my unit"
+  ],
+  "71": [
+   "droit, à l'avant, les Sénégalais, on était",
+   "right up front, the Senegalese, we were"
+  ],
+  "72": [
+   "comme ça tout le temps mis devant.",
+   "always put in front like that."
+  ],
+  "73": [
+   "On était en pole position.",
+   "We were in pole position."
+  ],
+  "74": [
+   "On était dans le starting-block.",
+   "We were on the starting blocks."
+  ],
+  "75": [
+   "On était",
+   "We were"
+  ],
+  "76": [
+   "les gardes",
+   "the body"
+  ],
+  "77": [
+   "du corps de la France.",
+   "guards of France."
+  ],
+  "78": [
+   "Et les pauvres petits blancs étaient tout",
+   "And the poor little white guys were"
+  ],
+  "79": [
+   "le temps derrière.",
+   "always at the back."
+  ],
+  "80": [
+   "Ils étaient loin derrière.",
+   "Way at the back."
+  ],
+  "81": [
+   "Les pauvres, les pauvres petits, ils étaient",
+   "The poor little things, they were"
+  ],
+  "82": [
+   "loin derrière, les blancs, ils étaient",
+   "way at the back, the white guys, they"
+  ],
+  "83": [
+   "très, très… bon, ils restaient au camp,",
+   "were very… well, they stayed at camp,"
+  ],
+  "84": [
+   "quoi.",
+   "basically."
+  ],
+  "85": [
+   "Alors que le jour de la Libération, quand",
+   "Whereas on Liberation Day, when"
+  ],
+  "86": [
+   "il a fallu défiler, ah oui, pour la",
+   "it was time to march, oh yes, for"
+  ],
+  "87": [
+   "victoire, bien entendu…",
+   "the victory, of course…"
+  ],
+  "88": [
+   "Eh bien moi et mes compères, on était loin",
+   "Well, me and my comrades were way"
+  ],
+  "89": [
+   "derrière.",
+   "at the back."
+  ],
+  "90": [
+   "Ah, on était très, très… bon, on nous a",
+   "Ah, we were very… well, they"
+  ],
+  "91": [
+   "demandé de rester au camp, quoi.",
+   "asked us to stay at camp."
+  ],
+  "92": [
+   "Ah oui, ça c'est clair.",
+   "Oh yes, that's for sure."
+  ],
+  "93": [
+   "C'était une belle époque.",
+   "Those were the days."
+  ],
+  "94": [
+   "Ah, c'était une belle époque.",
+   "Ah, those were the days."
+  ],
+  "95": [
+   "En tout cas, toi aussi, tu es un",
+   "Anyway, you're a"
+  ],
+  "96": [
+   "soldat.",
+   "soldier too."
+  ],
+  "97": [
+   "Tu as une arme, donc tu es un soldat.",
+   "You have a weapon, so you're a soldier."
+  ],
+  "98": [
+   "Ton arme ? Mais ton arme, c'est ta bouche.",
+   "Your weapon? Your weapon is your mouth."
+  ],
+  "99": [
+   "Quand tu parles comme ça avec ta bouche,",
+   "When you talk like that with your mouth,"
+  ],
+  "100": [
+   "tu peux tuer les gens.",
+   "you can kill people."
+  ],
+  "101": [
+   "Pan ! Pan ! Pan !",
+   "Bang! Bang! Bang!"
+  ],
+  "102": [
+   "Pan ! Pan ! Pan !",
+   "Bang! Bang! Bang!"
+  ],
+  "103": [
+   "Tu tues les gens.",
+   "You kill people."
+  ],
+  "104": [
+   "Tu les tues, mais tu les tues de rire.",
+   "You kill them… with laughter."
+  ],
+  "105": [
+   "Ça, c'est ta plus belle arme, ne la perds",
+   "That's your finest weapon, never"
+  ],
+  "106": [
+   "jamais, ne la perds jamais.",
+   "lose it, never lose it."
+  ],
+  "129": [
+   "« Papy, justement, pour pas qu'on",
+   "\"Grandpa, so we don't"
+  ],
+  "130": [
+   "oublie ce pourquoi je suis venu, en fait,",
+   "forget why I came, actually,"
+  ],
+  "131": [
+   "moi c'était plus par rapport au théâtre,",
+   "it was more about the theatre,"
+  ],
+  "132": [
+   "que tu m'aides à payer, mais un petit peu,",
+   "for you to help me pay, just a little,"
+  ],
+  "133": [
+   "juste un petit peu… »",
+   "just a little bit…\""
+  ],
+  "134": [
+   "Tu vois, Ahmed…",
+   "You see, Ahmed…"
+  ],
+  "135": [
+   "tu es drôle.",
+   "you're funny."
+  ],
+  "136": [
+   "Alors là, comme dit Michel Drucker, je suis",
+   "Well, as Michel Drucker says, I'm"
+  ],
+  "137": [
+   "MDR.",
+   "LOL."
+  ],
+  "138": [
+   "Je plaisante avec toi, Ahmed, je vais t'",
+   "I'm joking, Ahmed, I'll"
+  ],
+  "139": [
+   "aider à payer tes cours de théâtre, parce",
+   "help pay for your drama classes, because"
+  ],
+  "140": [
+   "que tu les mérites, petit fanfaron.",
+   "you deserve them, little show-off."
+  ]
+ },
+ "effects": [
+  {
+   "type": "caption",
+   "word": "pole",
+   "text": "Toujours devant… sauf pour le défilé 💀",
+   "dur": 2.8
+  },
+  {
+   "type": "zoom",
+   "word": "camp",
+   "nth": 2,
+   "offset": -1.0,
+   "dur": 2.4,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "camp",
+   "nth": 2,
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Credit Ahmed Sylla with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-20_ahmed_sylla",
+  "comedian": "Ahmed Sylla",
+  "source": {
+    "file": "source.mp4",
+    "title": "Ahmed Sylla - Mon grand-père",
+    "url": "https://www.youtube.com/watch?v=YpEqPvp1Z_o",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "grand-père",
+    "mains",
+    "pieds",
+    "Allemands",
+    "Scheisse",
+    "pole",
+    "devant",
+    "derrière",
+    "camp",
+    "bouche",
+    "rire",
+    "drôle"
+  ],
+  "context_note": "Ahmed Sylla (Zénith, YouHumour): plays his Senegalese grandfather (tirailleur) — 'sans les mains, sans les pieds', always sent to the front line but asked to stay at camp on Liberation Day, 'ton arme c'est ta bouche'.",
+  "segments": [
+    {
+      "in": 155.35,
+      "out": 177.44
+    },
+    {
+      "in": 178.24,
+      "out": 181.38
+    },
+    {
+      "in": 183.73,
+      "out": 191.93
+    },
+    {
+      "in": 192.75,
+      "out": 210.28
+    }
+  ],
+  "zooms": [
+    {
+      "at": 47.27,
+      "dur": 2.4,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "/home/user/Ads/assets/sfx/impact.wav",
+      "at": 48.56,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Ahmed Sylla imite son GRAND-PÈRE tirailleur 😂🇸🇳",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Toujours devant… sauf pour le défilé 💀",
+      "start": 7.86,
+      "end": 10.66
+    }
+  ]
+}

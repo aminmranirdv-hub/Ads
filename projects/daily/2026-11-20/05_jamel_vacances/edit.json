@@ -1,0 +1,160 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Credit Jamel Debbouze with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-20_jamel_vacances",
+  "comedian": "Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Jamel Debbouze - LES VACANCES AU BLED - Maintenant ou Jamel",
+    "url": "https://www.youtube.com/watch?v=n8mPjor58HM",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "gnous",
+    "Marocains",
+    "même jour",
+    "2 heures",
+    "volant",
+    "Tetris",
+    "bâche",
+    "prières",
+    "Espagne",
+    "station-service",
+    "gratuit"
+  ],
+  "segments": [
+    {
+      "in": 244.15,
+      "out": 250.28
+    },
+    {
+      "in": 250.88,
+      "out": 262.0
+    },
+    {
+      "in": 262.38,
+      "out": 277.06
+    },
+    {
+      "in": 278.38,
+      "out": 289.52
+    },
+    {
+      "in": 291.92,
+      "out": 305.72
+    },
+    {
+      "in": 315.33,
+      "out": 327.16
+    },
+    {
+      "in": 328.12,
+      "out": 355.29
+    },
+    {
+      "in": 450.21,
+      "out": 470.82
+    },
+    {
+      "in": 473.3,
+      "out": 486.42
+    },
+    {
+      "in": 488.46,
+      "out": 492.88
+    },
+    {
+      "in": 493.56,
+      "out": 497.44
+    },
+    {
+      "in": 498.08,
+      "out": 510.07
+    }
+  ],
+  "zooms": [
+    {
+      "at": 24.99,
+      "dur": 2.2,
+      "scale": 1.18
+    },
+    {
+      "at": 53.53,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 91.42,
+      "dur": 2.2,
+      "scale": 1.15
+    },
+    {
+      "at": 109.6,
+      "dur": 2.2,
+      "scale": 1.18
+    },
+    {
+      "at": 144.16,
+      "dur": 2.2,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 26.54,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 56.12,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 123.99,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/disbelief/wach_bsah.png",
+      "start": 72.35,
+      "end": 73.75,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Jamel : les Marocains partent en vacances comme des GNOUS 😂🚗",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": "Départ 2h du matin, comme tout le monde 😴",
+      "start": 34.6,
+      "end": 37.4
+    }
+  ],
+  "context_note": "Jamel Debbouze (Maintenant ou Jamel, at the shrink): holidays back in Morocco by car — all Moroccans leave on the same day like wildebeest, 2 a.m. departures, dad letting go of the wheel, Tetris on the roof, mum's prayers, 10,000 wildebeest at the Spanish petrol station."
+}
