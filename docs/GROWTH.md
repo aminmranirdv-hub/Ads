@@ -28,3 +28,6 @@
   3. **Original formats** once ~5k: "Top 3 punchlines of the week", "Rate the joke", voice reactions, or the owner on camera. Original content unlocks Meta bonuses and brand deals.
   4. **Brand deals at 10k**: media kit (audience FR/MA/BE/CA, 18-34, views per reel, shares). Targets: telecoms (inwi, Orange, Maroc Telecom), food delivery (Glovo, Uber Eats), streaming (Netflix FR comedy specials, Prime), comedy festivals and ticketing (Marrakech du Rire, Montreux, Fnac Spectacles), fashion/streetwear, travel/ferries (summer "vacances au bled" season!). No betting brands.
 - The owner must use the real partnership hashtag only with a real partner (#higgsfieldpartner REMOVED 2026-11-21 (owner: no real deal)).
+
+## Series commitments (don't break a promise made in a caption)
+- **Kev Adams « lettre du voisin » PARTIE 2** (Kev's reply letter): cues 49-79 of projects/daily/2026-11-22/03_kev_lettre_p1 (same source cut, already transcribed) → post **2026-11-23 21:00**. Hook "PARTIE 2 : la réponse de Kev Adams à son voisin bourgeois 😂✉️".
