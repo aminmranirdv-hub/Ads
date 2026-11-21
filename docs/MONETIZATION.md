@@ -32,3 +32,17 @@
 
 ## Track C (later): brand deals at ~10k
 Media kit (followers, avg views, top reels, audience countries/ages from insights) → telecoms, food delivery, streaming, comedy festivals/ticketing, travel/ferries (summer "vacances au bled"). No betting. Use the real partnership label only for real deals.
+
+## DM list, week of 2026-11-23 (start with comedians we ALREADY posted, so the ask is natural: "we clipped you, here's the reel")
+Verify the official account (blue tick / link from their website) before sending. Mention the exact clip.
+1. **Djamil le Schlag**: our reel "urgences de Saint-Denis / accouchait par Ivoirienne" (11-20).
+2. **D'jal**: "ambassade du Maroc" (11-20) + "grand-mère sorcière" (11-21).
+3. **Sarah Lélé** (Belgium, emerging): her two Namur is a Joke clips (11-14, 11-16).
+4. **Redouane Harjane**: "le confinement nous a rendus cons" (11-19).
+5. **Caroline Vigneaux**: "avocate… tous en prison" (11-19), our most-shared reel.
+6. **Ilyès Djadel**: "lycée catholique" (11-14) + "Lourdes" (11-18).
+7. **Maxime Gasteuil**: "soirées entre potes en couple" (11-18).
+8. **Alban Ivanov**: "pire club de foot" (11-18) + "javelot" (11-20).
+9. **Nawel Madani**: Rihanna bit (11-17).
+10. **Paul Mirabel**: "souk de Marrakech" (11-19) + "sport" (11-21).
+Scouting for next weeks: winners of "La Relève de Ouf par MACIF" (Montreux Comedy's national casting) and the Montreux "Gala La Relève" (Lausanne, 20 Nov 2026), Jamel Comedy Club new line-ups, Paris comedy-club showcases.
