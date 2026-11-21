@@ -27,4 +27,4 @@
   2. **Clipping programs**: some creators and platforms pay per 1,000 views for clips (e.g. creator "content rewards" campaigns). Legit, rights-cleared, pays from day one. The owner should sign up; we produce.
   3. **Original formats** once ~5k: "Top 3 punchlines of the week", "Rate the joke", voice reactions, or the owner on camera. Original content unlocks Meta bonuses and brand deals.
   4. **Brand deals at 10k**: media kit (audience FR/MA/BE/CA, 18-34, views per reel, shares). Targets: telecoms (inwi, Orange, Maroc Telecom), food delivery (Glovo, Uber Eats), streaming (Netflix FR comedy specials, Prime), comedy festivals and ticketing (Marrakech du Rire, Montreux, Fnac Spectacles), fashion/streetwear, travel/ferries (summer "vacances au bled" season!). No betting brands.
-- The owner must use the real partnership hashtag only with a real partner (#higgsfieldpartner stays only if the deal is real).
+- The owner must use the real partnership hashtag only with a real partner (#higgsfieldpartner REMOVED 2026-11-21 (owner: no real deal)).

@@ -71,8 +71,8 @@ re-check that the others still show their `scheduledFor` time (a YouTube destina
 
 ## FIXED HASHTAGS (owner, 2026-11-19)
 Every caption (Instagram, Facebook, TikTok) ends with the 3-5 specific hashtags (comedian, show, topic) **plus** this fixed set, in this order:
-`#netflix #comedy #pourtoi #fyp #mdr #humour #drole #higgsfieldpartner`
-(don't duplicate #humour if it's already among the specific ones). #higgsfieldpartner is the owner's partnership disclosure.
+`#netflix #comedy #pourtoi #fyp #mdr #humour #drole`
+(don't duplicate #humour if it's already among the specific ones). is the owner's partnership disclosure.
 
 ## FACEBOOK SHORT CUT (owner, 2026-11-19) — helper: `python3 tools/fbcut.py <clip_dir> <first_cue> <last_cue> [end_pad]` then make_short in <clip_dir>/fb
 Facebook Creator dashboard: 45-60 s reels got 18,361 views vs 8,717 for >60 s (+111 %). So every short gets TWO edits:
