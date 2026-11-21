@@ -1,0 +1,200 @@
+{
+ "trans_lang": "en",
+ "context_note": "Jamel Debbouze (Maintenant ou Jamel) at the shrink describing his 'super' dad — who tried to run him over for turning the heating up.",
+ "ranges": [
+  [
+   66,
+   99
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Jamel chez la psy : « Mon père ? Un SUPER père » 😂",
+ "highlight_words": [
+  "père",
+  "écraser",
+  "chauffage",
+  "305",
+  "séquelles",
+  "Peugeot",
+  "22 ans"
+ ],
+ "cues": {
+  "66": [
+   "Mon père ? Un super père.",
+   "My dad? A great dad."
+  ],
+  "67": [
+   "Ah, mon père…",
+   "Ah, my dad…"
+  ],
+  "68": [
+   "Un père à l'écoute.",
+   "A dad who listens."
+  ],
+  "69": [
+   "Un père",
+   "A playful"
+  ],
+  "70": [
+   "espiègle.",
+   "dad."
+  ],
+  "71": [
+   "Ouais,",
+   "Yeah,"
+  ],
+  "72": [
+   "vraiment,",
+   "really,"
+  ],
+  "73": [
+   "taquin, un père taquin.",
+   "a teaser, a teasing dad."
+  ],
+  "74": [
+   "Oui, c'est vrai, un père taquin,",
+   "Yes, really, a teasing dad,"
+  ],
+  "75": [
+   "jamais de ceci, non, non, non, non, non,",
+   "never any of that, no, no, no, no,"
+  ],
+  "76": [
+   "non, toujours très bien organisé.",
+   "no, always very well organised."
+  ],
+  "77": [
+   "Oh non, si… oh non, si, peut-être, si,",
+   "Oh no, wait… oh no, yes, maybe, yes,"
+  ],
+  "78": [
+   "si, si,",
+   "yes, yes,"
+  ],
+  "79": [
+   "si, un jour il a essayé de m'écraser avec",
+   "yes, one day he tried to run me over with"
+  ],
+  "80": [
+   "sa voiture parce que j'avais mis le",
+   "his car because I'd put the"
+  ],
+  "81": [
+   "chauffage à fond.",
+   "heating on full."
+  ],
+  "82": [
+   "C'est comme ça que j'ai su que j'étais",
+   "That's how I found out I was"
+  ],
+  "83": [
+   "plus rapide qu'une 305.",
+   "faster than a Peugeot 305."
+  ],
+  "84": [
+   "« Des séquelles ? »",
+   "\"Lasting effects?\""
+  ],
+  "85": [
+   "C'est quoi, des séquelles ?",
+   "What are lasting effects?"
+  ],
+  "86": [
+   "Un petit chien, des séquelles ?",
+   "A small dog breed, \"lasting effects\"?"
+  ],
+  "87": [
+   "Non, je ne sais pas, madame…",
+   "No, I don't know, ma'am…"
+  ],
+  "88": [
+   "Ah non, mais ça, oui, bien sûr, j'ai des",
+   "Oh, that, yes, of course I have"
+  ],
+  "89": [
+   "séquelles, bien sûr, oh oui.",
+   "lasting effects, of course, oh yes."
+  ],
+  "90": [
+   "Quand je vois des Peugeot, je fais des",
+   "When I see a Peugeot, I have"
+  ],
+  "91": [
+   "crises d'épilepsie.",
+   "epileptic fits."
+  ],
+  "92": [
+   "Et j'ai fait caca au lit jusqu'à 22 ans, à",
+   "And I pooped the bed until I was 22,"
+  ],
+  "93": [
+   "peu près.",
+   "roughly."
+  ],
+  "94": [
+   "C'est des séquelles, ça, c'est des",
+   "Those are lasting effects, those are"
+  ],
+  "95": [
+   "séquelles, oui.",
+   "lasting effects, yes."
+  ],
+  "96": [
+   "Elle est tombée par terre.",
+   "She fell off her chair."
+  ],
+  "97": [
+   "Je dis : « Mais arrêtez, madame, relevez",
+   "I said: \"Stop it, ma'am, get"
+  ],
+  "98": [
+   "-vous,",
+   "up,"
+  ],
+  "99": [
+   "c'est pas votre vie ! »",
+   "it's not your life!\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "'écraser",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "chauffage",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "305",
+   "offset": -0.5,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "'Épilipsie",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "caca",
+   "offset": -0.4,
+   "dur": 2.2,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "terre",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

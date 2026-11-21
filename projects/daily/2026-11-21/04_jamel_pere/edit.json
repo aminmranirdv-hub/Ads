@@ -1,0 +1,113 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Credit Jamel Debbouze with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-21_jamel_pere",
+  "comedian": "Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Jamel Debbouze - LES VACANCES AU BLED - Maintenant ou Jamel",
+    "url": "https://www.youtube.com/watch?v=n8mPjor58HM",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "père",
+    "écraser",
+    "chauffage",
+    "305",
+    "séquelles",
+    "Peugeot",
+    "22 ans"
+  ],
+  "segments": [
+    {
+      "in": 155.33,
+      "out": 160.12
+    },
+    {
+      "in": 160.52,
+      "out": 164.36
+    },
+    {
+      "in": 167.1,
+      "out": 194.96
+    },
+    {
+      "in": 195.36,
+      "out": 199.74
+    },
+    {
+      "in": 200.44,
+      "out": 218.3
+    },
+    {
+      "in": 219.43,
+      "out": 227.99
+    },
+    {
+      "in": 230.28,
+      "out": 237.77
+    }
+  ],
+  "zooms": [
+    {
+      "at": 32.87,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 38.77,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 59.79,
+      "dur": 2.2,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 35.32,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 57.98,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 66.54,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Jamel chez la psy : « Mon père ? Un SUPER père » 😂",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ],
+  "context_note": "Jamel Debbouze (Maintenant ou Jamel) at the shrink describing his 'super' dad — who tried to run him over for turning the heating up."
+}

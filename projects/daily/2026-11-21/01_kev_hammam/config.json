@@ -1,0 +1,283 @@
+{
+ "trans_lang": "en",
+ "context_note": "Kev Adams (Marrakech du Rire 2022): his first Moroccan hammam scrub — glove with nails, 'let it marinate', bleeding, 'you can see my bone' / 'yes, but it's shiny'.",
+ "ranges": [
+  [
+   1,
+   46
+  ],
+  [
+   49,
+   53
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Kev Adams découvre le HAMMAM marocain 😂🧽",
+ "highlight_words": [
+  "hammam",
+  "frotter",
+  "clous",
+  "mariner",
+  "argent",
+  "saigne",
+  "sale",
+  "os",
+  "brille"
+ ],
+ "cues": {
+  "1": [
+   "Il m'est arrivé une autre histoire de ouf,",
+   "Another crazy thing happened to me,"
+  ],
+  "2": [
+   "les amis, au Maroc, je voulais la partager",
+   "friends, in Morocco, I wanted to share it"
+  ],
+  "3": [
+   "avec vous. Jamel m'a dit : « Faut",
+   "with you. Jamel told me: \"You absolutely"
+  ],
+  "4": [
+   "absolument que t'ailles dans un hammam.",
+   "have to go to a hammam."
+  ],
+  "5": [
+   "Tu vas voir, c'est une expérience unique. »",
+   "You'll see, it's a unique experience.\""
+  ],
+  "6": [
+   "J'étais dans un hammam, tranquille, et là,",
+   "I'm in a hammam, chilling, and then"
+  ],
+  "7": [
+   "il y a un mec qui arrive, un vieux",
+   "this guy shows up, an old"
+  ],
+  "8": [
+   "monsieur. Il me dit : « Tu veux te faire",
+   "man. He says: \"Want to get"
+  ],
+  "9": [
+   "frotter ? » Moi, je lui dis : « Vous voulez",
+   "scrubbed?\" I say: \"You mean"
+  ],
+  "10": [
+   "dire masser, monsieur ? »",
+   "massaged, sir?\""
+  ],
+  "11": [
+   "Il me dit : « Non, frotter. »",
+   "He says: \"No. Scrubbed.\""
+  ],
+  "12": [
+   "Je lui dis : « Ouais, pourquoi pas, je veux",
+   "I say: \"Sure, why not, I'm up for"
+  ],
+  "13": [
+   "bien tenter l'expérience », tu vois.",
+   "the experience\", you know."
+  ],
+  "14": [
+   "Écoute-moi bien : le vieux monsieur, à un",
+   "Listen to this: at one point the old"
+  ],
+  "15": [
+   "moment donné, il a mis un gant avec des",
+   "man put on a glove with"
+  ],
+  "16": [
+   "clous.",
+   "nails in it."
+  ],
+  "17": [
+   "On aurait dit qu'il avait des comptes à",
+   "Like he had scores to"
+  ],
+  "18": [
+   "régler avec tout le monde, tu vois, dans",
+   "settle with everyone in"
+  ],
+  "19": [
+   "le hammam.",
+   "the hammam."
+  ],
+  "20": [
+   "D'abord, il a commencé à me jeter un seau",
+   "First he threw a bucket"
+  ],
+  "21": [
+   "d'eau chaude comme ça sur moi, tu vois.",
+   "of hot water on me like that."
+  ],
+  "22": [
+   "J'étais là : « Wouah ! »",
+   "I'm like: \"Whoa!\""
+  ],
+  "23": [
+   "Il a commencé à me frotter avec un savon,",
+   "He starts rubbing me with soap,"
+  ],
+  "24": [
+   "tu vois. Et là, il part.",
+   "and then he leaves."
+  ],
+  "25": [
+   "J'ai dit : « Monsieur, vous allez où ? »",
+   "I said: \"Sir, where are you going?\""
+  ],
+  "26": [
+   "Il me dit : « Il faut laisser mariner. »",
+   "He says: \"You have to let it marinate.\""
+  ],
+  "27": [
+   "Il a fait une marinade de moi, là, quand",
+   "He turned me into a marinade,"
+  ],
+  "28": [
+   "même !",
+   "seriously!"
+  ],
+  "29": [
+   "Moi, je suis là, je suis en train de",
+   "There I am,"
+  ],
+  "30": [
+   "mariner, tu vois.",
+   "marinating."
+  ],
+  "31": [
+   "Et là, il revient, écoute-moi bien, il",
+   "Then he comes back, listen to this, he"
+  ],
+  "32": [
+   "commence à me frotter d'une force…",
+   "starts scrubbing me so hard…"
+  ],
+  "33": [
+   "La vie de ma mère, j'avais l'impression",
+   "I swear, it felt like"
+  ],
+  "34": [
+   "que je lui devais de l'argent.",
+   "I owed him money."
+  ],
+  "35": [
+   "Il était énervé, tu vois.",
+   "He was furious."
+  ],
+  "36": [
+   "À un moment donné, je lui dis :",
+   "At one point I tell him:"
+  ],
+  "37": [
+   "« Monsieur, là, je saigne, quand même ! »",
+   "\"Sir, I'm actually bleeding here!\""
+  ],
+  "38": [
+   "Il me dit : « Oui, c'est parce que t'es",
+   "He says: \"Yes, that's because you're"
+  ],
+  "39": [
+   "sale. »",
+   "dirty.\""
+  ],
+  "40": [
+   "Je lui dis : « Mais monsieur, ça fait très",
+   "I tell him: \"But sir, it really"
+  ],
+  "41": [
+   "mal ! » Après, il me fait des prises de",
+   "hurts!\" Then he puts me in"
+  ],
+  "42": [
+   "catch. Moi, j'étais là…",
+   "wrestling holds. I'm like…"
+  ],
+  "43": [
+   "« Monsieur, ça fait extrêmement mal ! »",
+   "\"Sir, this hurts SO much!\""
+  ],
+  "44": [
+   "Il me dit : « Tais-toi, tais-toi, tu fermes",
+   "He says: \"Quiet, quiet, shut"
+  ],
+  "45": [
+   "ta gueule.",
+   "your mouth."
+  ],
+  "46": [
+   "Tu me laisses faire. »",
+   "Let me work.\""
+  ],
+  "49": [
+   "Il a cru que j'étais vraiment de la viande,",
+   "He really thought I was a piece of meat,"
+  ],
+  "50": [
+   "quoi. Je lui dis : « Monsieur, mais là, on",
+   "I tell him: \"Sir, you can"
+  ],
+  "51": [
+   "voit mon os ! » Il m'a dit :",
+   "see my bone!\" He said:"
+  ],
+  "52": [
+   "« Oui…",
+   "\"Yes…"
+  ],
+  "53": [
+   "mais il brille. »",
+   "but it's shiny.\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "clous",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "clous",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "mariner",
+   "nth": 1,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "'argent",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "sticker",
+   "word": "sale",
+   "file": "disbelief/wach_bsah",
+   "pos": "lower_right",
+   "width": 380,
+   "dur": 1.4
+  },
+  {
+   "type": "zoom",
+   "word": "brille",
+   "offset": -0.8,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "brille",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

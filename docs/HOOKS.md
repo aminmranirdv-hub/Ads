@@ -69,3 +69,9 @@ Read: the César series is fading (P2 53, P3 14) → pause it. Booder génie is 
 
 
 Note 2026-11-19: owner overrides the 3-5 hashtag rule — add the fixed set from docs/DAILY.md (FIXED HASHTAGS) after the specific ones.
+
+## Insights 2026-11-21 (IG, owner insights)
+- 11-19 long reels (2:04-2:45): 144-170 views. 11-20 long reels (2:26-3:12): **6-13 views**. Avg watch time 26-56 s regardless of length → watched % 6-31 %.
+- All +254 followers came 11-16/17 from the Jamel César reel. Nothing since.
+- Shares: Caroline Vigneaux 4 (22 % skip, best), Gad couple 2, D'jal ambassade 1.
+- Decision → docs/GROWTH.md: 35-75 s edits everywhere, 4/day, series for follows.

@@ -1,0 +1,194 @@
+{
+ "trans_lang": "en",
+ "context_note": "D'jal (Comédie+): his Moroccan grandmother — tattooed, silver teeth, 'Jack Sparrow' — who did witchcraft on the grandkids, until she went cross-eyed.",
+ "ranges": [
+  [
+   96,
+   125
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "La grand-mère de D'jal était une SORCIÈRE 😂🧙‍♀️",
+ "highlight_words": [
+  "Jack Sparrow",
+  "sorcellerie",
+  "Voldemort",
+  "strabisme",
+  "mariage",
+  "grand-mère"
+ ],
+ "cues": {
+  "92": [
+   "Ça, c'est depuis que j'ai perdu ma grand-",
+   "That's since I lost my grand-"
+  ],
+  "93": [
+   "mère. Je sais pas si vous vous souvenez",
+   "mother. I don't know if you remember"
+  ],
+  "94": [
+   "de ma grand-mère, j'en parlais dans le",
+   "my grandma, I talked about her in my"
+  ],
+  "95": [
+   "premier spectacle.",
+   "first show."
+  ],
+  "96": [
+   "Tu sais, toute tatouée sur le",
+   "You know, tattoos all over her"
+  ],
+  "97": [
+   "visage, plein de dents en argent,",
+   "face, a mouth full of silver teeth,"
+  ],
+  "98": [
+   "le foulard sur la tête.",
+   "the headscarf on."
+  ],
+  "99": [
+   "Jack Sparrow, quoi.",
+   "Basically Jack Sparrow."
+  ],
+  "100": [
+   "Ma grand-mère, je l'adorais, ma grand-",
+   "I adored my grand-"
+  ],
+  "101": [
+   "mère. Elle était extraordinaire, ma grand-",
+   "ma. She was amazing, my grand-"
+  ],
+  "102": [
+   "mère. On passait toutes nos",
+   "ma. We spent all our"
+  ],
+  "103": [
+   "vacances chez elle, dans sa maison,",
+   "holidays at her house,"
+  ],
+  "104": [
+   "tous les enfants, mes",
+   "all the kids, my"
+  ],
+  "105": [
+   "cousins, mes cousines.",
+   "cousins."
+  ],
+  "106": [
+   "Oh, ça faisait du monde.",
+   "Oh, that was a lot of people."
+  ],
+  "107": [
+   "Et elle, elle nous détestait.",
+   "And she hated us."
+  ],
+  "108": [
+   "Elle ne pouvait pas nous voir.",
+   "She couldn't stand us."
+  ],
+  "110": [
+   "Et nous, on s'amusait à la provoquer : « Grand-",
+   "And we loved winding her up: \"Grand-"
+  ],
+  "111": [
+   "mère, tu peux pas nous attraper, t'es trop",
+   "ma, you can't catch us, you're too"
+  ],
+  "112": [
+   "vieille ! » Le problème avec ma grand-mère, c'",
+   "old!\" The problem with my grandma"
+  ],
+  "113": [
+   "est qu'elle faisait de la sorcellerie.",
+   "was that she did witchcraft."
+  ],
+  "114": [
+   "Du s'hour. Chez nous, on l'appelait",
+   "Black magic. At home we called her"
+  ],
+  "115": [
+   "Voldemort.",
+   "Voldemort."
+  ],
+  "116": [
+   "À distance, elle pouvait faire de la",
+   "From a distance she could cast"
+  ],
+  "117": [
+   "sorcellerie. On disait : « Grand-mère, on est",
+   "spells. We'd say: \"Grandma, we're"
+  ],
+  "118": [
+   "là, tu peux pas nous attraper ! »",
+   "here, you can't catch us!\""
+  ],
+  "119": [
+   "« Qu'est-ce qui t'arrive ? »",
+   "\"What's wrong with you?\""
+  ],
+  "121": [
+   "Ma grand-mère, en vieillissant, elle a",
+   "As she got older, my grandma"
+  ],
+  "122": [
+   "commencé à avoir un strabisme.",
+   "started to go cross-eyed."
+  ],
+  "123": [
+   "Jeter un sort dans un mariage : il y avait",
+   "Casting a spell at a wedding: there was"
+  ],
+  "124": [
+   "des dommages collatéraux dans toute la",
+   "collateral damage all over the"
+  ],
+  "125": [
+   "pièce. « Arrête, grand-mère ! »",
+   "room. \"Stop it, Grandma!\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "Jack",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "détestait",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "sorcellerie",
+   "nth": 1,
+   "offset": -0.5,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sticker",
+   "word": "Voldemort",
+   "file": "disbelief/wach_bsah",
+   "pos": "lower_right",
+   "width": 380,
+   "dur": 1.4
+  },
+  {
+   "type": "zoom",
+   "word": "strabis",
+   "offset": -0.5,
+   "dur": 2.2,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "collatéraux",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

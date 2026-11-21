@@ -1,3 +1,5 @@
+## ⚠️ SUPERSEDED 2026-11-21 by docs/GROWTH.md (owner gave full autonomy): ONE edit of 35-75 s (max 90 s) for IG+TikTok+FB, 4 posts/day at 12:00/16:00/18:30/21:00, series for long jokes. The 2-min rule and the separate FB cut below are retired.
+
 # Daily Production: 5 shorts a day
 
 ## Rules

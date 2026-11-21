@@ -1,0 +1,103 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-21_paul_mirabel_sport",
+  "comedian": "Paul Mirabel",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=5372s",
+    "channel": "to verify (full-show upload)"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "sport",
+    "après",
+    "avant",
+    "dépassez",
+    "amuse",
+    "PlayStation",
+    "randonnée",
+    "montagne"
+  ],
+  "segments": [
+    {
+      "in": 8.22,
+      "out": 38.31
+    },
+    {
+      "in": 38.94,
+      "out": 57.5
+    },
+    {
+      "in": 57.78,
+      "out": 59.85
+    }
+  ],
+  "zooms": [
+    {
+      "at": 10.27,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 18.05,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 34.21,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 46.29,
+      "dur": 2.4,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 11.04,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 29.02,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 47.42,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Paul Mirabel déteste le SPORT (et il a raison) 😂",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ],
+  "context_note": "Paul Mirabel (Marrakech du Rire 2022): why he hates sport — 'I feel better before', 'go ahead, pass me', water-skiing, hiking."
+}

@@ -1,0 +1,119 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-21_kev_hammam",
+  "comedian": "Kev Adams",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=1745s",
+    "channel": "to verify (full-show upload)"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "hammam",
+    "frotter",
+    "clous",
+    "mariner",
+    "argent",
+    "saigne",
+    "sale",
+    "os",
+    "brille"
+  ],
+  "segments": [
+    {
+      "in": 0.0,
+      "out": 21.46
+    },
+    {
+      "in": 22.54,
+      "out": 36.22
+    },
+    {
+      "in": 36.5,
+      "out": 53.82
+    },
+    {
+      "in": 54.52,
+      "out": 67.29
+    },
+    {
+      "in": 66.11,
+      "out": 73.88
+    },
+    {
+      "in": 74.9,
+      "out": 76.23
+    }
+  ],
+  "zooms": [
+    {
+      "at": 20.06,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 33.64,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 70.9,
+      "dur": 2.4,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 20.71,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 45.63,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 72.25,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/disbelief/wach_bsah.png",
+      "start": 51.71,
+      "end": 53.11,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "Kev Adams découvre le HAMMAM marocain 😂🧽",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ],
+  "context_note": "Kev Adams (Marrakech du Rire 2022): his first Moroccan hammam scrub — glove with nails, 'let it marinate', bleeding, 'you can see my bone' / 'yes, but it's shiny'."
+}

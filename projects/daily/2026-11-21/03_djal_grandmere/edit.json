@@ -1,0 +1,111 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit D'jal with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-21_djal_grandmere",
+  "comedian": "D'jal",
+  "source": {
+    "file": "source.mp4",
+    "title": "D'jal - Le Maroc",
+    "url": "https://www.youtube.com/watch?v=dvOlpXZV4ZA",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Jack Sparrow",
+    "sorcellerie",
+    "Voldemort",
+    "strabisme",
+    "mariage",
+    "grand-mère"
+  ],
+  "segments": [
+    {
+      "in": 175.98,
+      "out": 183.87
+    },
+    {
+      "in": 184.6,
+      "out": 201.64
+    },
+    {
+      "in": 205.11,
+      "out": 214.53
+    },
+    {
+      "in": 215.89,
+      "out": 219.41
+    },
+    {
+      "in": 219.97,
+      "out": 228.69
+    },
+    {
+      "in": 230.65,
+      "out": 242.7
+    }
+  ],
+  "zooms": [
+    {
+      "at": 5.89,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 32.73,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 48.65,
+      "dur": 2.2,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 19.66,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 52.88,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [
+    {
+      "file": "../../../../assets/stickers/disbelief/wach_bsah.png",
+      "start": 37.12,
+      "end": 38.52,
+      "position": "lower_right",
+      "width": 380
+    }
+  ],
+  "editorial_captions": [
+    {
+      "text": "La grand-mère de D'jal était une SORCIÈRE 😂🧙‍♀️",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ],
+  "context_note": "D'jal (Comédie+): his Moroccan grandmother — tattooed, silver teeth, 'Jack Sparrow' — who did witchcraft on the grandkids, until she went cross-eyed."
+}

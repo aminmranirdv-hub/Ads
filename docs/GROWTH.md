@@ -1,37 +1,30 @@
-# Growth playbook: The Punchline Lab
+# Growth plan: 10k followers → brand deals (owner gave full autonomy 2026-11-21)
 
-Channels: YouTube @the_punchlinelab · TikTok The_punchlinelab · Instagram @the_punchlinelab · Facebook Page Thepunchlinelab
+## What the data says (Instagram insights, 2026-11-21)
+| Signal | Number | Meaning |
+|---|---|---|
+| Followers | 256, of which **+254 came on 11-16/17** from ONE viral reel (Jamel César « nounou/Netflix », 55k views) | Growth = viral hits, not volume. ~0.5 % of viewers followed. |
+| 11-19 reels (2:00-2:45 long) | 144-170 views each | flat |
+| 11-20 reels (2:26-3:12 long) | **6-13 views each** | collapse: long reels + 5 reposts/day get little non-follower distribution |
+| Avg watch time | 26-56 s, whatever the length | viewers leave after ~45 s → a 3-min reel shows "20-30 % watched", which tells the algorithm it's weak |
+| Shares | Caroline Vigneaux 4, Gad 2, D'jal 1 | relatable topics (couple, work, family) get shared |
+| Facebook (owner dashboard) | 45-60 s reels: 18.4k views vs 8.7k for > 60 s | same conclusion |
 
-## What the automation does every day
-- 3 shorts, 3 different comedians, at 13:00 / 18:00 / 21:00 Paris on all 4 platforms (consistency is the #1 growth signal for new channels).
-- Bilingual subtitles (FR→EN, EN→FR, Darija→FR) widen the audience: francophone + anglophone + Maghreb diaspora.
-- Hook in the first 1-2 s (editorial caption + the most intriguing setup line); punchline zoom + freeze for rewatches.
-- YouTube: searchable titles (comedian name + hook + #shorts), Comedy category, 10-12 tags, description with credit + original link.
-- Social: hook caption, credit, call-to-action that invites tags/comments, 10-12 hashtags (#pourtoi #fyp on TikTok/IG).
+## Rules from now on (replace the 2-minute rule)
+1. **Length 35-75 s, hard max 90 s, for EVERY platform** (one edit for IG + TikTok + FB). One bit: hook line in the first 2 s, setup, punchline, laugh, end. Reels > 90 s are rarely recommended to non-followers.
+2. **Long jokes → numbered series**, not long videos: « Partie 1/3 » ending on a cliffhanger + caption "Partie 2 demain 21h — abonne-toi pour pas la rater". Series give people a reason to follow.
+3. **4 posts a day** (12:00, 16:00, 18:30, 21:00 Paris), best at 21:00. Four strong ones beat five weak ones; reposting too much triggers Meta's "unoriginal content" demotion.
+4. **Transformation on every video** (to stay recommendable and brand-safe): our hook banner, bilingual subtitles, punch-in zooms, SFX, editorial caption, @the_punchlinelab watermark. Never post a raw re-upload.
+5. **Variety of creators, stars first**: Jamel, Gad, Kev Adams, Ahmed Sylla, D'jal, Paul Mirabel, Inès Reg, Booder… plus Moroccan/Maghreb angle (our niche: francophone + Maghreb diaspora, bilingual FR/EN subs).
+6. **Topics that get shared**: family/mums/dads, couples, the bled/holidays, money/prices, school, work, travel. Avoid sexual/crude and terrorism/religion-mocking bits.
+7. **Weekly loop**: every 2-3 days read `vidiq_instagram_owner_insights` (free). Winner = > 1k views or skip < 25 % or ≥ 3 shares → make Partie 2 / same comedian within 48 h. Loser formats get dropped.
+8. **Trial Reels** (`vidiq_instagram_publish_reel`, trial mode) to test risky hooks on non-followers without hurting the main feed.
 
-## Retention rules (what the algorithms reward)
-- Shorter wins when the bit allows: aim 30-60 s; go to 2-3 min only for a story that holds.
-- No dead air: tighten pauses, but keep ~1.5 s of laughter (social proof).
-- Loopable endings: end on the punchline/reaction, not on applause.
-- Captions ask a question or a "tag a friend" to drive comments and shares.
-
-## Weekly review (Mondays, low credit)
-1. Post links/status: `vidiq_social_post_status` per post (free).
-2. Instagram insights: `vidiq_instagram_owner_insights` (check cost first).
-3. YouTube: `vidiq_channel_analytics` once the channel has data (check cost first; skip if credits < 15).
-4. Record per-short results in `projects/daily/log.json` (views 24h/7d, likes, shares) and note winners below.
-5. Next week: 2/3 of picks follow the winning pattern (comedian, theme, length), 1/3 experiments.
-
-## Learnings log
-| week | winner (comedian / theme / length) | loser | decision |
-|---|---|---|---|
-| 2026-W46 | (first week: collecting data) | | |
-
-## Manual one-time setup (owner)
-- Profile picture: brand/logo/pfp_A_mic_bubble.png (same on all 4).
-- YouTube banner: brand/logo/youtube_banner_2560x1440.png · Facebook cover: brand/logo/facebook_cover_1640x624.png
-- Bios / descriptions / YouTube keywords: brand/channel_profile.md
-- Pin a comment on each new YouTube Short within the first hour ("Quel humoriste demain ? 👇") to start conversations.
-
-## Risk
-Third-party clips: expect Content ID claims (revenue goes to the owner) and possible takedowns. YouTube: 3 copyright strikes = channel deleted. If a strike arrives, pause that comedian/source and tell the owner.
+## Money and brand partnerships (the end goal)
+- **Honest limits:** a page made of other people's clips can't be monetized by Meta (unoriginal content) and has copyright risk, and serious brands want rights-cleared, original content. Followers alone don't pay.
+- **Path that works:**
+  1. **Permission/partnership with comedians**: offer emerging comedians free promotion (credit + link to their tickets/show). With permission, clips become legitimate, and promoters/venues pay pages to push shows (paid promotion of show dates is the classic first income for comedy pages).
+  2. **Clipping programs**: some creators and platforms pay per 1,000 views for clips (e.g. creator "content rewards" campaigns). Legit, rights-cleared, pays from day one. The owner should sign up; we produce.
+  3. **Original formats** once ~5k: "Top 3 punchlines of the week", "Rate the joke", voice reactions, or the owner on camera. Original content unlocks Meta bonuses and brand deals.
+  4. **Brand deals at 10k**: media kit (audience FR/MA/BE/CA, 18-34, views per reel, shares). Targets: telecoms (inwi, Orange, Maroc Telecom), food delivery (Glovo, Uber Eats), streaming (Netflix FR comedy specials, Prime), comedy festivals and ticketing (Marrakech du Rire, Montreux, Fnac Spectacles), fashion/streetwear, travel/ferries (summer "vacances au bled" season!). No betting brands.
+- The owner must use the real partnership hashtag only with a real partner (#higgsfieldpartner stays only if the deal is real).
