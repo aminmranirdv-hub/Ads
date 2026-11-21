@@ -1,0 +1,97 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-22_ilyes_cils",
+  "comedian": "Ilyès Djadel",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6150s",
+    "channel": "to verify (full-show upload)"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Paris",
+    "français",
+    "sorry",
+    "cils",
+    "psychopathe",
+    "regard",
+    "dangereux"
+  ],
+  "segments": [
+    {
+      "in": 5.21,
+      "out": 20.14
+    },
+    {
+      "in": 20.99,
+      "out": 26.23
+    },
+    {
+      "in": 28.92,
+      "out": 70.96
+    }
+  ],
+  "zooms": [
+    {
+      "at": 13.33,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 49.84,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 7.65,
+      "dur": 2.4,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 19.42,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 48.89,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 8.42,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Ilyès Djadel découvre les FAUX CILS 😂👁️",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ],
+  "context_note": "Ilyès Djadel (Marrakech du Rire 2022): Parisian girls who 'don't speak French', and the first time he saw false eyelashes on a shelf — 'she's a psychopath'."
+}

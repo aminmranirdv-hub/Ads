@@ -1,0 +1,210 @@
+{
+ "trans_lang": "en",
+ "context_note": "Jamel Debbouze (Maintenant ou Jamel) at the shrink, part 2: JoeyStarr in the waiting room, and the big Moroccan family where his mum was also his grandma.",
+ "ranges": [
+  [
+   32,
+   57
+  ],
+  [
+   59,
+   65
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "PARTIE 2 : Jamel chez la psy parle de sa FAMILLE 😂",
+ "highlight_words": [
+  "psychologue",
+  "JoeyStarr",
+  "écureuil",
+  "formidable",
+  "grand-père",
+  "frère",
+  "grand-mère",
+  "ordinateurs",
+  "brûlé"
+ ],
+ "cues": {
+  "32": [
+   "Et bon, j'arrive chez la psychologue pour",
+   "So I get to the psychologist for"
+  ],
+  "33": [
+   "artistes, une psychologue pour artistes",
+   "artists, a psychologist specialised"
+  ],
+  "34": [
+   "spécialisée,",
+   "in artists,"
+  ],
+  "35": [
+   "j'arrive dans la salle d'attente,",
+   "I walk into the waiting room,"
+  ],
+  "36": [
+   "il y avait JoeyStarr",
+   "and JoeyStarr was there"
+  ],
+  "37": [
+   "qui parlait avec un écureuil en plastique.",
+   "talking to a plastic squirrel."
+  ],
+  "38": [
+   "Après, c'était à mon tour de parler,",
+   "Then it was my turn to talk,"
+  ],
+  "39": [
+   "et elle m'a dit qu'elle allait poser des",
+   "and she said she'd ask"
+  ],
+  "40": [
+   "questions, que des questions, c'est tout.",
+   "questions, just questions, that's all."
+  ],
+  "41": [
+   "« Oui, madame, oui, une enfance formidable.",
+   "\"Yes, ma'am, a wonderful childhood."
+  ],
+  "42": [
+   "J'ai grandi",
+   "I grew up"
+  ],
+  "43": [
+   "avec mon père, ma",
+   "with my dad, my"
+  ],
+  "44": [
+   "mère,",
+   "mum,"
+  ],
+  "45": [
+   "mes frères et mes sœurs,",
+   "my brothers and sisters,"
+  ],
+  "46": [
+   "et on a grandi tous ensemble.",
+   "we all grew up together."
+  ],
+  "47": [
+   "Il y avait mon grand-père qui habitait",
+   "My grandfather lived"
+  ],
+  "48": [
+   "avec nous,",
+   "with us,"
+  ],
+  "49": [
+   "ma grand-mère, des cousins, des",
+   "my grandmother, cousins,"
+  ],
+  "50": [
+   "oncles, des tantes,",
+   "uncles, aunts,"
+  ],
+  "51": [
+   "des gens qu'on ne connaissait même pas qui",
+   "people we didn't even know"
+  ],
+  "52": [
+   "habitaient avec nous aussi.",
+   "lived with us too."
+  ],
+  "53": [
+   "C'est comme ça que j'ai appris que mon",
+   "That's how I found out my"
+  ],
+  "54": [
+   "grand-père avait déclaré son frère à la",
+   "grandfather had registered his brother"
+  ],
+  "55": [
+   "place de son fils.",
+   "as his son."
+  ],
+  "56": [
+   "Comme ma tante avait beaucoup",
+   "Since my aunt had lots"
+  ],
+  "57": [
+   "d'enfants, elle en a donné un à sa sœur.",
+   "of kids, she gave one to her sister."
+  ],
+  "59": [
+   "C'est comme ça que j'ai appris que ma",
+   "That's how I found out my"
+  ],
+  "60": [
+   "mère, c'était aussi ma grand-mère. Le même",
+   "mum was also my grandma. The same"
+  ],
+  "61": [
+   "jour. Tout ça.",
+   "day. All of it."
+  ],
+  "62": [
+   "Quand je suis allé à la mairie demander",
+   "When I went to the town hall to ask for"
+  ],
+  "63": [
+   "une fiche familiale d'état civil,",
+   "a family record certificate,"
+  ],
+  "64": [
+   "tous les ordinateurs ont brûlé,",
+   "all the computers burned out,"
+  ],
+  "65": [
+   "madame. Tous. »",
+   "ma'am. All of them.\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "écureuil",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "écureuil",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "formidable",
+   "offset": -0.4,
+   "dur": 1.8,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "fils",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "aussi",
+   "nth": 1,
+   "offset": -0.5,
+   "dur": 2.2,
+   "scale": 1.2
+  },
+  {
+   "type": "zoom",
+   "word": "brûlé",
+   "offset": -0.5,
+   "dur": 2.2,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "brûlé",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

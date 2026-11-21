@@ -1,0 +1,112 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Credit Jamel Debbouze with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-22_jamel_famille",
+  "comedian": "Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Jamel Debbouze - LES VACANCES AU BLED - Maintenant ou Jamel",
+    "url": "https://www.youtube.com/watch?v=n8mPjor58HM",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "psychologue",
+    "JoeyStarr",
+    "écureuil",
+    "formidable",
+    "grand-père",
+    "frère",
+    "grand-mère",
+    "ordinateurs",
+    "brûlé"
+  ],
+  "segments": [
+    {
+      "in": 73.96,
+      "out": 84.33
+    },
+    {
+      "in": 85.29,
+      "out": 128.81
+    },
+    {
+      "in": 129.54,
+      "out": 137.51
+    },
+    {
+      "in": 139.94,
+      "out": 144.29
+    },
+    {
+      "in": 145.41,
+      "out": 155.18
+    }
+  ],
+  "zooms": [
+    {
+      "at": 12.13,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 23.67,
+      "dur": 1.8,
+      "scale": 1.15
+    },
+    {
+      "at": 46.43,
+      "dur": 2.2,
+      "scale": 1.2
+    },
+    {
+      "at": 71.29,
+      "dur": 2.2,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 12.92,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 53.14,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 72.12,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "PARTIE 2 : Jamel chez la psy parle de sa FAMILLE 😂",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ],
+  "context_note": "Jamel Debbouze (Maintenant ou Jamel) at the shrink, part 2: JoeyStarr in the waiting room, and the big Moroccan family where his mum was also his grandma."
+}

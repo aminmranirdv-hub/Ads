@@ -1,0 +1,229 @@
+{
+ "trans_lang": "en",
+ "context_note": "Ilyès Djadel (Marrakech du Rire 2022): Parisian girls who 'don't speak French', and the first time he saw false eyelashes on a shelf — 'she's a psychopath'.",
+ "ranges": [
+  [
+   6,
+   46
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Ilyès Djadel découvre les FAUX CILS 😂👁️",
+ "highlight_words": [
+  "Paris",
+  "français",
+  "sorry",
+  "cils",
+  "psychopathe",
+  "regard",
+  "dangereux"
+ ],
+ "cues": {
+  "6": [
+   "Parce que moi, je viens de Paris. À Paris,",
+   "Because I'm from Paris. In Paris"
+  ],
+  "7": [
+   "les filles, elles sont belles, mais c'est",
+   "the girls are beautiful, but it's"
+  ],
+  "8": [
+   "impossible de les draguer, je te jure, c'",
+   "impossible to chat them up, I swear, it's"
+  ],
+  "9": [
+   "est compliqué.",
+   "complicated."
+  ],
+  "10": [
+   "Une fois, j'ai croisé une fille à Paris,",
+   "Once I saw a girl in Paris,"
+  ],
+  "11": [
+   "elle était magnifique.",
+   "she was gorgeous."
+  ],
+  "12": [
+   "Elle passe devant moi, moi je la regarde,",
+   "She walks past me, I look at her,"
+  ],
+  "13": [
+   "je dis : « Excuse-moi, t'es magnifique, ça te",
+   "I say: \"Excuse me, you're gorgeous, how"
+  ],
+  "14": [
+   "dirait qu'on aille boire un verre ? » Je vous",
+   "about a drink?\" I swear"
+  ],
+  "15": [
+   "jure, elle est passée à côté de moi comme",
+   "she walked right past me like"
+  ],
+  "16": [
+   "ça, elle m'a fait :",
+   "this and went:"
+  ],
+  "17": [
+   "« Je suis désolée, je parle pas français. »",
+   "\"Sorry, I don't speak French.\""
+  ],
+  "18": [
+   "Mais moi, je suis con sur le coup, j'ai pas",
+   "And I'm dumb in the moment, I didn't"
+  ],
+  "19": [
+   "compris.",
+   "get it."
+  ],
+  "20": [
+   "Hein, mon gars, je lui ai fait : « Ah, sorry. »",
+   "Bro, I went: \"Oh, sorry.\""
+  ],
+  "21": [
+   "C'est compliqué, les",
+   "It's complicated, girls"
+  ],
+  "22": [
+   "filles de 2022. Les filles",
+   "in 2022. Girls"
+  ],
+  "23": [
+   "de 2022, ça devient compliqué. Je sais pas si",
+   "in 2022 are getting complicated. I don't know if"
+  ],
+  "24": [
+   "au Maroc elles font ça, mais en France,",
+   "they do it in Morocco, but in France"
+  ],
+  "25": [
+   "elles font un truc, je sais pas si vous",
+   "they do this thing, I don't know if you"
+  ],
+  "26": [
+   "connaissez : elles mettent des faux cils.",
+   "know it: they wear false eyelashes."
+  ],
+  "27": [
+   "Vous connaissez ce truc ou pas ?",
+   "You know that thing?"
+  ],
+  "28": [
+   "Nous, on a déjà des cils à la base,",
+   "We already have eyelashes,"
+  ],
+  "29": [
+   "elles en ont rajouté. Mais moi, j'ai pas de",
+   "they added more. I don't have a"
+  ],
+  "30": [
+   "problème avec ça, juste j'étais pas au",
+   "problem with it, I just didn't"
+  ],
+  "31": [
+   "courant,",
+   "know,"
+  ],
+  "32": [
+   "et quand t'es pas au courant, c'est",
+   "and when you don't know, it's"
+  ],
+  "33": [
+   "dangereux. La semaine dernière, je vais",
+   "dangerous. Last week I go"
+  ],
+  "34": [
+   "chez une meuf, j'arrive chez elle, je",
+   "to a girl's place, I get there, I"
+  ],
+  "35": [
+   "savais pas que ça existait, j'arrive chez",
+   "didn't know they existed, I walk"
+  ],
+  "36": [
+   "elle et là, je vois posés sur un meuble des",
+   "in and I see, lying on a shelf,"
+  ],
+  "37": [
+   "cils.",
+   "eyelashes."
+  ],
+  "38": [
+   "J'ai commencé à paniquer.",
+   "I started to panic."
+  ],
+  "39": [
+   "Je me suis dit : « C'est une psychopathe,",
+   "I thought: \"She's a psychopath,"
+  ],
+  "40": [
+   "elle kiffe les cils, elle tue les gens,",
+   "she loves eyelashes, she kills people,"
+  ],
+  "41": [
+   "elle prend leurs cils. »",
+   "she takes their eyelashes.\""
+  ],
+  "42": [
+   "J'ai commencé à avoir peur pour mes",
+   "I started fearing for my"
+  ],
+  "43": [
+   "cils. À un moment donné, elle me regarde",
+   "eyelashes. Then she looks me"
+  ],
+  "44": [
+   "dans les yeux, elle me dit : « T'as un beau",
+   "in the eyes and says: \"You have beautiful"
+  ],
+  "45": [
+   "regard. » Je suis là : « Non, là,",
+   "eyes.\" I'm like: \"No, no,"
+  ],
+  "46": [
+   "non ! »",
+   "no!\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "français",
+   "nth": 1,
+   "offset": -0.5,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "sorry",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "psychopathe",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "paniquer",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "regard",
+   "offset": -0.6,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "regard",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}
