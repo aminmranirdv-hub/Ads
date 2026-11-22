@@ -38,3 +38,12 @@
 
 ## Series commitments (don't break a promise made in a caption)
 - **Kev Adams « lettre du voisin » PARTIE 2** (Kev's reply letter): cues 49-79 of projects/daily/2026-11-22/03_kev_lettre_p1 (same source cut, already transcribed) → post **2026-11-23 21:00**. Hook "PARTIE 2 : la réponse de Kev Adams à son voisin bourgeois 😂✉️".
+
+## 🏆 WINNER (TikTok, owner screenshot 2026-11-22): Maxime Gasteuil « soirées entre potes en couple » (posted 2026-11-18 19:30, 2:18 long)
+153.3K views · 8,055 likes · 2,607 shares · 1,062 saves · **+180 followers** · avg watch 50.9 s · 98% from For You.
+TikTok searches that led to it: « humoristes français » 16%, « maxime gasteuil » 8.5%, « humouriste français » 7%.
+ACTIONS:
+- Gasteuil = priority comedian: post every unused Gasteuil bit as a series (« Maxime Gasteuil Partie 2/3… »). Remaining in Marrakech 2022 scan: ~6814-6900 (potes ivres à la fermeture) and any other Gasteuil set found via WebSearch (his own shows, JCC, Montreux).
+- Caption/hashtags on TikTok: add searchable words « humoriste français » + comedian name in line 1, hashtags #humoristefrancais #humourfrancais #<nomhumoriste>.
+- TikTok tolerates 2+ min when the bit is strong (50.9 s avg watch on a 2:18 clip): for TikTok, up to ~2:20 is OK for top bits; Facebook keeps 45-75 s.
+- Couple / relationship topics = top shareable theme: prioritise them.
