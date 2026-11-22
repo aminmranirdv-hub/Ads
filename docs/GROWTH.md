@@ -1,3 +1,5 @@
+## ✅ OWNER 2026-11-22: 100% free choice of comedians and content; only rule: NO sexual sketches. Goal: 10k followers ASAP.
+
 ## ⛔ INSTAGRAM PAUSED (2026-11-21): account flagged « Contenu non original » (Statut du compte → Éligibilité aux recommandations + Monétisation « Présence établie »). Reels dropped from ~150 views to 3-37 from 2026-11-20.
 - NO raw clips on Instagram until the owner adds an original layer (own voice intro/reaction, face-cam reaction, or comedian-permitted clips). Every new unoriginal reel extends the restriction.
 - Keep posting to TikTok + Facebook (4/day). Instagram destinations of the 21-22 Nov posts were pulled back to draft (not published).
