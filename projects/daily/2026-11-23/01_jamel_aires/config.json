@@ -1,0 +1,154 @@
+{
+ "trans_lang": "en",
+ "context_note": "Jamel Debbouze (Maintenant ou Jamel): the motorway rest stops on the way to Morocco were better than the holidays — and the flies back home that bite.",
+ "ranges": [
+  [
+   155,
+   173
+  ],
+  [
+   175,
+   176
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Jamel : les aires d'autoroute > les vacances au bled 😂🚗",
+ "highlight_words": [
+  "aires de repos",
+  "balançoires",
+  "bled",
+  "mouches",
+  "mordent",
+  "drap"
+ ],
+ "cues": {
+  "155": [
+   "Et les aires de repos ! C'était pas",
+   "And the motorway rest stops! Weren't they"
+  ],
+  "156": [
+   "magnifique, les aires de repos ? Comment on",
+   "wonderful, the rest stops? How we"
+  ],
+  "157": [
+   "kiffait ! Moi, j'adorais les aires de",
+   "loved them! I adored the rest"
+  ],
+  "158": [
+   "repos, parce qu'il y avait de la pelouse,",
+   "stops, because there was grass,"
+  ],
+  "159": [
+   "des lavabos qui marchent, au chaud, au",
+   "sinks that worked, hot and"
+  ],
+  "160": [
+   "froid,",
+   "cold,"
+  ],
+  "161": [
+   "il y avait des balançoires, il y avait des",
+   "there were swings, there were"
+  ],
+  "162": [
+   "balançoires… Comment c'était bien, les",
+   "swings… How great the"
+  ],
+  "163": [
+   "balançoires ! Je disais : « Oh, l'aire de",
+   "swings were! I'd say: \"Oh, the rest"
+  ],
+  "164": [
+   "repos, c'était mieux que nos vacances au",
+   "stop was better than our holidays back"
+  ],
+  "165": [
+   "bled ! »",
+   "home!\""
+  ],
+  "166": [
+   "Je disais à ma mère : « Maman, viens, reste là,",
+   "I'd tell my mum: \"Mum, come on, let's stay here,"
+  ],
+  "167": [
+   "s'il te plaît, viens, viens ! »",
+   "please, come on, come on!\""
+  ],
+  "168": [
+   "Au bled, madame, il y a des mouches qui te",
+   "Back home, ma'am, there are flies that"
+  ],
+  "169": [
+   "mordent.",
+   "bite you."
+  ],
+  "170": [
+   "Des mouches qui te mordent, oui.",
+   "Flies that bite you, yes."
+  ],
+  "171": [
+   "Elle vient, la mouche,",
+   "The fly comes along,"
+  ],
+  "172": [
+   "elle lève le drap.",
+   "lifts up the sheet."
+  ],
+  "173": [
+   "Oh là, elle te regarde…",
+   "Whoa, she looks at you…"
+  ],
+  "175": [
+   "Et elle te bascule, la mouche, et elle",
+   "And she flips you over, the fly, and she"
+  ],
+  "176": [
+   "repart. Elle vole même pas, cette connasse.",
+   "walks off. She doesn't even fly, the cow."
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "balançoires",
+   "nth": 1,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "zoom",
+   "word": "mieux",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "mordent",
+   "nth": 1,
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "drap",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "zoom",
+   "word": "connasse",
+   "offset": -0.8,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "connasse",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

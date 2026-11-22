@@ -1,0 +1,206 @@
+{
+ "trans_lang": "en",
+ "context_note": "Paul Mirabel (Marrakech du Rire 2022): the weird mountain guide — 'see down there? beautiful', 'remember to breathe', the marmot.",
+ "ranges": [
+  [
+   12,
+   23
+  ],
+  [
+   25,
+   46
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Paul Mirabel et le PIRE guide de randonnée 😂⛰️",
+ "highlight_words": [
+  "guide",
+  "en haut",
+  "en bas",
+  "gazelle",
+  "respirer",
+  "supermarché",
+  "marmotte",
+  "scooter"
+ ],
+ "cues": {
+  "12": [
+   "Le guide était un peu bizarre, d'ailleurs,",
+   "The guide was a bit weird, by the way,"
+  ],
+  "13": [
+   "je crois. Parce qu'on était en bas,",
+   "I think. Because we were at the bottom,"
+  ],
+  "14": [
+   "il m'a dit : « Tu vas voir, Paul, en haut, c'",
+   "he told me: \"You'll see, Paul, at the top it's"
+  ],
+  "15": [
+   "est super beau. »",
+   "really beautiful.\""
+  ],
+  "16": [
+   "On est arrivés en haut.",
+   "We got to the top."
+  ],
+  "17": [
+   "Il m'a dit : « T'as vu en bas ? C'est super",
+   "He said: \"See down there? It's really"
+  ],
+  "18": [
+   "beau. »",
+   "beautiful.\""
+  ],
+  "19": [
+   "Je lui dis : « Bah, on y était tout",
+   "I said: \"Well, we were there"
+  ],
+  "20": [
+   "à l'heure !",
+   "earlier!"
+  ],
+  "21": [
+   "Pourquoi on n'est pas restés là-bas ?",
+   "Why didn't we just stay there?"
+  ],
+  "22": [
+   "T'as cru que j'étais une gazelle, c'est ça",
+   "Did you think I was a gazelle"
+  ],
+  "23": [
+   "? »",
+   "?\""
+  ],
+  "25": [
+   "Je crois qu'il a même cru que j'étais un",
+   "I think he even thought I was a"
+  ],
+  "26": [
+   "peu stupide. Il a rajouté : « C'est",
+   "bit stupid. He added: \"It's"
+  ],
+  "27": [
+   "très important, à la montagne, Paul : pense à",
+   "very important in the mountains, Paul: remember to"
+  ],
+  "28": [
+   "bien respirer. »",
+   "breathe properly.\""
+  ],
+  "29": [
+   "Il s'est dit : si je lui dis pas,",
+   "He thought: if I don't tell him,"
+  ],
+  "30": [
+   "il va oublier.",
+   "he'll forget."
+  ],
+  "31": [
+   "Très bizarre, ce monsieur, vraiment.",
+   "A very weird man, really."
+  ],
+  "32": [
+   "À un moment, il se met à crier très fort.",
+   "At one point he starts shouting really loud."
+  ],
+  "33": [
+   "Il s'est justifié en disant que c'était",
+   "He said it was"
+  ],
+  "34": [
+   "pour éloigner les animaux dangereux.",
+   "to scare off dangerous animals."
+  ],
+  "35": [
+   "Je lui dis : « Certes, mais là, on est encore",
+   "I told him: \"Sure, but we're still"
+  ],
+  "36": [
+   "au supermarché, monsieur, donc calmez",
+   "in the supermarket, sir, so calm"
+  ],
+  "37": [
+   "-vous. »",
+   "down.\""
+  ],
+  "38": [
+   "On n'a pas croisé d'animaux très",
+   "We didn't meet any very"
+  ],
+  "39": [
+   "dangereux, en plus. On a croisé juste une",
+   "dangerous animals anyway. Just a"
+  ],
+  "40": [
+   "marmotte qui creusait des trous.",
+   "marmot digging holes."
+  ],
+  "41": [
+   "Et le guide m'a dit : « Tu ne réalises pas à",
+   "And the guide said: \"You don't realise how"
+  ],
+  "42": [
+   "quel point c'est extraordinaire. »",
+   "extraordinary this is.\""
+  ],
+  "43": [
+   "Non.",
+   "No."
+  ],
+  "44": [
+   "Si on avait croisé une marmotte qui fait",
+   "If we'd seen a marmot riding"
+  ],
+  "45": [
+   "du scooter,",
+   "a scooter,"
+  ],
+  "46": [
+   "là, ça aurait été extraordinaire, monsieur.",
+   "THAT would have been extraordinary, sir."
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "bas",
+   "nth": 2,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "gazelle",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "respirer",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "supermarché",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "scooter",
+   "offset": -0.8,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "scooter",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

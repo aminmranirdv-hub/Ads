@@ -75,3 +75,8 @@ Note 2026-11-19: owner overrides the 3-5 hashtag rule — add the fixed set from
 - All +254 followers came 11-16/17 from the Jamel César reel. Nothing since.
 - Shares: Caroline Vigneaux 4 (22 % skip, best), Gad couple 2, D'jal ambassade 1.
 - Decision → docs/GROWTH.md: 35-75 s edits everywhere, 4/day, series for follows.
+
+## IG daily check (account flagged 2026-11-21, flagged reels deleted 2026-11-21)
+| Date | Followers | Non-follower reach 14 d | Recent reels views | Verdict |
+|---|---|---|---|---|
+| 2026-11-22 | 256 | 117,958 (flat) | Alban javelot 18, Djamil 19, older ones +1-5 | still restricted; wait |

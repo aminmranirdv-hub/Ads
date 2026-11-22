@@ -1,0 +1,109 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-23_ilyes_lycee",
+  "comedian": "Ilyès Djadel",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6222s",
+    "channel": "to verify (full-show upload)"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "catholique",
+    "sœur",
+    "tante",
+    "péché",
+    "armoire",
+    "père",
+    "papa"
+  ],
+  "segments": [
+    {
+      "in": 1.97,
+      "out": 11.09
+    },
+    {
+      "in": 24.79,
+      "out": 32.3
+    },
+    {
+      "in": 32.95,
+      "out": 51.97
+    },
+    {
+      "in": 53.98,
+      "out": 60.32
+    },
+    {
+      "in": 61.6,
+      "out": 64.82
+    },
+    {
+      "in": 70.08,
+      "out": 92.58
+    }
+  ],
+  "zooms": [
+    {
+      "at": 14.89,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 33.61,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 59.33,
+      "dur": 2.4,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 25.66,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 47.24,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 60.38,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Ilyès Djadel au lycée CATHOLIQUE 😂⛪",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ],
+  "context_note": "Ilyès Djadel (Marrakech du Rire 2022): his first day at a Catholic high school — 'call me sister', the confession box ('the wardrobe') and 'Hello… dad?'."
+}

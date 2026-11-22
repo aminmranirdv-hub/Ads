@@ -1,0 +1,96 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Credit Jamel Debbouze with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-23_jamel_aires",
+  "comedian": "Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Jamel Debbouze - LES VACANCES AU BLED - Maintenant ou Jamel",
+    "url": "https://www.youtube.com/watch?v=n8mPjor58HM",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "aires de repos",
+    "balançoires",
+    "bled",
+    "mouches",
+    "mordent",
+    "drap"
+  ],
+  "segments": [
+    {
+      "in": 391.95,
+      "out": 441.38
+    },
+    {
+      "in": 443.41,
+      "out": 449.34
+    },
+    {
+      "in": 449.66,
+      "out": 451.69
+    }
+  ],
+  "zooms": [
+    {
+      "at": 15.57,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 23.73,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 41.75,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 53.22,
+      "dur": 2.4,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 36.66,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 54.61,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Jamel : les aires d'autoroute > les vacances au bled 😂🚗",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ],
+  "context_note": "Jamel Debbouze (Maintenant ou Jamel): the motorway rest stops on the way to Morocco were better than the holidays — and the flies back home that bite."
+}

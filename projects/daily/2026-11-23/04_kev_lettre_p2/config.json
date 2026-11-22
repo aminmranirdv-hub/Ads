@@ -1,0 +1,169 @@
+{
+ "trans_lang": "en",
+ "context_note": "Kev Adams (Marrakech du Rire 2022), part 2: his reply letter to his posh neighbour, in the same pompous style.",
+ "ranges": [
+  [
+   49,
+   68
+  ],
+  [
+   75,
+   79
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "PARTIE 2 : la réponse de Kev Adams à son voisin bourgeois 😂✉️",
+ "highlight_words": [
+  "saltimbanque",
+  "susdites",
+  "Kevin de Adams",
+  "sanglier",
+  "bourguignon",
+  "Maroc"
+ ],
+ "cues": {
+  "49": [
+   "J'ai écrit une lettre, Marrakech, j'ai",
+   "I wrote a letter, Marrakech, I gave it"
+  ],
+  "50": [
+   "tout donné.",
+   "everything."
+  ],
+  "51": [
+   "Je vous la lis.",
+   "I'll read it to you."
+  ],
+  "52": [
+   "On débriefe ensemble après, ok ?",
+   "We'll debrief afterwards, OK?"
+  ],
+  "53": [
+   "« Chers voisins,",
+   "\"Dear neighbours,"
+  ],
+  "54": [
+   "mes activités de saltimbanque m'entraînent",
+   "my activities as an entertainer take me,"
+  ],
+  "55": [
+   "de manière inopinée",
+   "unexpectedly,"
+  ],
+  "56": [
+   "en dehors des terres parisiennes, aux",
+   "away from Parisian lands on the"
+  ],
+  "57": [
+   "dates susdites. »",
+   "aforementioned dates.\""
+  ],
+  "58": [
+   "Il est pas facile à placer, « susdites ».",
+   "Not easy to slip in, \"aforementioned\"."
+  ],
+  "59": [
+   "« Toutefois,",
+   "\"However,"
+  ],
+  "60": [
+   "votre invitation trouve un écho favorable",
+   "your invitation finds a favourable echo"
+  ],
+  "61": [
+   "en moi.",
+   "in me."
+  ],
+  "62": [
+   "Et dès mon retour de mon fief",
+   "And as soon as I return from my Burgundy"
+  ],
+  "63": [
+   "bourguignon,",
+   "estate,"
+  ],
+  "64": [
+   "moi,",
+   "I,"
+  ],
+  "65": [
+   "Kevin de Adams,",
+   "Kevin de Adams,"
+  ],
+  "66": [
+   "je serai enchanté d'être votre convive",
+   "shall be delighted to be your guest"
+  ],
+  "67": [
+   "autour d'un breuvage ou d'un sanglier à",
+   "over a beverage or a wild boar at"
+  ],
+  "68": [
+   "notre convenance commune.",
+   "our mutual convenience."
+  ],
+  "75": [
+   "Dans cette attente, chers voisins, je vous",
+   "In the meantime, dear neighbours, please"
+  ],
+  "76": [
+   "prie de croire en l'assurance de ma",
+   "accept the assurance of my"
+  ],
+  "77": [
+   "considération la plus profonde.",
+   "deepest consideration."
+  ],
+  "78": [
+   "Bien à vous-même. Vive la France et vive",
+   "Yours truly. Long live France and long live"
+  ],
+  "79": [
+   "le Maroc. »",
+   "Morocco.\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "susdite",
+   "nth": 2,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "susdite",
+   "nth": 2,
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "Kevin",
+   "offset": -0.3,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "sanglier",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "Maroc",
+   "offset": -0.8,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "Maroc",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

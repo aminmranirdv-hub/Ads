@@ -426,5 +426,37 @@
     "status": "published (scheduled) IG+TikTok+FB 76 s, 2026-11-22 21:00 Paris",
     "vidiq_post_id": "a4343c03-6251-4f56-a5cf-1046c3a6a9d6",
     "youtube": null
+  },
+  {
+    "date": "2026-11-23",
+    "comedian": "Jamel Debbouze (aires de repos)",
+    "clip": "01_jamel_aires",
+    "status": "published (scheduled) TikTok+FB 2026-11-23 12:00 Paris (IG paused)",
+    "vidiq_post_id": "4bef0165-559a-4d3d-9d83-b58afb6a10f6",
+    "youtube": null
+  },
+  {
+    "date": "2026-11-23",
+    "comedian": "Ilyès Djadel (lycée catholique)",
+    "clip": "02_ilyes_lycee",
+    "status": "published (scheduled) TikTok+FB 2026-11-23 16:00 Paris (IG paused)",
+    "vidiq_post_id": "82031d9a-046a-4e39-b4f2-d7ce8ada6d20",
+    "youtube": null
+  },
+  {
+    "date": "2026-11-23",
+    "comedian": "Paul Mirabel (guide rando)",
+    "clip": "03_mirabel_rando",
+    "status": "published (scheduled) TikTok+FB 2026-11-23 18:30 Paris (IG paused)",
+    "vidiq_post_id": "d09cc914-b626-461a-8259-e3232f6f78e1",
+    "youtube": null
+  },
+  {
+    "date": "2026-11-23",
+    "comedian": "Kev Adams (lettre, Partie 2)",
+    "clip": "04_kev_lettre_p2",
+    "status": "published (scheduled) TikTok+FB 2026-11-23 21:00 Paris (IG paused)",
+    "vidiq_post_id": "7c6ddb15-fc05-4c70-a3de-096908de8720",
+    "youtube": null
   }
 ]
