@@ -47,3 +47,9 @@ ACTIONS:
 - Caption/hashtags on TikTok: add searchable words « humoriste français » + comedian name in line 1, hashtags #humoristefrancais #humourfrancais #<nomhumoriste>.
 - TikTok tolerates 2+ min when the bit is strong (50.9 s avg watch on a 2:18 clip): for TikTok, up to ~2:20 is OK for top bits; Facebook keeps 45-75 s.
 - Couple / relationship topics = top shareable theme: prioritise them.
+
+## 📘 FACEBOOK (owner screenshots 2026-11-22, 28 days)
+408.6K views (216K 3-s views, 60K 1-min views) · 249K viewers · 11K interactions · 0 $ revenue. Meta tip: more views when posting ~3.9×/day regularly.
+Best reel: 67K views, 43K viewers, ~55 s long, retention stays ~50 % to the end (flat curve = whole bit watched), 1.9K reactions, 153 « haha », 20 shares, 98 % non-followers.
+Audience: 25-34 32 %, 35-44 29 %, 45-54 15.5 % (older than TikTok). Countries: France 31.6 %, **Cameroon 19.2 %, DR Congo 8.5 %**, other 41 %.
+ACTIONS: FB stays 45-60 s single bit; regular 4-6/day; add African francophone comedians (Cameroon/Congo: e.g. Michel Gohou, Le Magnific, Eric Blanc, Digbeu Cravate, Moussa Petit Sergent, Agalawal, Les Bobodiouf) alongside French stars; family/couple topics for 25-44.
