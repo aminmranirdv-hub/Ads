@@ -1,0 +1,181 @@
+{
+ "trans_lang": "en",
+ "context_note": "Maxime Gasteuil (Marrakech du Rire 2022): how guys tell their girlfriend they're going out — the Parisian in English vs him.",
+ "ranges": [
+  [
+   1,
+   24
+  ],
+  [
+   27,
+   30
+  ]
+ ],
+ "end_pad": 2.5,
+ "hook": "Comment les mecs préviennent leur copine 😂📱",
+ "highlight_words": [
+  "honey",
+  "brainstorm",
+  "Uber",
+  "rôti",
+  "canapé"
+ ],
+ "cues": {
+  "1": [
+   "Il y a des styles de mecs aussi, avant de",
+   "There are types of guys too, before"
+  ],
+  "2": [
+   "sortir, quand tu préviens ta nana.",
+   "going out, when you tell your girl."
+  ],
+  "3": [
+   "Il y a le Parisien, un mec un peu",
+   "There's the Parisian, a bit of a"
+  ],
+  "4": [
+   "faiblard,",
+   "wimp,"
+  ],
+  "5": [
+   "un peu sur lui-même.",
+   "a bit uptight."
+  ],
+  "6": [
+   "Celui qui parle qu'en anglais,",
+   "The one who only speaks English,"
+  ],
+  "7": [
+   "il prévient en anglais qu'il sort :",
+   "he announces he's going out in English:"
+  ],
+  "8": [
+   "« Hey honey,",
+   "\"Hey honey,"
+  ],
+  "9": [
+   "yes darling.",
+   "yes darling."
+  ],
+  "10": [
+   "Je sors de meeting là, ouais, gros",
+   "Just out of a meeting, yeah, big"
+  ],
+  "11": [
+   "brainstorm.",
+   "brainstorm."
+  ],
+  "12": [
+   "Je vais take a drink en after-work, c",
+   "Going to take a drink at after-work,"
+  ],
+  "13": [
+   "'est happy hour.",
+   "it's happy hour."
+  ],
+  "14": [
+   "Je rentrerai late en Uber. »",
+   "I'll be back late by Uber.\""
+  ],
+  "15": [
+   "Tu veux que je t'aplatisse le visage",
+   "You want me to flatten your face,"
+  ],
+  "16": [
+   "toi ?",
+   "you?"
+  ],
+  "17": [
+   "Moi, j'ai toujours",
+   "Me, I always"
+  ],
+  "18": [
+   "appelé mes nanas comme ça :",
+   "called my girlfriends like this:"
+  ],
+  "19": [
+   "« Allô",
+   "\"Hello"
+  ],
+  "20": [
+   "? Oui mon amour, tu m'entends ?",
+   "? Yes my love, can you hear me?"
+  ],
+  "21": [
+   "Oui, mon petit rôti de veau, tu m'entends",
+   "Yes, my little veal roast, can you hear me"
+  ],
+  "22": [
+   "? Ce soir, je me",
+   "? Tonight I'm getting"
+  ],
+  "23": [
+   "fracasse la gueule !",
+   "smashed!"
+  ],
+  "24": [
+   "Je rentrerai quand je rentrerai.",
+   "I'll be home when I'm home."
+  ],
+  "27": [
+   "Écoute, te casse pas la tête, je dormirai",
+   "Listen, don't bother, I'll sleep"
+  ],
+  "28": [
+   "sur le canapé.",
+   "on the couch."
+  ],
+  "29": [
+   "Allez, bisous, je t'aime. »",
+   "Love you, kisses.\""
+  ],
+  "30": [
+   "C'est votre mot, ça, les filles : canapé !",
+   "That's your word, ladies: the couch!"
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "anglais",
+   "nth": 1,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "Uber",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "visage",
+   "offset": -0.6,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "fracasse",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "canapé",
+   "nth": 2,
+   "offset": -0.8,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "canapé",
+   "nth": 2,
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

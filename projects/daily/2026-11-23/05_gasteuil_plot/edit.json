@@ -1,0 +1,96 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.12,
+      "x1": 0.88,
+      "y0": 0.05,
+      "y1": 0.86
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-23_gasteuil_plot",
+  "comedian": "Maxime Gasteuil",
+  "source": {
+    "file": "source.mp4",
+    "title": "Marrakech du rire 2022 - Spectacle complet",
+    "url": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6749s",
+    "channel": "to verify (full-show upload)"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "poulpes",
+    "Ludo",
+    "panneaux",
+    "feux",
+    "plot",
+    "Pesquet"
+  ],
+  "context_note": "Maxime Gasteuil (Marrakech du Rire 2022): drunk friends leaving the club at closing time and stealing road signs and traffic cones.",
+  "segments": [
+    {
+      "in": 2.39,
+      "out": 34.14
+    },
+    {
+      "in": 31.99,
+      "out": 66.7
+    },
+    {
+      "in": 64.19,
+      "out": 71.0
+    }
+  ],
+  "zooms": [
+    {
+      "at": 7.45,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 44.64,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 58.7,
+      "dur": 2.4,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 22.36,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 49.99,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 69.95,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Ton pote bourré à la sortie de boîte 😂🚧",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}

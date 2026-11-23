@@ -1,462 +1,488 @@
 [
-  {
-    "date": "2026-11-12",
-    "comedian": "Gad Elmaleh",
-    "clip": "01_gad_elmaleh_merci_la_vie",
-    "status": "PUBLISHED 2026-11-12 ~09:45 Paris: IG https://www.instagram.com/reel/DfopkluCHYt/ FB https://www.facebook.com/reel/1409673324259100; TikTok added (same time)",
-    "vidiq_post_id": "b3ae0043-4e55-4e06-8f03-ad502c19da4b",
-    "youtube": "https://www.youtube.com/watch?v=194m902V3Ds (public now)"
-  },
-  {
-    "date": "2026-11-12",
-    "comedian": "Gabriel Iglesias",
-    "clip": "02_gabriel_iglesias_black_siri",
-    "status": "scheduled IG+FB 2026-11-12 21:00 Paris; TikTok added (same time)",
-    "vidiq_post_id": "8d127380-6249-46d5-a95a-7d7f3da4ad0d",
-    "youtube": "https://www.youtube.com/watch?v=H1N8lLi87Bo (public 21:00)"
-  },
-  {
-    "date": "2026-11-12",
-    "comedian": "Rachid El Baz & Tarek Badir",
-    "clip": "03_standup_alaoula_rachid_el_baz_tarek_badir",
-    "status": "skipped: Darija audio not transcribable reliably (drill shouting); replaced by Jamel Debbouze"
-  },
-  {
-    "date": "2026-11-12",
-    "comedian": "Redouane Bougheraba",
-    "clip": "04_redouane_bougheraba_controleurs",
-    "status": "scheduled IG+FB 2026-11-12 13:00 Paris; TikTok added (same time)",
-    "vidiq_post_id": "f4fc9dd0-906f-4306-8959-6d3d2d087bf1",
-    "youtube": "https://www.youtube.com/watch?v=CtASEqziLpQ (public 19:00)"
-  },
-  {
-    "date": "2026-11-12",
-    "comedian": "Jamel Debbouze",
-    "clip": "03_jamel_debbouze_ninjas",
-    "status": "scheduled IG+FB 2026-11-12 18:00 Paris; TikTok added (same time)",
-    "vidiq_post_id": "c2fd682d-1a05-43d4-85b4-1eb7b5ccdb1b",
-    "youtube": "https://www.youtube.com/watch?v=oC6JVmkqgnk (public 20:00)"
-  },
-  {
-    "date": "2026-11-13",
-    "comedian": "Blanche Gardin",
-    "clip": "01_blanche_gardin",
-    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-13 23:00 Paris",
-    "vidiq_post_id": "99312163-c2fb-4e41-ae1c-ceafdf2015a4"
-  },
-  {
-    "date": "2026-11-13",
-    "comedian": "Rachid Badouri",
-    "clip": "02_rachid_badouri",
-    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-14 09:30 Paris",
-    "vidiq_post_id": "986aa832-80d6-4a70-81a9-3a1fe1786122"
-  },
-  {
-    "date": "2026-11-13",
-    "comedian": "Sebastian Marx",
-    "clip": "03_sebastian_marx",
-    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-13 20:00 Paris",
-    "vidiq_post_id": "6becae9d-463a-4ec7-b718-f585670b65e8"
-  },
-  {
-    "date": "2026-11-13",
-    "comedian": "Pierre Croce",
-    "clip": "04_pierre_croce",
-    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-13 21:00 Paris",
-    "vidiq_post_id": "61bc8f76-dd1e-4626-ab0b-bf3b478612ed"
-  },
-  {
-    "date": "2026-11-13",
-    "comedian": "Guillermo Guizz",
-    "clip": "05_guillermo_guizz",
-    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-13 22:00 Paris",
-    "vidiq_post_id": "cccfc554-6675-41d8-a1a8-de75c830a9b7"
-  },
-  {
-    "date": "2026-11-14",
-    "comedian": "Ilyès Djadel",
-    "clip": "01_ilyes_djadel",
-    "source": "https://www.youtube.com/watch?v=pM49eqvO-lE",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-14 22:00 Paris (standing approval; run delayed by worker restart)",
-    "vidiq_post_id": "c1d064f4-8233-4474-a7e0-4b337ce4bc1c",
-    "youtube": "https://www.youtube.com/watch?v=H0M-5OwAci4"
-  },
-  {
-    "date": "2026-11-14",
-    "comedian": "Sarah Lélé",
-    "clip": "02_sarah_lele",
-    "source": "https://www.youtube.com/watch?v=xlhQLTOMFaE (Tipik/Namur is a Joke, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 11:00 Paris (standing approval; run delayed by worker restart)",
-    "vidiq_post_id": "835162a9-7b5c-4381-a585-9b0641b7e9c2",
-    "youtube": "https://www.youtube.com/watch?v=nargRLB8yWE"
-  },
-  {
-    "date": "2026-11-14",
-    "comedian": "Vérino",
-    "clip": "03_verino",
-    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=1628s",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 13:00 Paris (standing approval; run delayed by worker restart)",
-    "vidiq_post_id": "f3db13c8-9675-42f5-9089-c24afe32cc10",
-    "youtube": "https://www.youtube.com/watch?v=gCNXiA1lrXk"
-  },
-  {
-    "date": "2026-11-14",
-    "comedian": "Nathanaël Rochat",
-    "clip": "04_nathanael_rochat",
-    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=2222s",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 16:00 Paris (standing approval; run delayed by worker restart)",
-    "vidiq_post_id": "f9f90e09-aaa6-4e95-b115-3213276f994f",
-    "youtube": "https://www.youtube.com/watch?v=ylwSSP5cspg"
-  },
-  {
-    "date": "2026-11-14",
-    "comedian": "P.E.",
-    "clip": "05_pe",
-    "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=3476s",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 18:00 Paris (standing approval; run delayed by worker restart)",
-    "vidiq_post_id": "2462515c-5bcb-4b5c-bd43-206db76ff419",
-    "youtube": "https://www.youtube.com/watch?v=OrYN4LuUf2U"
-  },
-  {
-    "date": "2026-11-15",
-    "comedian": "Booder (with Jamel Debbouze)",
-    "clip": "01_booder",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=7960s (full-show upload, channel not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 21:00 Paris (standing approval)",
-    "vidiq_post_id": "00b2abe8-33f1-4c89-8223-9f3d94249ade"
-  },
-  {
-    "date": "2026-11-16",
-    "comedian": "Malik Bentalha",
-    "clip": "01_malik_bentalha",
-    "source": "https://www.youtube.com/watch?v=xMdfaaEF-u8 (Marrakech du Rire 2018 - Le Frigo; channel not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-16 11:00 Paris (owner asked 2026-11-15; built ahead of the daily run)",
-    "vidiq_post_id": "08071c56-4542-4e1b-9153-b3587d99567d",
-    "youtube": "https://www.youtube.com/watch?v=VfXs9zV7KN4"
-  },
-  {
-    "date": "2026-11-16",
-    "comedian": "Sarah Lélé",
-    "clip": "02_sarah_lele",
-    "source": "https://www.youtube.com/watch?v=xlhQLTOMFaE&t=309s (Tipik upload)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-16 13:00 Paris (owner lineup, standing approval)",
-    "vidiq_post_id": "35ff1448-5c78-41ec-ab1d-8c992d25051e",
-    "youtube": "https://www.youtube.com/watch?v=JI4HgCkvHws"
-  },
-  {
-    "date": "2026-11-16",
-    "comedian": "Jamel Debbouze",
-    "clip": "03_jamel_debbouze",
-    "source": "https://www.youtube.com/watch?v=363RgMenp1g&t=386s (CANAL+ official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-16 16:00 Paris (owner lineup, standing approval)",
-    "vidiq_post_id": "cc92b629-50e3-40bd-bd17-ca4e51bc9f4e",
-    "youtube": "https://www.youtube.com/watch?v=JaC-QC1WIR8"
-  },
-  {
-    "date": "2026-11-16",
-    "comedian": "Gad Elmaleh",
-    "clip": "04_gad_elmaleh",
-    "source": "https://www.youtube.com/watch?v=Dyy-KRkdE2c&t=59s (ComediHa! official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-16 18:00 Paris (owner lineup, standing approval)",
-    "vidiq_post_id": "208eb9ba-a7dc-4608-9205-35c20fc6850e",
-    "youtube": "https://www.youtube.com/watch?v=6SZuj69HM8s"
-  },
-  {
-    "date": "2026-11-16",
-    "comedian": "Booder (Partie 2, with Jamel & Mbappé)",
-    "clip": "05_booder_partie2",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=8065s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-16 21:00 Paris (owner lineup, standing approval)",
-    "vidiq_post_id": "ae124302-df4a-481a-93b9-738cf9f73da0",
-    "youtube": "https://www.youtube.com/watch?v=qP1Ep8iedl4"
-  },
-  {
-    "date": "2026-11-17",
-    "comedian": "Jamel Debbouze (César 2023, Partie 2)",
-    "clip": "05_jamel_cesar_p2",
-    "source": "https://www.youtube.com/watch?v=363RgMenp1g",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 21:00 Paris",
-    "vidiq_post_id": "1c401eec-3dfb-4159-848e-6b4d365cb4e9",
-    "youtube": "https://www.youtube.com/watch?v=gNB8pjUfupY"
-  },
-  {
-    "date": "2026-11-17",
-    "comedian": "Nawel Madani",
-    "clip": "04_nawel_madani",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=2517s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 18:00 Paris",
-    "vidiq_post_id": "5f9da5fe-c80b-4b28-91af-8005b3741d65",
-    "youtube": "https://www.youtube.com/watch?v=qpX4as22Wo0"
-  },
-  {
-    "date": "2026-11-17",
-    "comedian": "Camille Lellouche & Jamel Debbouze",
-    "clip": "03_camille_lellouche",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=4541s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 16:00 Paris",
-    "vidiq_post_id": "8ddc08d0-06e1-40ad-adde-1657c9fec62b",
-    "youtube": "https://www.youtube.com/watch?v=lPCBuiq4PCc"
-  },
-  {
-    "date": "2026-11-17",
-    "comedian": "Jarry",
-    "clip": "01_jarry",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=3185s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 11:00 Paris",
-    "vidiq_post_id": "666d17c7-d180-4757-bb21-38c54ff18422",
-    "youtube": "https://www.youtube.com/watch?v=83X3dVBLVec"
-  },
-  {
-    "date": "2026-11-17",
-    "comedian": "Elie Semoun",
-    "clip": "02_elie_semoun",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=5832s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 13:00 Paris",
-    "vidiq_post_id": "6cb5e1a1-00d2-4b9e-8009-191b1a224ed0",
-    "youtube": "https://www.youtube.com/watch?v=CKYX2rPdZF8"
-  },
-  {
-    "date": "2026-11-18",
-    "comedian": "Jamel Debbouze (César 2023, Partie 3 — ninjas)",
-    "clip": "05_jamel_cesar_p3",
-    "source": "https://www.youtube.com/watch?v=363RgMenp1g&t=540s",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 21:00 Paris",
-    "vidiq_post_id": "ee42ad34-4b43-4161-bf00-22c7ef880064",
-    "youtube": "https://www.youtube.com/watch?v=y2G2Kf4Opps"
-  },
-  {
-    "date": "2026-11-18",
-    "comedian": "Alban Ivanov",
-    "clip": "04_alban_ivanov",
-    "source": "https://www.youtube.com/watch?v=6Ts0foAxeXw (Alban Ivanov (Marrakech du rire), to verify)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 16:00 Paris",
-    "vidiq_post_id": "a6cf1a5e-e645-4612-80b6-ba5d5cac10a6",
-    "youtube": "https://www.youtube.com/watch?v=zV8x8qY9a18"
-  },
-  {
-    "date": "2026-11-18",
-    "comedian": "Gad Elmaleh (couple / sommeil)",
-    "clip": "03_gad_elmaleh",
-    "source": "https://www.youtube.com/watch?v=Dyy-KRkdE2c&t=169s (ComediHa! official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 18:00 Paris",
-    "vidiq_post_id": "1e0e0a75-b7d1-49b9-a163-eca0e863d65b",
-    "youtube": "https://www.youtube.com/watch?v=-kpa15Lwem8"
-  },
-  {
-    "date": "2026-11-18",
-    "comedian": "Ilyès Djadel (Lourdes, Marrakech du Rire 2022)",
-    "clip": "01_ilyes_djadel",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6412s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 17:00 Paris",
-    "vidiq_post_id": "fb00d5be-772f-4f6d-9d70-21115d9ae612",
-    "youtube": "https://www.youtube.com/watch?v=WO1DC33miSg"
-  },
-  {
-    "date": "2026-11-18",
-    "comedian": "Maxime Gasteuil",
-    "clip": "02_maxime_gasteuil",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6933s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 19:30 Paris",
-    "vidiq_post_id": "cdd79bec-9ee5-40e4-9f31-d848bf5c2442",
-    "youtube": "https://www.youtube.com/watch?v=mbwKp4UxqHE"
-  },
-  {
-    "date": "2026-11-19",
-    "comedian": "Booder & Jamel (Partie 3, Mbappé + « Patrick Bruel »)",
-    "clip": "05_booder_partie3",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=8199s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-19 21:00 Paris",
-    "vidiq_post_id": "14382011-6c8b-4a16-ac2c-7b138008c11f",
-    "youtube": "https://www.youtube.com/watch?v=RMb7HLnvai8"
-  },
-  {
-    "date": "2026-11-19",
-    "comedian": "Caroline Vigneaux",
-    "clip": "02_caroline_vigneaux",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=7165s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-19 13:00 Paris",
-    "vidiq_post_id": "d8624c52-b3d5-454b-9300-8cd1c6576647",
-    "youtube": "https://www.youtube.com/watch?v=rri_DmIhdQ4"
-  },
-  {
-    "date": "2026-11-19",
-    "comedian": "Kev Adams",
-    "clip": "04_kev_adams",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=1608s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-19 18:00 Paris",
-    "vidiq_post_id": "ff91ee0f-62ce-4cdf-9252-5893787911c9",
-    "youtube": "https://www.youtube.com/watch?v=XzJftajEPv4"
-  },
-  {
-    "date": "2026-11-19",
-    "comedian": "Paul Mirabel",
-    "clip": "03_paul_mirabel",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=5067s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-19 16:00 Paris",
-    "vidiq_post_id": "c8629b9b-e7ab-4ad7-8cf3-73edd7fca817",
-    "youtube": "https://www.youtube.com/watch?v=RDFDbp739Fc"
-  },
-  {
-    "date": "2026-11-19",
-    "comedian": "Redouane Harjane",
-    "clip": "01_redouane_harjane",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=7481s (full-show upload, not verified official)",
-    "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-19 11:00 Paris",
-    "vidiq_post_id": "68dd0aab-eb1f-46f2-8661-adfefa276454",
-    "youtube": "https://www.youtube.com/watch?v=bjon7KlrArk"
-  },
-  {
-    "date": "2026-11-20",
-    "comedian": "D'jal",
-    "clip": "02_djal_maroc",
-    "source": "https://www.youtube.com/watch?v=dvOlpXZV4ZA",
-    "status": "published (scheduled) IG+TikTok (long 2:26) + FB (60s cut) 2026-11-20 14:00 Paris",
-    "vidiq_post_id": "221ec4dd-6e3d-46aa-8b83-5f44b320598a",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-20",
-    "comedian": "Ahmed Sylla",
-    "clip": "01_ahmed_sylla",
-    "source": "https://www.youtube.com/watch?v=YpEqPvp1Z_o",
-    "status": "published (scheduled) IG+TikTok (long 3:12) + FB (51s cut) 2026-11-20 16:00 Paris",
-    "vidiq_post_id": "1bd22fd8-dab3-4228-a5e1-64de978eb5ed",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-20",
-    "comedian": "Jamel Debbouze (vacances au bled — gnous, owner request)",
-    "clip": "05_jamel_vacances",
-    "source": "https://www.youtube.com/watch?v=n8mPjor58HM",
-    "status": "published (scheduled) IG+TikTok (long 2:30) + FB (61s cut) 2026-11-20 21:00 Paris",
-    "vidiq_post_id": "37666d1b-e5db-4466-9473-5acb45c3a57e",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-20",
-    "comedian": "Djamil le Schlag",
-    "clip": "03_djamil_schlag",
-    "source": "https://www.youtube.com/watch?v=MM6uO2o1J2E",
-    "status": "published (scheduled) IG+TikTok (long 2:49, .ig.mp4) + FB (53s cut) 2026-11-20 18:00 Paris",
-    "vidiq_post_id": "a7dfc217-aa50-4a24-ada3-e21b3add634d",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-20",
-    "comedian": "Alban Ivanov (javelot)",
-    "clip": "04_alban_javelot",
-    "source": "https://www.youtube.com/watch?v=6Ts0foAxeXw&t=196s",
-    "status": "published (scheduled) IG+TikTok (long 3:00) + FB (54s cut) 2026-11-20 19:30 Paris",
-    "vidiq_post_id": "5d2b982e-8d84-451f-827c-a872b32878c5",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-21",
-    "comedian": "Paul Mirabel (sport)",
-    "clip": "02_paul_mirabel_sport",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=5372s",
-    "status": "published (scheduled) IG+TikTok+FB, ONE short edit (51-75 s, new growth rules) 2026-11-21 12:00 Paris",
-    "vidiq_post_id": "51da598f-5052-4daf-b775-6f4320688e73",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-21",
-    "comedian": "D'jal (grand-mère sorcière)",
-    "clip": "03_djal_grandmere",
-    "source": "https://www.youtube.com/watch?v=dvOlpXZV4ZA",
-    "status": "published (scheduled) IG+TikTok+FB, ONE short edit (51-75 s, new growth rules) 2026-11-21 16:00 Paris",
-    "vidiq_post_id": "ef19fd34-3ba4-4855-848e-3c14d90b9cc0",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-21",
-    "comedian": "Kev Adams (hammam)",
-    "clip": "01_kev_hammam",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=1745s",
-    "status": "published (scheduled) IG+TikTok+FB, ONE short edit (51-75 s, new growth rules) 2026-11-21 18:30 Paris",
-    "vidiq_post_id": "0f4baf47-b2ba-4e29-9cc4-a9ba557f194c",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-21",
-    "comedian": "Jamel Debbouze (psy — père)",
-    "clip": "04_jamel_pere",
-    "source": "https://www.youtube.com/watch?v=n8mPjor58HM",
-    "status": "published (scheduled) IG+TikTok+FB, ONE short edit (51-75 s, new growth rules) 2026-11-21 21:00 Paris",
-    "vidiq_post_id": "1b0325d5-68bc-40b2-9041-2b8eb27754ef",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-22",
-    "comedian": "Ilyès Djadel (faux cils)",
-    "clip": "01_ilyes_cils",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6150s",
-    "status": "published (scheduled) IG+TikTok+FB 62 s, 2026-11-22 12:00 Paris",
-    "vidiq_post_id": "986789e3-3957-4aa6-aab5-ff4a9e83a75c",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-22",
-    "comedian": "Maxime Gasteuil (DJ Thierry)",
-    "clip": "02_gasteuil_dj",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6749s",
-    "status": "published (scheduled) IG+TikTok+FB 48 s, 2026-11-22 16:00 Paris",
-    "vidiq_post_id": "4dee522b-3841-44f6-98ef-5083fb628b52",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-22",
-    "comedian": "Kev Adams (lettre du voisin, Partie 1)",
-    "clip": "03_kev_lettre_p1",
-    "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=1818s",
-    "status": "published (scheduled) IG+TikTok+FB 73 s, 2026-11-22 18:30 Paris. PARTIE 2 (his reply, cues 49-79 of the same cut) promised for 2026-11-23 21:00",
-    "vidiq_post_id": "186e3a5b-5085-4bd2-ab61-ec7bafffe5cd",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-22",
-    "comedian": "Jamel Debbouze (psy, Partie 2 famille)",
-    "clip": "04_jamel_famille",
-    "source": "https://www.youtube.com/watch?v=n8mPjor58HM",
-    "status": "published (scheduled) IG+TikTok+FB 76 s, 2026-11-22 21:00 Paris",
-    "vidiq_post_id": "a4343c03-6251-4f56-a5cf-1046c3a6a9d6",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-23",
-    "comedian": "Jamel Debbouze (aires de repos)",
-    "clip": "01_jamel_aires",
-    "status": "published (scheduled) TikTok+FB 2026-11-23 12:00 Paris (IG paused)",
-    "vidiq_post_id": "4bef0165-559a-4d3d-9d83-b58afb6a10f6",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-23",
-    "comedian": "Ilyès Djadel (lycée catholique)",
-    "clip": "02_ilyes_lycee",
-    "status": "published (scheduled) TikTok+FB 2026-11-23 16:00 Paris (IG paused)",
-    "vidiq_post_id": "82031d9a-046a-4e39-b4f2-d7ce8ada6d20",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-23",
-    "comedian": "Paul Mirabel (guide rando)",
-    "clip": "03_mirabel_rando",
-    "status": "published (scheduled) TikTok+FB 2026-11-23 18:30 Paris (IG paused)",
-    "vidiq_post_id": "d09cc914-b626-461a-8259-e3232f6f78e1",
-    "youtube": null
-  },
-  {
-    "date": "2026-11-23",
-    "comedian": "Kev Adams (lettre, Partie 2)",
-    "clip": "04_kev_lettre_p2",
-    "status": "published (scheduled) TikTok+FB 2026-11-23 21:00 Paris (IG paused)",
-    "vidiq_post_id": "7c6ddb15-fc05-4c70-a3de-096908de8720",
-    "youtube": null
-  }
+ {
+  "date": "2026-11-12",
+  "comedian": "Gad Elmaleh",
+  "clip": "01_gad_elmaleh_merci_la_vie",
+  "status": "PUBLISHED 2026-11-12 ~09:45 Paris: IG https://www.instagram.com/reel/DfopkluCHYt/ FB https://www.facebook.com/reel/1409673324259100; TikTok added (same time)",
+  "vidiq_post_id": "b3ae0043-4e55-4e06-8f03-ad502c19da4b",
+  "youtube": "https://www.youtube.com/watch?v=194m902V3Ds (public now)"
+ },
+ {
+  "date": "2026-11-12",
+  "comedian": "Gabriel Iglesias",
+  "clip": "02_gabriel_iglesias_black_siri",
+  "status": "scheduled IG+FB 2026-11-12 21:00 Paris; TikTok added (same time)",
+  "vidiq_post_id": "8d127380-6249-46d5-a95a-7d7f3da4ad0d",
+  "youtube": "https://www.youtube.com/watch?v=H1N8lLi87Bo (public 21:00)"
+ },
+ {
+  "date": "2026-11-12",
+  "comedian": "Rachid El Baz & Tarek Badir",
+  "clip": "03_standup_alaoula_rachid_el_baz_tarek_badir",
+  "status": "skipped: Darija audio not transcribable reliably (drill shouting); replaced by Jamel Debbouze"
+ },
+ {
+  "date": "2026-11-12",
+  "comedian": "Redouane Bougheraba",
+  "clip": "04_redouane_bougheraba_controleurs",
+  "status": "scheduled IG+FB 2026-11-12 13:00 Paris; TikTok added (same time)",
+  "vidiq_post_id": "f4fc9dd0-906f-4306-8959-6d3d2d087bf1",
+  "youtube": "https://www.youtube.com/watch?v=CtASEqziLpQ (public 19:00)"
+ },
+ {
+  "date": "2026-11-12",
+  "comedian": "Jamel Debbouze",
+  "clip": "03_jamel_debbouze_ninjas",
+  "status": "scheduled IG+FB 2026-11-12 18:00 Paris; TikTok added (same time)",
+  "vidiq_post_id": "c2fd682d-1a05-43d4-85b4-1eb7b5ccdb1b",
+  "youtube": "https://www.youtube.com/watch?v=oC6JVmkqgnk (public 20:00)"
+ },
+ {
+  "date": "2026-11-13",
+  "comedian": "Blanche Gardin",
+  "clip": "01_blanche_gardin",
+  "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-13 23:00 Paris",
+  "vidiq_post_id": "99312163-c2fb-4e41-ae1c-ceafdf2015a4"
+ },
+ {
+  "date": "2026-11-13",
+  "comedian": "Rachid Badouri",
+  "clip": "02_rachid_badouri",
+  "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-14 09:30 Paris",
+  "vidiq_post_id": "986aa832-80d6-4a70-81a9-3a1fe1786122"
+ },
+ {
+  "date": "2026-11-13",
+  "comedian": "Sebastian Marx",
+  "clip": "03_sebastian_marx",
+  "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-13 20:00 Paris",
+  "vidiq_post_id": "6becae9d-463a-4ec7-b718-f585670b65e8"
+ },
+ {
+  "date": "2026-11-13",
+  "comedian": "Pierre Croce",
+  "clip": "04_pierre_croce",
+  "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-13 21:00 Paris",
+  "vidiq_post_id": "61bc8f76-dd1e-4626-ab0b-bf3b478612ed"
+ },
+ {
+  "date": "2026-11-13",
+  "comedian": "Guillermo Guizz",
+  "clip": "05_guillermo_guizz",
+  "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-13 22:00 Paris",
+  "vidiq_post_id": "cccfc554-6675-41d8-a1a8-de75c830a9b7"
+ },
+ {
+  "date": "2026-11-14",
+  "comedian": "Ilyès Djadel",
+  "clip": "01_ilyes_djadel",
+  "source": "https://www.youtube.com/watch?v=pM49eqvO-lE",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-14 22:00 Paris (standing approval; run delayed by worker restart)",
+  "vidiq_post_id": "c1d064f4-8233-4474-a7e0-4b337ce4bc1c",
+  "youtube": "https://www.youtube.com/watch?v=H0M-5OwAci4"
+ },
+ {
+  "date": "2026-11-14",
+  "comedian": "Sarah Lélé",
+  "clip": "02_sarah_lele",
+  "source": "https://www.youtube.com/watch?v=xlhQLTOMFaE (Tipik/Namur is a Joke, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 11:00 Paris (standing approval; run delayed by worker restart)",
+  "vidiq_post_id": "835162a9-7b5c-4381-a585-9b0641b7e9c2",
+  "youtube": "https://www.youtube.com/watch?v=nargRLB8yWE"
+ },
+ {
+  "date": "2026-11-14",
+  "comedian": "Vérino",
+  "clip": "03_verino",
+  "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=1628s",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 13:00 Paris (standing approval; run delayed by worker restart)",
+  "vidiq_post_id": "f3db13c8-9675-42f5-9089-c24afe32cc10",
+  "youtube": "https://www.youtube.com/watch?v=gCNXiA1lrXk"
+ },
+ {
+  "date": "2026-11-14",
+  "comedian": "Nathanaël Rochat",
+  "clip": "04_nathanael_rochat",
+  "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=2222s",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 16:00 Paris (standing approval; run delayed by worker restart)",
+  "vidiq_post_id": "f9f90e09-aaa6-4e95-b115-3213276f994f",
+  "youtube": "https://www.youtube.com/watch?v=ylwSSP5cspg"
+ },
+ {
+  "date": "2026-11-14",
+  "comedian": "P.E.",
+  "clip": "05_pe",
+  "source": "https://www.youtube.com/watch?v=gPnTQWWEZzg&t=3476s",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 18:00 Paris (standing approval; run delayed by worker restart)",
+  "vidiq_post_id": "2462515c-5bcb-4b5c-bd43-206db76ff419",
+  "youtube": "https://www.youtube.com/watch?v=OrYN4LuUf2U"
+ },
+ {
+  "date": "2026-11-15",
+  "comedian": "Booder (with Jamel Debbouze)",
+  "clip": "01_booder",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=7960s (full-show upload, channel not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-15 21:00 Paris (standing approval)",
+  "vidiq_post_id": "00b2abe8-33f1-4c89-8223-9f3d94249ade"
+ },
+ {
+  "date": "2026-11-16",
+  "comedian": "Malik Bentalha",
+  "clip": "01_malik_bentalha",
+  "source": "https://www.youtube.com/watch?v=xMdfaaEF-u8 (Marrakech du Rire 2018 - Le Frigo; channel not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-16 11:00 Paris (owner asked 2026-11-15; built ahead of the daily run)",
+  "vidiq_post_id": "08071c56-4542-4e1b-9153-b3587d99567d",
+  "youtube": "https://www.youtube.com/watch?v=VfXs9zV7KN4"
+ },
+ {
+  "date": "2026-11-16",
+  "comedian": "Sarah Lélé",
+  "clip": "02_sarah_lele",
+  "source": "https://www.youtube.com/watch?v=xlhQLTOMFaE&t=309s (Tipik upload)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-16 13:00 Paris (owner lineup, standing approval)",
+  "vidiq_post_id": "35ff1448-5c78-41ec-ab1d-8c992d25051e",
+  "youtube": "https://www.youtube.com/watch?v=JI4HgCkvHws"
+ },
+ {
+  "date": "2026-11-16",
+  "comedian": "Jamel Debbouze",
+  "clip": "03_jamel_debbouze",
+  "source": "https://www.youtube.com/watch?v=363RgMenp1g&t=386s (CANAL+ official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-16 16:00 Paris (owner lineup, standing approval)",
+  "vidiq_post_id": "cc92b629-50e3-40bd-bd17-ca4e51bc9f4e",
+  "youtube": "https://www.youtube.com/watch?v=JaC-QC1WIR8"
+ },
+ {
+  "date": "2026-11-16",
+  "comedian": "Gad Elmaleh",
+  "clip": "04_gad_elmaleh",
+  "source": "https://www.youtube.com/watch?v=Dyy-KRkdE2c&t=59s (ComediHa! official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-16 18:00 Paris (owner lineup, standing approval)",
+  "vidiq_post_id": "208eb9ba-a7dc-4608-9205-35c20fc6850e",
+  "youtube": "https://www.youtube.com/watch?v=6SZuj69HM8s"
+ },
+ {
+  "date": "2026-11-16",
+  "comedian": "Booder (Partie 2, with Jamel & Mbappé)",
+  "clip": "05_booder_partie2",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=8065s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-16 21:00 Paris (owner lineup, standing approval)",
+  "vidiq_post_id": "ae124302-df4a-481a-93b9-738cf9f73da0",
+  "youtube": "https://www.youtube.com/watch?v=qP1Ep8iedl4"
+ },
+ {
+  "date": "2026-11-17",
+  "comedian": "Jamel Debbouze (César 2023, Partie 2)",
+  "clip": "05_jamel_cesar_p2",
+  "source": "https://www.youtube.com/watch?v=363RgMenp1g",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 21:00 Paris",
+  "vidiq_post_id": "1c401eec-3dfb-4159-848e-6b4d365cb4e9",
+  "youtube": "https://www.youtube.com/watch?v=gNB8pjUfupY"
+ },
+ {
+  "date": "2026-11-17",
+  "comedian": "Nawel Madani",
+  "clip": "04_nawel_madani",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=2517s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 18:00 Paris",
+  "vidiq_post_id": "5f9da5fe-c80b-4b28-91af-8005b3741d65",
+  "youtube": "https://www.youtube.com/watch?v=qpX4as22Wo0"
+ },
+ {
+  "date": "2026-11-17",
+  "comedian": "Camille Lellouche & Jamel Debbouze",
+  "clip": "03_camille_lellouche",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=4541s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 16:00 Paris",
+  "vidiq_post_id": "8ddc08d0-06e1-40ad-adde-1657c9fec62b",
+  "youtube": "https://www.youtube.com/watch?v=lPCBuiq4PCc"
+ },
+ {
+  "date": "2026-11-17",
+  "comedian": "Jarry",
+  "clip": "01_jarry",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=3185s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 11:00 Paris",
+  "vidiq_post_id": "666d17c7-d180-4757-bb21-38c54ff18422",
+  "youtube": "https://www.youtube.com/watch?v=83X3dVBLVec"
+ },
+ {
+  "date": "2026-11-17",
+  "comedian": "Elie Semoun",
+  "clip": "02_elie_semoun",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=5832s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-17 13:00 Paris",
+  "vidiq_post_id": "6cb5e1a1-00d2-4b9e-8009-191b1a224ed0",
+  "youtube": "https://www.youtube.com/watch?v=CKYX2rPdZF8"
+ },
+ {
+  "date": "2026-11-18",
+  "comedian": "Jamel Debbouze (César 2023, Partie 3 — ninjas)",
+  "clip": "05_jamel_cesar_p3",
+  "source": "https://www.youtube.com/watch?v=363RgMenp1g&t=540s",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 21:00 Paris",
+  "vidiq_post_id": "ee42ad34-4b43-4161-bf00-22c7ef880064",
+  "youtube": "https://www.youtube.com/watch?v=y2G2Kf4Opps"
+ },
+ {
+  "date": "2026-11-18",
+  "comedian": "Alban Ivanov",
+  "clip": "04_alban_ivanov",
+  "source": "https://www.youtube.com/watch?v=6Ts0foAxeXw (Alban Ivanov (Marrakech du rire), to verify)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 16:00 Paris",
+  "vidiq_post_id": "a6cf1a5e-e645-4612-80b6-ba5d5cac10a6",
+  "youtube": "https://www.youtube.com/watch?v=zV8x8qY9a18"
+ },
+ {
+  "date": "2026-11-18",
+  "comedian": "Gad Elmaleh (couple / sommeil)",
+  "clip": "03_gad_elmaleh",
+  "source": "https://www.youtube.com/watch?v=Dyy-KRkdE2c&t=169s (ComediHa! official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 18:00 Paris",
+  "vidiq_post_id": "1e0e0a75-b7d1-49b9-a163-eca0e863d65b",
+  "youtube": "https://www.youtube.com/watch?v=-kpa15Lwem8"
+ },
+ {
+  "date": "2026-11-18",
+  "comedian": "Ilyès Djadel (Lourdes, Marrakech du Rire 2022)",
+  "clip": "01_ilyes_djadel",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6412s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 17:00 Paris",
+  "vidiq_post_id": "fb00d5be-772f-4f6d-9d70-21115d9ae612",
+  "youtube": "https://www.youtube.com/watch?v=WO1DC33miSg"
+ },
+ {
+  "date": "2026-11-18",
+  "comedian": "Maxime Gasteuil",
+  "clip": "02_maxime_gasteuil",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6933s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-18 19:30 Paris",
+  "vidiq_post_id": "cdd79bec-9ee5-40e4-9f31-d848bf5c2442",
+  "youtube": "https://www.youtube.com/watch?v=mbwKp4UxqHE"
+ },
+ {
+  "date": "2026-11-19",
+  "comedian": "Booder & Jamel (Partie 3, Mbappé + « Patrick Bruel »)",
+  "clip": "05_booder_partie3",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=8199s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-19 21:00 Paris",
+  "vidiq_post_id": "14382011-6c8b-4a16-ac2c-7b138008c11f",
+  "youtube": "https://www.youtube.com/watch?v=RMb7HLnvai8"
+ },
+ {
+  "date": "2026-11-19",
+  "comedian": "Caroline Vigneaux",
+  "clip": "02_caroline_vigneaux",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=7165s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-19 13:00 Paris",
+  "vidiq_post_id": "d8624c52-b3d5-454b-9300-8cd1c6576647",
+  "youtube": "https://www.youtube.com/watch?v=rri_DmIhdQ4"
+ },
+ {
+  "date": "2026-11-19",
+  "comedian": "Kev Adams",
+  "clip": "04_kev_adams",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=1608s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-19 18:00 Paris",
+  "vidiq_post_id": "ff91ee0f-62ce-4cdf-9252-5893787911c9",
+  "youtube": "https://www.youtube.com/watch?v=XzJftajEPv4"
+ },
+ {
+  "date": "2026-11-19",
+  "comedian": "Paul Mirabel",
+  "clip": "03_paul_mirabel",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=5067s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-19 16:00 Paris",
+  "vidiq_post_id": "c8629b9b-e7ab-4ad7-8cf3-73edd7fca817",
+  "youtube": "https://www.youtube.com/watch?v=RDFDbp739Fc"
+ },
+ {
+  "date": "2026-11-19",
+  "comedian": "Redouane Harjane",
+  "clip": "01_redouane_harjane",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=7481s (full-show upload, not verified official)",
+  "status": "published (scheduled) IG+FB+TikTok+YouTube 2026-11-19 11:00 Paris",
+  "vidiq_post_id": "68dd0aab-eb1f-46f2-8661-adfefa276454",
+  "youtube": "https://www.youtube.com/watch?v=bjon7KlrArk"
+ },
+ {
+  "date": "2026-11-20",
+  "comedian": "D'jal",
+  "clip": "02_djal_maroc",
+  "source": "https://www.youtube.com/watch?v=dvOlpXZV4ZA",
+  "status": "published (scheduled) IG+TikTok (long 2:26) + FB (60s cut) 2026-11-20 14:00 Paris",
+  "vidiq_post_id": "221ec4dd-6e3d-46aa-8b83-5f44b320598a",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-20",
+  "comedian": "Ahmed Sylla",
+  "clip": "01_ahmed_sylla",
+  "source": "https://www.youtube.com/watch?v=YpEqPvp1Z_o",
+  "status": "published (scheduled) IG+TikTok (long 3:12) + FB (51s cut) 2026-11-20 16:00 Paris",
+  "vidiq_post_id": "1bd22fd8-dab3-4228-a5e1-64de978eb5ed",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-20",
+  "comedian": "Jamel Debbouze (vacances au bled — gnous, owner request)",
+  "clip": "05_jamel_vacances",
+  "source": "https://www.youtube.com/watch?v=n8mPjor58HM",
+  "status": "published (scheduled) IG+TikTok (long 2:30) + FB (61s cut) 2026-11-20 21:00 Paris",
+  "vidiq_post_id": "37666d1b-e5db-4466-9473-5acb45c3a57e",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-20",
+  "comedian": "Djamil le Schlag",
+  "clip": "03_djamil_schlag",
+  "source": "https://www.youtube.com/watch?v=MM6uO2o1J2E",
+  "status": "published (scheduled) IG+TikTok (long 2:49, .ig.mp4) + FB (53s cut) 2026-11-20 18:00 Paris",
+  "vidiq_post_id": "a7dfc217-aa50-4a24-ada3-e21b3add634d",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-20",
+  "comedian": "Alban Ivanov (javelot)",
+  "clip": "04_alban_javelot",
+  "source": "https://www.youtube.com/watch?v=6Ts0foAxeXw&t=196s",
+  "status": "published (scheduled) IG+TikTok (long 3:00) + FB (54s cut) 2026-11-20 19:30 Paris",
+  "vidiq_post_id": "5d2b982e-8d84-451f-827c-a872b32878c5",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-21",
+  "comedian": "Paul Mirabel (sport)",
+  "clip": "02_paul_mirabel_sport",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=5372s",
+  "status": "published (scheduled) IG+TikTok+FB, ONE short edit (51-75 s, new growth rules) 2026-11-21 12:00 Paris",
+  "vidiq_post_id": "51da598f-5052-4daf-b775-6f4320688e73",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-21",
+  "comedian": "D'jal (grand-mère sorcière)",
+  "clip": "03_djal_grandmere",
+  "source": "https://www.youtube.com/watch?v=dvOlpXZV4ZA",
+  "status": "published (scheduled) IG+TikTok+FB, ONE short edit (51-75 s, new growth rules) 2026-11-21 16:00 Paris",
+  "vidiq_post_id": "ef19fd34-3ba4-4855-848e-3c14d90b9cc0",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-21",
+  "comedian": "Kev Adams (hammam)",
+  "clip": "01_kev_hammam",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=1745s",
+  "status": "published (scheduled) IG+TikTok+FB, ONE short edit (51-75 s, new growth rules) 2026-11-21 18:30 Paris",
+  "vidiq_post_id": "0f4baf47-b2ba-4e29-9cc4-a9ba557f194c",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-21",
+  "comedian": "Jamel Debbouze (psy — père)",
+  "clip": "04_jamel_pere",
+  "source": "https://www.youtube.com/watch?v=n8mPjor58HM",
+  "status": "published (scheduled) IG+TikTok+FB, ONE short edit (51-75 s, new growth rules) 2026-11-21 21:00 Paris",
+  "vidiq_post_id": "1b0325d5-68bc-40b2-9041-2b8eb27754ef",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-22",
+  "comedian": "Ilyès Djadel (faux cils)",
+  "clip": "01_ilyes_cils",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6150s",
+  "status": "published (scheduled) IG+TikTok+FB 62 s, 2026-11-22 12:00 Paris",
+  "vidiq_post_id": "986789e3-3957-4aa6-aab5-ff4a9e83a75c",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-22",
+  "comedian": "Maxime Gasteuil (DJ Thierry)",
+  "clip": "02_gasteuil_dj",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=6749s",
+  "status": "published (scheduled) IG+TikTok+FB 48 s, 2026-11-22 16:00 Paris",
+  "vidiq_post_id": "4dee522b-3841-44f6-98ef-5083fb628b52",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-22",
+  "comedian": "Kev Adams (lettre du voisin, Partie 1)",
+  "clip": "03_kev_lettre_p1",
+  "source": "https://www.youtube.com/watch?v=hWLRmXRqr_E&t=1818s",
+  "status": "published (scheduled) IG+TikTok+FB 73 s, 2026-11-22 18:30 Paris. PARTIE 2 (his reply, cues 49-79 of the same cut) promised for 2026-11-23 21:00",
+  "vidiq_post_id": "186e3a5b-5085-4bd2-ab61-ec7bafffe5cd",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-22",
+  "comedian": "Jamel Debbouze (psy, Partie 2 famille)",
+  "clip": "04_jamel_famille",
+  "source": "https://www.youtube.com/watch?v=n8mPjor58HM",
+  "status": "published (scheduled) IG+TikTok+FB 76 s, 2026-11-22 21:00 Paris",
+  "vidiq_post_id": "a4343c03-6251-4f56-a5cf-1046c3a6a9d6",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-23",
+  "comedian": "Jamel Debbouze (aires de repos)",
+  "clip": "01_jamel_aires",
+  "status": "published (scheduled) TikTok+FB 2026-11-23 12:00 Paris (IG paused)",
+  "vidiq_post_id": "4bef0165-559a-4d3d-9d83-b58afb6a10f6",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-23",
+  "comedian": "Ilyès Djadel (lycée catholique)",
+  "clip": "02_ilyes_lycee",
+  "status": "published (scheduled) TikTok+FB 2026-11-23 16:00 Paris (IG paused)",
+  "vidiq_post_id": "82031d9a-046a-4e39-b4f2-d7ce8ada6d20",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-23",
+  "comedian": "Paul Mirabel (guide rando)",
+  "clip": "03_mirabel_rando",
+  "status": "published (scheduled) TikTok+FB 2026-11-23 18:30 Paris (IG paused)",
+  "vidiq_post_id": "d09cc914-b626-461a-8259-e3232f6f78e1",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-23",
+  "comedian": "Kev Adams (lettre, Partie 2)",
+  "clip": "04_kev_lettre_p2",
+  "status": "published (scheduled) TikTok+FB 2026-11-23 21:00 Paris (IG paused)",
+  "vidiq_post_id": "7c6ddb15-fc05-4c70-a3de-096908de8720",
+  "youtube": null
+ },
+ {
+  "date": "2026-11-23",
+  "vidiq_post_id": "760336cd-9657-4adc-b4be-89edbe2a7a39",
+  "project": "05_gasteuil_plot",
+  "postId": "760336cd-9657-4adc-b4be-89edbe2a7a39",
+  "publishAt": "2026-11-23T13:00:00Z",
+  "hook": "Ton pote bourré à la sortie de boîte",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES"
+  ],
+  "source": "hWLRmXRqr_E Maxime Gasteuil"
+ },
+ {
+  "date": "2026-11-23",
+  "vidiq_post_id": "fa90a097-cc6b-4585-bef8-3fff9b1aa788",
+  "project": "06_gasteuil_canape",
+  "postId": "fa90a097-cc6b-4585-bef8-3fff9b1aa788",
+  "publishAt": "2026-11-23T18:45:00Z",
+  "hook": "Comment les mecs préviennent leur copine",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES"
+  ],
+  "source": "hWLRmXRqr_E Maxime Gasteuil"
+ }
 ]

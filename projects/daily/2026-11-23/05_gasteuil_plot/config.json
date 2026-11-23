@@ -1,0 +1,229 @@
+{
+ "trans_lang": "en",
+ "context_note": "Maxime Gasteuil (Marrakech du Rire 2022): drunk friends leaving the club at closing time and stealing road signs and traffic cones.",
+ "ranges": [
+  [
+   2,
+   18
+  ],
+  [
+   20,
+   39
+  ],
+  [
+   41,
+   42
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Ton pote bourré à la sortie de boîte 😂🚧",
+ "highlight_words": [
+  "poulpes",
+  "Ludo",
+  "panneaux",
+  "feux",
+  "plot",
+  "Pesquet"
+ ],
+ "cues": {
+  "2": [
+   "C'est toujours le même principe à la campagne :",
+   "It's always the same thing in the countryside:"
+  ],
+  "3": [
+   "t'as toujours cinq, six potes ivres morts",
+   "there are always five, six blind-drunk mates"
+  ],
+  "4": [
+   "à la fermeture. Ils sortent,",
+   "at closing time. They walk out,"
+  ],
+  "5": [
+   "ils vont débriefer à 20 mètres de la boîte,",
+   "go debrief 20 metres from the club,"
+  ],
+  "6": [
+   "ils sont en ronde, des poulpes.",
+   "standing in a circle, like octopuses."
+  ],
+  "7": [
+   "Dans ce groupe on est frères, on s'aime",
+   "In that group we're brothers, we love"
+  ],
+  "8": [
+   "les uns les autres. Il y en a un, on l'aime",
+   "each other. There's one guy, we love him"
+  ],
+  "9": [
+   "autant que les autres, mais lui, il est con",
+   "as much as the others, but he's dumb"
+  ],
+  "10": [
+   "comme un mur. Lui même",
+   "as a brick. Even"
+  ],
+  "11": [
+   "ivre, il exagère. Il est",
+   "drunk, he overdoes it. He's"
+  ],
+  "12": [
+   "défoncé, il voit un buisson, une sapinette,",
+   "wasted, he sees a bush, a little fir tree,"
+  ],
+  "13": [
+   "il faut qu'il saute dedans.",
+   "he has to jump into it."
+  ],
+  "14": [
+   "« Ça va Ludo ? »",
+   "\"You OK, Ludo?\""
+  ],
+  "15": [
+   "C'est quoi l'objectif, là,",
+   "What's the goal here,"
+  ],
+  "16": [
+   "sans déconner ?",
+   "seriously?"
+  ],
+  "17": [
+   "Et là, j'ai une question pour vous,",
+   "And I have a question for you,"
+  ],
+  "18": [
+   "messieurs :",
+   "gentlemen:"
+  ],
+  "20": [
+   "à quel moment, les gars, 6 heures du",
+   "at what point, guys, 6 a.m.,"
+  ],
+  "21": [
+   "matin, 2 grammes dans le sang, on est",
+   "two grams in the blood, do we"
+  ],
+  "22": [
+   "obligés de rentrer chez nous avec des",
+   "have to go home with"
+  ],
+  "23": [
+   "panneaux de signalisation ?",
+   "road signs?"
+  ],
+  "24": [
+   "Ou du mobilier urbain, pour les plus",
+   "Or street furniture, for the"
+  ],
+  "25": [
+   "teubés ?",
+   "dumbest ones?"
+  ],
+  "26": [
+   "En sortie de boîte de",
+   "Leaving a night"
+  ],
+  "27": [
+   "nuit, tu peux croiser des mecs avec des",
+   "club, you can meet guys carrying"
+  ],
+  "28": [
+   "feux rouges !",
+   "traffic lights!"
+  ],
+  "29": [
+   "« Régalé, nous ! »",
+   "\"We're loving it!\""
+  ],
+  "30": [
+   "« On voulait prendre l'abribus, mais c'est",
+   "\"We wanted the bus shelter, but it's"
+  ],
+  "31": [
+   "trop lourd. »",
+   "too heavy.\""
+  ],
+  "32": [
+   "Mais ça, c'est rien, le panneau.",
+   "But the sign is nothing."
+  ],
+  "33": [
+   "Le graal pour un mec, c'est le plot",
+   "The holy grail for a guy is the orange"
+  ],
+  "34": [
+   "orange, le cône, là.",
+   "traffic cone."
+  ],
+  "35": [
+   "Quand t'as ça, t'as des pouvoirs, t'es",
+   "When you've got that, you've got powers, you've"
+  ],
+  "36": [
+   "arrivé. T'es en Ligue 1, y",
+   "made it. You're in the big league,"
+  ],
+  "37": [
+   "a pas plus haut, t'es Thomas Pesquet.",
+   "nothing higher, you're an astronaut."
+  ],
+  "38": [
+   "En plus, t'es happé par ce plot,",
+   "And you're hypnotised by that cone,"
+  ],
+  "39": [
+   "t'as oublié de l'attraper avant",
+   "you forgot to grab it before"
+  ],
+  "41": [
+   "Et allez",
+   "And off we go"
+  ],
+  "42": [
+   "! Complètement con.",
+   "! Total idiot."
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "poulpes",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "Ludo",
+   "nth": 1,
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "rouges",
+   "offset": -0.6,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "lourd",
+   "nth": 1,
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "Pesquet",
+   "offset": -0.8,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "Complètement",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}
