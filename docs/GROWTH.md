@@ -1,3 +1,7 @@
+## 🆕 OWNER 2026-11-23: NEW FACES to attract new followers — pick from this list (never posted before), 2-3 of them EVERY day, before repeating known stars:
+Priority order: Redouane Bougheraba · Fary · Haroun · Djimo · Comte de Bouderbala (Sami Ameziane) · Mohamed Le Suédois · Kader Bueno · Ahmed Sparrow · Merwane Benlazar · Wary Nichen · Panayotis Pascot · Seb Mellia · Nordine Ganso · Waly Dia (no politics) · Marina Rollman · Shirley Souagnon · Tania Dutel (clean) · Laura Laune (clean only) · Roman Frayssinet (clean source) · Nawell Madani · Sarah Lélé · Redouane Harjane.
+Sources: their official YouTube channels/specials, Jamel Comedy Club, Montreux, Marrakech du Rire. Gasteuil series + 1 African comedian/day continue alongside.
+
 ## ✅ OWNER 2026-11-22: 100% free choice of comedians and content; only rule: NO sexual sketches. Goal: 10k followers ASAP.
 
 ## ⛔ INSTAGRAM PAUSED (2026-11-21): account flagged « Contenu non original » (Statut du compte → Éligibilité aux recommandations + Monétisation « Présence établie »). Reels dropped from ~150 views to 3-37 from 2026-11-20.
