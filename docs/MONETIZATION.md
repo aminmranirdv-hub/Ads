@@ -46,3 +46,7 @@ Verify the official account (blue tick / link from their website) before sending
 9. **Nawel Madani**: Rihanna bit (11-17).
 10. **Paul Mirabel**: "souk de Marrakech" (11-19) + "sport" (11-21).
 Scouting for next weeks: winners of "La Relève de Ouf par MACIF" (Montreux Comedy's national casting) and the Montreux "Gala La Relève" (Lausanne, 20 Nov 2026), Jamel Comedy Club new line-ups, Paris comedy-club showcases.
+
+### DM list, week of 2026-11-23 (Monday refresh; find handles on their official accounts, never guess)
+Emerging/mid comedians, FR + African francophone (our FB audience: Cameroon 19 %, DR Congo 8.5 %):
+Le Magnific · Moussa Petit Sergent · Agalawal · Digbeu Cravate · Michel Gohou · Eric Blanc · Tarek Boudali-style clean acts: Djimo · Kader Bueno · Haroun · Fary
