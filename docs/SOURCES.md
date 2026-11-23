@@ -67,3 +67,8 @@ Found with the free WebSearch (never vidiq_youtube_search). Import free with vid
 - Used: D'jal Le Maroc (dvOlpXZV4ZA, cues 1-86: ambassade + flics BlaBlaCar; grand-mère sorcière 2:47+ UNUSED), Ahmed Sylla grand-père (YpEqPvp1Z_o), Djamil le Schlag hôpital Saint-Denis (MM6uO2o1J2E 0:08-2:52; "Allahu akbar" chant bit 3:46+ skipped on purpose — terrorism theme), Alban Ivanov boucher des Yvelines + javelot (6Ts0foAxeXw 3:16-6:22), Jamel "vacances au bled / gnous" (n8mPjor58HM 4:00-5:50 + 7:30-8:24 — owner request; psy/yaourts 0:00-4:00 and aires de repos/mouches 6:30-7:30 UNUSED). cache/n8mPjor58HM.mp4.
 - Roman Frayssinet 01whjC1lMwM + T9AJKrZRgHc: fan re-uploads with keyed fake background + burned-in subtitles → DON'T USE. Need a clean official source (Netflix/Canal/Montreux).
 - Montreux gala GO-E-pgBqa8 (cached, 107 min): 1:05-1:20 is all crude (facial, insect rape, Dubai porn) → skip that stretch; other acts not scanned yet.
+
+## 2026-11-23 (new faces)
+- Redouane Bougheraba (official channel): ulaB1ynI7P0 « Mon plus jeune spectateur » (used 0:11-1:04), h0lH-LMWMkU « L'argent ça rassemble » (tram 0:10-1:05 used; rest crude), also 0ZCRywccfgs, 3UDB64ySWEU, GvN42XC1Gjs, pYcAqP9489g, h4KipAWz4JI, MbUCPGIIH_A, anlo2hF_svY (unscanned)
+- Haroun Hpoc8xjJnBI foot au Maroc: mostly Darija, transcription unusable — skip
+- Fary HaGa4dQiLUQ JCC 2013: gay/polygamy/violence jokes — skip; try iFryEGEo4-o « Le legging »

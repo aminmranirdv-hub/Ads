@@ -1,0 +1,115 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.0,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-24_bougheraba_tram",
+  "comedian": "Redouane Bougheraba",
+  "source": {
+    "file": "source.mp4",
+    "title": "L'ARGENT, ÇA RASSEMBLE... - REDOUANE BOUGHERABA",
+    "url": "https://www.youtube.com/watch?v=h0lH-LMWMkU",
+    "channel": "Redouane Bougheraba (official)"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "tram",
+    "salaire",
+    "7000",
+    "8000",
+    "l'humour"
+  ],
+  "context_note": "Redouane Bougheraba crowd work in Geneva: a tram driver's salary makes him want to quit comedy.",
+  "segments": [
+    {
+      "in": 10.18,
+      "out": 18.67
+    },
+    {
+      "in": 17.08,
+      "out": 28.49
+    },
+    {
+      "in": 28.7,
+      "out": 36.3
+    },
+    {
+      "in": 34.19,
+      "out": 47.22
+    },
+    {
+      "in": 45.21,
+      "out": 48.44
+    },
+    {
+      "in": 49.5,
+      "out": 57.8
+    },
+    {
+      "in": 59.81,
+      "out": 62.32
+    },
+    {
+      "in": 62.82,
+      "out": 66.93
+    }
+  ],
+  "zooms": [
+    {
+      "at": 10.12,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 38.73,
+      "dur": 2.2,
+      "scale": 1.2
+    },
+    {
+      "at": 51.87,
+      "dur": 2.4,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 37.52,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 39.6,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 56.08,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Il découvre le salaire d'un chauffeur de tram 😂🚋",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}

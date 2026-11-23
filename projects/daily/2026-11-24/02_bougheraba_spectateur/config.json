@@ -1,0 +1,184 @@
+{
+ "trans_lang": "en",
+ "context_note": "Redouane Bougheraba crowd work in Madrid: a couple brought their 2-year-old to his show.",
+ "ranges": [
+  [
+   7,
+   18
+  ],
+  [
+   20,
+   36
+  ]
+ ],
+ "end_pad": 2.5,
+ "hook": "Ils ramènent leur bébé au spectacle 😂👶",
+ "highlight_words": [
+  "bébé",
+  "Omar",
+  "nounou",
+  "enfant",
+  "rembourse"
+ ],
+ "cues": {
+  "7": [
+   "Et au premier rang... ouh,",
+   "And in the front row... ooh,"
+  ],
+  "8": [
+   "un enfant !",
+   "a kid!"
+  ],
+  "9": [
+   "Un bébé ! Quel âge ? Deux ans, trois ans ?",
+   "A baby! How old? Two, three?"
+  ],
+  "10": [
+   "Deux ans.",
+   "Two."
+  ],
+  "11": [
+   "Et madame,",
+   "And madam,"
+  ],
+  "12": [
+   "vous voulez voir le spectacle, hein ?",
+   "you really want to see the show, huh?"
+  ],
+  "13": [
+   "Comment vous vous appelez ?",
+   "What's your name?"
+  ],
+  "14": [
+   "Soukaina. Super,",
+   "Soukaina. Great,"
+  ],
+  "15": [
+   "vous voulez voir le spectacle à tout prix,",
+   "you want to see the show no matter what,"
+  ],
+  "16": [
+   "mais il est tout petit, lui !",
+   "but he's tiny!"
+  ],
+  "17": [
+   "Comment il s'appelle, le bébé ?",
+   "What's the baby's name?"
+  ],
+  "18": [
+   "Omar. Ça va, Omar ?",
+   "Omar. How you doing, Omar?"
+  ],
+  "20": [
+   "Il faut être sage, Omar,",
+   "You have to behave, Omar,"
+  ],
+  "21": [
+   "parce que si t'es pas sage, tu vas",
+   "because if you don't, you'll"
+  ],
+  "22": [
+   "gâcher le spectacle de tonton, et Redouane",
+   "ruin uncle's show, and Redouane"
+  ],
+  "23": [
+   "va écrire « Omar m'a tuer ».",
+   "will write \"Omar killed me\"."
+  ],
+  "24": [
+   "Le mari de Soukaina,",
+   "Soukaina's husband,"
+  ],
+  "25": [
+   "ça va, vous allez bien ?",
+   "you OK?"
+  ],
+  "26": [
+   "Comment on vous appelle ?",
+   "What's your name?"
+  ],
+  "27": [
+   "Rachid. Ça va, Rachid ?",
+   "Rachid. You good, Rachid?"
+  ],
+  "28": [
+   "Les Arabes, on veut pas de nounou, c",
+   "Arabs: we don't do babysitters,"
+  ],
+  "29": [
+   "'est chaud.",
+   "it's serious."
+  ],
+  "30": [
+   "À quel moment on s'est dit : on va voir le",
+   "When did you think: we'll see the"
+  ],
+  "31": [
+   "spectacle... ah oui,",
+   "show... oh yeah,"
+  ],
+  "32": [
+   "on ramène l'enfant !",
+   "let's bring the kid!"
+  ],
+  "33": [
+   "J'espère qu'ils vous ont pas fait payer la",
+   "I hope they didn't charge you"
+  ],
+  "34": [
+   "place pour l'enfant.",
+   "a seat for the kid."
+  ],
+  "35": [
+   "Ils ont fait payer la place pour l'enfant",
+   "They charged a seat for the kid"
+  ],
+  "36": [
+   "? Je vous rembourse après.",
+   "? I'll pay you back after."
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "enfant",
+   "nth": 1,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "Omar",
+   "nth": 3,
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "nounou",
+   "offset": -0.6,
+   "dur": 2.2,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "chaud",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "rembourse",
+   "offset": -0.8,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "rembourse",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

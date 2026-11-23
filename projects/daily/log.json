@@ -495,5 +495,29 @@
    "FACEBOOK_PAGES"
   ],
   "source": "owner-supplied reel (Amine Radi TikTok/IG), FB only: TikTok watermark + his own TikTok original"
+ },
+ {
+  "date": "2026-11-24",
+  "project": "02_bougheraba_spectateur",
+  "postId": "298ec63f-fa63-461f-92f7-dd38df6d40c1",
+  "publishAt": "2026-11-24T12:00:00Z",
+  "hook": "Ils ramènent leur bébé au spectacle",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES"
+  ],
+  "source": "ulaB1ynI7P0 Redouane Bougheraba"
+ },
+ {
+  "date": "2026-11-24",
+  "project": "04_bougheraba_argent",
+  "postId": "ddf06bfc-f0e9-44ab-80ab-371854c30f80",
+  "publishAt": "2026-11-24T17:00:00Z",
+  "hook": "Il découvre le salaire d'un chauffeur de tram",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES"
+  ],
+  "source": "h0lH-LMWMkU Redouane Bougheraba"
  }
 ]

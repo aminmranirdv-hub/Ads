@@ -1,0 +1,91 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.0,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-24_bougheraba_bebe",
+  "comedian": "Redouane Bougheraba",
+  "source": {
+    "file": "source.mp4",
+    "title": "MON PLUS JEUNE SPECTATEUR - REDOUANE BOUGHERABA",
+    "url": "https://www.youtube.com/watch?v=ulaB1ynI7P0",
+    "channel": "Redouane Bougheraba (official)"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "bébé",
+    "Omar",
+    "nounou",
+    "enfant",
+    "rembourse"
+  ],
+  "context_note": "Redouane Bougheraba crowd work in Madrid: a couple brought their 2-year-old to his show.",
+  "segments": [
+    {
+      "in": 11.31,
+      "out": 35.5
+    },
+    {
+      "in": 34.33,
+      "out": 67.19
+    }
+  ],
+  "zooms": [
+    {
+      "at": 2.83,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 41.96,
+      "dur": 2.2,
+      "scale": 1.18
+    },
+    {
+      "at": 52.68,
+      "dur": 2.4,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 22.72,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 43.43,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 53.89,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Ils ramènent leur bébé au spectacle 😂👶",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}
