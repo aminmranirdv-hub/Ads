@@ -1,0 +1,97 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Owner supplied file; credit Amine Radi."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 0,
+    "pre_crop": {
+      "x0": 0.0,
+      "x1": 1.0,
+      "y0": 0.0,
+      "y1": 0.5
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-24_radi_gta6",
+  "comedian": "Amine Radi",
+  "source": {
+    "file": "source.mp4",
+    "title": "Amine Radi - GTA 6 (owner-supplied reel)",
+    "url": "https://www.instagram.com/reel/DgFQqTNCp06/",
+    "channel": "@radi_amine"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "GTA",
+    "Tony",
+    "poubelles",
+    "baguette",
+    "lacrymo",
+    "séjour",
+    "Bienvenue."
+  ],
+  "context_note": "Amine Radi stand-up: his friend took a week off for GTA 6; France is already GTA.",
+  "segments": [
+    {
+      "in": 0.0,
+      "out": 47.39
+    },
+    {
+      "in": 55.47,
+      "out": 80.34
+    },
+    {
+      "in": 80.68,
+      "out": 91.79
+    }
+  ],
+  "zooms": [
+    {
+      "at": 5.46,
+      "dur": 2.0,
+      "scale": 1.12
+    },
+    {
+      "at": 36.12,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 80.1,
+      "dur": 2.4,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 21.09,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 43.17,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 81.27,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Amine Radi : la France a dépassé GTA 6 😂🎮",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}

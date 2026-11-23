@@ -1,0 +1,321 @@
+{
+ "trans_lang": "en",
+ "context_note": "Amine Radi stand-up: his friend took a week off for GTA 6; France is already GTA.",
+ "ranges": [
+  [
+   1,
+   36
+  ],
+  [
+   44,
+   70
+  ]
+ ],
+ "end_pad": 2.0,
+ "hook": "Amine Radi : la France a dépassé GTA 6 😂🎮",
+ "highlight_words": [
+  "GTA",
+  "Tony",
+  "poubelles",
+  "baguette",
+  "lacrymo",
+  "séjour",
+  "Bienvenue."
+ ],
+ "cues": {
+  "1": [
+   "J'ai un ami, il a posé une",
+   "I have a friend who took a"
+  ],
+  "2": [
+   "semaine de congé pour jouer à GTA.",
+   "week off work to play GTA."
+  ],
+  "3": [
+   "Même à la naissance de son fils, il a pas",
+   "Even when his son was born, he didn't"
+  ],
+  "4": [
+   "posé autant.",
+   "take that much."
+  ],
+  "5": [
+   "GTA, c",
+   "GTA is"
+  ],
+  "6": [
+   "'est un jeu où tu vas travailler, tu",
+   "a game where you go to work, you"
+  ],
+  "7": [
+   "fais des missions pour des gens.",
+   "do missions for people."
+  ],
+  "8": [
+   "Mon ami, il a pas arrêté de",
+   "My friend didn't stop"
+  ],
+  "9": [
+   "travailler dans la vraie vie pour",
+   "working in real life to"
+  ],
+  "10": [
+   "travailler dans un jeu.",
+   "work in a game."
+  ],
+  "11": [
+   "Dans la vraie vie, ton patron te dit",
+   "In real life, your boss says"
+  ],
+  "12": [
+   "fais des heures sup, tu pètes un câble,",
+   "do overtime, you lose it,"
+  ],
+  "13": [
+   "tu cries à l'esclavage.",
+   "you call it slavery."
+  ],
+  "14": [
+   "Alors que dans le jeu, tu peux",
+   "But in the game, you can"
+  ],
+  "15": [
+   "travailler 12 heures pour un inconnu,",
+   "work 12 hours for a stranger,"
+  ],
+  "16": [
+   "un mec qui s'appelle Tony, ça te dérange",
+   "a guy called Tony, doesn't bother"
+  ],
+  "17": [
+   "pas.",
+   "you."
+  ],
+  "18": [
+   "Dans la vraie vie, ta femme te dit",
+   "In real life, your wife says"
+  ],
+  "19": [
+   "descends les poubelles : je suis",
+   "take the bins out: I'm"
+  ],
+  "20": [
+   "fatigué. Sur GTA, tu peux livrer un colis",
+   "tired. In GTA, you'll deliver a parcel"
+  ],
+  "21": [
+   "à l'autre bout de la ville, ça te dérange",
+   "across the whole city, doesn't bother"
+  ],
+  "22": [
+   "pas.",
+   "you."
+  ],
+  "23": [
+   "Moi, ce qui m'a tué, c'est que les",
+   "What killed me is that the"
+  ],
+  "24": [
+   "Français, ils étaient excités :",
+   "French were so excited:"
+  ],
+  "25": [
+   "« On va jouer à GTA ! »",
+   "\"We're gonna play GTA!\""
+  ],
+  "26": [
+   "Pourquoi t'es excité de jouer à un jeu",
+   "Why are you excited to play a game"
+  ],
+  "27": [
+   "que tu vis déjà ?",
+   "you already live in?"
+  ],
+  "28": [
+   "En France, t'as pas besoin d'acheter",
+   "In France you don't need to buy"
+  ],
+  "29": [
+   "la Play. Tu vas place de la République,",
+   "a PlayStation. Go to Place de la République,"
+  ],
+  "30": [
+   "t'es directement dans le jeu.",
+   "you're right inside the game."
+  ],
+  "31": [
+   "En France, aujourd'hui, tu sors",
+   "In France today, you go out"
+  ],
+  "32": [
+   "acheter une baguette.",
+   "to buy a baguette."
+  ],
+  "33": [
+   "Au lieu de rentrer avec la baguette,",
+   "Instead of coming home with the baguette,"
+  ],
+  "34": [
+   "tu rentres avec l",
+   "you come home with"
+  ],
+  "35": [
+   "'lacrymo dans le visage.",
+   "tear gas in your face."
+  ],
+  "36": [
+   "La France a dépassé GTA.",
+   "France has outdone GTA."
+  ],
+  "44": [
+   "Les créateurs de GTA, s'ils viennent",
+   "If the GTA creators came"
+  ],
+  "45": [
+   "passer une semaine à Paris, ils vont créer",
+   "and spent a week in Paris, they'd make"
+  ],
+  "46": [
+   "GTA 7, GTA 8, GTA 9, GTA 10.",
+   "GTA 7, GTA 8, GTA 9, GTA 10."
+  ],
+  "47": [
+   "Ils vont découvrir les lois en France, ils",
+   "They'd discover French rules and"
+  ],
+  "48": [
+   "vont péter un câble.",
+   "lose their minds."
+  ],
+  "49": [
+   "Ils vont découvrir que pour avoir un",
+   "They'd find out that to get an"
+  ],
+  "50": [
+   "appartement à Paris, il faut gagner 3 fois",
+   "apartment in Paris, you must earn 3 times"
+  ],
+  "51": [
+   "le loyer.",
+   "the rent."
+  ],
+  "52": [
+   "Pour avoir une carte de séjour, il faut un",
+   "To get a residence permit, you need a"
+  ],
+  "53": [
+   "contrat de travail.",
+   "work contract."
+  ],
+  "54": [
+   "Pour avoir un contrat de travail, il faut",
+   "To get a work contract, you need"
+  ],
+  "55": [
+   "une carte de séjour.",
+   "a residence permit."
+  ],
+  "56": [
+   "Pour avoir de l'expérience, il faut",
+   "To get experience, you need to"
+  ],
+  "57": [
+   "travailler. Pour travailler, il faut de l",
+   "work. To work, you need"
+  ],
+  "58": [
+   "'expérience. Ils vont découvrir que la",
+   "experience. They'd discover that"
+  ],
+  "59": [
+   "France est le seul pays au monde où",
+   "France is the only country in the world where"
+  ],
+  "60": [
+   "tu travailles toute ta vie pour mettre de",
+   "you work your whole life to put"
+  ],
+  "61": [
+   "l'argent à la banque, et le jour où tu vas à",
+   "money in the bank, and the day you go to"
+  ],
+  "62": [
+   "la banque récupérer ton argent, le",
+   "the bank to get it back, the"
+  ],
+  "63": [
+   "banquier te demande pourquoi...",
+   "banker asks you why..."
+  ],
+  "64": [
+   "Même eux, ils vont être choqués, ils vont",
+   "Even they'd be shocked, they'd"
+  ],
+  "65": [
+   "crier « Wasted in France ».",
+   "shout \"Wasted in France\"."
+  ],
+  "66": [
+   "Ce sera le seul jeu",
+   "It'd be the only game"
+  ],
+  "67": [
+   "au monde où tu fais des",
+   "in the world where you do"
+  ],
+  "68": [
+   "missions toute ta vie et à la fin, t'as",
+   "missions all your life and at the end you"
+  ],
+  "69": [
+   "même pas de quoi payer ton loyer.",
+   "can't even pay your rent."
+  ],
+  "70": [
+   "Bienvenue.",
+   "Welcome."
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "posé",
+   "nth": 2,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.12
+  },
+  {
+   "type": "sfx",
+   "word": "Tony",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "République",
+   "offset": -0.6,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "visage",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "bienvenu",
+   "offset": -0.8,
+   "dur": 2.4,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "bienvenu",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}
