@@ -1,3 +1,9 @@
+## 📘 FACEBOOK TIPS (owner screenshot 2026-11-24, Creator dashboard) — OVERRIDES length/slots/caption rules:
+- **Length 45-60 s** (Facebook: +161 % views vs other lengths). Aim 45-60 s for every edit; >60 s only if the payoff needs it, never >75 s.
+- **Early slot**: posts at 04:00-08:00 get +42 %. Move the 11:00 slot to **07:00 Paris (06:00Z)** → slots 07:00, 13:00, 15:30, 18:00, 20:00, 21:30.
+- **Caption < 400 characters** (current ones ~420): quote line + 1 context line + question + credit + max 6 hashtags. Drop the "Abonne-toi" line if needed.
+- First frame: avoid wide stage shots (Sylla 21:30 = 324 views at 1 h); use a tighter pre_crop so the comedian is big at 0-1 s.
+
 ## 🆕 OWNER 2026-11-23: NEW FACES to attract new followers — pick from this list (never posted before), 2-3 of them EVERY day, before repeating known stars:
 Priority order: Redouane Bougheraba · Fary · Haroun · Djimo · Comte de Bouderbala (Sami Ameziane) · Mohamed Le Suédois · Kader Bueno · Ahmed Sparrow · Merwane Benlazar · Wary Nichen · Panayotis Pascot · Seb Mellia · Nordine Ganso · Waly Dia (no politics) · Marina Rollman · Shirley Souagnon · Tania Dutel (clean) · Laura Laune (clean only) · Roman Frayssinet (clean source) · Nawell Madani · Sarah Lélé · Redouane Harjane.
 Sources: their official YouTube channels/specials, Jamel Comedy Club, Montreux, Marrakech du Rire. Gasteuil series + 1 African comedian/day continue alongside.
