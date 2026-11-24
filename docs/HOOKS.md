@@ -81,3 +81,4 @@ Note 2026-11-19: owner overrides the 3-5 hashtag rule — add the fixed set from
 |---|---|---|---|---|
 | 2026-11-22 | 256 | 117,958 (flat) | Alban javelot 18, Djamil 19, older ones +1-5 | still restricted; wait |
 | 2026-11-23 | 257 followers · reach 14 d: 118k non-followers / 136 followers (mostly pre-flag) · no new reels · still restricted |
+| 2026-11-24 | 259 followers (+2) · reach 14 d 118k non-followers / 137 followers (old reels) · no new reels · still restricted |

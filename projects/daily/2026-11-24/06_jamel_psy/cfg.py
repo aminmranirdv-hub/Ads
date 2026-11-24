@@ -1,0 +1,30 @@
+import json
+c={
+1:["Nous, dans ma famille, quand on a des","In my family, when we have"],
+2:["problèmes psychologiques,","psychological problems,"],
+3:["on va pas voir les psychiatres.","we don't see psychiatrists."],
+4:["On va au marché.","We go to the market."],
+5:["On achète des yaourts.","We buy yoghurts."],
+6:["100 yaourts pour un euro,","100 yoghurts for one euro,"],
+7:["à manger avant le 15,","best before the 15th,"],
+8:["on est le 15,","today's the 15th,"],
+9:["on a le temps.","we've got time."],
+10:["On mange tous les yaourts,","We eat all the yoghurts,"],
+11:["après on n'a plus de problèmes","and then no more psychological"],
+12:["psychologiques.","problems."],
+21:["Moi, je voulais pas aller chez le","I didn't want to see a"],
+22:["psychologue, mais mes copains m'ont dit :","shrink, but my friends said:"],
+23:["« Vas-y Djamel, vas-y,","\"Go on Djamel, go on,"],
+24:["t'es un artiste, vas-y, en plus ça","you're an artist, go, and it"],
+25:["coûte rien ! »","costs nothing!\""],
+26:["80 euros la séance pendant 16 ans !","80 euros a session for 16 years!"],
+27:["T'imagines tous les yaourts que tu peux t","Imagine all the yoghurts you could"],
+28:["'acheter ?","buy?"],
+}
+cfg={"trans_lang":"en","context_note":"Jamel Debbouze: in his family, therapy = 100 yoghurts for one euro.",
+"ranges":[[1,12],[21,28]],"end_pad":2.5,"hook":"La thérapie dans la famille de Jamel 😂🥛",
+"highlight_words":["yaourts","psychiatres","15","80","16"],
+"cues":{str(k):v for k,v in c.items()},
+"effects":[{"type":"zoom","word":"marché","offset":-0.4,"dur":2.0,"scale":1.15},{"type":"sfx","word":"temps","nth":1,"file":"boing","gain":-12},
+{"type":"zoom","word":"80","offset":-0.6,"dur":2.2,"scale":1.2},{"type":"sfx","word":"80","file":"record_scratch","gain":-12}]}
+json.dump(cfg,open("config.json","w"),ensure_ascii=False,indent=1)

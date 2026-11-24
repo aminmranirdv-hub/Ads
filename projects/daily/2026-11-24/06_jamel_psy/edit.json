@@ -1,0 +1,85 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Credit Jamel Debbouze with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.14,
+      "x1": 0.86,
+      "y0": 0.09,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-24_jamel_psy",
+  "comedian": "Jamel Debbouze",
+  "source": {
+    "file": "source.mp4",
+    "title": "Jamel Debbouze - LES VACANCES AU BLED - Maintenant ou Jamel",
+    "url": "https://www.youtube.com/watch?v=n8mPjor58HM",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "yaourts",
+    "psychiatres",
+    "15",
+    "80",
+    "16"
+  ],
+  "context_note": "Jamel Debbouze: in his family, therapy = 100 yoghurts for one euro.",
+  "segments": [
+    {
+      "in": 0.0,
+      "out": 20.5
+    },
+    {
+      "in": 21.18,
+      "out": 32.09
+    },
+    {
+      "in": 49.4,
+      "out": 69.74
+    }
+  ],
+  "zooms": [
+    {
+      "at": 6.44,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 42.0,
+      "dur": 2.2,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 22.47,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 43.09,
+      "gain_db": -12
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "La thérapie dans la famille de Jamel 😂🥛",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}
