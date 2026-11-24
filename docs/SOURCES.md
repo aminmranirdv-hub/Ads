@@ -72,3 +72,4 @@ Found with the free WebSearch (never vidiq_youtube_search). Import free with vid
 - Redouane Bougheraba (official channel): ulaB1ynI7P0 « Mon plus jeune spectateur » (used 0:11-1:04), h0lH-LMWMkU « L'argent ça rassemble » (tram 0:10-1:05 used; rest crude), also 0ZCRywccfgs, 3UDB64ySWEU, GvN42XC1Gjs, pYcAqP9489g, h4KipAWz4JI, MbUCPGIIH_A, anlo2hF_svY (unscanned)
 - Haroun Hpoc8xjJnBI foot au Maroc: mostly Darija, transcription unusable — skip
 - Fary HaGa4dQiLUQ JCC 2013: gay/polygamy/violence jokes — skip; try iFryEGEo4-o « Le legging »
+- Ahmed Sylla rrb7djpKjnA scanned 2026-11-24 (projects/daily/2026-11-24/scan_sylla/subs.srt): used taekwondo 7:00-8:28. Next: bulletin/papa 0:42-3:10, rentrée des classes 3:12-4:20 (clean), foot+mère 8:33-9:20 (check), fille/garçon 16:48+ (skip, 'handicap' joke).

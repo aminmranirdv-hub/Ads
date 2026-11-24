@@ -1,0 +1,193 @@
+{
+ "trans_lang": "en",
+ "context_note": "Ahmed Sylla: his only taekwondo class, beaten by 8-year-old Marie-Cécile; his mum's reaction.",
+ "ranges": [
+  [
+   194,
+   197
+  ],
+  [
+   199,
+   207
+  ],
+  [
+   214,
+   228
+  ],
+  [
+   233,
+   233
+  ],
+  [
+   235,
+   237
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Ahmed Sylla et son seul cours de taekwondo 😂🥋",
+ "highlight_words": [
+  "taekwondo",
+  "pompiers",
+  "Marie-Cécile",
+  "aveugle",
+  "père"
+ ],
+ "cues": {
+  "194": [
+   "J'ai vite compris que l'école,",
+   "I quickly understood that school"
+  ],
+  "195": [
+   "c'était pas fait pour moi.",
+   "wasn't for me."
+  ],
+  "196": [
+   "Tout comme le sport, d'ailleurs.",
+   "Same as sport, by the way."
+  ],
+  "197": [
+   "T'as vu comment je suis gaulé ?",
+   "Have you seen my build?"
+  ],
+  "199": [
+   "Tu peux te marrer, et",
+   "You can laugh, but"
+  ],
+  "200": [
+   "pourtant, j'ai essayé le sport, je vous",
+   "I did try sport, I"
+  ],
+  "201": [
+   "assure. J'ai essayé le taekwondo, par",
+   "promise. I tried taekwondo, for"
+  ],
+  "202": [
+   "exemple. Je sais ce que vous allez me",
+   "example. I know what you'll"
+  ],
+  "203": [
+   "dire, le taekwondo c'est pas le sport le",
+   "say, taekwondo isn't the"
+  ],
+  "204": [
+   "plus facile. Mais c'est ma mère qui m'a",
+   "easiest sport. But my mum"
+  ],
+  "205": [
+   "motivé. Elle m'a dit : « Mets-toi au",
+   "pushed me. She said: \"Take up"
+  ],
+  "206": [
+   "taekwondo, ça pourra te servir contre",
+   "taekwondo, it'll come in handy against"
+  ],
+  "207": [
+   "ton père. »",
+   "your father.\""
+  ],
+  "214": [
+   "Moi, j'ai fait qu'un cours. Je suis parti",
+   "I did one class. I left"
+  ],
+  "215": [
+   "avec ma mère, je suis rentré avec les",
+   "with my mum, I came back with the"
+  ],
+  "216": [
+   "pompiers.",
+   "paramedics."
+  ],
+  "217": [
+   "Arcades sourcilières ouvertes, trois points",
+   "Split eyebrows, three"
+  ],
+  "218": [
+   "de suture,",
+   "stitches,"
+  ],
+  "219": [
+   "cloison nasale perforée.",
+   "perforated nasal septum."
+  ],
+  "220": [
+   "La personne qui m'a fait ça, je lui en",
+   "The person who did that, I still"
+  ],
+  "221": [
+   "veux encore aujourd'hui :",
+   "hold a grudge today:"
+  ],
+  "222": [
+   "Marie-Cécile, 8 ans.",
+   "Marie-Cécile, 8 years old."
+  ],
+  "223": [
+   "En rentrant à la maison, ma",
+   "Back home, my"
+  ],
+  "224": [
+   "mère m'a fait : « Hamed,",
+   "mum said: \"Hamed,"
+  ],
+  "225": [
+   "non, non et non !",
+   "no, no and no!"
+  ],
+  "226": [
+   "C'est la petite blanche qui t'a fait ça ?",
+   "The little white girl did this to you?"
+  ],
+  "227": [
+   "Mais regarde-toi,",
+   "Look at you,"
+  ],
+  "228": [
+   "elle t'a plié comme les pharaons !",
+   "she folded you like a pharaoh!"
+  ],
+  "233": [
+   "Là, franchement, t'exagères !",
+   "Honestly, you're overdoing it!"
+  ],
+  "235": [
+   "T'aurais pu au moins éviter",
+   "You could at least have dodged"
+  ],
+  "236": [
+   "les coups ! Marie-Cécile, elle est aveugle",
+   "the punches! Marie-Cécile is blind"
+  ],
+  "237": [
+   "! »",
+   "!\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "père",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "pompiers",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "pharaons",
+   "offset": -0.6,
+   "dur": 2.2,
+   "scale": 1.18
+  },
+  {
+   "type": "sfx",
+   "word": "aveugle",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}
