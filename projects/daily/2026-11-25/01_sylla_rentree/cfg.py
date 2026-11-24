@@ -1,0 +1,32 @@
+import json
+c={
+95:["Ce que je préférais le","What I liked most"],
+96:["plus à l'école, ce qui me motivait le plus","about school, what motivated me most"],
+97:["à y aller,","to go,"],
+98:["c'était la rentrée des classes.","was the first day back."],
+99:["Tu sais, ce fameux jour de la rentrée,","You know, that famous first day,"],
+100:["où t'as toutes les fournitures de","when you've got everything from"],
+101:["la liste, bien rangées dans ton","the list, neatly packed in your"],
+102:["cartable :","schoolbag:"],
+103:["le cahier,","the notebook,"],
+104:["l'agenda,","the planner,"],
+105:["la trousse, zip, zip,","the pencil case, zip, zip,"],
+106:["le compas aussi : tu","the compass too: you"],
+107:["piques, tu tournes...","stab, you spin..."],
+108:["En début d'année, le bout de l'équerre, il","At the start of the year, the set square's tip"],
+109:["est encore pointu !","is still sharp!"],
+110:["C'est aussi ce fameux jour de la rentrée","It's also that famous day"],
+111:["où le prof passe la journée à te dire deux","when the teacher spends all day saying two"],
+112:["phrases : « Oh ! C'est fini","sentences: \"Oh! The holidays"],
+113:["les vacances ! »","are over!\""],
+115:["« Ah bah tu commences bien l'année, toi ! »","\"Well, you're starting the year well!\""],
+116:["« On vous l'a dit, hein ?","\"We told you, right?"],
+117:["Vous deux, au fond de la classe, là ! »","You two, at the back of the class!\""],
+}
+cfg={"trans_lang":"en","context_note":"Ahmed Sylla: the first day back at school — new supplies and the teacher's two sentences.",
+"ranges":[[95,113],[115,117]],"end_pad":2.5,"hook":"Ahmed Sylla et le jour de la rentrée 😂🎒",
+"highlight_words":["rentrée","trousse","compas","vacances","classe"],
+"cues":{str(k):v for k,v in c.items()},
+"effects":[{"type":"zoom","word":"trousse","offset":-0.4,"dur":2.0,"scale":1.15},{"type":"sfx","word":"tournes","file":"boing","gain":-12},
+{"type":"zoom","word":"vacances","offset":-0.6,"dur":2.2,"scale":1.18},{"type":"sfx","word":"classe","file":"impact","gain":-11}]}
+json.dump(cfg,open("config.json","w"),ensure_ascii=False,indent=1)

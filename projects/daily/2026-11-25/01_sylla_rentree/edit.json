@@ -1,0 +1,85 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.3,
+      "x1": 0.7,
+      "y0": 0.1,
+      "y1": 0.9
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-25_sylla_rentree",
+  "comedian": "Ahmed Sylla",
+  "source": {
+    "file": "source.mp4",
+    "title": "Ahmed Sylla - spectacle",
+    "url": "https://www.youtube.com/watch?v=rrb7djpKjnA",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "rentrée",
+    "trousse",
+    "compas",
+    "vacances",
+    "classe"
+  ],
+  "context_note": "Ahmed Sylla: the first day back at school — new supplies and the teacher's two sentences.",
+  "segments": [
+    {
+      "in": 192.6,
+      "out": 222.34
+    },
+    {
+      "in": 222.98,
+      "out": 234.67
+    },
+    {
+      "in": 234.44,
+      "out": 243.92
+    }
+  ],
+  "zooms": [
+    {
+      "at": 15.31,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 35.4,
+      "dur": 2.2,
+      "scale": 1.18
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 21.1,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 5.92,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Ahmed Sylla et le jour de la rentrée 😂🎒",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}
