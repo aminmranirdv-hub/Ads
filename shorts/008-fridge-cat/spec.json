@@ -1,0 +1,21 @@
+{"out": "final/fridge-cat_short.mp4",
+ "segments": [{"src": "raw/clip.mp4", "start": 0.3, "end": 13.6, "volume": 0.3}],
+ "freeze": {"src": "raw/clip.mp4", "t": 12.0, "dur": 1.8},
+ "music": {"file": "raw/music.mp3", "gain": 0.28, "start": 8},
+ "overlays": [
+  {"style": "hook", "text": "WE CHECKED THE CAMERA AT 3AM", "start": 0, "end": 3.0},
+  {"style": "label", "text": "SUSPECT ENTERING THE FRIDGE", "start": 3.0, "end": 6.2},
+  {"style": "label", "text": "THE BIRTHDAY CAKE.", "start": 6.4, "end": 10.3},
+  {"style": "sub", "text": "Biscuit's midnight snack", "start": 6.6, "end": 10.3},
+  {"style": "sub", "text": "\"BISCUIT!\"", "start": 10.3, "end": 13.3},
+  {"style": "sticker", "file": "meme-pack/emoji/eyes.png", "width": 220, "y": 300, "start": 10.4, "end": 13.3},
+  {"style": "stamp", "text": "CAUGHT IN 4K", "sub": "Would you forgive him?", "start": 13.3, "end": 15.1}
+ ],
+ "sfx": [
+  {"file": "meme-pack/sfx/boom-hit.wav", "t": 0, "gain": 0.8},
+  {"file": "meme-pack/sfx/dramatic-sting.wav", "t": 3.0, "gain": 0.6},
+  {"file": "meme-pack/sfx/pop.wav", "t": 6.4, "gain": 0.6},
+  {"file": "meme-pack/sfx/record-scratch.wav", "t": 10.25, "gain": 0.7},
+  {"file": "meme-pack/sfx/camera-shutter.wav", "t": 13.3, "gain": 0.8},
+  {"file": "meme-pack/sfx/stamp-thud.wav", "t": 13.4, "gain": 1.0}
+ ]}
