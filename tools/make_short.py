@@ -89,6 +89,8 @@ def render(item):
         return caption(item["text"], 300, 84, fill="black", box=YEL)
     if st == "label":
         return caption(item["text"], 300, 70, box=RED)
+    if st == "rank":
+        return caption(item["text"], 330, 170, box=RED)
     if st == "mid":
         return caption(item["text"], 1050, 96, fill="black", box=YEL)
     if st == "cta":
@@ -118,12 +120,23 @@ def main(spec_path):
     V = "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1,fps=30,format=yuv420p"
     total = 0.0
     for i, seg in enumerate(spec["segments"]):
-        inputs += ["-i", str(base / seg["src"])]
-        fc.append(f"[{n}:v]trim={seg['start']}:{seg['end']},setpts=PTS-STARTPTS,{V}[v{i}]")
-        fc.append(f"[{n}:a]atrim={seg['start']}:{seg['end']},asetpts=PTS-STARTPTS,"
-                  f"aformat=sample_rates=48000:channel_layouts=stereo[a{i}]")
+        src = base / seg["src"]
+        inputs += ["-i", str(src)]
+        sp = float(seg.get("speed", 1.0))
+        dur = (seg["end"] - seg["start"]) / sp
+        fc.append(f"[{n}:v]trim={seg['start']}:{seg['end']},setpts=(PTS-STARTPTS)/{sp},{V}[v{i}]")
+        has_audio = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "a", "-show_entries",
+                                    "stream=index", "-of", "csv=p=0", str(src)],
+                                   capture_output=True, text=True).stdout.strip() != ""
+        vol = seg.get("volume", 1.0)
+        if has_audio and vol > 0:
+            tempo = f",atempo={sp}" if sp != 1.0 else ""
+            fc.append(f"[{n}:a]atrim={seg['start']}:{seg['end']},asetpts=PTS-STARTPTS{tempo},volume={vol},"
+                      f"aformat=sample_rates=48000:channel_layouts=stereo,apad,atrim=0:{dur:.3f}[a{i}]")
+        else:
+            fc.append(f"anullsrc=r=48000:cl=stereo,atrim=0:{dur:.3f}[a{i}]")
         vlabels.append(f"[v{i}]"); alabels.append(f"[a{i}]")
-        total += seg["end"] - seg["start"]
+        total += dur
         n += 1
     fr = spec.get("freeze")
     if fr:
@@ -155,6 +168,14 @@ def main(spec_path):
     fc.append(f"[{cur}]null[vout]")
 
     labels = ["[dialog]"]
+    mus = spec.get("music")  # {"file": "...", "gain": 0.35, "start": 0}
+    if mus:
+        inputs += ["-i", str((base / mus["file"]) if not mus["file"].startswith("/") else mus["file"])]
+        fc.append(f"[{n}:a]atrim={mus.get('start', 0)},asetpts=PTS-STARTPTS,"
+                  f"aformat=sample_rates=48000:channel_layouts=stereo,volume={mus.get('gain', 0.35)},"
+                  f"afade=t=out:st={max(0, total - 1.2):.2f}:d=1.2[mus]")
+        labels.append("[mus]")
+        n += 1
     for j, s in enumerate(spec.get("sfx", [])):
         inputs += ["-i", str(REPO / s["file"])]
         ms = int(s["t"] * 1000)

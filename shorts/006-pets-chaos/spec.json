@@ -1,0 +1,195 @@
+{
+ "out": "final/pets-zero-chill_short.mp4",
+ "segments": [
+  {
+   "src": "raw/stroller.mp4",
+   "start": 0,
+   "end": 4.5,
+   "volume": 0.4
+  },
+  {
+   "src": "raw/shower.mp4",
+   "start": 0,
+   "end": 4.0
+  },
+  {
+   "src": "raw/cat_hind.mp4",
+   "start": 0,
+   "end": 5.0
+  },
+  {
+   "src": "raw/cat_bait.mp4",
+   "start": 0.5,
+   "end": 6.5
+  },
+  {
+   "src": "raw/shelf_jump.mp4",
+   "start": 8.0,
+   "end": 27.0,
+   "speed": 2.5
+  },
+  {
+   "src": "raw/cock_dog.mp4",
+   "start": 0,
+   "end": 8.0,
+   "volume": 0.4
+  }
+ ],
+ "freeze": {
+  "src": "raw/cock_dog.mp4",
+  "t": 3.0,
+  "dur": 1.8
+ },
+ "music": {
+  "file": "raw/music.mp3",
+  "gain": 0.32
+ },
+ "overlays": [
+  {
+   "style": "hook",
+   "text": "PETS WITH ZERO CHILL",
+   "start": 0,
+   "end": 2.4
+  },
+  {
+   "style": "rank",
+   "text": "#6",
+   "start": 2.4,
+   "end": 4.5
+  },
+  {
+   "style": "sub",
+   "text": "Walking? In THIS economy?",
+   "start": 0.3,
+   "end": 4.5
+  },
+  {
+   "style": "rank",
+   "text": "#5",
+   "start": 4.5,
+   "end": 8.5
+  },
+  {
+   "style": "sub",
+   "text": "Spa day. Do not disturb.",
+   "start": 4.6,
+   "end": 8.5
+  },
+  {
+   "style": "rank",
+   "text": "#4",
+   "start": 8.5,
+   "end": 13.5
+  },
+  {
+   "style": "sub",
+   "text": "Me when dinner is 4 minutes late",
+   "start": 8.6,
+   "end": 13.5
+  },
+  {
+   "style": "rank",
+   "text": "#3",
+   "start": 13.5,
+   "end": 19.5
+  },
+  {
+   "style": "sub",
+   "text": "Fighting the invisible enemy at 3AM",
+   "start": 13.6,
+   "end": 19.5
+  },
+  {
+   "style": "rank",
+   "text": "#2",
+   "start": 19.5,
+   "end": 27.1
+  },
+  {
+   "style": "sub",
+   "text": "Calculating... calculating...",
+   "start": 19.6,
+   "end": 24.5
+  },
+  {
+   "style": "sticker",
+   "file": "meme-pack/stickers/nailed-it.png",
+   "width": 640,
+   "y": 820,
+   "start": 24.5,
+   "end": 27.1
+  },
+  {
+   "style": "rank",
+   "text": "#1",
+   "start": 27.1,
+   "end": 35.1
+  },
+  {
+   "style": "sub",
+   "text": "Uber for puppies",
+   "start": 27.2,
+   "end": 31.0
+  },
+  {
+   "style": "sub",
+   "text": "Driver rating: 5 stars",
+   "start": 31.0,
+   "end": 35.1
+  },
+  {
+   "style": "stamp",
+   "text": "LEGEND",
+   "sub": "Which one was your favorite? #1-#6",
+   "start": 35.1,
+   "end": 36.9
+  }
+ ],
+ "sfx": [
+  {
+   "file": "meme-pack/sfx/boom-hit.wav",
+   "t": 0,
+   "gain": 0.8
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 4.4,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 8.4,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 13.4,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 19.4,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/ding.wav",
+   "t": 24.5,
+   "gain": 0.6
+  },
+  {
+   "file": "meme-pack/sfx/dramatic-sting.wav",
+   "t": 26.9,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/record-scratch.wav",
+   "t": 35.05,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/stamp-thud.wav",
+   "t": 35.2,
+   "gain": 1.0
+  }
+ ]
+}
