@@ -1,0 +1,65 @@
+{
+ "out": "final/grandpas-bike_short.mp4",
+ "segments": [
+  {
+   "src": "raw/clip.mp4",
+   "start": 0,
+   "end": 15.0
+  }
+ ],
+ "overlays": [
+  {
+   "style": "hook",
+   "text": "RESTORING GRANDPA'S 60-YEAR-OLD BIKE",
+   "start": 0,
+   "end": 3.0
+  },
+  {
+   "style": "label",
+   "text": "DAY 1: RUST REMOVAL",
+   "start": 3.0,
+   "end": 8.0
+  },
+  {
+   "style": "label",
+   "text": "AFTER",
+   "start": 9.0,
+   "end": 11.0
+  },
+  {
+   "style": "hook",
+   "text": "THEN WE SHOWED GRANDPA",
+   "start": 11.0,
+   "end": 13.0
+  },
+  {
+   "style": "sub",
+   "text": "\"That's my bike... from 1965.\"",
+   "start": 10.8,
+   "end": 15.0
+  },
+  {
+   "style": "mid",
+   "text": "RATE IT 1-10",
+   "start": 13.2,
+   "end": 15.0
+  }
+ ],
+ "sfx": [
+  {
+   "file": "meme-pack/sfx/boom-hit.wav",
+   "t": 0,
+   "gain": 0.6
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 8.9,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/ding.wav",
+   "t": 9.1,
+   "gain": 0.5
+  }
+ ]
+}

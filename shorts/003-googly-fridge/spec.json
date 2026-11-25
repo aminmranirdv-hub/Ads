@@ -1,0 +1,18 @@
+{"out": "final/googly-fridge_short.mp4",
+ "segments": [{"src": "raw/clip.mp4", "start": 0.6, "end": 13.0}],
+ "freeze": {"src": "raw/clip.mp4", "t": 6.2, "dur": 1.8},
+ "overlays": [
+  {"style": "hook", "text": "I PRANKED MY ROOMMATE'S FRIDGE", "start": 0, "end": 3.2},
+  {"style": "label", "text": "WAIT FOR IT...", "start": 3.2, "end": 4.6},
+  {"style": "sticker", "file": "meme-pack/emoji/eyes.png", "width": 240, "y": 1180, "start": 4.6, "end": 7.6},
+  {"style": "label", "text": "HE CLOSED IT. AND OPENED IT AGAIN.", "start": 7.8, "end": 9.3},
+  {"style": "sub", "text": "\"Nope. Absolutely not.\"", "start": 9.36, "end": 12.4},
+  {"style": "stamp", "text": "NOPE.", "sub": "Would you eat anything from here?", "start": 12.4, "end": 14.2}
+ ],
+ "sfx": [
+  {"file": "meme-pack/sfx/boom-hit.wav", "t": 0, "gain": 0.8},
+  {"file": "meme-pack/sfx/dramatic-sting.wav", "t": 3.6, "gain": 0.8},
+  {"file": "meme-pack/sfx/pop.wav", "t": 4.6, "gain": 0.6},
+  {"file": "meme-pack/sfx/record-scratch.wav", "t": 12.35, "gain": 0.7},
+  {"file": "meme-pack/sfx/stamp-thud.wav", "t": 12.5, "gain": 1.0}
+ ]}

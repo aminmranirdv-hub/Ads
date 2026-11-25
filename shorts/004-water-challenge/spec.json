@@ -1,0 +1,19 @@
+{"out": "final/water-challenge_short.mp4",
+ "segments": [{"src": "raw/clip.mp4", "start": 0, "end": 15.0}],
+ "freeze": {"src": "raw/clip.mp4", "t": 10.6, "dur": 1.8},
+ "overlays": [
+  {"style": "hook", "text": "FIRST ONE TO LAUGH LOSES", "start": 0, "end": 3.0},
+  {"style": "label", "text": "ROUND 1", "start": 3.0, "end": 6.6},
+  {"style": "label", "text": "CHRIS IS OUT", "start": 7.0, "end": 9.4},
+  {"style": "label", "text": "THEN GRANDMA WALKED IN", "start": 9.4, "end": 12.6},
+  {"style": "sub", "text": "\"Who wants lemonade?\"", "start": 10.0, "end": 12.6},
+  {"style": "sticker", "file": "meme-pack/emoji/laughing.png", "width": 240, "y": 1180, "start": 13.0, "end": 15.0},
+  {"style": "stamp", "text": "GRANDMA WINS", "sub": "Could you keep a straight face?", "start": 15.0, "end": 16.8}
+ ],
+ "sfx": [
+  {"file": "meme-pack/sfx/boom-hit.wav", "t": 0, "gain": 0.8},
+  {"file": "meme-pack/sfx/error-buzzer.wav", "t": 7.0, "gain": 0.6},
+  {"file": "meme-pack/sfx/riser.wav", "t": 9.4, "gain": 0.5},
+  {"file": "meme-pack/sfx/record-scratch.wav", "t": 14.95, "gain": 0.7},
+  {"file": "meme-pack/sfx/stamp-thud.wav", "t": 15.1, "gain": 1.0}
+ ]}

@@ -67,8 +67,11 @@ def stamp(text, sub):
     img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     ld = ImageDraw.Draw(layer)
-    size = 150 if len(text) <= 8 else 110
+    size = 150
     f = ImageFont.truetype(BLACK, size)
+    while ld.textlength(text, font=f) > 760 and size > 60:   # keep the rotated stamp inside the frame
+        size -= 6
+        f = ImageFont.truetype(BLACK, size)
     tw = ld.textlength(text, font=f)
     cx, cy = W / 2, H * 0.45
     ld.rectangle([cx - tw / 2 - 40, cy - size * 0.73, cx + tw / 2 + 40, cy + size * 0.73],

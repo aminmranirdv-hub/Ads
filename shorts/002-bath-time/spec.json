@@ -1,0 +1,99 @@
+{
+ "out": "final/bath-time_short.mp4",
+ "segments": [
+  {
+   "src": "raw/clip.mp4",
+   "start": 0,
+   "end": 9.5
+  },
+  {
+   "src": "raw/clip.mp4",
+   "start": 11.0,
+   "end": 15.0
+  }
+ ],
+ "freeze": {
+  "src": "raw/clip.mp4",
+  "t": 14.6,
+  "dur": 1.8
+ },
+ "overlays": [
+  {
+   "style": "hook",
+   "text": "HE HEARD THE B-WORD",
+   "start": 0,
+   "end": 3.0
+  },
+  {
+   "style": "sub",
+   "text": "\"Duke... bath time!\"",
+   "start": 0.2,
+   "end": 2.8
+  },
+  {
+   "style": "label",
+   "text": "OSCAR-WORTHY PERFORMANCE",
+   "start": 3.4,
+   "end": 8.0
+  },
+  {
+   "style": "sticker",
+   "file": "meme-pack/emoji/skull.png",
+   "width": 220,
+   "y": 1150,
+   "start": 5.0,
+   "end": 8.0
+  },
+  {
+   "style": "label",
+   "text": "MEANWHILE...",
+   "start": 11.0,
+   "end": 13.5
+  },
+  {
+   "style": "sub",
+   "text": "\"Are you kidding me?\"",
+   "start": 12.3,
+   "end": 13.5
+  },
+  {
+   "style": "stamp",
+   "text": "TRAITOR",
+   "sub": "Team Duke or Team Noodle?",
+   "start": 13.5,
+   "end": 15.3
+  }
+ ],
+ "sfx": [
+  {
+   "file": "meme-pack/sfx/boom-hit.wav",
+   "t": 0,
+   "gain": 0.8
+  },
+  {
+   "file": "meme-pack/sfx/cartoon-boing.wav",
+   "t": 3.3,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/crickets.wav",
+   "t": 6.5,
+   "gain": 0.5
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 10.9,
+   "gain": 0.8
+  },
+  {
+   "file": "meme-pack/sfx/record-scratch.wav",
+   "t": 13.45,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/stamp-thud.wav",
+   "t": 13.6,
+   "gain": 1.0
+  }
+ ]
+}
