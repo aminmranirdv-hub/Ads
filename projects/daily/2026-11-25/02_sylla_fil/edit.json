@@ -1,0 +1,85 @@
+{
+ "language": "fr",
+ "rights": {
+  "status": "user_assumed",
+  "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+ },
+ "framing": {
+  "mode": "blur_fill",
+  "raise_px": 140,
+  "pre_crop": {
+   "x0": 0.2,
+   "x1": 0.8,
+   "y0": 0.0,
+   "y1": 0.95
+  }
+ },
+ "subtitles_timing": "source",
+ "id": "2026-11-25_sylla_fil",
+ "comedian": "Ahmed Sylla",
+ "source": {
+  "file": "source.mp4",
+  "title": "Ahmed Sylla - spectacle",
+  "url": "https://www.youtube.com/watch?v=rrb7djpKjnA",
+  "channel": "to verify"
+ },
+ "subtitles": "subs.fixed.srt",
+ "translation": {
+  "file": "subs.en.srt",
+  "language": "en"
+ },
+ "highlight_words": [
+  "père",
+  "fil",
+  "télé",
+  "aspirateur",
+  "bam"
+ ],
+ "context_note": "Ahmed Sylla: 'fil à retordre' wordplay — his dad and the cables.",
+ "segments": [
+  {
+   "in": 41.9,
+   "out": 75.51
+  },
+  {
+   "in": 76.63,
+   "out": 77.59
+  },
+  {
+   "in": 77.18,
+   "out": 83.48
+  }
+ ],
+ "zooms": [
+  {
+   "at": 14.49,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "at": 30.87,
+   "dur": 2.4,
+   "scale": 1.2
+  }
+ ],
+ "sfx": [
+  {
+   "file": "../../../../assets/sfx/impact.wav",
+   "at": 24.06,
+   "gain_db": -11
+  },
+  {
+   "file": "../../../../assets/sfx/boing.wav",
+   "at": 31.98,
+   "gain_db": -12
+  }
+ ],
+ "overlays": [],
+ "editorial_captions": [
+  {
+   "text": "Ahmed Sylla et le « fil à retordre » 😂🔌",
+   "start": 0.0,
+   "end": 3.2
+  }
+ ]
+}

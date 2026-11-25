@@ -73,3 +73,4 @@ Found with the free WebSearch (never vidiq_youtube_search). Import free with vid
 - Haroun Hpoc8xjJnBI foot au Maroc: mostly Darija, transcription unusable — skip
 - Fary HaGa4dQiLUQ JCC 2013: gay/polygamy/violence jokes — skip; try iFryEGEo4-o « Le legging »
 - Ahmed Sylla rrb7djpKjnA scanned 2026-11-24 (projects/daily/2026-11-24/scan_sylla/subs.srt): used taekwondo 7:00-8:28. Next: bulletin/papa 0:42-3:10, rentrée des classes 3:12-4:20 (clean), foot+mère 8:33-9:20 (check), fille/garçon 16:48+ (skip, 'handicap' joke).
+- 2026-11-25: Fary iFryEGEo4-o « Le legging » JCC 2014 (used 0:19-1:35 videur; rest body-shaming/Taubira — skip). Bougheraba anlo2hF_svY (used Kiki 3:08-3:59; rest crude/gay jokes). Le Magnific hEzZeGZawc4 Baoulé: Nouchi accent, Whisper unusable — needs human subs.

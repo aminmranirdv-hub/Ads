@@ -1,0 +1,97 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.0,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-25_bougheraba_violets",
+  "comedian": "Redouane Bougheraba",
+  "source": {
+    "file": "source.mp4",
+    "title": "MON PLUS JEUNE SPECTATEUR - REDOUANE BOUGHERABA",
+    "url": "https://www.youtube.com/watch?v=ulaB1ynI7P0",
+    "channel": "Redouane Bougheraba (official)"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "Kiki",
+    "rouge",
+    "permis",
+    "points",
+    "région"
+  ],
+  "context_note": "Redouane Bougheraba crowd work: Kiki, the bright-red driver — 'it's the region'.",
+  "segments": [
+    {
+      "in": 188.85,
+      "out": 197.6
+    },
+    {
+      "in": 197.65,
+      "out": 204.88
+    },
+    {
+      "in": 205.28,
+      "out": 206.73
+    },
+    {
+      "in": 208.47,
+      "out": 214.53
+    },
+    {
+      "in": 214.91,
+      "out": 223.32
+    },
+    {
+      "in": 223.73,
+      "out": 243.4
+    }
+  ],
+  "zooms": [
+    {
+      "at": 12.56,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 33.02,
+      "dur": 2.2,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 30.33,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 46.79,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Bougheraba et Kiki, le conducteur tout rouge 😂🚗",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+ "trans_lang": "en",
+ "context_note": "Ahmed Sylla: 'fil à retordre' wordplay — his dad and the cables.",
+ "ranges": [
+  [
+   17,
+   34
+  ],
+  [
+   36,
+   38
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Ahmed Sylla et le « fil à retordre » 😂🔌",
+ "highlight_words": [
+  "père",
+  "fil",
+  "télé",
+  "aspirateur",
+  "bam"
+ ],
+ "cues": {
+  "17": [
+   "Je suis très content d'être là avec",
+   "I'm really happy to be here with"
+  ],
+  "18": [
+   "vous ce soir, d'autant plus que",
+   "you tonight, especially since"
+  ],
+  "19": [
+   "ça n'a pas été facile pour moi d'arriver",
+   "it wasn't easy for me to get"
+  ],
+  "20": [
+   "jusqu'ici. Parce qu'entre-temps,",
+   "here. Because in the meantime,"
+  ],
+  "21": [
+   "j'ai failli mourir sous les coups de mon",
+   "I nearly died from my"
+  ],
+  "22": [
+   "père.",
+   "dad's beatings."
+  ],
+  "23": [
+   "Mais je le comprends, mon père,",
+   "But I understand my dad,"
+  ],
+  "24": [
+   "je le comprends, parce que toute ma",
+   "I get it, because all my"
+  ],
+  "25": [
+   "jeunesse, toute mon enfance, je lui ai",
+   "youth, my whole childhood, I gave him"
+  ],
+  "26": [
+   "donné beaucoup de fil à retordre.",
+   "a lot of trouble (\"thread to twist\")."
+  ],
+  "27": [
+   "Énormément de fil à retordre.",
+   "So much thread to twist."
+  ],
+  "28": [
+   "Beaucoup, beaucoup de fil à retordre.",
+   "Loads and loads of thread to twist."
+  ],
+  "29": [
+   "Le fil de la télé :",
+   "The TV cable:"
+  ],
+  "30": [
+   "bam !",
+   "bam!"
+  ],
+  "31": [
+   "Le fil du micro-ondes : bam !",
+   "The microwave cable: bam!"
+  ],
+  "32": [
+   "Le fil de l'aspirateur : bam !",
+   "The vacuum cable: bam!"
+  ],
+  "33": [
+   "Et il est long, le fil de l",
+   "And it's long, the vacuum"
+  ],
+  "34": [
+   "'aspirateur !",
+   "cable!"
+  ],
+  "36": [
+   "Quand il appuyait sur le bouton,",
+   "When he pressed the button,"
+  ],
+  "37": [
+   "c'est moi qui rentrais dans l",
+   "it was me getting sucked into the"
+  ],
+  "38": [
+   "'aspirateur.",
+   "vacuum."
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "retordre",
+   "nth": 1,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "bam",
+   "nth": 1,
+   "file": "impact",
+   "gain": -11
+  },
+  {
+   "type": "zoom",
+   "word": "'aspirateur",
+   "nth": 2,
+   "offset": -0.6,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "'aspirateur",
+   "nth": 2,
+   "file": "boing",
+   "gain": -12
+  }
+ ]
+}

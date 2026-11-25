@@ -1,0 +1,104 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.0,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-25_fary_legging",
+  "comedian": "Redouane Bougheraba",
+  "source": {
+    "file": "source.mp4",
+    "title": "MON PLUS JEUNE SPECTATEUR - REDOUANE BOUGHERABA",
+    "url": "https://www.youtube.com/watch?v=ulaB1ynI7P0",
+    "channel": "Redouane Bougheraba (official)"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "moche",
+    "recaler",
+    "videur",
+    "boîte"
+  ],
+  "context_note": "Fary (Jamel Comedy Club 2014): a 'former ugly guy' on getting turned away at nightclubs.",
+  "segments": [
+    {
+      "in": 19.23,
+      "out": 22.12
+    },
+    {
+      "in": 22.88,
+      "out": 24.47
+    },
+    {
+      "in": 25.33,
+      "out": 40.83
+    },
+    {
+      "in": 56.67,
+      "out": 62.1
+    },
+    {
+      "in": 62.3,
+      "out": 72.32
+    },
+    {
+      "in": 71.27,
+      "out": 80.48
+    },
+    {
+      "in": 80.72,
+      "out": 88.85
+    },
+    {
+      "in": 88.43,
+      "out": 97.85
+    }
+  ],
+  "zooms": [
+    {
+      "at": 1.23,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 47.7,
+      "dur": 2.2,
+      "scale": 1.15
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 14.3,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 58.13,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Fary et les videurs de boîte de nuit 😂🚪",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}

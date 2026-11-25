@@ -1,0 +1,158 @@
+{
+ "trans_lang": "en",
+ "context_note": "Redouane Bougheraba crowd work: Kiki, the bright-red driver — 'it's the region'.",
+ "ranges": [
+  [
+   94,
+   97
+  ],
+  [
+   100,
+   104
+  ],
+  [
+   107,
+   108
+  ],
+  [
+   110,
+   122
+  ]
+ ],
+ "end_pad": 2.5,
+ "hook": "Bougheraba et Kiki, le conducteur tout rouge 😂🚗",
+ "highlight_words": [
+  "Kiki",
+  "rouge",
+  "permis",
+  "points",
+  "région"
+ ],
+ "cues": {
+  "94": [
+   "T'es venu avec qui ?",
+   "Who'd you come with?"
+  ],
+  "95": [
+   "Avec Kylian. Kylian ?",
+   "With Kylian. Kylian?"
+  ],
+  "96": [
+   "C'est qui, Kylian ?",
+   "Who's Kylian?"
+  ],
+  "97": [
+   "Ah, c'est toi, Kylian ?",
+   "Oh, you're Kylian?"
+  ],
+  "100": [
+   "Kiki.",
+   "Kiki."
+  ],
+  "101": [
+   "Le fameux Kiki.",
+   "The famous Kiki."
+  ],
+  "102": [
+   "Il est rouge !",
+   "He's bright red!"
+  ],
+  "103": [
+   "Il s'est bourré la gueule avant de venir,",
+   "He got drunk before coming,"
+  ],
+  "104": [
+   "Kiki.",
+   "Kiki."
+  ],
+  "107": [
+   "Non, mais t'es tellement rouge, je te",
+   "No, but you're so red, I"
+  ],
+  "108": [
+   "jure, on dirait que t'es alcoolisé.",
+   "swear, you look drunk."
+  ],
+  "110": [
+   "« C'est la région qui veut ça. »",
+   "\"It's the region.\""
+  ],
+  "111": [
+   "Tu fais quoi dans la vie ?",
+   "What do you do?"
+  ],
+  "112": [
+   "Conducteur.",
+   "Driver."
+  ],
+  "113": [
+   "Conducteur ?!",
+   "A driver?!"
+  ],
+  "114": [
+   "T'as la même couleur que ton permis,",
+   "You're the same colour as your licence,"
+  ],
+  "115": [
+   "frère !",
+   "bro!"
+  ],
+  "116": [
+   "On t'a jamais sauté le permis ?",
+   "They've never taken your licence?"
+  ],
+  "117": [
+   "Il te reste combien de points ?",
+   "How many points left?"
+  ],
+  "118": [
+   "Dis-moi la vérité.",
+   "Tell me the truth."
+  ],
+  "119": [
+   "Huit. Ah ça va, t'as perdu...",
+   "Eight. OK, so you lost..."
+  ],
+  "120": [
+   "quatre. C'est doux, mais c'était dur, le",
+   "four. Gentle, but the maths"
+  ],
+  "121": [
+   "calcul",
+   "was hard."
+  ],
+  "122": [
+   "« C'est la région. »",
+   "\"It's the region.\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "rouge",
+   "nth": 1,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "Conducteur",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "permis",
+   "offset": -0.6,
+   "dur": 2.2,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "calcul",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}
