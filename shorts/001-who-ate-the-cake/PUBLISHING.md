@@ -35,7 +35,7 @@ On-screen text: **"HE THINKS WE CAN'T TELL"**, followed by the line "Buddy… di
 | 25–30s | Payoff | The pug burps, the owner loses it laughing, freeze-frame with a "GUILTY" stamp |
 
 ## Thumbnail concept
-Split frame: on the left, the golden retriever's frosting-covered nose with an innocent side-eye. On the right, the pug in the cake box with a party hat and its face buried in frosting. A big yellow label reads **"NOT HIM… 👉"**, with a red arrow pointing to the pug. Use high saturation and faces filling the frame.
+Top/bottom split: the golden retriever with a frosting-covered nose, labeled **"NOT HIM…"** (yellow), above the pug in the cake box wearing a party hat, labeled **"HIM."** (red). The finished file is `final/thumbnail.jpg`. It is vertical, so use it as the Shorts cover. YouTube currently lets you pick the Shorts thumbnail from a frame in the app.
 
 ## Sound design
 - Native ambient kitchen audio, the owner's voice and the animal sounds from the generated clips
