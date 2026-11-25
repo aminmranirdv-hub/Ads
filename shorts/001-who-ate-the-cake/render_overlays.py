@@ -77,6 +77,8 @@ for item in spec:
         style = item.get("style", "sub")
         if style == "hook":
             im = caption(item["text"], 300, size=84, fill="black", box=(255, 222, 0, 245))
+        elif style == "mid":
+            im = caption(item["text"], 1050, size=96, fill="black", box=(255, 222, 0, 245))
         elif style == "label":
             im = caption(item["text"], 300, size=70, fill="white", box=(230, 30, 40, 240))
         else:
