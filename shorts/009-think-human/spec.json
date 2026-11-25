@@ -1,0 +1,204 @@
+{
+ "out": "final/think-human_short.mp4",
+ "segments": [
+  {
+   "src": "raw/laptop_dog.mp4",
+   "start": 0,
+   "end": 4.5
+  },
+  {
+   "src": "raw/car_window.mp4",
+   "start": 0,
+   "end": 4.5
+  },
+  {
+   "src": "raw/sunglasses.mp4",
+   "start": 0,
+   "end": 3.5
+  },
+  {
+   "src": "raw/fashion_dog.mp4",
+   "start": 4,
+   "end": 7.0
+  },
+  {
+   "src": "raw/cafe_cat.mp4",
+   "start": 0,
+   "end": 7.9
+  },
+  {
+   "src": "raw/car_peek.mp4",
+   "start": 3,
+   "end": 7.0
+  },
+  {
+   "src": "raw/bed_pets.mp4",
+   "start": 2.5,
+   "end": 9.0
+  }
+ ],
+ "overlays": [
+  {
+   "style": "hook",
+   "text": "PETS WHO THINK THEY'RE HUMAN",
+   "start": 0,
+   "end": 2.15
+  },
+  {
+   "style": "label",
+   "text": "THE CEO",
+   "start": 2.2,
+   "end": 4.45
+  },
+  {
+   "style": "sub",
+   "text": "\"Can everyone see my screen?\"",
+   "start": 0.15,
+   "end": 4.45
+  },
+  {
+   "style": "label",
+   "text": "THE ROAD TRIP DAD",
+   "start": 4.5,
+   "end": 8.95
+  },
+  {
+   "style": "sub",
+   "text": "\"We're making great time.\"",
+   "start": 4.65,
+   "end": 8.95
+  },
+  {
+   "style": "label",
+   "text": "THE INFLUENCER",
+   "start": 9.0,
+   "end": 15.45
+  },
+  {
+   "style": "sub",
+   "text": "Outfit of the day",
+   "start": 9.15,
+   "end": 12.45
+  },
+  {
+   "style": "sticker",
+   "file": "meme-pack/emoji/sparkles.png",
+   "width": 200,
+   "y": 1150,
+   "start": 9.0,
+   "end": 12.45
+  },
+  {
+   "style": "sub",
+   "text": "Link in bio",
+   "start": 12.65,
+   "end": 15.45
+  },
+  {
+   "style": "label",
+   "text": "THE REGULAR",
+   "start": 15.5,
+   "end": 23.35
+  },
+  {
+   "style": "sub",
+   "text": "\"I'll have the usual.\"",
+   "start": 15.65,
+   "end": 21.05
+  },
+  {
+   "style": "sub",
+   "text": "*service too slow, leaving a 1-star review*",
+   "start": 21.1,
+   "end": 23.35
+  },
+  {
+   "style": "label",
+   "text": "THE TOURIST",
+   "start": 23.4,
+   "end": 27.35
+  },
+  {
+   "style": "sub",
+   "text": "\"Take a picture of me with the lighthouse.\"",
+   "start": 23.55,
+   "end": 27.35
+  },
+  {
+   "style": "label",
+   "text": "THE COUPLE",
+   "start": 27.4,
+   "end": 33.85
+  },
+  {
+   "style": "sub",
+   "text": "\"5 more minutes, babe.\"",
+   "start": 27.55,
+   "end": 33.85
+  },
+  {
+   "style": "stamp",
+   "text": "SO HUMAN",
+   "sub": "Which one is YOU? Comment below",
+   "start": 33.9,
+   "end": 35.7
+  }
+ ],
+ "sfx": [
+  {
+   "file": "meme-pack/sfx/boom-hit.wav",
+   "t": 0,
+   "gain": 0.8
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 4.4,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 8.9,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/camera-shutter.wav",
+   "t": 9.6,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 15.4,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 23.3,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/whoosh.wav",
+   "t": 27.3,
+   "gain": 0.7
+  },
+  {
+   "file": "meme-pack/sfx/record-scratch.wav",
+   "t": 33.85,
+   "gain": 0.6
+  },
+  {
+   "file": "meme-pack/sfx/stamp-thud.wav",
+   "t": 34.0,
+   "gain": 1.0
+  }
+ ],
+ "music": {
+  "file": "raw/music.mp3",
+  "gain": 0.3,
+  "start": 3
+ },
+ "freeze": {
+  "src": "raw/bed_pets.mp4",
+  "t": 8.0,
+  "dur": 1.8
+ }
+}
