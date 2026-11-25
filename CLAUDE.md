@@ -2,6 +2,16 @@
 
 Ces règles viennent des retours de l'utilisateur sur la première vidéo. Il faut les appliquer à chaque vidéo.
 
+## Ordre obligatoire des étapes (doublage / cloison placo), donné par l'utilisateur
+1. Mur nu
+2. Ferraillage partout avant toute plaque : rails haut et bas, montants (fourrures) verticaux, appuis ou équerres fixés au mur pour tenir les montants, comme sur un vrai chantier
+3. Laine de verre posée entre les montants
+4. Pose des plaques et vissage
+5. Bandes à joint, rebouchage des vis et des vides
+6. Ponçage des bandes
+7. Première couche (blanc)
+8. Deuxième couche (blanc), et c'est fini
+
 ## Exactitude du métier : vérifier chaque plan avant de le montrer
 - **Bandes à joint** : la bande en papier doit être visible et posée dans l'enduit, et il ne doit plus rester de joint vide ni de vis apparente à la fin de l'étape.
 - **Ponçage** : on ne ponce que là où il y a des bandes et de l'enduit secs (bandes blanches visibles sur la plaque). On ponce avec une ponceuse girafe ou une cale, jamais avec un pulvérisateur.
