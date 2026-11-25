@@ -1,3 +1,5 @@
+## ▶️ YOUTUBE SHORTS RESUMED (owner 2026-11-25): channel @the_punchlinelab (UCvfi0GvRsSgBxnRqsXtOr-g). Separate YouTube-only draft per short, title ending #shorts, public, categoryId 23. vidIQ free plan: max 3 YouTube uploads/day, reset 08:00Z → pick the 3 best shorts of the day.
+
 ## 📘 FACEBOOK TIPS (owner screenshot 2026-11-24, Creator dashboard) — OVERRIDES length/slots/caption rules:
 - **Length 45-60 s** (Facebook: +161 % views vs other lengths). Aim 45-60 s for every edit; >60 s only if the payoff needs it, never >75 s.
 - **Early slot**: posts at 04:00-08:00 get +42 %. Move the 11:00 slot to **07:00 Paris (06:00Z)** → slots 07:00, 13:00, 15:30, 18:00, 20:00, 21:30.
