@@ -1,0 +1,208 @@
+{
+ "trans_lang": "en",
+ "context_note": "Le Comte de Bouderbala: US graduation ceremonies vs France — the job centre.",
+ "ranges": [
+  [
+   5,
+   9
+  ],
+  [
+   16,
+   17
+  ],
+  [
+   22,
+   30
+  ],
+  [
+   33,
+   45
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Remise des diplômes : USA vs France 😂🎓",
+ "highlight_words": [
+  "diplôme",
+  "Pôle",
+  "job",
+  "payant",
+  "Roumanie"
+ ],
+ "cues": {
+  "5": [
+   "Les Américains ont des cérémonies",
+   "Americans have ceremonies"
+  ],
+  "6": [
+   "pour tout.",
+   "for everything."
+  ],
+  "7": [
+   "Cérémonie de remise des diplômes, par",
+   "Graduation ceremonies, for"
+  ],
+  "8": [
+   "exemple. On a tous vu ça dans les",
+   "example. We've all seen it in"
+  ],
+  "9": [
+   "séries américaines.",
+   "American TV shows."
+  ],
+  "10": [
+   "Cette cérémonie où le diplômé est",
+   "That ceremony where the graduate is"
+  ],
+  "11": [
+   "en costume, avec ses amis, sa famille, t",
+   "in a suit, with friends, family,"
+  ],
+  "12": [
+   "'as les professeurs de l'université, les",
+   "the university professors, the"
+  ],
+  "13": [
+   "administratifs, t'as même des recruteurs",
+   "staff, even recruiters"
+  ],
+  "14": [
+   "qui viennent proposer du boulot au diplômé",
+   "offering the graduate a job"
+  ],
+  "15": [
+   "directement sur place.",
+   "right there."
+  ],
+  "16": [
+   "Le diplômé prend son chapeau, il le",
+   "The graduate takes his cap,"
+  ],
+  "17": [
+   "jette en l'air : wouhou !",
+   "throws it in the air: woohoo!"
+  ],
+  "22": [
+   "En France, c'est légèrement différent.",
+   "In France, it's slightly different."
+  ],
+  "23": [
+   "En France, tu reçois une lettre de la fac",
+   "In France you get a letter from uni"
+  ],
+  "24": [
+   "avec ton nom, ton timbre, ton enveloppe et",
+   "with your name, your stamp, your envelope"
+  ],
+  "25": [
+   "même ton écriture sur l'enveloppe.",
+   "and even your handwriting on it."
+  ],
+  "26": [
+   "Tu vas chercher ton diplôme dans",
+   "You collect your diploma in"
+  ],
+  "27": [
+   "un bureau tout pourri,",
+   "a crappy little office,"
+  ],
+  "28": [
+   "une vieille secrétaire te le donne comme",
+   "an old secretary hands it over like"
+  ],
+  "29": [
+   "une merde. Dans l'élan, tu files",
+   "garbage. Then you head"
+  ],
+  "30": [
+   "directement au Pôle emploi le plus proche.",
+   "straight to the nearest job centre."
+  ],
+  "33": [
+   "Là, tu tombes sur un conseiller",
+   "There you meet an adviser"
+  ],
+  "34": [
+   "qui te regarde avec un mélange de",
+   "who looks at you with a mix of"
+  ],
+  "35": [
+   "pitié et de satisfaction, parce",
+   "pity and satisfaction, because"
+  ],
+  "36": [
+   "qu'il sait pertinemment qu'il a pas le",
+   "he knows full well he doesn't have"
+  ],
+  "37": [
+   "quart de ton niveau scolaire, mais il s'en",
+   "a quarter of your education, but he doesn't"
+  ],
+  "38": [
+   "fout, lui.",
+   "care."
+  ],
+  "39": [
+   "Il a un job.",
+   "He's got a job."
+  ],
+  "40": [
+   "Et il te propose un truc super :",
+   "And he offers you something great:"
+  ],
+  "41": [
+   "« J'ai un super truc pour vous : c'est",
+   "\"I've got a great one for you:"
+  ],
+  "42": [
+   "un stage d'insertion emploi jeune",
+   "a youth job-integration internship,"
+  ],
+  "43": [
+   "intérimaire à durée",
+   "temporary, of unlimited"
+  ],
+  "44": [
+   "illimitée, non rémunéré, mais payant.",
+   "duration, unpaid, but you pay."
+  ],
+  "45": [
+   "En Roumanie. »",
+   "In Romania.\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "sfx",
+   "word": "wouhou",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "différent",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "zoom",
+   "word": "job",
+   "offset": -0.6,
+   "dur": 2.0,
+   "scale": 1.18
+  },
+  {
+   "type": "zoom",
+   "word": "payant",
+   "offset": -0.6,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "Roumanie",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

@@ -627,5 +627,45 @@
   "platforms": [
    "YOUTUBE"
   ]
+ },
+ {
+  "date": "2026-11-26",
+  "project": "01_bouderbala_diplomes",
+  "postId": "e6586987-e730-4bc4-a94a-70075a80cdf9",
+  "publishAt": "2026-11-26T14:30:00Z",
+  "hook": "Bouderbala diplômes",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES"
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "project": "06_bougheraba_dents",
+  "postId": "6eebb2fb-72b0-4c50-a509-fce43f783de1",
+  "publishAt": "2026-11-26T19:00:00Z",
+  "hook": "Bougheraba dents",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES"
+  ]
+ },
+ {
+  "date": "2026-11-26-yt",
+  "postId": "aeddf006-302d-4aa7-b010-e1c973ee62bc",
+  "publishAt": "2026-11-26T14:30:00Z",
+  "hook": "YT Bouderbala",
+  "platforms": [
+   "YOUTUBE"
+  ]
+ },
+ {
+  "date": "2026-11-26-yt",
+  "postId": "7d419f60-a815-442a-a38b-821af90d3271",
+  "publishAt": "2026-11-26T19:00:00Z",
+  "hook": "YT Bougheraba dents",
+  "platforms": [
+   "YOUTUBE"
+  ]
  }
 ]

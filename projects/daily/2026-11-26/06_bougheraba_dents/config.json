@@ -1,0 +1,197 @@
+{
+ "trans_lang": "en",
+ "context_note": "Redouane Bougheraba crowd work: a man lost his teeth in a scooter accident; an insurance manager in the audience offers to help.",
+ "ranges": [
+  [
+   59,
+   67
+  ],
+  [
+   80,
+   82
+  ],
+  [
+   87,
+   88
+  ],
+  [
+   90,
+   92
+  ],
+  [
+   118,
+   122
+  ],
+  [
+   124,
+   127
+  ],
+  [
+   133,
+   136
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Il perd ses dents… un spectateur le sauve 😂🦷",
+ "highlight_words": [
+  "dents",
+  "trottinette",
+  "Carrefour",
+  "30",
+  "mutuelle"
+ ],
+ "cues": {
+  "59": [
+   "T'es parti au travail en trottinette ? Il y",
+   "You rode to work on a scooter? That"
+  ],
+  "60": [
+   "a pas longtemps ?",
+   "was recently?"
+  ],
+  "61": [
+   "« Début septembre. » T'as",
+   "\"Early September.\" You"
+  ],
+  "62": [
+   "eu un accident ou quoi ?",
+   "had an accident?"
+  ],
+  "63": [
+   "« Je me souviens plus. » T'es parti",
+   "\"I don't remember.\" You left"
+  ],
+  "64": [
+   "en trottinette, tu t'es",
+   "on a scooter, you"
+  ],
+  "65": [
+   "réveillé à l'hôpital sans les dents ?!",
+   "woke up in hospital with no teeth?!"
+  ],
+  "66": [
+   "« Je me suis retrouvé à Carrefour avec un verre",
+   "\"I ended up in a supermarket with a glass"
+  ],
+  "67": [
+   "d'eau. »",
+   "of water.\""
+  ],
+  "80": [
+   "Et tu veux pas les remettre ?",
+   "And you won't get them fixed?"
+  ],
+  "81": [
+   "« Dans 3 ans. »",
+   "\"In 3 years.\""
+  ],
+  "82": [
+   "Dans 3 ans tu remets les dents ?!",
+   "In 3 years you'll get teeth?!"
+  ],
+  "87": [
+   "Y avait pas une assurance ou un",
+   "Wasn't there insurance or"
+  ],
+  "88": [
+   "truc comme ça ?",
+   "something?"
+  ],
+  "90": [
+   "Et on t'a dit combien pour les dents ?",
+   "And how much for the teeth?"
+  ],
+  "91": [
+   "« Entre 15 et 30 000. »",
+   "\"Between 15 and 30,000.\""
+  ],
+  "92": [
+   "Combien ?! Entre 15 et 30 000 ?!",
+   "How much?! 15 to 30,000?!"
+  ],
+  "118": [
+   "Pardon, ça va ?",
+   "Excuse me, you OK?"
+  ],
+  "119": [
+   "Tu vas bien ?",
+   "You good?"
+  ],
+  "120": [
+   "Tu fais quoi dans la vie ?",
+   "What do you do?"
+  ],
+  "121": [
+   "« Je suis manager. » Manager ?",
+   "\"I'm a manager.\" Manager?"
+  ],
+  "122": [
+   "De quoi ? « D'une mutuelle. » Pour les dents ?!",
+   "Of what? \"Health insurance.\" For teeth?!"
+  ],
+  "124": [
+   "Tu peux faire un truc pour les dents ?",
+   "Can you do something for his teeth?"
+  ],
+  "125": [
+   "C'est pas trop tard ?",
+   "Is it too late?"
+  ],
+  "126": [
+   "« Non, c'est récent, septembre... »",
+   "\"No, it's recent, September...\""
+  ],
+  "127": [
+   "« ...je m'en occupe. »",
+   "\"...I'll handle it.\""
+  ],
+  "133": [
+   "Je veux revenir dans un an : t'as toutes",
+   "I want to come back in a year: you've got all"
+  ],
+  "134": [
+   "les dents !",
+   "your teeth!"
+  ],
+  "135": [
+   "Je veux te voir au premier rang comme",
+   "I want to see you in the front row like"
+  ],
+  "136": [
+   "ça !",
+   "this!"
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "dents",
+   "nth": 1,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "Carrefour",
+   "nth": 1,
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "30",
+   "nth": 2,
+   "offset": -0.6,
+   "dur": 2.2,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "30",
+   "nth": 2,
+   "file": "record_scratch",
+   "gain": -12
+  }
+ ]
+}

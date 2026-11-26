@@ -1,0 +1,113 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.0,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-26_bougheraba_dents",
+  "comedian": "Redouane Bougheraba",
+  "source": {
+    "file": "source.mp4",
+    "title": "IL VIENT SANS DENTS ET REPART AVEC UN SOURIRE - REDOUANE BOUGHERABA",
+    "url": "https://www.youtube.com/watch?v=h4KipAWz4JI",
+    "channel": "Redouane Bougheraba (official)"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "dents",
+    "trottinette",
+    "Carrefour",
+    "30",
+    "mutuelle"
+  ],
+  "context_note": "Redouane Bougheraba crowd work: a man lost his teeth in a scooter accident; an insurance manager in the audience offers to help.",
+  "segments": [
+    {
+      "in": 157.94,
+      "out": 161.49
+    },
+    {
+      "in": 162.05,
+      "out": 175.75
+    },
+    {
+      "in": 176.19,
+      "out": 182.38
+    },
+    {
+      "in": 216.22,
+      "out": 225.73
+    },
+    {
+      "in": 226.9,
+      "out": 231.95
+    },
+    {
+      "in": 230.18,
+      "out": 237.25
+    },
+    {
+      "in": 297.36,
+      "out": 309.83
+    },
+    {
+      "in": 315.63,
+      "out": 327.0
+    },
+    {
+      "in": 331.39,
+      "out": 336.64
+    },
+    {
+      "in": 336.86,
+      "out": 338.99
+    }
+  ],
+  "zooms": [
+    {
+      "at": 15.89,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 41.17,
+      "dur": 2.2,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 19.6,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 41.96,
+      "gain_db": -12
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Il perd ses dents… un spectateur le sauve 😂🦷",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Kev Adams + Marrakech du Rire with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.15,
+      "x1": 0.85,
+      "y0": 0.0,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-26_bouderbala_diplomes",
+  "comedian": "Le Comte de Bouderbala",
+  "source": {
+    "file": "source.mp4",
+    "title": "Le Comte de BOUDERBALA - Remise des diplômes",
+    "url": "https://www.youtube.com/watch?v=oRfGMyZbgVc",
+    "channel": "to verify"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "diplôme",
+    "Pôle",
+    "job",
+    "payant",
+    "Roumanie"
+  ],
+  "context_note": "Le Comte de Bouderbala: US graduation ceremonies vs France — the job centre.",
+  "segments": [
+    {
+      "in": 6.05,
+      "out": 17.33
+    },
+    {
+      "in": 28.99,
+      "out": 36.7
+    },
+    {
+      "in": 42.09,
+      "out": 51.36
+    },
+    {
+      "in": 54.65,
+      "out": 67.82
+    },
+    {
+      "in": 70.18,
+      "out": 77.17
+    },
+    {
+      "in": 79.99,
+      "out": 87.19
+    },
+    {
+      "in": 87.57,
+      "out": 99.95
+    },
+    {
+      "in": 100.56,
+      "out": 105.43
+    }
+  ],
+  "zooms": [
+    {
+      "at": 19.94,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 53.86,
+      "dur": 2.0,
+      "scale": 1.18
+    },
+    {
+      "at": 65.9,
+      "dur": 2.4,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 15.64,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 69.53,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Remise des diplômes : USA vs France 😂🎓",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}

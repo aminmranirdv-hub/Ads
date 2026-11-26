@@ -83,3 +83,4 @@ Note 2026-11-19: owner overrides the 3-5 hashtag rule — add the fixed set from
 | 2026-11-23 | 257 followers · reach 14 d: 118k non-followers / 136 followers (mostly pre-flag) · no new reels · still restricted |
 | 2026-11-24 | 259 followers (+2) · reach 14 d 118k non-followers / 137 followers (old reels) · no new reels · still restricted |
 | 2026-11-25 | 260 followers (+1) · reach unchanged (old reels) · still restricted |
+| 2026-11-26 | 259 followers (-1) · media 31 (owner deleted 1?) · following 84 · reach unchanged · still restricted |
