@@ -1,3 +1,11 @@
+## 💰 FACEBOOK MONETIZATION WAITLIST (owner screenshot 2026-11-26) — TOP PRIORITY
+Page is on the content-monetization waitlist. To pass: avg reel watch **34.6 s → 43.4 s+** and 28-day views **666.8K → 1.4M+**.
+Rules to get there:
+- Watch time: open on the funniest line (cold open = punchline quote), cut every pause/aside, keep 45-60 s so viewers stay to the end (full watches raise average). Never wide stage shots at 0-1 s.
+- Volume: 6 posts/day on Facebook EVERY day (≈180/month). Never ship fewer than 6: keep a buffer of 6 ready clips (build next day's batch the evening before).
+- Only proven themes: couple, parents/family, Africa/Maghreb vs France, money/work. Series for winners (Gasteuil, Bougheraba).
+- Honest risk: Meta can refuse payouts for « contenu non original »; our transformation (bilingual subs, hook, edits) must stay on every clip, and comedian permissions (Track B) protect monetization.
+
 ## ▶️ YOUTUBE SHORTS RESUMED (owner 2026-11-25): channel @the_punchlinelab (UCvfi0GvRsSgBxnRqsXtOr-g). Separate YouTube-only draft per short, title ending #shorts, public, categoryId 23. vidIQ free plan: max 3 YouTube uploads/day, reset 08:00Z → pick the 3 best shorts of the day.
 
 ## 📘 FACEBOOK TIPS (owner screenshot 2026-11-24, Creator dashboard) — OVERRIDES length/slots/caption rules:
