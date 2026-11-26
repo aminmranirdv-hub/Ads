@@ -1,0 +1,115 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Sarah Lélé + Namur is a Joke / Tipik with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.25,
+      "x1": 0.8,
+      "y0": 0.08,
+      "y1": 0.82
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-26_sarah_lele_coupe",
+  "comedian": "Sarah Lélé",
+  "source": {
+    "file": "source.mp4",
+    "title": "Sarah Lélé - Gala d'ouverture Namur is a Joke 2024",
+    "url": "https://www.youtube.com/watch?v=xlhQLTOMFaE",
+    "channel": "Tipik / Namur is a Joke"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "2018",
+    "Coupe",
+    "coloniale",
+    "post-coloniaux",
+    "Belge"
+  ],
+  "publishing": {
+    "hooks": [
+      "Quand ton père africain veut te marier à 21 ans 😭",
+      "« J'ai purgé ma peine »",
+      "Lesbienne ? Pire : congolaise"
+    ],
+    "youtube_title": "Sarah Lélé : son père veut la marier à 21 ans 😭 « J'ai purgé ma peine » #shorts",
+    "caption": "« Ça fait 21 ans que je vis avec toi, j'ai purgé ma peine ! » 😭 Sarah Lélé, son père et le mariage… et pourquoi elle n'est PAS congolaise.\n\n🎤 Sarah Lélé, Gala d'ouverture Namur is a Joke 2024\n🎬 Original : Tipik / Namur is a Joke (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ta pote dont les parents demandent « c'est pour quand ? » 👇\n\n#sarahlele #humour #standup #namurisajoke #humourbelge #belgique #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "sarah lélé",
+      "sarah lele",
+      "namur is a joke",
+      "humour belge",
+      "stand up",
+      "humour",
+      "parents africains",
+      "mariage",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Sarah Lélé (Namur is a Joke 2024), Belgian-Cameroonian comedian: the French and the 2018 World Cup.",
+  "segments": [
+    {
+      "in": 25.78,
+      "out": 32.71
+    },
+    {
+      "in": 34.66,
+      "out": 40.28
+    },
+    {
+      "in": 40.2,
+      "out": 61.74
+    },
+    {
+      "in": 62.56,
+      "out": 76.21
+    },
+    {
+      "in": 74.5,
+      "out": 84.67
+    }
+  ],
+  "zooms": [
+    {
+      "at": 24.18,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 43.08,
+      "dur": 2.2,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 44.19,
+      "gain_db": -11
+    },
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 52.98,
+      "gain_db": -12
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Sarah Lélé et la Coupe du monde 2018 😂⚽",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}
