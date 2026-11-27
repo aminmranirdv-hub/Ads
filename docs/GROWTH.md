@@ -1,3 +1,5 @@
+## #️⃣ OWNER 2026-11-27: EVERY caption ends with #pourtoi #creatorsearchinsights #reel (plus 3-4 specific tags). Every video carries the @the_punchlinelab watermark.
+
 ## 🎯 OWNER 2026-11-27 — AUDIENCE TARGET (overrides older notes): NO comedians from Africa and no Africa-themed bits (no Sarah Lélé Africa/CAN, Le Magnific, Gohou, Digbeu, Agalawal, Moussa Petit Sergent…). Goal = grow audience in FRANCE, CANADA (Québec), BELGIUM, SWITZERLAND (higher ad payouts). Favour French/Belgian/Swiss/Québec comedians and themes (Paris, Marseille, province, Belgium vs France, Swiss, Québécois): e.g. Gasteuil, Bougheraba, Bouderbala, Fary, Paul Mirabel, Thomas Wiesel, Marina Rollman, Alex Vizorek, Panayotis Pascot, Kev Adams, Jamel, Ahmed Sylla (French), Inès Reg, Malik Bentalha, Québec acts (Rachid Badouri, Mike Ward clean bits, Louis-José Houde). Caption/hashtags in French-from-France style; no #afrique #cameroun.
 
 ## 💰 FACEBOOK MONETIZATION WAITLIST (owner screenshot 2026-11-26) — TOP PRIORITY
