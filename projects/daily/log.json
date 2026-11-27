@@ -718,7 +718,7 @@
   ]
  },
  {
-  "date": "2026-11-27",
+  "date": "2026-11-27-cancelled",
   "project": "ig_top3",
   "postId": "63162090-2ba8-42f4-ac0a-9f469dfcf343",
   "publishAt": "2026-11-27T20:30:00Z",
@@ -726,6 +726,7 @@
   "platforms": [
    "TIKTOK",
    "FACEBOOK_PAGES"
-  ]
+  ],
+  "note": "owner: Top 3 useless, cancelled"
  }
 ]
