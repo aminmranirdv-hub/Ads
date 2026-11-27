@@ -1,0 +1,110 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Sarah Lélé + Namur is a Joke / Tipik with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.25,
+      "x1": 0.75,
+      "y0": 0.0,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-27_sarah_solidarite",
+  "comedian": "Sarah Lélé",
+  "source": {
+    "file": "source.mp4",
+    "title": "Sarah Lélé : la solidarité africaine • TARMAC COMEDY",
+    "url": "https://www.youtube.com/watch?v=sbHr5VPIbPk",
+    "channel": "Tarmac Comedy"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "solidarité",
+    "signe",
+    "bounty",
+    "connaît"
+  ],
+  "publishing": {
+    "hooks": [
+      "Quand ton père africain veut te marier à 21 ans 😭",
+      "« J'ai purgé ma peine »",
+      "Lesbienne ? Pire : congolaise"
+    ],
+    "youtube_title": "Sarah Lélé : son père veut la marier à 21 ans 😭 « J'ai purgé ma peine » #shorts",
+    "caption": "« Ça fait 21 ans que je vis avec toi, j'ai purgé ma peine ! » 😭 Sarah Lélé, son père et le mariage… et pourquoi elle n'est PAS congolaise.\n\n🎤 Sarah Lélé, Gala d'ouverture Namur is a Joke 2024\n🎬 Original : Tipik / Namur is a Joke (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ta pote dont les parents demandent « c'est pour quand ? » 👇\n\n#sarahlele #humour #standup #namurisajoke #humourbelge #belgique #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "sarah lélé",
+      "sarah lele",
+      "namur is a joke",
+      "humour belge",
+      "stand up",
+      "humour",
+      "parents africains",
+      "mariage",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Sarah Lélé (Tarmac Comedy): the unwritten 'African solidarity' nod in the street.",
+  "segments": [
+    {
+      "in": 204.61,
+      "out": 217.7
+    },
+    {
+      "in": 218.36,
+      "out": 228.2
+    },
+    {
+      "in": 238.83,
+      "out": 251.26
+    },
+    {
+      "in": 255.23,
+      "out": 268.58
+    }
+  ],
+  "zooms": [
+    {
+      "at": 11.37,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 36.59,
+      "dur": 2.4,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 29.23,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 43.8,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Le petit signe entre Africains dans la rue 😂👋🏾",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}

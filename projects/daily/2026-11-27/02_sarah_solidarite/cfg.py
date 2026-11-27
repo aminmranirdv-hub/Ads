@@ -1,0 +1,33 @@
+import json
+c={
+101:["Vous savez c'est quoi, la solidarité","You know what African"],
+102:["africaine ? La solidarité africaine, je","solidarity is? African solidarity, I'll"],
+103:["vais vous expliquer, parce qu'on est là","explain, because we're here"],
+104:["pour éduquer.","to educate."],
+105:["La solidarité africaine, c'est un concept","African solidarity is a simple"],
+106:["simple : quand on passe dans une rue","concept: when you walk down a street"],
+107:["et qu'il y a deux Africains, on doit se","and there are two Africans, you have to"],
+108:["faire un petit signe.","give each other a little nod."],
+109:["C'est un simple signe d'amitié qui veut","It's a simple sign of friendship that means"],
+110:["dire : on est là, on est ensemble, on est","we're here, we're together, we're"],
+111:["dans l'amitié, on vit les mêmes","friends, we live the same"],
+112:["difficultés...","struggles..."],
+122:["Mais des fois tu fais le signe et la","But sometimes you nod and the"],
+123:["personne en face, elle sait absolument pas","person has absolutely no idea"],
+124:["de quoi tu parles, elle est en mode :","what you mean, they're like:"],
+125:["« Bonjour madame, on se connaît ? »","\"Hello madam, do we know each other?\""],
+126:["« Bonjour, c'est quoi ça ? »","\"Hello, what's that?\""],
+131:["Soit la personne est un ou une bounty.","Either that person is a 'bounty'."],
+132:["Vous savez c'est quoi un bounty ?","Know what a bounty is?"],
+133:["Pour ceux qui savent pas : c'est des","For those who don't: it's"],
+134:["chocolats, et à","chocolates, and"],
+135:["l'intérieur, la noix de coco,","inside, the coconut,"],
+136:["elle est blanche.","is white."],
+}
+cfg={"trans_lang":"en","context_note":"Sarah Lélé (Tarmac Comedy): the unwritten 'African solidarity' nod in the street.",
+"ranges":[[101,112],[122,126],[131,136]],"end_pad":3.0,"hook":"Le petit signe entre Africains dans la rue 😂👋🏾",
+"highlight_words":["solidarité","signe","bounty","connaît"],
+"cues":{str(k):v for k,v in c.items()},
+"effects":[{"type":"zoom","word":"signe","nth":1,"offset":-0.4,"dur":2.0,"scale":1.15},{"type":"sfx","word":"connaît","file":"record_scratch","gain":-12},
+{"type":"zoom","word":"bounty","nth":1,"offset":-0.6,"dur":2.4,"scale":1.2},{"type":"sfx","word":"blancs","file":"impact","gain":-11}]}
+json.dump(cfg,open("config.json","w"),ensure_ascii=False,indent=1)

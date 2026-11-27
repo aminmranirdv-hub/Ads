@@ -679,5 +679,29 @@
    "FACEBOOK_PAGES",
    "YOUTUBE"
   ]
+ },
+ {
+  "date": "2026-11-27",
+  "project": "01_sarah_can",
+  "postId": "f69e18fc-38ce-4d78-a9c2-299ab1f72065",
+  "publishAt": "2026-11-27T12:00:00Z",
+  "hook": "Sarah Lélé Wakanda",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES",
+   "YOUTUBE"
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "project": "02_sarah_solidarite",
+  "postId": "651e960c-3021-4d39-bdef-e1940aa2ebd7",
+  "publishAt": "2026-11-27T17:00:00Z",
+  "hook": "Sarah Lélé solidarité",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES",
+   "YOUTUBE"
+  ]
  }
 ]

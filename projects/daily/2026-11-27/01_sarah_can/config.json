@@ -1,0 +1,144 @@
+{
+ "trans_lang": "en",
+ "context_note": "Sarah Lélé (Tarmac Comedy), Cameroonian-Belgian: the Africa Cup of Nations and 'Wakanda forever'.",
+ "ranges": [
+  [
+   1,
+   2
+  ],
+  [
+   4,
+   4
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   10,
+   15
+  ],
+  [
+   21,
+   29
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "« Wakanda forever » ? Sarah Lélé répond 😂🦁",
+ "highlight_words": [
+  "CAN",
+  "Cameroun",
+  "Wakanda",
+  "Mario"
+ ],
+ "cues": {
+  "1": [
+   "Est-ce que certains d'entre vous",
+   "Have some of you"
+  ],
+  "2": [
+   "ont entendu parler de la CAN ?",
+   "heard of the AFCON?"
+  ],
+  "4": [
+   "La Coupe d'Afrique des Nations ?",
+   "The Africa Cup of Nations?"
+  ],
+  "6": [
+   "Je vois deux, trois Blancs, ils savent pas",
+   "I see two, three white people, no idea"
+  ],
+  "7": [
+   "du tout de quoi on parle.",
+   "what we're talking about."
+  ],
+  "10": [
+   "Vous connaissez l'Euro ?",
+   "You know the Euros?"
+  ],
+  "11": [
+   "C'est la même chose, mais low cost.",
+   "Same thing, but low-cost."
+  ],
+  "12": [
+   "Juste les pays d'Afrique peuvent",
+   "Only African countries can"
+  ],
+  "13": [
+   "participer,",
+   "take part,"
+  ],
+  "14": [
+   "mais c'est quand même vous qui empochez l",
+   "but it's still you who pockets"
+  ],
+  "15": [
+   "'argent.",
+   "the money."
+  ],
+  "21": [
+   "J'ai un seul gars dans mon entourage",
+   "There's one guy I know"
+  ],
+  "22": [
+   "qui connaissait la CAN, il est venu, il",
+   "who knew the AFCON, he came,"
+  ],
+  "23": [
+   "m'a fait : « Sarah, la CAN, tu viens",
+   "he said: \"Sarah, AFCON, which"
+  ],
+  "24": [
+   "de quel pays ? »",
+   "country are you from?\""
+  ],
+  "25": [
+   "Je fais : « Le Cameroun. »",
+   "I go: \"Cameroon.\""
+  ],
+  "26": [
+   "Il fait : « Oh super, Wakanda forever ! »",
+   "He goes: \"Oh great, Wakanda forever!\""
+  ],
+  "27": [
+   "Il était italien. Je lui dis : « Vous avez",
+   "He was Italian. I said: \"Do you have"
+  ],
+  "28": [
+   "un coureur en Formule 1 ? »",
+   "a Formula 1 driver?\""
+  ],
+  "29": [
+   "Il a fait oui. J'ai fait : « Mario Kart ! »",
+   "He said yes. I said: \"Mario Kart!\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "low",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "Wakanda",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "Mario",
+   "offset": -0.6,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "Mario",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}
