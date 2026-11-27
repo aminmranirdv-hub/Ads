@@ -1,0 +1,24 @@
+{"out": "final/black-friday_short.mp4",
+ "segments": [{"src": "raw/clip.mp4", "start": 0, "end": 15.0, "volume": 0.9}],
+ "freeze": {"src": "raw/clip.mp4", "t": 12.5, "dur": 1.8},
+ "music": {"file": "raw/music.mp3", "gain": 0.2, "start": 20},
+ "overlays": [
+  {"style": "hook", "text": "I LET MY DOG DO THE BLACK FRIDAY SHOPPING", "start": 0, "end": 3.0},
+  {"style": "label", "text": "ITEM #1", "start": 3.0, "end": 4.6},
+  {"style": "label", "text": "ITEM #2", "start": 4.6, "end": 6.4},
+  {"style": "label", "text": "WAIT... HOW MANY?", "start": 6.5, "end": 10.9},
+  {"style": "sticker", "file": "meme-pack/emoji/flushed.png", "width": 220, "y": 1150, "start": 8.0, "end": 10.9},
+  {"style": "label", "text": "THE REAL SHOPPER", "start": 11.0, "end": 15.0},
+  {"style": "sub", "text": "\"Who ordered all of this?!\"", "start": 11.9, "end": 14.1},
+  {"style": "sub", "text": "*adds to cart*", "start": 14.15, "end": 15.0},
+  {"style": "stamp", "text": "SOLD OUT", "sub": "Who's paying this bill?", "start": 15.0, "end": 16.8}
+ ],
+ "sfx": [
+  {"file": "meme-pack/sfx/boom-hit.wav", "t": 0, "gain": 0.8},
+  {"file": "meme-pack/sfx/pop.wav", "t": 3.0, "gain": 0.5},
+  {"file": "meme-pack/sfx/pop.wav", "t": 4.6, "gain": 0.5},
+  {"file": "meme-pack/sfx/riser.wav", "t": 6.5, "gain": 0.4},
+  {"file": "meme-pack/sfx/whoosh.wav", "t": 10.9, "gain": 0.7},
+  {"file": "meme-pack/sfx/cash-register-ding.wav", "t": 14.2, "gain": 0.7},
+  {"file": "meme-pack/sfx/stamp-thud.wav", "t": 15.1, "gain": 1.0}
+ ]}
