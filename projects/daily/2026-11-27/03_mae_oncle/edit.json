@@ -1,0 +1,102 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Sarah Lélé + Namur is a Joke / Tipik with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.2,
+      "x1": 0.8,
+      "y0": 0.0,
+      "y1": 1.0
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-27_mae_oncle",
+  "comedian": "Maë",
+  "source": {
+    "file": "source.mp4",
+    "title": "DJADEL SHOW - EP1",
+    "url": "https://www.youtube.com/watch?v=ZYDv3uIiXcI&t=461s",
+    "channel": "Ilyes Djadel"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "respect",
+    "société",
+    "oncle",
+    "Noooon"
+  ],
+  "publishing": {
+    "hooks": [
+      "Quand ton père africain veut te marier à 21 ans 😭",
+      "« J'ai purgé ma peine »",
+      "Lesbienne ? Pire : congolaise"
+    ],
+    "youtube_title": "Sarah Lélé : son père veut la marier à 21 ans 😭 « J'ai purgé ma peine » #shorts",
+    "caption": "« Ça fait 21 ans que je vis avec toi, j'ai purgé ma peine ! » 😭 Sarah Lélé, son père et le mariage… et pourquoi elle n'est PAS congolaise.\n\n🎤 Sarah Lélé, Gala d'ouverture Namur is a Joke 2024\n🎬 Original : Tipik / Namur is a Joke (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ta pote dont les parents demandent « c'est pour quand ? » 👇\n\n#sarahlele #humour #standup #namurisajoke #humourbelge #belgique #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "sarah lélé",
+      "sarah lele",
+      "namur is a joke",
+      "humour belge",
+      "stand up",
+      "humour",
+      "parents africains",
+      "mariage",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Maë (Djadel Show EP1), comedian from the North of France: disrespect in Paris and in his family.",
+  "segments": [
+    {
+      "in": 1.41,
+      "out": 20.06
+    },
+    {
+      "in": 20.42,
+      "out": 47.62
+    }
+  ],
+  "zooms": [
+    {
+      "at": 17.19,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 35.27,
+      "dur": 2.4,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/record_scratch.wav",
+      "at": 17.9,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 43.82,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "« Tu veux finir comme ton oncle ? » 😂",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}

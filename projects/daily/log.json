@@ -703,5 +703,16 @@
    "FACEBOOK_PAGES",
    "YOUTUBE"
   ]
+ },
+ {
+  "date": "2026-11-27",
+  "project": "03_mae_oncle",
+  "postId": "857d1b80-bad4-47a7-a8bf-caef4c4d044f",
+  "publishAt": "2026-11-27T19:00:00Z",
+  "hook": "Maë oncle (Djadel Show)",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES"
+  ]
  }
 ]

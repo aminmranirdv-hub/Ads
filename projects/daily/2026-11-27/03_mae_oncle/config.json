@@ -1,0 +1,164 @@
+{
+ "trans_lang": "en",
+ "context_note": "Maë (Djadel Show EP1), comedian from the North of France: disrespect in Paris and in his family.",
+ "ranges": [
+  [
+   1,
+   29
+  ]
+ ],
+ "end_pad": 2.0,
+ "hook": "« Tu veux finir comme ton oncle ? » 😂",
+ "highlight_words": [
+  "respect",
+  "société",
+  "oncle",
+  "Noooon"
+ ],
+ "cues": {
+  "1": [
+   "Paris, c'est fou les amis, je vous jure : j",
+   "Paris is crazy, guys, I swear: I"
+  ],
+  "2": [
+   "'ai découvert un sport que je",
+   "discovered a sport I"
+  ],
+  "3": [
+   "connaissais pas : le manque de respect.",
+   "didn't know: disrespect."
+  ],
+  "4": [
+   "Ici c'est une discipline. J'ai joué mon",
+   "Here it's a discipline. I played my"
+  ],
+  "5": [
+   "spectacle la semaine dernière, un",
+   "show last week, a"
+  ],
+  "6": [
+   "mec du public m'interpelle, il me dit :",
+   "guy in the audience says to me:"
+  ],
+  "7": [
+   "« J'adore découvrir les nouveaux humoristes,",
+   "\"I love discovering new comedians,"
+  ],
+  "8": [
+   "parce que quelque part, l",
+   "because in a way"
+  ],
+  "9": [
+   "'humour, c'est un peu le reflet de la",
+   "comedy is a reflection of"
+  ],
+  "10": [
+   "société. »",
+   "society.\""
+  ],
+  "11": [
+   "Il revient me voir à la fin, il me dit :",
+   "He comes back at the end and says:"
+  ],
+  "12": [
+   "« Putain, on vit vraiment dans une société",
+   "\"Damn, we really live in a crappy"
+  ],
+  "13": [
+   "de merde. »",
+   "society.\""
+  ],
+  "14": [
+   "Après, le manque de respect, ça me",
+   "Anyway, disrespect, I know it"
+  ],
+  "15": [
+   "connaît. Dans ma famille, depuis que je",
+   "well. In my family, since I"
+  ],
+  "16": [
+   "fais de l'humour, je suis devenu un",
+   "started comedy, I've become an"
+  ],
+  "17": [
+   "exemple à ne pas suivre.",
+   "example not to follow."
+  ],
+  "18": [
+   "L'autre jour, je suis à table avec mon",
+   "The other day I'm at the table with my"
+  ],
+  "19": [
+   "grand frère, on discute tranquillement,",
+   "big brother, chatting,"
+  ],
+  "20": [
+   "son fils rentre de l'école.",
+   "his son comes home from school."
+  ],
+  "21": [
+   "Il a eu une mauvaise note, il lui fait",
+   "He got a bad grade, he lectures"
+  ],
+  "22": [
+   "la morale. Je suis à table avec eux,",
+   "him. I'm at the table with them,"
+  ],
+  "23": [
+   "j'ai rien à voir dans la discussion.",
+   "nothing to do with it."
+  ],
+  "24": [
+   "En plein milieu, il lui sort : « Eh,",
+   "Right in the middle he goes: \"Hey,"
+  ],
+  "25": [
+   "tu veux finir comme ton oncle ?",
+   "you want to end up like your uncle?"
+  ],
+  "26": [
+   "» C'est pas ça qui m'a fait mal au cœur, c",
+   "\" That's not what hurt me,"
+  ],
+  "27": [
+   "'est la réaction du petit.",
+   "it's the kid's reaction."
+  ],
+  "28": [
+   "Il fait : « Noooon !",
+   "He goes: \"Nooooo!"
+  ],
+  "29": [
+   "» Manque de respect total.",
+   "\" Total disrespect."
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "merde",
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "merde",
+   "file": "record_scratch",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "oncle",
+   "offset": -0.6,
+   "dur": 2.4,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "total",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}
