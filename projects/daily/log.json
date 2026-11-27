@@ -714,5 +714,16 @@
    "TIKTOK",
    "FACEBOOK_PAGES"
   ]
+ },
+ {
+  "date": "2026-11-27",
+  "project": "ig_top3",
+  "postId": "63162090-2ba8-42f4-ac0a-9f469dfcf343",
+  "publishAt": "2026-11-27T20:30:00Z",
+  "hook": "Top 3 punchlines semaine (voix owner, original)",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES"
+  ]
  }
 ]
