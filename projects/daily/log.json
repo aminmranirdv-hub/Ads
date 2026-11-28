@@ -750,5 +750,27 @@
    "TIKTOK",
    "FACEBOOK_PAGES"
   ]
+ },
+ {
+  "date": "2026-11-28",
+  "project": "02_gala_trottoir",
+  "postId": "a899a618-c6e7-488a-8741-74650c993eee",
+  "publishAt": "2026-11-28T17:00:00Z",
+  "hook": "Montreux gala trottoir",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES"
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "project": "03_wiesel_comptable",
+  "postId": "b5c27b6c-328d-4b46-9080-cfe93b631e0f",
+  "publishAt": "2026-11-28T19:00:00Z",
+  "hook": "Thomas Wiesel comptable",
+  "platforms": [
+   "TIKTOK",
+   "FACEBOOK_PAGES"
+  ]
  }
 ]

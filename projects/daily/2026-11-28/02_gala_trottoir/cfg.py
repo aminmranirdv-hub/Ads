@@ -1,0 +1,33 @@
+import json
+c={
+1:["On va parler de féminisme, les gens.","Let's talk about feminism, people."],
+2:["Le féminisme, c'est vachement bien, un truc","Feminism is great, something"],
+3:["positif qui se passe. Les mecs, vous êtes","positive happening. Guys, you're"],
+4:["super, on se dit des trucs hyper positifs.","great, we say really positive things."],
+5:["J'entends des mecs se dire entre eux : « Les","I hear guys telling each other: \"Guys,"],
+6:["gars, si vous faites peur à une fille sur","if you scare a girl on"],
+7:["un trottoir le soir, changez de trottoir. » OK,","a pavement at night, cross the street.\" OK,"],
+8:["c'est cool, très cool. Mais j'ai mis","cool, very cool. But it took me"],
+9:["du temps à comprendre que je faisais","a while to realise I was"],
+10:["partie des gars qui doivent changer de","one of the guys who should cross"],
+11:["trottoir aussi.","the street too."],
+12:["Je l'ai compris un soir : je suis","I got it one night: I'm"],
+13:["derrière une fille, elle accélère. Moi","behind a girl, she speeds up. I"],
+14:["je me dis : « Il y a un gars derrière","think: \"There's a guy behind"],
+15:["nous ! »","us!\""],
+16:["Alors j'ai accéléré !","So I sped up!"],
+17:["Elle a vécu le pire harcèlement de sa vie !","She lived the worst harassment of her life!"],
+18:["Je l'ai dépassée... « Mais qu'est-ce","I overtook her... \"What are"],
+19:["que tu fais ?! »","you doing?!\""],
+20:["Comme au foot avec le","Like in football with the"],
+21:["mauvais maillot : « Je suis avec toi !","wrong shirt: \"I'm on your side!"],
+22:["Il y a personne ! Calme-toi,","There's nobody! Calm down,"],
+23:["on est seuls, toi et moi ! »","it's just you and me!\""],
+}
+cfg={"trans_lang":"en","context_note":"Comedian at the Montreux Comedy gala: realising he's the guy girls fear on the pavement at night.",
+"ranges":[[1,23]],"end_pad":2.5,"hook":"Quand c'est TOI le mec qui fait peur dans la rue 😂",
+"highlight_words":["trottoir","accéléré","dépassée","seuls"],
+"cues":{str(k):v for k,v in c.items()},
+"effects":[{"type":"zoom","word":"trottoir","nth":2,"offset":-0.4,"dur":2.0,"scale":1.15},{"type":"sfx","word":"accéléré","file":"boing","gain":-12},
+{"type":"zoom","word":"harcèlement","offset":-0.6,"dur":2.2,"scale":1.2},{"type":"sfx","word":"seuls","file":"impact","gain":-11}]}
+json.dump(cfg,open("config.json","w"),ensure_ascii=False,indent=1)

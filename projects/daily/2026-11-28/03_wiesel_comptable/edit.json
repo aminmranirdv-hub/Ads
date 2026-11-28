@@ -1,0 +1,106 @@
+{
+ "language": "fr",
+ "rights": {
+  "status": "user_assumed",
+  "notes": "Channel owner publishes without licence; credit Sarah Lélé + Namur is a Joke / Tipik with link."
+ },
+ "framing": {
+  "mode": "blur_fill",
+  "raise_px": 140,
+  "pre_crop": {
+   "x0": 0.38,
+   "x1": 0.64,
+   "y0": 0.1,
+   "y1": 0.62
+  }
+ },
+ "subtitles_timing": "source",
+ "id": "2026-11-28_wiesel_comptable",
+ "comedian": "Thomas Wiesel",
+ "source": {
+  "file": "source.mp4",
+  "title": "Thomas Wiesel travaille - SPECTACLE COMPLET",
+  "url": "https://www.youtube.com/watch?v=lJGuQnXKs_A&t=346s",
+  "channel": "Thomas Wiesel"
+ },
+ "subtitles": "subs.fixed.srt",
+ "translation": {
+  "file": "subs.en.srt",
+  "language": "en"
+ },
+ "highlight_words": [
+  "comptable",
+  "humoriste",
+  "impôts",
+  "Coluche"
+ ],
+ "publishing": {
+  "hooks": [
+   "Quand ton père africain veut te marier à 21 ans 😭",
+   "« J'ai purgé ma peine »",
+   "Lesbienne ? Pire : congolaise"
+  ],
+  "youtube_title": "Sarah Lélé : son père veut la marier à 21 ans 😭 « J'ai purgé ma peine » #shorts",
+  "caption": "« Ça fait 21 ans que je vis avec toi, j'ai purgé ma peine ! » 😭 Sarah Lélé, son père et le mariage… et pourquoi elle n'est PAS congolaise.\n\n🎤 Sarah Lélé, Gala d'ouverture Namur is a Joke 2024\n🎬 Original : Tipik / Namur is a Joke (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ta pote dont les parents demandent « c'est pour quand ? » 👇\n\n#sarahlele #humour #standup #namurisajoke #humourbelge #belgique #drole #mdr #reels #pourtoi #fyp #comedy",
+  "youtube_tags": [
+   "sarah lélé",
+   "sarah lele",
+   "namur is a joke",
+   "humour belge",
+   "stand up",
+   "humour",
+   "parents africains",
+   "mariage",
+   "drôle",
+   "shorts",
+   "comedy"
+  ]
+ },
+ "context_note": "Thomas Wiesel (Swiss comedian), show 'Travaille': from accountant to comedian, and the man who didn't recognise him.",
+ "segments": [
+  {
+   "in": 3.47,
+   "out": 31.73
+  },
+  {
+   "in": 45.23,
+   "out": 64.3
+  },
+  {
+   "in": 62.51,
+   "out": 67.41
+  }
+ ],
+ "zooms": [
+  {
+   "at": 2.83,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "at": 6.73,
+   "dur": 2.2,
+   "scale": 1.2
+  }
+ ],
+ "sfx": [
+  {
+   "file": "../../../../assets/sfx/boing.wav",
+   "at": 14.56,
+   "gain_db": -12
+  },
+  {
+   "file": "../../../../assets/sfx/impact.wav",
+   "at": 43.64,
+   "gain_db": -11
+  }
+ ],
+ "overlays": [],
+ "editorial_captions": [
+  {
+   "text": "Thomas Wiesel : « Je dis que je suis comptable » 😂",
+   "start": 0.0,
+   "end": 3.2
+  }
+ ]
+}

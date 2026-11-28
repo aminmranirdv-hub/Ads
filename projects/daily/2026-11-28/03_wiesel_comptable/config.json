@@ -1,0 +1,162 @@
+{
+ "trans_lang": "en",
+ "context_note": "Thomas Wiesel (Swiss comedian), show 'Travaille': from accountant to comedian, and the man who didn't recognise him.",
+ "ranges": [
+  [
+   3,
+   19
+  ],
+  [
+   31,
+   38
+  ],
+  [
+   40,
+   40
+  ]
+ ],
+ "end_pad": 3.0,
+ "hook": "Thomas Wiesel : « Je dis que je suis comptable » 😂",
+ "highlight_words": [
+  "comptable",
+  "humoriste",
+  "impôts",
+  "Coluche"
+ ],
+ "cues": {
+  "3": [
+   "Moi j'ai vu la différence, parce",
+   "I saw the difference, because"
+  ],
+  "4": [
+   "qu'avant d'être humoriste, j'étais",
+   "before being a comedian, I was"
+  ],
+  "5": [
+   "comptable.",
+   "an accountant."
+  ],
+  "6": [
+   "Ah, c'était pas les mêmes réactions.",
+   "Not the same reactions at all."
+  ],
+  "7": [
+   "Quand je disais « comptable », il y avait peu",
+   "When I said \"accountant\", there were few"
+  ],
+  "8": [
+   "de questions subsidiaires.",
+   "follow-up questions."
+  ],
+  "9": [
+   "Les gens partaient à l'autre bout de",
+   "People went to the other end of"
+  ],
+  "10": [
+   "la pièce, ils revenaient une heure après",
+   "the room and came back an hour later"
+  ],
+  "11": [
+   "avec une question sur les impôts. C'était",
+   "with a tax question. It was"
+  ],
+  "12": [
+   "chiant.",
+   "annoying."
+  ],
+  "13": [
+   "Tandis que maintenant, quand je dis",
+   "Whereas now, when I say"
+  ],
+  "14": [
+   "« humoriste », les gens sont",
+   "\"comedian\", people are"
+  ],
+  "15": [
+   "intrigués, ils s'installent, ils posent",
+   "intrigued, they sit down, they ask"
+  ],
+  "16": [
+   "plein de questions, ça part en mode",
+   "loads of questions, it turns into an"
+  ],
+  "17": [
+   "interview... c'est chiant aussi.",
+   "interview... also annoying."
+  ],
+  "18": [
+   "Donc quand on me demande, je dis que je",
+   "So when people ask, I say I'm"
+  ],
+  "19": [
+   "suis comptable.",
+   "an accountant."
+  ],
+  "31": [
+   "Il y en a un qui m'avait",
+   "One guy really"
+  ],
+  "32": [
+   "tellement vexé, il m'avait dit : « J'adore l",
+   "hurt me, he said: \"I love"
+  ],
+  "33": [
+   "'humour, pourtant ta tête me dit rien.",
+   "comedy, but I don't recognise your face."
+  ],
+  "34": [
+   "Comment tu t'appelles ? »",
+   "What's your name?\""
+  ],
+  "35": [
+   "« Thomas Wiesel. »",
+   "\"Thomas Wiesel.\""
+  ],
+  "36": [
+   "« Pfff ! Jamais entendu ce nom de ma vie.",
+   "\"Pfff! Never heard that name."
+  ],
+  "37": [
+   "T'as pas un pseudo, à tout",
+   "Don't you have a stage name, by"
+  ],
+  "38": [
+   "hasard ? » « Si, Coluche, connard !",
+   "any chance?\" \"Yes, Coluche, you idiot!"
+  ],
+  "40": [
+   "Sans la salopette, on me reconnaît moins. »",
+   "Without the overalls I'm harder to recognise.\""
+  ]
+ },
+ "effects": [
+  {
+   "type": "zoom",
+   "word": "comptable",
+   "nth": 1,
+   "offset": -0.4,
+   "dur": 2.0,
+   "scale": 1.15
+  },
+  {
+   "type": "sfx",
+   "word": "impôts",
+   "file": "boing",
+   "gain": -12
+  },
+  {
+   "type": "zoom",
+   "word": "comptable",
+   "nth": 2,
+   "offset": -0.6,
+   "dur": 2.2,
+   "scale": 1.2
+  },
+  {
+   "type": "sfx",
+   "word": "Coluche",
+   "file": "impact",
+   "gain": -11
+  }
+ ]
+}

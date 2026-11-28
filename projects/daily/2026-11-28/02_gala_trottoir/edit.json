@@ -1,0 +1,110 @@
+{
+  "language": "fr",
+  "rights": {
+    "status": "user_assumed",
+    "notes": "Channel owner publishes without licence; credit Sarah Lélé + Namur is a Joke / Tipik with link."
+  },
+  "framing": {
+    "mode": "blur_fill",
+    "raise_px": 140,
+    "pre_crop": {
+      "x0": 0.3,
+      "x1": 0.7,
+      "y0": 0.0,
+      "y1": 0.95
+    }
+  },
+  "subtitles_timing": "source",
+  "id": "2026-11-28_gala_trottoir",
+  "comedian": "Montreux Comedy",
+  "source": {
+    "file": "source.mp4",
+    "title": "Gala Stand Up Marina Rollman & Thomas Wiesel",
+    "url": "https://www.youtube.com/watch?v=nnPRNX6DnYQ&t=584s",
+    "channel": "Montreux Comedy"
+  },
+  "subtitles": "subs.fixed.srt",
+  "translation": {
+    "file": "subs.en.srt",
+    "language": "en"
+  },
+  "highlight_words": [
+    "trottoir",
+    "accéléré",
+    "dépassée",
+    "seuls"
+  ],
+  "publishing": {
+    "hooks": [
+      "Quand ton père africain veut te marier à 21 ans 😭",
+      "« J'ai purgé ma peine »",
+      "Lesbienne ? Pire : congolaise"
+    ],
+    "youtube_title": "Sarah Lélé : son père veut la marier à 21 ans 😭 « J'ai purgé ma peine » #shorts",
+    "caption": "« Ça fait 21 ans que je vis avec toi, j'ai purgé ma peine ! » 😭 Sarah Lélé, son père et le mariage… et pourquoi elle n'est PAS congolaise.\n\n🎤 Sarah Lélé, Gala d'ouverture Namur is a Joke 2024\n🎬 Original : Tipik / Namur is a Joke (YouTube)\n🇬🇧 English subtitles: translation by @the_punchlinelab\n\nTague ta pote dont les parents demandent « c'est pour quand ? » 👇\n\n#sarahlele #humour #standup #namurisajoke #humourbelge #belgique #drole #mdr #reels #pourtoi #fyp #comedy",
+    "youtube_tags": [
+      "sarah lélé",
+      "sarah lele",
+      "namur is a joke",
+      "humour belge",
+      "stand up",
+      "humour",
+      "parents africains",
+      "mariage",
+      "drôle",
+      "shorts",
+      "comedy"
+    ]
+  },
+  "context_note": "Comedian at the Montreux Comedy gala: realising he's the guy girls fear on the pavement at night.",
+  "segments": [
+    {
+      "in": 1.85,
+      "out": 22.68
+    },
+    {
+      "in": 23.38,
+      "out": 26.58
+    },
+    {
+      "in": 26.98,
+      "out": 37.68
+    },
+    {
+      "in": 38.23,
+      "out": 46.34
+    }
+  ],
+  "zooms": [
+    {
+      "at": 10.13,
+      "dur": 2.0,
+      "scale": 1.15
+    },
+    {
+      "at": 25.09,
+      "dur": 2.2,
+      "scale": 1.2
+    }
+  ],
+  "sfx": [
+    {
+      "file": "../../../../assets/sfx/boing.wav",
+      "at": 23.28,
+      "gain_db": -12
+    },
+    {
+      "file": "../../../../assets/sfx/impact.wav",
+      "at": 38.96,
+      "gain_db": -11
+    }
+  ],
+  "overlays": [],
+  "editorial_captions": [
+    {
+      "text": "Quand c'est TOI le mec qui fait peur dans la rue 😂",
+      "start": 0.0,
+      "end": 3.2
+    }
+  ]
+}
