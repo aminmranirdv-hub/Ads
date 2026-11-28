@@ -783,5 +783,32 @@
    "TIKTOK",
    "FACEBOOK_PAGES"
   ]
+ },
+ {
+  "date": "2026-11-28-yt",
+  "project": "01_sofia",
+  "postId": "fd3f7430-479e-49b2-818b-f13a77f68453",
+  "publishAt": "2026-11-28T08:06:00Z",
+  "platforms": [
+   "YOUTUBE"
+  ]
+ },
+ {
+  "date": "2026-11-28-yt",
+  "project": "02_gala",
+  "postId": "86ca82f8-1297-4e94-8f2b-1f901fe395f8",
+  "publishAt": "2026-11-28T17:00:00Z",
+  "platforms": [
+   "YOUTUBE"
+  ]
+ },
+ {
+  "date": "2026-11-28-yt",
+  "project": "03_wiesel_comptable",
+  "postId": "09a17993-6a24-496a-9d2b-7201750881fc",
+  "publishAt": "2026-11-28T19:00:00Z",
+  "platforms": [
+   "YOUTUBE"
+  ]
  }
 ]
